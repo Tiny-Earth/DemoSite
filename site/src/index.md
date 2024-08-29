@@ -6,6 +6,8 @@ We represent many types of colleges, universities, disciplines, and student demo
 
 Importantly, we hope that you, as a STEM instructor, find yourself inspired by these pages to rethink your students’ scientific learning experiences and retool how you craft those experiences!
 
+Sharleen was here!
+
 ```@raw html
 <!--
 
