@@ -378,22 +378,22 @@ As we saw in Course Design, incorporating Universal Design principles into cours
 
 ### Reduce Stereotype Threat
 
-Stereotype threat is a psychological phenomenon that refers to the feeling of anxiety or self-doubt that individuals experience when they are in a situation where they are at risk of being judged or evaluated based on a negative stereotype about their group (Steele, Spencer, & Aronson, 2002).
+As we saw in the [Inclusive Learning module](###Understanding-Stereotype-Threat-in-STEM-Education), stereotype threat is a psychological phenomenon that refers to the feeling of anxiety or self-doubt that individuals experience when they are in a situation where they are at risk of being judged or evaluated based on a negative stereotype about their group (Steele, Spencer, & Aronson, 2002).
 
 This can lead to a decrease in performance and motivation, as individuals may feel like they are being held to a lower standard or that they are being judged based on their group membership rather than their individual abilities.
 
-For example, a study that asked about participants’ race immediately before an exam resulted in decreased performance for Black students whereas White students were unaffected (Steele & Aronson, 1995).
+Research has shown that activating stereotype threat can significantly affect performance in various contexts:
 
-Stereotype threat can manifest in various ways, including:
+- A study that asked about participants’ race immediately before an exam resulted in decreased performance for Black students whereas White students were unaffected (Steele & Aronson, 1995).
+- Black students performed worse than White students on a verbal section of the Graduate Record Exam (GRE) when it was described as diagnostic of intellectual ability. **When the test was not labeled as such, both groups performed equally well.**
+- Students from lower socioeconomic backgrounds underperformed on the same GRE section compared to students from more affluent backgrounds when  financial status was mentioned. **When affluence was not mentioned, both groups performed the same.**
+- Women performed worse than men on a math test when it was described as producing gender differences. **However, when the test was described as not producing gender differences, women and men performed equally well.**
 
-- Fear of confirming a negative stereotype: Individuals may feel like they are being watched or evaluated, and that if they don't perform well, they will be seen as confirming the negative stereotype.
-- Lack of confidence: Individuals may feel like they are not good enough or that they are not capable of performing well, due to the stereotype.
-- Overemphasis on confirmation: Individuals may feel like they need to prove themselves by doing well, which can lead to increased pressure and anxiety.
-- Reduced motivation: Individuals may feel like they are not motivated to perform well because they are already being judged based on their group membership.
+Students deserve the opportunity to engage with an assessment to the best of their ability without being impeded by stereotype threats, biases, or assumptions. To achieve this, it is therefore crucial that summative assessments are designed and conducted in a way that minimizes the activation of stereotype threat. We recommend instructors follow these practices:
 
-To mitigate stereotype threat, it’s essential to create inclusive and welcoming environments that value diversity. In the context of summative assessments, instructors should follow these practices:
-
-- Communicate with students about the assessment and its purpose, ensuring they understand what is being tested (their skills and knowledge) and why.
+- Frame assessments as opportunities to learn and demonstrate progress rather than as high-stakes evaluations. Do not frame exams or quizzes as definitive judgments of a student's intelligence or abilities.
+- Provide practice exams or low-stakes quizzes to help students become familiar with the testing format and reduce anxiety.
+- Teach stress-reduction techniques, such as deep breathing or mindfulness exercises, before exams.
 - Write inclusive test questions, and include diverse and inclusive examples and scenarios.
 - Ensure that test materials, such as images or scenarios, do not perpetuate negative stereotypes or biases.
 - Solicit demographic information after exams, not before (Kumar, 2010).
