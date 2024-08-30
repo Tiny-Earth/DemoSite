@@ -245,31 +245,61 @@ Set a tone for your class and reinforce it:
 
     *Answer in your workbook:* What is one concrete action you can commit to taking to mitigate the negative impacts of biases and assumptions in your course?
 
-### Mitigate stereotype threat
+### Understanding Stereotype Threat in STEM Education
 
 !!! compat ""    
     - Examine how your course might activate stereotype threat.
     - Predict how stereotypes influence student outcomes.
-    - Commit to one action you could take to mitigate the negative impacts of stereotype   threat in your course.
+    - Commit to one action you could take to mitigate the negative impacts of stereotype threat in your course.
     - Understand key concepts and principles:
         - Stereotype threat influences the classroom learning environment.
         - We all hold stereotypes.
         - Stereotypes are very difficult to change, but the first step is to be aware of them.
 
-Biases and assumptions can manifest as stereotypes. When those stereotypes are activated, it can result in a phenomenon called **stereotype threat**, in which people fear they may confirm negative stereotypes about their social group. This fear can negatively affect their performance and reinforce the stereotype – regardless of their actual capabilities – thereby creating a self-fulfilling prophecy. 
+Biases and assumptions can manifest as stereotypes, which can lead to a phenomenon known as **stereotype threat**. Stereotype threat occurs when individuals fear they may confirm negative stereotypes about their social group (Steele, Spencer, & Aronson, 2002). This fear can negatively impact their performance, regardless of their actual capabilities, reinforcing the stereotype and creating a self-fulfilling prophecy.
 
-Stereotype threat can result from negative stereotypes against any aspect of one’s identity, such as ethnicity, culture, first-generation status, veteran status, and sexual orientation. It can negatively affect academic performance and persistence in STEM.
+Stereotype threat can arise from negative stereotypes related to any aspect of one's identity, including ethnicity, culture, first-generation status, veteran status, and sexual orientation. In STEM education, this can hinder academic performance and persistence, particularly in underrepresented groups.
 
-**The simple act of mentioning a stereotype can activate threat and lead to negative outcomes** [Kumar2010-mp,Stricker2015-ce,Steele2002-pt,Steele1995-bz](@cite).
+**Simply mentioning a stereotype can activate this threat and lead to negative outcomes** [Kumar2010-mp,Stricker2015-ce,Steele2002-pt,Steele1995-bz](@cite).
 
-### Stereotype Threat Examples
+### Psychological Impacts of Stereotype Threat
 
-- When Black students were told that a verbal section of the Graduate Record Exam (GRE) was diagnostic of intellectual ability, they would perform worse than white students. **They performed equally well when the test was not labeled diagnostic of intellectual ability.**
-- Students of lower socioeconomic backgrounds underperformed on the same GRE section when compared to students from more affluent backgrounds when financial status was mentioned. **They performed the same when affluence was not mentioned.**
-- Women performed worse than men when a math test was described as producing gender differences. **When the test was described as not producing gender differences, women and men performed equally well.**
+Stereotype threat can manifest in various ways, including:
+
+- **Fear of confirming a negative stereotype:** Individuals may feel heightened anxiety and pressure to avoid confirming a negative stereotype, which can impair their performance.
+- **Lack of confidence:** The internalization of stereotypes can lead to self-doubt and a belief that they are not capable of performing well.
+- **Overcompensation:** In an effort to disprove the stereotype, individuals may place excessive pressure on themselves, leading to increased anxiety.
+- **Reduced motivation:** Feeling judged based on group membership rather than individual abilities can diminish motivation and engagement in the task.
+
+Understanding and mitigating stereotype threat is crucial for creating an inclusive and equitable learning environment in STEM, where all students can perform to the best of their abilities without the burden of stereotypes.
+
+### How Might a Science Course Invoke Stereotype Threat?
+
+Science courses might solicit stereotype threat in several ways, often through subtle cues or practices that unintentionally reinforce stereotypes.
+
+- **Creating a competitive classroom environment:** Using language that emphasizes competition or ranking can increase pressure and trigger stereotype threat.
+- **Underrepresenting certain groups in course materials:** If a course only features contributions from a narrow demographic (e.g., predominantly white male scientists), it can reinforce the idea that certain groups do not belong or excel in the field.
+- **Using language that reinforces stereotypes:** Phrases like "men tend to be better at spatial reasoning" or "women are often less interested in hard sciences" can directly invoke stereotype threat by reminding students of negative stereotypes.
+- **Setting different expectations based on stereotypes:** If an instructor unconsciously expects less from students based on their identity (e.g., not calling on women as often in math discussions), it can reinforce stereotypes and impact the confidence and performance of those students.
+- **Emphasizing differences rather than similarities:** Highlighting identity-related differences in classroom interactions can make students more aware of their identity in a way that triggers stereotype threat.
+- **Assigning or allowing homogenous groups:** If students are often grouped by gender, race, or other identity factors, those in underrepresented groups might feel isolated or under extra pressure to perform.
+- **Not addressing social dynamics within groups:** If certain students are consistently sidelined or not listened to in group work due to their identity, it can exacerbate feelings of inadequacy.
+- **Teaching content that aligns with gender stereotypes:** For example, focusing on biological differences between men and women in a way that suggests innate ability differences can unintentionally reinforce stereotypes. Using examples or scenarios that are gendered or culturally biased can make students from underrepresented groups feel like they don’t belong or aren’t expected to excel in the subject.
+- **Providing different types of feedback based on identity:** For example, giving less critical or less detailed feedback to students from underrepresented groups might unintentionally lower expectations and reinforce stereotypes.
+
+### Strategies to Reduce Stereotype Threat
+
+Here are some strategies you can implement to reduce stereotype threat in the classroom:
+
+- **Emphasize a growth mindset:** Promote the idea that abilities and intelligence can be developed through hard work and perseverance, rather than being fixed traits. This helps students see challenges as opportunities for growth, rather than as threats to their identity.
+- **Provide diverse role models:** Invite guest speakers or highlight stories of diverse individuals in STEM fields who share similar backgrounds with your students. This can help students see that success is achievable regardless of their identity.
+- **Encourage collaborative learning:** Promote group work and peer collaboration to create a sense of belonging and reduce the pressure on individual performance. Ensure groups are diverse and inclusive, so students can learn from and support each other.
+- **Affirm students’ values:** Incorporate value-affirmation exercises, where students reflect on and write about their personal values and why they are important. This can buffer against stereotype threat by reinforcing students' sense of self-worth.
+- **Offer constructive feedback:** Give feedback that is specific, actionable, and focused on improvement. Be encouraging and let students know you believe in their potential to succeed.
+- **Promote self-reflection:** Encourage students to reflect on their learning process and identify strategies that help them succeed. This can build their confidence and resilience.
 
 !!! tip ""
-    #### Commit to Action: Mitigage Stereotype Threat
+    #### Commit to Action: Mitigate Stereotype Threat
 
     *Answer in your workbook:* What is one concrete action you can commit to taking to mitigate the negative impacts of stereotype threat in your course?
 
