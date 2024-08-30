@@ -14,7 +14,6 @@ In this module, we hope you will...
 
 - Define summative assessment, including its purpose, characteristics, and when it is typically used in the learning process.
 - Describe how different summative assessment techniques gather different information about a student’s learning.
-- Explain how post-assessment processing can benefit your instructional practice.
 - Identify practices that enhance equity in the design of summative assessments.
 
 ---
@@ -52,8 +51,8 @@ Examples of summative assessments include:
     - Feedback: is provided to students and instructors, but the feedback is focused on assessing a student’s overall achievement
     - Focus: on the outcomes of learning and understanding of the materials
     - Focus: on the process of learning, encouraging students to reflect on their progress and take ownership of their learning
-    - Purpose: to evaluate students’ overall understanding and achievement on established learning objectives
     - Purpose: to provide ongoing feedback on student learning to students and teachers
+    - Purpose: to evaluate students’ overall understanding and achievement on established learning objectives
     - Stakes: often high
     - Stakes: often none or low
     - Timing: conducted at the end of a learning period
@@ -257,6 +256,10 @@ All summative assessments need to be evaluated in a way that’s standardized an
 To write a rubric, first establish clear and specific criteria that outline the expectations for student performance. What do students need to do to achieve a particular grade? Grading criteria may include elements such as content knowledge, organization, critical thinking, and creativity.
 
 Using your grading criteria, design a rubric. This typically consists of a grid or chart that outlines the specific criteria for success, along with descriptions of different levels of performance for each criterion (e.g., developing, proficient, and excellent). Rubrics help instructors assess student work systematically and consistently, providing feedback that is aligned with the established criteria.
+
+INSERT EXAMPLE OF A PROPER RUBRIC OR A LINK TO PROPER RUBRIC (TK)
+
+Figure A. EXAMPLE OF A PROPER RUBRIC
 
 To support student learning, we strongly advise instructors to share rubrics with students prior to the assessment. Rubrics provide transparency and clarity to students about what is expected of them and how their work will be evaluated. Additionally, rubrics allow students to monitor their progress and make improvements based on the established criteria.
 
