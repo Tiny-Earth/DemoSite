@@ -36,9 +36,11 @@ In this module, we hope you will...
 
 Learning experiences manifest curricular intentions and bring science to life. They feature all the activities—active learning plus assessment opportunities—that occur during a course, plus the inclusive learning considerations that support them: from assignments to assessments, experiments to exams, interactions to inquiries, questions to quizzes. They include activities during a prescribed classroom period (such as a lecture or lab/field) and outside the classroom (such as a pre-class reading/quiz in a learning management system or a post-class homework assignment).
 
+<!--
 In the previous modules, we discussed how to account for our identities and our students’ prior knowledge, leverage the learning sciences, create a scientific curriculum with summative assessments, and design a climate that fosters learning. This module is where the action happens and the science comes to life!
 
 We will build on the frameworks you saw previously (the 6 facets of science, the 5 dimensions of teaching, and the 5 steps in learning), by adding some new pedagogical tools: active learning strategies, formative assessment techniques, and inclusive learning approaches.
+ -->
 
 In short: Learning experiences manifest curricular intentions and bring science to life. **Learning experiences = active learning + assessment + inclusive learning**
 
@@ -279,7 +281,7 @@ As you review these strategies, think about how each technique actively engages 
 As a scientific instructor, choosing active learning techniques that help you gather information will help you evaluate where students are in their learning and how you may need to adjust your teaching. Additionally, strategies that gather information can serve as excellent no-grade or low-stakes assessments for students.
 
 - **Random call:** Randomly select students to participate in activities, answer questions, or share their thoughts. This can be done in various ways: create a roster that lists students’ names in a random order, pick names from a bucket, distribute tokens such as playing cards and randomly draw cards.
-- **One minute writes:** Prompt students to reflect, think critically, or brainstorm. Provide a question or prompt and give students one minute to write their response. These can be collected as “exit tickets.”
+- **One-minute writes:** Prompt students to reflect, think critically, or brainstorm. Provide a question or prompt and give students one-minute to write their response. These can be collected as “exit tickets.”
 - **Jigsaw:** Divide students into small groups and assign each group a topic or text. Each group member becomes an “expert” on a specific part of the topic. Students are then re-distributed into groups in which each expert shares their knowledge with other group members.
 - **Group problem solving:** Assign a problem or scenario, and have students work in pairs or small groups. Each group then shares their findings with the class. Be sure to vary how groups are called upon.
 - **Electronic audience response systems:** Ask students to respond to questions or polls using a “clicker” or their personal devices. Display the results in real-time, which allows students to see their peers’ answers, and facilitate discussion and reflection.
@@ -338,6 +340,17 @@ As a scientific instructor, choosing active learning techniques that help you ga
         What variety of answers would you expect?
 
         How/why is posing these questions student-centered?
+
+### Connecting Learning Experiences with Science Practice
+
+To encourage students to think and act like scientists, learning experiences should have alignment with the six facets of science. This can be achieved by incorporating elements of these facets into existing activities. Below are some strategies to enhance engagement with each facet of science:
+
+- Science Practices: Add prompts that encourage students to ask scientific questions. For example, include an exit ticket prompt such as, "Write down one question you have about osmosis."
+- Iteration: Provide additional opportunities for students to test their knowledge/ receive feedback. For example, use a clicker question in two rounds: students first answer individually, then discuss in pairs or small groups, and finally, vote again.
+- Discovery: Add prompts that have students explore new information or complete research tasks. For example, ask students to research a current event related to course concepts and present their findings in small groups.
+- Authenticity: Integrate additional opportunities for collaboration. For example, allow students to work together on assignments typically completed individually or implement two-stage testing in which students individually first complete and turn in their exam and then work in small groups to answer the exam questions again.
+- Ownership: Incorporate self-reflection prompts that ask students to connect the material to their own experiences. For example, have students complete a one-minute write on something they learned in the course unit that resonated with them personally.
+- Relevance: Add prompts that have students apply their learning to contemporary issues. For example, after learning about how vaccines work, engage students in a discussion about the ethics of mandatory vaccination.
 
 ---
 ## An AJEDI Lexicon for Course Structure
