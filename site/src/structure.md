@@ -20,7 +20,9 @@ In this module, we hope you will...
 !!! compat ""
     `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
 
-Course structure refers to the organizational system of a course, including schedule, format, communication modes and overall themes. A well-structured course communicates all of these components to students and ensures they have access to each component.
+Course structure refers to the organizational system of a course, including schedule, format, content, communication modes and overall themes. A well-structured course communicates all of these components to students and ensures they have access to each component.
+
+How the course is structured can contribute to making the course inclusive for diverse students. As we structure our courses and plan out the details of our course design, it is also important to consider how we communicate our course design with students in our syllabus and our course can be inclusive and accessible for all students.
 
 !!! note ""
     #### Welcome Emails
@@ -86,51 +88,84 @@ Course structure refers to the organizational system of a course, including sche
 ---
 ## A Framework for Course Structure
 
-!!! compat ""
-    - Considering the principles of Universal Design, determine how you will make your course accessible and inclusive.
+The structure of a course and organization of its content, activities, experiences, and assessments lie on a continuum from low to high. Low structure courses have few opportunities for engagement and assessment whereas high structure courses embed multiple opportunities for engagement and frequent assessments (Beck & Roosa, 2020). Low structure courses assume that students know how to efficiently work with course materials in and outside of class. However, data suggest that many students do not implement effective study strategies nor time management skills (Hartwig & Dunlosky, 2012). High structure courses scaffold student learning with increased engagement and practice and by decoding the learning process through clear and accessible learning goals and expectations (Beck & Roosa, 2020).
 
-By adopting the principles of Universal Design, an instructor can build an inclusive course from the outset.
+![](https://raw.githubusercontent.com/marzwick/images/main/cs38.png)
 
-**Universal Design for Learning (UDL)** is a *framework for designing and delivering flexible, inclusive, and accessible learning experiences that can be customized to meet the needs of all learners*, regardless of their abilities, backgrounds, or learning preferences (CAST, 2018). It is rooted in the principles of **Universal Design**, which is an approach to creating products, environments, and experiences that are **usable by as many people as possible without the need for adaptation or specialized design**. UDL is based on the idea that learning should be engaging, relevant, and responsive to individual needs. Importantly, **UDL aims to change the design of the environment rather than to change the learner.**
+!!! note "" 
 
-**Universal Design for Learning (UDL)** *places accessibility at the forefront and leverages various AJEDI principles* for improving teaching and learning for all students. To help implement UDL in the classroom, the Center for Applied Special Technology (CAST) developed the **UDL Guidelines** (CAST, 2018). These are *a set of principles and strategies that aim to provide equal and inclusive access to learning for all students*, including those with disabilities or diverse learning styles. The guidelines provide specific recommendations for creating flexible and engaging learning environments and materials that can be customized to meet the diverse needs and preferences of all students.
+    Examine the home pages for two courses, and identify which course is low structure and which one is high structure.
 
-The UDL Guidelines encompass **three key principles:** providing multiple means of (1) Engagement, (2) Representation, and (3) Action and Expression.
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs39.png)
 
-![](https://raw.githubusercontent.com/marzwick/images/main/cs10.jpeg)
+!!! note "" 
 
-### UDL Guidelines: Multiple Means of Representation  
+    **Comparing Course Designs**
 
-In this module, we will be focusing on the principle of providing **multiple means of Representation.** This principle outlines strategies for creating course materials that provide options for perception, language and symbols, and comprehension.
-- **Perception:** *Present information in a variety of formats*, such as visual, auditory, and tactile. Instructors can use this principle to ensure that textbooks, videos, lectures, and other course materials are accessible to all students, including those with disabilities or those who process information differently. By incorporating visual aids, videos, diagrams, and other interactive media, instructors provide multiple ways of representing important information and allow students to choose the means that work best for them.
-- **Language & Symbols:** *Use clear, concise, and accessible language and symbols and avoid language or symbols that may be exclusive, biased, or offensive.* This guideline aims to promote understanding and reduce barriers to learning by selecting language and symbols that are familiar and meaningful to all learners. This can be achieved by providing captioning, transcripts, and audio descriptions for multimedia content, incorporating pictures or symbols to represent concepts, and avoiding jargon or complex language whenever possible, and providing alternative means of representation for students with different cultural and linguistic backgrounds.
-- **Comprehension:** *Incorporate a variety of instructional techniques to ensure that students can access, process, and assimilate new information and knowledge.* Instructors need to provide supports and scaffold curriculum to help students comprehend the material. This can include activating or providing prior knowledge; providing explicit cues or prompts to emphasize key elements, concepts, and features; embedding scaffolds and feedback to organize and process information; and incorporating opportunities for students to apply their knowledge to new contexts.
+    Examine the two course preparations below that describe one week of a course.
 
-For more information on the other two principles, visit the [CAST UDL website](https://udlguidelines.cast.org/).
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs40.png)
 
----
-## Course Structure in Practice
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs41.png)
 
-!!! compat ""
-    - Communicating course structure to students
-    - Structuring for Accessibility
-    - Creating a High Structure Course
+    Which course looks more like yours and why?
 
-### Preparing for the first day of class
+    If you haven't taught a course yet, which course preparation resonates with your experiences as a student?
+  
 
-Instructors might consider collaborating with various colleagues or resources as they design their course to meet UDL guidelines. For example, instructors could consult with:
+### The Impact of High Structure Courses
 
-- Staff at the university's center for teaching and learning
-- Staff at the university's disability services office Diversity, Equity, and Inclusion (DEI) specialists
-- Teaching assistants
-- Technology specialists
+Increasing a course's structure has many implications for student learning and their educational experience.
 
-!!! note ""
-    #### Evaluate the way this instructor uses UDL principles on their first day of class
-    
-    Review the following slides from an introductory biology class for nonmajors (asynchronous and online). What elements from the UDL Guidelines are present? Additionally, how could the slides be improved?
+- **Student failure rates** were lower in a moderately structured course design and were **dramatically lower in a highly structured course design** (Freeman et al., 2011)
+- A "moderate-structure" intervention **increased course performance for all student populations**, but worked **disproportionately well for black students and first-generation students**. Students also consistently reported completing the assigned readings more frequently, spending more time studying for class, and feeling an increased sense of community (Eddy & Hogan, 2014)
+- Implementing a hybrid course format with high structure improved exam performance for **traditionally underrepresented students** (Gavassa et al., 2019)
+- A highly structured course design improved the performance of all students in a college-level introductory biology class and **reduced the achievement gap between disadvantaged and nondisadvantaged students** (Haak et al., 2011)
 
-    `TODO: add slides`
+### Show Me the Data!
+
+Freeman and colleagues measured failure rates in a major's introductory biology course, while varying the structure of the course. One instructor taught the course in $6$ iterations using a low structure, moderate structure, or high structure course design (2011). The researchers found that the difference between the proportion of students predicted to fail and the actual proportion failing decreased with increasing structure. ($n = 2267$, $*p = 0.06$, $**p = 0.0004$).
+
+![](https://raw.githubusercontent.com/marzwick/images/main/cs43.png)
+
+!!! note "" 
+    #### Evaluate the Data Yourself
+
+    Eddy and Hogan (2014) used a similar study structure, comparing exam performance in traditional vs. increased structure sections of the same course. The figure below shows point estimates for exam performance (% correct) based on a regression model that included (A) race and ethnicity and (B) first-generation status.
+
+    What conclusions can you draw from these data? (Check all that apply.)
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs44.png)
+
+    - Exam performance will likely not be affected by course structure.
+    - All students are expected to perform worse on exams in high structure courses.
+    - All students are expected to perform better on exams in high structure courses.
+    - Students from communities historically excluded from STEM aren't expected to show much improvement.
+    - Students from communities historically excluded from STEM are expected to show greater improvements.
+
+Remember, a high structure course has multiple opportunities for engagement and practice and makes clear the learning goals and expectations (Beck & Roosa, 2020). Eddy and Hogan provide a table that shows how adding in more graded preparatory assignments, student in-class engagement, and graded review assignments increases course design (2014).
+
+![](https://raw.githubusercontent.com/marzwick/images/main/cs45.png)
+
+Preparatory assignments are tasks or activities given to students prior to a class or lesson to help them prepare for upcoming content. Examples: reading assigned texts, watching videos, researching a topic, completing practice exercises.
+
+Graded review assignments are tasks or assessments that evaluate students' understanding, comprehension, and recall of previously covered material. Examples: case studies, writing assignments, discussion posts, quizzes, projects.
+
+!!! note ""   
+    #### Increasing the Course Structure
+
+    Professor Ali wants to transform her lecture-based chemistry course into a higher structure course, but is feeling overwhelmed. What are some possible small changes Professor Ali can make to her Week 1 course map to modify it from a low structure to a moderate structure? (Select all that apply.)
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs46.png)
+
+    - Add a homework assignment that covers concepts from class such as entropy.
+    - Add a brief pre-class quiz on principles of energy conservation.
+    - Have students complete example problems in class and use small group discussions.
+    - Add in a few clicker questions that elicit students' prior knowledge on the week's concepts.
+
+!!! tip ""
+
+    *Answer in your workbook:* What is one concrete action you can commit to taking to convert your course into a higher structure format?
 
 ### Learner-Centered Syllabi
 
@@ -192,6 +227,34 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
     Add these items to the workbook.
 -->
 ```
+
+---
+## Course Structure in Practice
+
+!!! compat ""
+    - Considering the principles of Universal Design, determine how you will make your course accessible and inclusive.
+
+By adopting the principles of Universal Design, an instructor can build an inclusive course from the outset.
+
+**Universal Design for Learning (UDL)** is a *framework for designing and delivering flexible, inclusive, and accessible learning experiences that can be customized to meet the needs of all learners*, regardless of their abilities, backgrounds, or learning preferences (CAST, 2018). It is rooted in the principles of **Universal Design**, which is an approach to creating products, environments, and experiences that are **usable by as many people as possible without the need for adaptation or specialized design**. UDL is based on the idea that learning should be engaging, relevant, and responsive to individual needs. Importantly, **UDL aims to change the design of the environment rather than to change the learner.**
+
+**Universal Design for Learning (UDL)** *places accessibility at the forefront and leverages various AJEDI principles* for improving teaching and learning for all students. To help implement UDL in the classroom, the Center for Applied Special Technology (CAST) developed the **UDL Guidelines** (CAST, 2018). These are *a set of principles and strategies that aim to provide equal and inclusive access to learning for all students*, including those with disabilities or diverse learning styles. The guidelines provide specific recommendations for creating flexible and engaging learning environments and materials that can be customized to meet the diverse needs and preferences of all students.
+
+The UDL Guidelines encompass **three key principles:** providing multiple means of (1) Engagement, (2) Representation, and (3) Action and Expression.
+
+![](https://raw.githubusercontent.com/marzwick/images/main/cs10.jpeg)
+
+### UDL Guidelines: Multiple Means of Representation  
+
+In this module, we will be focusing on the principle of providing **multiple means of Representation.** This principle outlines strategies for creating course materials that provide options for perception, language and symbols, and comprehension.
+- **Perception:** *Present information in a variety of formats*, such as visual, auditory, and tactile. Instructors can use this principle to ensure that textbooks, videos, lectures, and other course materials are accessible to all students, including those with disabilities or those who process information differently. By incorporating visual aids, videos, diagrams, and other interactive media, instructors provide multiple ways of representing important information and allow students to choose the means that work best for them.
+- **Language & Symbols:** *Use clear, concise, and accessible language and symbols and avoid language or symbols that may be exclusive, biased, or offensive.* This guideline aims to promote understanding and reduce barriers to learning by selecting language and symbols that are familiar and meaningful to all learners. This can be achieved by providing captioning, transcripts, and audio descriptions for multimedia content, incorporating pictures or symbols to represent concepts, and avoiding jargon or complex language whenever possible, and providing alternative means of representation for students with different cultural and linguistic backgrounds.
+- **Comprehension:** *Incorporate a variety of instructional techniques to ensure that students can access, process, and assimilate new information and knowledge.* Instructors need to provide supports and scaffold curriculum to help students comprehend the material. This can include activating or providing prior knowledge; providing explicit cues or prompts to emphasize key elements, concepts, and features; embedding scaffolds and feedback to organize and process information; and incorporating opportunities for students to apply their knowledge to new contexts.
+
+For more information on the other two principles, visit the [CAST UDL website](https://udlguidelines.cast.org/).
+
+
+
 
 ### Structuring for Accessibility
 
@@ -279,88 +342,25 @@ The researchers found statistically **significant differences on the final asses
 !!! tip ""
     #### Commit to Action: UDL
 
-    *Answer in your workbook:* What is one concrete component of universal design that you can commit to implementing that emphasizes accessibility in your course?
+    *Answer in your workbook:* Describe one specific aspect of universal design that you can commit to implementing in your course to enhance accessibility.
 
-### The High Structure Course Format
 
-Course structure refers to the organization of a course's content, activities, experiences, and assessments. The structure of a course lies on a continuum from low to high. Low structure courses have few opportunities for engagement and assessment whereas high structure courses embed multiple opportunities for engagement and frequent assessments (Beck & Roosa, 2020). Low structure courses assume that students know how to efficiently work with course materials in and outside of class. However, data suggest that many students do not implement effective study strategies nor time management skills (Hartwig & Dunlosky, 2012). High structure courses scaffold student learning with increased engagement and practice and by decoding the learning process through clear and accessible learning goals and expectations (Beck & Roosa, 2020).
+### Preparing for the first day of class
 
-![](https://raw.githubusercontent.com/marzwick/images/main/cs38.png)
+Instructors might consider collaborating with various colleagues or resources as they design their course to meet accessibility and UDL guidelines. For example, instructors could consult with:
 
-!!! note "" 
+- Staff at the university's center for teaching and learning
+- Staff at the university's disability services office Diversity, Equity, and Inclusion (DEI) specialists
+- Teaching assistants
+- Technology specialists
 
-    Examine the home pages for two courses, and identify which course is low structure and which one is high structure.
+!!! note ""
+    #### Evaluate the way this instructor uses UDL principles on their first day of class
+    
+    Review the following slides from an introductory biology class for nonmajors (asynchronous and online). What elements from the UDL Guidelines are present? Additionally, how could the slides be improved?
 
-    ![](https://raw.githubusercontent.com/marzwick/images/main/cs39.png)
+    `TODO: add slides`
 
-!!! note "" 
-
-    **Comparing Course Designs**
-
-    Examine the two course preparations below that describe one week of a course.
-
-    ![](https://raw.githubusercontent.com/marzwick/images/main/cs40.png)
-
-    ![](https://raw.githubusercontent.com/marzwick/images/main/cs41.png)
-
-    Which course looks more like yours and why?
-
-    If you haven't taught a course yet, which course preparation resonates with your experiences as a student?
-  
-
-### The Impact of High Structure Courses
-
-Increasing a course's structure has many implications for student learning and their educational experience.
-
-- **Student failure rates** were lower in a moderately structured course design and were **dramatically lower in a highly structured course design** (Freeman et al., 2011)
-- A "moderate-structure" intervention **increased course performance for all student populations**, but worked **disproportionately well for black students and first-generation students**. Students also consistently reported completing the assigned readings more frequently, spending more time studying for class, and feeling an increased sense of community (Eddy & Hogan, 2014)
-- Implementing a hybrid course format with high structure improved exam performance for **traditionally underrepresented students** (Gavassa et al., 2019)
-- A highly structured course design improved the performance of all students in a college-level introductory biology class and **reduced the achievement gap between disadvantaged and nondisadvantaged students** (Haak et al., 2011)
-
-### Show Me the Data!
-
-Freeman and colleagues measured failure rates in a major's introductory biology course, while varying the structure of the course. One instructor taught the course in $6$ iterations using a low structure, moderate structure, or high structure course design (2011). The researchers found that the difference between the proportion of students predicted to fail and the actual proportion failing decreased with increasing structure. ($n = 2267$, $*p = 0.06$, $**p = 0.0004$).
-
-![](https://raw.githubusercontent.com/marzwick/images/main/cs43.png)
-
-!!! note "" 
-    #### Evaluate the Data Yourself
-
-    Eddy and Hogan (2014) used a similar study structure, comparing exam performance in traditional vs. increased structure sections of the same course. The figure below shows point estimates for exam performance (% correct) based on a regression model that included (A) race and ethnicity and (B) first-generation status.
-
-    What conclusions can you draw from these data? (Check all that apply.)
-
-    ![](https://raw.githubusercontent.com/marzwick/images/main/cs44.png)
-
-    - Exam performance will likely not be affected by course structure.
-    - All students are expected to perform worse on exams in high structure courses.
-    - All students are expected to perform better on exams in high structure courses.
-    - Students from communities historically excluded from STEM aren't expected to show much improvement.
-    - Students from communities historically excluded from STEM are expected to show greater improvements.
-
-Remember, a high structure course has multiple opportunities for engagement and practice and makes clear the learning goals and expectations (Beck & Roosa, 2020). Eddy and Hogan provide a table that shows how adding in more graded preparatory assignments, student in-class engagement, and graded review assignments increases course design (2014).
-
-![](https://raw.githubusercontent.com/marzwick/images/main/cs45.png)
-
-Preparatory assignments are tasks or activities given to students prior to a class or lesson to help them prepare for upcoming content. Examples: reading assigned texts, watching videos, researching a topic, completing practice exercises.
-
-Graded review assignments are tasks or assessments that evaluate students' understanding, comprehension, and recall of previously covered material. Examples: case studies, writing assignments, discussion posts, quizzes, projects.
-
-!!! note ""   
-    #### Increasing the Course Structure
-
-    Professor Ali wants to transform her lecture-based chemistry course into a higher structure course, but is feeling overwhelmed. What are some possible small changes Professor Ali can make to her Week 1 course map to modify it from a low structure to a moderate structure? (Select all that apply.)
-
-    ![](https://raw.githubusercontent.com/marzwick/images/main/cs46.png)
-
-    - Add a homework assignment that covers concepts from class such as entropy.
-    - Add a brief pre-class quiz on principles of energy conservation.
-    - Have students complete example problems in class and use small group discussions.
-    - Add in a few clicker questions that elicit students' prior knowledge on the week's concepts.
-
-!!! tip ""
-
-    *Answer in your workbook:* What is one concrete action you can commit to taking to convert your course into a higher structure format?
 
 ---
 ## An AJEDI Lexicon for Course Structure
