@@ -67,7 +67,7 @@ So, before we delve into the whys and hows of adopting an active learning approa
 
 ### Active learning + assessment
 
-One goal of the previous reflection activity was to highlight that while active learning is a broad concept that encompasses a variety of techniques, a common feature of any definition is that students are cognitively engaged in something. “It may be quietly thinking, discussing an idea in a group, conducting an experiment, solving a problem, or writing a question or idea.” (Handelsman et al., 2007). The key is to engage students so that they are constructing knowledge.
+One goal of the previous reflection activity was to highlight that while active learning is a broad concept that encompasses a variety of techniques, a common feature of any definition is that students are cognitively engaged in something. “It may be quietly thinking, discussing an idea in a group, conducting an experiment, solving a problem, or writing a question or idea” (Handelsman et al., 2007). The key is to engage students so that they are constructing knowledge.
 
 This engagement highlights where active learning converges with assessment. The act of performing a task provides feedback to the individual, enabling them to gauge their progress and adjust their approach accordingly.
 
@@ -104,7 +104,7 @@ While we know that students can learn through passive listening, research has co
 
 ### Show Me the Data
 
-Decades of studies have demonstrated the superiority of active over passive learning approaches in promoting student learning and persistence. An example of this type of study was carried out by early leaders in the Scientific Teaching movement, Drs. Jenny Knight and Bill Wood (2005). By implementing polling questions that challenged students to think critically and solve problems collaboratively, they demonstrated improved learning gains (Figure ??, Fall ‘03 vs Spring ‘04). Notably, the study also showed that the learning gains were incremental: students’ learning gains improved further as they included more polling questions (Figure ??, Spring ‘04 vs Spring ‘05).
+Decades of studies have demonstrated the superiority of active over passive learning approaches in promoting student learning and persistence. An example of this type of study was carried out by early leaders in the Scientific Teaching movement, Drs. Jenny Knight and Bill Wood (2005). By implementing polling questions that challenged students to think critically and solve problems collaboratively, they demonstrated improved learning gains (Figure 3, Fall ‘03 vs Spring ‘04). Notably, the study also showed that the learning gains were incremental: students’ learning gains improved further as they included more polling questions (Figure 3, Spring ‘04 vs Spring ‘05).
 
 This suggests that there is no magical threshold of active learning necessary to improve student understanding, but rather the more students are challenged to engage in high-level cognitive tasks, the more they learn.
 
@@ -112,7 +112,7 @@ This suggests that there is no magical threshold of active learning necessary to
 
 This interpretation is supported by numerous recent studies, including one that surveyed nearly 1000 students in classes taught by educators trained in evidence-based teaching practices through the Summer Institutes on Scientific Teaching (Reeves et al., 2024). The study found that students who experienced active learning more often reported higher learning and improvement in collaborative skills.
 
-A seminal metastudy by Freeman and colleagues (2014) synthesized the findings of over 200 active learning studies, shedding light on the effectiveness of active learning across various STEM disciplines. They found that students in active learning courses consistently outperformed and failed less, on average, compared to peers in passive learning classes (Figure ??). This figure shows effect sizes (a value measuring the strength of the experimental effect; Hedge’s g in figure) for performance on assessments and the percentage decrease in failure rates. Overall, students in active learning classes performed half a standard deviation higher than those in passive classes and had an average failure rate that was 10% lower than that of passive classes.
+A seminal metastudy by Freeman and colleagues (2014) synthesized the findings of over 200 active learning studies, shedding light on the effectiveness of active learning across various STEM disciplines. They found that students in active learning courses consistently outperformed and failed less, on average, compared to peers in passive learning classes (Figure 2). This figure shows effect sizes (a value measuring the strength of the experimental effect; Hedge’s g in figure) for performance on assessments and the percentage decrease in failure rates. Overall, students in active learning classes performed half a standard deviation higher than those in passive classes and had an average failure rate that was 10% lower than that of passive classes.
 
 The stark contrast between active and passive learning classes is evident when examining the failure rates. While active learning classes had an average failure rate of around 20%, passive classes averaged a rate just under 35%. This represents a substantial 55% increase in failure rates for passive classes.
 
@@ -199,11 +199,11 @@ Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
 
 Recall the five dimensions to inclusive teaching:
 
-- **Instructor--Who we are:** Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
-- **Students--Who we teach:** Plan meaningful interactions when we are aware of the many dimensions of our students.
-- **Curriculum--What we teach:** Choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.
-- **Pedagogy--How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments.
-- **Climate--How the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
+1. **Instructor--Who we are:** Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
+2. **Students--Who we teach:** Plan meaningful interactions when we are aware of the many dimensions of our students.
+3. **Curriculum--What we teach:** Choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.
+4. **Pedagogy--How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments.
+5. **Climate--How the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
 
 In this module, we are focusing on the fourth dimension, **How we teach**.
 
