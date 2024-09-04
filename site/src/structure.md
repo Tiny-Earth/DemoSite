@@ -20,7 +20,7 @@ In this module, we hope you will...
 !!! compat ""
     `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
 
-The organizational structure of a course, including schedule, format, communication modes and overall themes. A well-structured course communicates all of these components to students, and ensures they have access to each component. 
+Course structure refers to the organizational system of a course, including schedule, format, communication modes and overall themes. A well-structured course communicates all of these components to students and ensures they have access to each component.
 
 !!! note ""
     #### Welcome Emails
@@ -79,7 +79,7 @@ The organizational structure of a course, including schedule, format, communicat
 
         University of Universities
 
-        Department Biological Sciences
+        Department of Biological Sciences
 
         mwong@school.edu
 
@@ -91,9 +91,9 @@ The organizational structure of a course, including schedule, format, communicat
 
 By adopting the principles of Universal Design, an instructor can build an inclusive course from the outset.
 
-**Universal Design for Learning (UDL)** is a *framework for designing and delivering flexible, inclusive, and accessible learning experiences that can be customized to meet the needs of all learners*, regardless of their abilities, backgrounds, or learning preferences (CAST, 2018). It is rooted in the principles of **Universal Design**, which is an approach to creating products environments, and experiences that are **usable by as many people as possible without the need for adaptation or specialized design**. UDL is based on the idea that learning should be engaging, relevant, and responsive to individual needs. Importantly, **UDL aims to change thedesign of the environment rather than to change the learner.**
+**Universal Design for Learning (UDL)** is a *framework for designing and delivering flexible, inclusive, and accessible learning experiences that can be customized to meet the needs of all learners*, regardless of their abilities, backgrounds, or learning preferences (CAST, 2018). It is rooted in the principles of **Universal Design**, which is an approach to creating products, environments, and experiences that are **usable by as many people as possible without the need for adaptation or specialized design**. UDL is based on the idea that learning should be engaging, relevant, and responsive to individual needs. Importantly, **UDL aims to change the design of the environment rather than to change the learner.**
 
-As we saw previously, **Universal Design for Learning (UDL)** *places accessibility at the forefront and leverages various AJEDI principles* for improving teaching and learning for all students. To help implement UDL in the classroom, the Center for Applied Special Technology (CAST) developed the **UDL Guidelines** (CAST, 2018). These are *a set of principles and strategies that aim to provide equal and inclusive access to learning for all students*, including those with disabilities or diverse learning styles. The guidelines provide specific recommendations for creating flexible and engaging learning environments and materials that can be customized to meet the diverse needs and preferences of all students.
+**Universal Design for Learning (UDL)** *places accessibility at the forefront and leverages various AJEDI principles* for improving teaching and learning for all students. To help implement UDL in the classroom, the Center for Applied Special Technology (CAST) developed the **UDL Guidelines** (CAST, 2018). These are *a set of principles and strategies that aim to provide equal and inclusive access to learning for all students*, including those with disabilities or diverse learning styles. The guidelines provide specific recommendations for creating flexible and engaging learning environments and materials that can be customized to meet the diverse needs and preferences of all students.
 
 The UDL Guidelines encompass **three key principles:** providing multiple means of (1) Engagement, (2) Representation, and (3) Action and Expression.
 
@@ -101,7 +101,7 @@ The UDL Guidelines encompass **three key principles:** providing multiple means 
 
 ### UDL Guidelines: Multiple Means of Representation  
 
-In this submodule, we will be focusing on the principle of providing **multiple means of Representation.** This principle outlines strategies for creating course materials that provide options for perception, language and symbols, and comprehension.
+In this module, we will be focusing on the principle of providing **multiple means of Representation.** This principle outlines strategies for creating course materials that provide options for perception, language and symbols, and comprehension.
 - **Perception:** *Present information in a variety of formats*, such as visual, auditory, and tactile. Instructors can use this principle to ensure that textbooks, videos, lectures, and other course materials are accessible to all students, including those with disabilities or those who process information differently. By incorporating visual aids, videos, diagrams, and other interactive media, instructors provide multiple ways of representing important information and allow students to choose the means that work best for them.
 - **Language & Symbols:** *Use clear, concise, and accessible language and symbols and avoid language or symbols that may be exclusive, biased, or offensive.* This guideline aims to promote understanding and reduce barriers to learning by selecting language and symbols that are familiar and meaningful to all learners. This can be achieved by providing captioning, transcripts, and audio descriptions for multimedia content, incorporating pictures or symbols to represent concepts, and avoiding jargon or complex language whenever possible, and providing alternative means of representation for students with different cultural and linguistic backgrounds.
 - **Comprehension:** *Incorporate a variety of instructional techniques to ensure that students can access, process, and assimilate new information and knowledge.* Instructors need to provide supports and scaffold curriculum to help students comprehend the material. This can include activating or providing prior knowledge; providing explicit cues or prompts to emphasize key elements, concepts, and features; embedding scaffolds and feedback to organize and process information; and incorporating opportunities for students to apply their knowledge to new contexts.
@@ -116,7 +116,7 @@ For more information on the other two principles, visit the [CAST UDL website](h
     - Structuring for Accessibility
     - Creating a High Structure Course
 
-### First day of class
+### Preparing for the first day of class
 
 Instructors might consider collaborating with various colleagues or resources as they design their course to meet UDL guidelines. For example, instructors could consult with:
 
@@ -141,8 +141,7 @@ A **learner-centered syllabus** also provides basic course information, but **it
 In his book, "What the Best College Teachers Do," Ken Bain (2004) describes three parts of what he calls "the promising syllabus":
 
 1. **Highlight the promises or opportunities.**
-    - What kinds of questions
-    - will the course help students answer?
+    - What kinds of questions will the course help students answer?
     - What kind of intellectual, physical, emotional, or social abilities will it help them develop?
     - Why is the course relevant?
 2. **Explain what students will do to meet those promises.**
@@ -244,17 +243,17 @@ Individuals with disabilities enter postsecondary education at a slightly higher
 
 ### The Impact of Accessibility
 
-Studies have shown that using UDL principles and teaching strategies **positively affect student's perception, performance, and engagement in learning.**
+Studies have shown that using UDL principles and teaching strategies **positively affect students' perception, performance, and engagement in learning.**
 
 ![](https://raw.githubusercontent.com/marzwick/images/main/cs31.png)
 
-Structuring a course using UDL and AJEDI principles positively impacts students, increasing engagement,and empowering students. 
+Structuring a course using UDL and AJEDI principles positively impacts students, increasing engagement, and empowering students. 
 
 ![](https://raw.githubusercontent.com/marzwick/images/main/cs32.png)
 
 ### Show Me the Data!
 
-To determine the possible impact of equity-oriented pedagogy on student learning, researchers recruited $54$ undergraduate students for a treatment group and $59$ students for a control. Equity- oriented pedagogy was defined as using specific components of democratic, assessment-driven, strengths-based, multimodal, and game-based pedagogies. Instructors in the treatment group applied the equity-oriented pedagogy, using student data and feedback to adjust instruction, while instructors for the control group used a standard pedagogy and no data/feedback.
+To determine the possible impact of equity-oriented pedagogy on student learning, researchers recruited $54$ undergraduate students for a treatment group and $59$ students for a control. Equity-oriented pedagogy was defined as using specific components of democratic, assessment-driven, strengths-based, multimodal, and game-based pedagogies. Instructors in the treatment group applied the equity-oriented pedagogy, using student data and feedback to adjust instruction, while instructors for the control group used a standard pedagogy and no data/feedback.
 
 The researchers found statistically **significant differences on the final assessment scores** in favor of students who were in the treatment classroom ($p < .0001$). Students in each group answered questions before each lesson (pre) and at the end of each lesson (post). These scores each week are shown in Figure 1. **Students in the treatment group consistently outperformed those in the control group** (Phuong et al., 2017).
 
@@ -272,7 +271,7 @@ The researchers found statistically **significant differences on the final asses
     What conclusions can you draw from the data shown above? (Check all that apply.)
 
     - The i-NATURE program had no effect on annual percentage retention or mean course GPA
-    There is a statistically significant difference in mean course GPA for students after participating in the i-NATURE program
+    - There is a statistically significant difference in mean course GPA for students after participating in the i-NATURE program
     - Participating in the i-NATURE program did not significantly change the annual percentage retained
     - Participating in the i-NATURE program did not significantly change the mean GPA of students
     - There was 100% retention in the Environmental Science and Studies Programs for students participating in the i-NATURE program
@@ -334,7 +333,8 @@ Freeman and colleagues measured failure rates in a major's introductory biology 
     ![](https://raw.githubusercontent.com/marzwick/images/main/cs44.png)
 
     - Exam performance will likely not be affected by course structure.
-    - All students are expected to perform worse on exams in high structure courses. All students are expected to perform better on exams in high structure courses.
+    - All students are expected to perform worse on exams in high structure courses.
+    - All students are expected to perform better on exams in high structure courses.
     - Students from communities historically excluded from STEM aren't expected to show much improvement.
     - Students from communities historically excluded from STEM are expected to show greater improvements.
 
