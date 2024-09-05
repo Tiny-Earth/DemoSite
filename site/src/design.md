@@ -152,12 +152,18 @@ Only you can know what your own commitments are and the ways they:
 ## A Framework for Course Design
 
 !!! compat ""
+    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
+
+```@raw html
+<!--
     - Examine the parallels between your scientific research and your teaching approaches.
     - Commit to one action you could take to address each of the five dimensions of inclusive teaching in your course.
     - Understand key concepts and principles:
         - Good teaching embodies five dimensions of inclusion: students, instructors, curriculum, pedagogy, and the classroom climate.
         - These dimensions can work together to create a cohesive learning experience.
-        - Instructors do not need to be educational experts to be good teachers, but it helps to use methods that are (1) based on solid theory, (2) tested and evaluated in the classroom, and (3) organized by a logical framework. 
+        - Instructors do not need to be educational experts to be good teachers, but it helps to use methods that are (1) based on solid theory, (2) tested and evaluated in the classroom, and (3) organized by a logical framework.
+-->
+```
 
 ### Five Dimensions of Inclusive Teaching
 
@@ -385,11 +391,11 @@ To write an effective learning objective, we suggest the following:
 
     **Objectives:**
     
-    1. Describe the water cycle and its different stages, including precipitation, evaporation, transpiration, surface runoff, and groundwater storages.
+    1. Predict how changes to the natural water cycle process from human activities affect other lifeforms on Earth.
     2. Explain the connections between the various stages of the water cycle.
-    3. Analyze the human impact on the water cycle, including deforestation, urbanization, and climate change.
-    4. Predict how changes to the natural water cycle process from human activities affect other lifeforms on Earth.
-    5. Evaluate the effects of droughts, floods, and water pollution on various civilizations around the globe.
+    3. Evaluate the effects of droughts, floods, and water pollution on various civilizations around the globe.
+    4. Describe the water cycle and its different stages, including precipitation, evaporation, transpiration, surface runoff, and groundwater storages.
+    5. Analyze the human impact on the water cycle, including deforestation, urbanization, and climate change.
 
     **Goals:**
 
@@ -552,10 +558,11 @@ Ideally, multiple activities are leveraged to help students get more practice, g
 
 What is Course Climate?
 
-In the opening activity, we saw how an email can communicate what the course will look like and forecast details about the instructor.
-
 ```@raw html
-<!-- `TODO "in the opening activity" -- which one?` -->
+<!--
+In the opening activity, we saw how an email can communicate what the course will look like and forecast details about the instructor.
+ `TODO "in the opening activity" -- which one?`
+-->
 ```
 
 Before the semester even starts, a student may feel intimidated or start doubting their ability to succeed. All students have the right to an education and should be given the tools and space to engage and learn. What can we do as educators to help all students succeed?
