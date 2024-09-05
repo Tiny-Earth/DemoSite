@@ -53,7 +53,7 @@ The following six statements make up a "rubric" to help gauge effective course d
     > - Additionally, I like to **highlight the various ways different cultures learned about and used** the night sky. For example, Polynesians used celestial knowledge to navigate long-distance ocean voyages.
     > - To increase clarity and transparency, **all learning objectives are provided** in the syllabus and in lecture notes.
     > - **Mastery-oriented rubrics** are also provided to students **to help them know what I'm looking for** in their term papers.
-    > - Lastly, my course includes multiple assignments before, during, and after class to help provide **low-stakes opportunities for practice and feedback**. In particular, I like to use the **jigsaw activity** in class so that students have a **sense or ownership and can learn from each other**.
+    > - Lastly, my course includes multiple assignments before, during, and after class to help provide **low-stakes opportunities for practice and feedback**. In particular, I like to use the **jigsaw activity** in class so that students have a **sense of ownership and can learn from each other**.
 
 !!! note ""
     #### Rating Courses with a Rubric
@@ -146,14 +146,14 @@ Only you can know what your own commitments are and the ways they:
         - Committed to our Work/Life Balance
         - Committed to our Personal and Professional Identities
         - Committed to our Beliefs, Values, Principles
-        - Special Commitments in Concerning Times: various commitments that arose from specific needs and conversations at a specific moment in time, eg. COVID-19, George Floyd, wars at home and abroad, Title IX cases, and advancements in artificial intelligence
+        - Special Commitments in Concerning Times: various commitments that arose from specific needs and conversations at a specific moment in time, e.g., COVID-19, George Floyd, wars at home and abroad, Title IX cases, and advancements in artificial intelligence
 
 ---
 ## A Framework for Course Design
 
 !!! compat ""
     - Examine the parallels between your scientific research and your teaching approaches.
-    - Commit to one action you could take to address each of the five dimensions of diversity and equity in your course.
+    - Commit to one action you could take to address each of the five dimensions of inclusive teaching in your course.
     - Understand key concepts and principles:
         - Good teaching embodies five dimensions of inclusion: students, instructors, curriculum, pedagogy, and the classroom climate.
         - These dimensions can work together to create a cohesive learning experience.
@@ -204,7 +204,7 @@ As we design a course, we should intentionally include ways for students to enga
 
 ### Backward Design
 
-Backward design is an instructional approach that emphasizes starting with the end goals in mind (Wiggins & McTighe, 2005). What should students know or be able to do after instruction? What are the desired results after the course or a lesson? Once you have identified these goals, you can design the curriculum such that students can achieve the goals.
+Backward design is an instructional approach that emphasizes starting with the end goals in mind (Wiggins & McTighe, 2005). What should students know or be able to do after instruction? What are the desired results after the course or a lesson? Engaging in backward design intentionally integrates the curricula and pedagogy dimensions as we consider how to make our courses effective and inclusive for all students.
 
 The process of backward design typically involves three stages:
 
@@ -225,7 +225,7 @@ By prioritizing learning objectives, teachers are able to create more targeted a
 
     Two professors are covering the same learning objective and using the same assessment in their introductory science courses.
 
-    - Objective: Using the scientific methods, design an experiment based on a given hypothesis.
+    - Objective: Using the scientific method, design an experiment based on a given hypothesis.
     - Assessment: Given the results of an experiment on antibiotic resistance, design a follow-up experiment that tests a revised hypothesis.
 
     They have both planned various activities to meet the learning objective:
@@ -241,12 +241,12 @@ By prioritizing learning objectives, teachers are able to create more targeted a
                 <th scope="col">Course B</th>
             </tr>
             <tr>
-                <td>Before class: Read a popular science on article on the scientific method.</td>
+                <td>Before class: Read a popular science article on the scientific method.</td>
                 <td>Before class: Read select passages on the scientific method from the course's textbook.</td>
             </tr>
             <tr>
                 <td>In class: Poll students on what a scientific hypothesis is. Brainstorm key features of the scientific method in small groups.</td>
-                <td>In class: Clicker Question: What are experimental controls (eg. positive, negative)? In pairs, analyse data of an Alzheimer's drug and evaluate the hypothesis.</td>
+                <td>In class: Clicker Question: What are experimental controls (e.g., positive, negative)? In pairs, analyze data of an Alzheimer's drug and evaluate the hypothesis.</td>
             </tr>
             <tr>
                 <td>After class: Diagram the scientific method and label each step with key features.</td>
@@ -267,14 +267,14 @@ By prioritizing learning objectives, teachers are able to create more targeted a
 
 Bloom's Taxonomy is a framework for categorizing educational goals, objectives and assessment by levels of cognitive complexity and specificity (Bloom, 1959).
 
-Since its development, it has become a widely used tool for designing and assessing instruction. The taxonomy consists of six levels, where each level builds upon the prior (McNulty 2019):
+Since its development, it has become a widely used tool for designing and assessing instruction. The taxonomy consists of six levels, where each level builds upon the prior (McNulty, 2019):
 
-1. **Remember:** Can the learner recall or retain the information? Action verbs: define, duplicate, list, memorize, recall, repeat, state
-2. **Comprehend:** Can the learner explain ideas or concepts? Action verbs: classify, describe, discuss, explain, identify, locate, recognize, report, select, translate, paraphrase
-3. **Apply:** Can the learner use information in a new way? Action verbs: choose, demonstrate, dramatize, employ, illustrate, interpret, operate, schedule, sketch, solve, use, write
-4. **Analyze:** Can the learner distinguish between different parts? Action verbs: approause, compare, contrast, criticize, differentiate, discriminate, distinguish, examine, experiment, question, test
-5. **Evaluate:** Can the learner justify a stand or decision? Action verbs: appraise, argue, defend, judge, select, support, value, evaluate
-6. **Create:** Can the learner create a new product or point of view? Action verbs: assemble, construct, create, design, develop, forumlate, write
+1. **Remember:** Can the learner recall or retain the information? Action verbs: define, duplicate, identify, list, memorize, name, recall, recognize, repeat, state
+2. **Comprehend:** Can the learner explain ideas or concepts? Action verbs: classify, describe, discuss, explain, locate, paraphrase, report, select, summarize, translate
+3. **Apply:** Can the learner use information in a new way? Action verbs: choose, demonstrate, dramatize, draw, employ, execute, illustrate, implement, interpret, operate, perform, sketch, solve, use
+4. **Analyze:** Can the learner distinguish between different parts? Action verbs: compare, contrast, deconstruct, differentiate, discriminate, distinguish, examine, experiment, infer, investigate, organize, predict, question, test
+5. **Evaluate:** Can the learner justify a stand or decision? Action verbs: appraise, argue, assess, criticize, critique, defend, judge, justify, prioritize, support, value
+6. **Create:** Can the learner create a new product or point of view? Action verbs: assemble, build, compose, construct, design, develop, devise, formulate, invent, plan, produce, write
 
 The framework is used to progressively move learners based on their prior knowledge and abilities from lower-order cognitive skills (LOCS) to higher-order cognitive skills (HOCS).
 
@@ -412,12 +412,12 @@ To write an effective learning objective, we suggest the following:
     
     You can use this list of action verbs to help reword the objective:
 
-    1. **Remember:** assemble, construct, create, design, develop, forumlate, write
-    2. **Comprehend:** appraise, argue, defend, judge, select, support, value, evaluate
-    3. **Apply:** approause, compare, contrast, criticize, differentiate, discriminate, distinguish, examine, experiment, question, test
-    4. **Analyze:** choose, demonstrate, dramatize, employ, illustrate, interpret, operate, schedule, sketch, solve, use, write
-    5. **Evaluate:** classify, describe, discuss, explain, identify, locate, recognize, report, select, translate, paraphrase
-    6. **Create:** define, duplicate, list, memorize, recall, repeat, state
+    1. **Remember:** define, duplicate, identify, list, memorize, name, recall, recognize, repeat, state
+    2. **Comprehend:** classify, describe, discuss, explain, locate, paraphrase, report, select, summarize, translate
+    3. **Apply:** choose, demonstrate, dramatize, draw, employ, execute, illustrate, implement, interpret, operate, perform, sketch, solve, use
+    4. **Analyze:** compare, contrast, deconstruct, differentiate, discriminate, distinguish, examine, experiment, infer, investigate, organize, predict, question, test
+    5. **Evaluate:** appraise, argue, assess, criticize, critique, defend, judge, justify, prioritize, support, value
+    6. **Create:** assemble, build, compose, construct, design, develop, devise, formulate, invent, plan, produce, write
 
 ### Determine acceptable evidence and align objectives with assessments
 
@@ -598,7 +598,7 @@ Research has shown many positive outcomes from engaging in instructor immediacy 
 
 - There is a significant relationship between instructor immediacy and student affective and cognitive learning (Andersen et al., 1981).
 - When instructors exhibit behaviors related to instructor presence, students report high levels of learning and community (Shea et al., 2006).
-- Student affective learning, cognition, and motivation are significantly and positively correlated to instructor immediacy and presence (Baker. 2010).
+- Student affective learning, cognition, and motivation are significantly and positively correlated to instructor immediacy and presence (Baker, 2010).
 
 Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh & Hwang. 2006) include:
 
@@ -622,7 +622,8 @@ Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh &
     - Providing clear instructions and guidance for course assignments
     - Participating actively in discussion forums and online chats
     - Expressing nonverbal cues to show interest and attention
-    - Making regular announcements and updates to the course content Using humor during lectures or in interactions with students
+    - Making regular announcements and updates to the course content
+    - Using humor during lectures or in interactions with students
 
 ### Identity and Course Climate
 
