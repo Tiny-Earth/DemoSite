@@ -347,12 +347,12 @@ As a scientific instructor, choosing active learning techniques that help you ga
 
 To encourage students to think and act like scientists, learning experiences should have alignment with the six facets of science. This can be achieved by incorporating elements of these facets into existing activities. Below are some strategies to enhance engagement with each facet of science:
 
-- Science Practices: Add prompts that encourage students to ask scientific questions. For example, include an exit ticket prompt such as, "Write down one question you have about osmosis."
-- Iteration: Provide additional opportunities for students to test their knowledge/ receive feedback. For example, use a clicker question in two rounds: students first answer individually, then discuss in pairs or small groups, and finally, vote again.
-- Discovery: Add prompts that have students explore new information or complete research tasks. For example, ask students to research a current event related to course concepts and present their findings in small groups.
-- Authenticity: Integrate additional opportunities for collaboration. For example, allow students to work together on assignments typically completed individually or implement two-stage testing in which students individually first complete and turn in their exam and then work in small groups to answer the exam questions again.
-- Ownership: Incorporate self-reflection prompts that ask students to connect the material to their own experiences. For example, have students complete a one-minute write on something they learned in the course unit that resonated with them personally.
-- Relevance: Add prompts that have students apply their learning to contemporary issues. For example, after learning about how vaccines work, engage students in a discussion about the ethics of mandatory vaccination.
+- **Science Practices:** Add prompts that encourage students to ask scientific questions. For example, include an exit ticket prompt such as, "Write down one question you have about osmosis."
+- **Iteration:** Provide additional opportunities for students to test their knowledge/ receive feedback. For example, use a clicker question in two rounds: students first answer individually, then discuss in pairs or small groups, and finally, vote again.
+- **Discovery:** Add prompts that have students explore new information or complete research tasks. For example, ask students to research a current event related to course concepts and present their findings in small groups.
+- **Authenticity:** Integrate additional opportunities for collaboration. For example, allow students to work together on assignments typically completed individually or implement two-stage testing in which students individually first complete and turn in their exam and then work in small groups to answer the exam questions again.
+- **Ownership:** Incorporate self-reflection prompts that ask students to connect the material to their own experiences. For example, have students complete a one-minute write on something they learned in the course unit that resonated with them personally.
+- **Relevance:** Add prompts that have students apply their learning to contemporary issues. For example, after learning about how vaccines work, engage students in a discussion about the ethics of mandatory vaccination.
 
 ---
 ## An AJEDI Lexicon for Course Structure
