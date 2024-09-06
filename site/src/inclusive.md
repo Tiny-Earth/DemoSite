@@ -73,7 +73,7 @@ Recall the five dimensions to inclusive teaching:
 - **Pedagogy--How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
 - **Climate--How the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
 
-Awareness of students helps to develop learning goals and teaching approaches and can help us to plan for meaningful interactions. And awareness of self can shape how we teach and help us to be aware of areas for growth.
+Knowing more about our students helps us develop effective learning goals and teaching approaches, enabling us to plan meaningful interactions. Likewise, developing self-awareness helps us recognize how our biases, assumptions, experiences, and backgrounds shape our teaching methods and highlights areas for personal growth.
 
 ---
 ## Inclusive Learning in Practice
@@ -170,7 +170,7 @@ Everyone holds biases, assumptions, and stereotypes about others, which can infl
 
         > Faculty gender did not affect bias. Tests of simple effects (all $d < 0.33$) indicated that female faculty participants did not rate the female student as more competent [$t(62) = 0.06$, $P = 0.95$] or hireable [$t(62) = 0.41$, $P = 0.69$] than did male faculty. Female faculty also did not offer more mentoring [$t(62) = 0.29$, $P = 0.77$] or a higher salary [$t(61) = 1.14$, $P = 0.26$] to the female student than did their male colleagues. In addition, faculty participants’ scientific field, age, and tenure status had no effect (all $P > 0.53$). Thus, the bias appears pervasive among faculty and is not limited to a certain demographic subgroup [Moss-Racusin2012-cm](@cite).
 
-        Image source: [Moss-Racusin2012-cm](@cite)
+        Images source: [Moss-Racusin2012-cm](@cite)
 
 ### Reactions to evidence of bias
 
@@ -180,7 +180,7 @@ When confronted with the idea that scientists are biased, we have heard:
 
 - “Women and minorities are just too sensitive.”
 - “It’s not like that here. Probably it’s like that elsewhere…in Sweden, in the Midwest, at Harvard, at the state university, at the community college, in the Economics Department…”
-- “The sample size for Table 3 of the 1988 study was too small.”
+- “The sample size in the 1988 study was too small.”
 - “We’re trained to be objective, so bias studies don’t apply to us.”
 
 Yet study after study demonstrates that we *all* carry biases, assumptions, and stereotypes. 
@@ -191,13 +191,13 @@ Yet study after study demonstrates that we *all* carry biases, assumptions, and 
 <!-- `TODO are there citations for this?` -->
 ```
 
-Everyone holds biases, assumptions, and stereotypes about others, which can influence outcomes in college or for hiring decisions and advancement.
+Our biases, assumptions, and stereotypes about others can influence outcomes in college or for hiring decisions and advancement.
 
-**Rating Verbal Skills:**
+**Rating Verbal Skills**
 
 When reviewers evaluated a candidate’s written text, their ratings of the candidate’s verbal skills were influenced by the author’s demographics. For example, when reviewers were informed that an African American person had written the text, they rated the candidate’s verbal skills lower compared to when they were told a white person had written it. Similarly, when reviewers were told that a man wrote the text, they evaluated the candidate’s skills more negatively than when they were told a woman wrote it.
 
-**More Hiring Studies:**
+**More Hiring Studies**
 
 Dozens of studies have compared hiring decisions with the same setup…
 
@@ -230,8 +230,8 @@ Awareness:
 Actions:
 
 - **Call out:** When someone dismisses another, use your voice to return the conversation to the dismissed person. “Jasmine has a point. I’d like to hear more.” “You are restating what Amir said.” 
-- **Be an ally:** Complete [Safe Zone training](https://thesafezoneproject.com/learn/) and put a Safe Zone sticker on your office door. Add an statement about bias and assumptions to your syllabus. Use preferred pronouns and gender-neutral pronouns. 
-- **Grade fairly:** Remove subjectivity in grading due to bias by using a fixed grading scale that makes clear which competencies warrant which grades.
+- **Be an ally:** Use preferred pronouns and gender-neutral pronouns. Add a statement about bias and assumptions to your syllabus. Complete the [Inclusive STEM Teaching Project course](https://www.inclusivestemteaching.org/). If you are ready to be an ally, complete [Safe Zone training](https://thesafezoneproject.com/learn/) and put a Safe Zone sticker on your office door. 
+- **Grade fairly:** Remove subjectivity in grading due to bias by using a well-defined rubric that makes clear how competencies are scored. Instructors can also grade anonymously, ranodmize the order of grading, and grade question by question instead of assignment by assignment.
 
 Set a tone for your class and reinforce it:
 
@@ -301,7 +301,7 @@ Here are some strategies you can implement to reduce stereotype threat in the cl
 !!! tip ""
     #### Commit to Action: Mitigate Stereotype Threat
 
-    *Answer in your workbook:* What is one concrete action you can commit to taking to mitigate the negative impacts of stereotype threat in your course?
+    *Answer in your workbook:* Describe one concrete action you can take to mitigate the negative impacts of stereotype threat in your course.
 
 ### Create a sense of belonging in STEM
 
@@ -313,7 +313,7 @@ Here are some strategies you can implement to reduce stereotype threat in the cl
         - The classroom learning environment influences the extent to which student feel a sense of belonging.
         - Belonging affects outcomes and persistence in STEM.
 
-Historically excluded communities (HECs) refer to groups of individuals who have traditionally been denied full rights, privileges, and opportunities in STEM education, including women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students. These groups have traditionally been underrepresented or excluded from participating in STEM. See also [Asai2020-bb](@cite).
+Historically excluded communities (HECs) refer to groups of individuals who have traditionally been denied full rights, privileges, and opportunities in STEM education, including but not limited to women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students. These groups have traditionally been underrepresented or excluded from participating in STEM. See also [Asai2020-bb](@cite).
 
 The differential pattern of exclusion from STEM affects students not only according to race and ethnicity; talented college students from HECs leave at higher rates [thiry_talking_2019](@cite). 
 
@@ -325,7 +325,7 @@ To achieve an equitable educational enterprise, we must address the structural, 
 
 ### Actions to foster belonging in STEM
 
-Several interventions have demonstrated promise in increasing college students’ persistence in STEM [estrada_toward_2011](@cite). These interventions often have especially positive effects on students who belong to communities that have been historically excluded from STEM [evans_functional_2021,hurtado_diversifying_2009,olson_expression-based_2019,rodenbusch_early_2016,shuster_implementing_2019,waddell_flying_2021](@cite).
+Several interventions have demonstrated promise in increasing college students’ persistence in STEM [estrada_toward_2011](@cite). These interventions often have especially positive effects on HEC students [evans_functional_2021,hurtado_diversifying_2009,olson_expression-based_2019,rodenbusch_early_2016,shuster_implementing_2019,waddell_flying_2021](@cite).
 
 ```@raw html
 <!-- `TODO use full sentence for these bullet points` -->
@@ -348,7 +348,7 @@ Several interventions have demonstrated promise in increasing college students�
 The Tripartite Integration Model of Social Influence (TIMSI) provides a framework for understanding the psychological mechanisms linking educational experiences and persistence outcomes [estrada_toward_2011](@cite). The TIMSI describes three orientations that predict persistence in STEM. 
 
 - **Scientific self-efficacy** indicates that a student feels capable of performing the actions needed to be successful in a STEM course, major, or career. 
-- **Scientific identity** indicates that a student perceives science as part of their identity and feel they belong to a scientific community. 
+- **Scientific identity** indicates that a student perceives science as part of their identity and feels they belong to a scientific community. 
 - **Students internalize scientific values** when they authentically agree with the values of the scientific community, such as building new knowledge to solve global challenges, the thrill of discovery, and the importance of discourse.
 
 According to the TIMSI, each of these three factors — independently and collectively — contribute to social integration into STEM communities. Social integration (or persistence) is defined as the intent to pursue further academic or career goals in STEM, or as behaviors, such as submitting applications for graduate school.
@@ -365,7 +365,7 @@ You might have students…
 
 - Fill out anonymous surveys before, during, and at the end of the course with questions about scientific self-efficacy, identity, values orientation, and persistence intentions. Compare results across the semester.
 - Bring an item to class that represents how they see themselves with respect to science and discovery. 
-- Find an image online that represents what they want to get out of your course.
+- Find an image online that represents what they want to get out of your course and share with the whole class, for example through Jamboard or Padlet.
 - Share one thing science-related fact about their lives (favorite science fact, most science-y hobby, why they are interested in science).
 
 !!! tip ""
@@ -390,8 +390,7 @@ When students actively participate in the facets of science, we see:
 - Increased belonging
 - Persistence in STEM degrees and careers
 - Increased STEM accessibility for students with health conditions or impairments
-
-Positive gains for all students with additional gains for students who are members of HEC groups.
+- Positive gains for all students with additional gains for students who are members of HEC groups
 
 These outcomes lead to diversity in the STEM workforce and and informed citizenry.
 
@@ -411,7 +410,7 @@ CUREs normalize failure by:
 - Showing how to troubleshoot experiments
 - Creating opportunities to share personal failures with colleagues
 
-**Just one CURE in college can increase persistence in STEM**
+**Just one CURE in college can increase persistence in STEM.**
 
 !!! tip ""
     #### Commit to Action: Engage the Facets of Science
@@ -421,7 +420,7 @@ CUREs normalize failure by:
 ### Create Productive Failure Experiences
 
 !!! compat ""    
-    - Examine where students implicitly or explicitly learn about failure in your course.
+    - Examine where students implicitly and explicitly learn about failure in your course.
     - Predict how experiencing personal or scientific failure influences student outcomes.
     - Commit to one action you could take to create a productive failure experience in your course. 
     - Understand key concepts and principles:
@@ -438,7 +437,7 @@ Science is based on failure:
 Yet students may not think failure is productive:
 
 - Students conclude that classroom struggles indicate they are not cut out for science (Good et al., 2012; Koch et al., 2008).
-- Fear of failure— “cognitive and emotional reaction towards environmental stimuli that are apprehended as threats in achievement contexts” (Cacciotti, 2015).
+- Students have a fear of failure, which is “cognitive and emotional reaction towards environmental stimuli that are apprehended as threats in achievement contexts” (Cacciotti, 2015).
 - Fear is antithetical to learning and creativity.
  
 ### Growth mindset opportunity!
@@ -450,7 +449,7 @@ Reframe how you and your students think about the role of failure:
 
 ### Help students perceive failure as productive
 
-- Hearing only about physicists’ achievements diminished students’ interest in science; learning about their struggles enhanced students’ interest in and recall of key concepts from the course. (Hong & Lin-Siegler, 2012). 
+- Hearing only about physicists’ achievements diminished students’ interest in science; learning about their struggles enhanced students’ interest in and recall of key concepts from the course (Hong & Lin-Siegler, 2012). 
 - “Struggle stories” increased student motivation and performance, especially among low-performing students [lin-siegler_even_2016](@cite). 
 - The “growth mindset” enables students to see a failure as an opportunity for growth rather than an assurance of further failure. (Dweck, 2006; Good et al., 2012; Canning, XX)
 
@@ -460,7 +459,7 @@ Reframe how you and your students think about the role of failure:
 <!-- TODO update the framing of this framework as the failure study progresses -->
 ```
 
-Failure is essential part of science, yet it, along with resilience, are not explicitly taught. There are two types of failure: personal and scientific. A framework can provide a path for engaging students in failing productively and developing resilience.
+Failure is an essential part of science, yet it, along with resilience, are not explicitly taught. There are two types of failure: personal and scientific. A framework can provide a path for engaging students in failing productively and developing resilience.
 
 Productive Failure Framework:
 
@@ -480,15 +479,15 @@ Scientific failure results from:
 !!! note ""
     #### Reflect on Failure
 
-    Think about where students implicitly or explicitly learn about failure in your course, and identify ways they can experience productive failure.
+    Think about where students implicitly and explicitly learn about failure in your course, and identify ways they can experience productive failure.
 
-    Do students learn how to navigate personal failures and if so, how? 
+    Do students learn how to navigate **personal** failures and if so, how? 
 
-    What productive failure opportunities could be included in your course to mitigate negative outcomes related to personal failure?
+    What productive failure opportunities could be included in your course to mitigate negative outcomes related to **personal** failure?
 
-    Do students learn how to navigate scientific failures and if so, how? 
+    Do students learn how to navigate **scientific** failures and if so, how? 
 
-    What productive failure opportunities could be included in your course to mitigate negative outcomes related to scientific failure?
+    What productive failure opportunities could be included in your course to mitigate negative outcomes related to **scientific** failure?
 
 !!! tip ""
     #### Commit to Action: Experience Productive Failure
