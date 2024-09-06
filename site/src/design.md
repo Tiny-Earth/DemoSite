@@ -1,4 +1,4 @@
-# Course Design
+# Course Design and Course Structure
 
 !!! warning ""
     This site is still under development. Thank you for previewing it! Your feedback is much appreciated -- [Let us know what you think!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eaCduZfaBtfNpRA)
@@ -269,42 +269,6 @@ By prioritizing learning objectives, teachers are able to create more targeted a
     - Course B. The objective is measured by the assessment question, and the activities prepare students for the assessment.
     - Course B. Students will meet the objective because the activities are the same as the assessment.
 
-### Bloom's Taxonomy
-
-Bloom's Taxonomy is a framework for categorizing educational goals, objectives and assessment by levels of cognitive complexity and specificity (Bloom, 1959).
-
-Since its development, it has become a widely used tool for designing and assessing instruction. The taxonomy consists of six levels, where each level builds upon the prior (McNulty, 2019):
-
-1. **Remember:** Can the learner recall or retain the information? Action verbs: define, duplicate, identify, list, memorize, name, recall, recognize, repeat, state
-2. **Comprehend:** Can the learner explain ideas or concepts? Action verbs: classify, describe, discuss, explain, locate, paraphrase, report, select, summarize, translate
-3. **Apply:** Can the learner use information in a new way? Action verbs: choose, demonstrate, dramatize, draw, employ, execute, illustrate, implement, interpret, operate, perform, sketch, solve, use
-4. **Analyze:** Can the learner distinguish between different parts? Action verbs: compare, contrast, deconstruct, differentiate, discriminate, distinguish, examine, experiment, infer, investigate, organize, predict, question, test
-5. **Evaluate:** Can the learner justify a stand or decision? Action verbs: appraise, argue, assess, criticize, critique, defend, judge, justify, prioritize, support, value
-6. **Create:** Can the learner create a new product or point of view? Action verbs: assemble, build, compose, construct, design, develop, devise, formulate, invent, plan, produce, write
-
-The framework is used to progressively move learners based on their prior knowledge and abilities from lower-order cognitive skills (LOCS) to higher-order cognitive skills (HOCS).
-
-Action verbs appropriate for each level can be chosen to communicate the cognitive level of the objective or assessment.
-
-There are many other ways to characterize cognitive levels; we recommend Bloom's taxonomy because it is straightforward and easy to use.
-
-However, since it can be difficult to distinguish between the 6 levels of Bloom's taxonomy, we prefer to divide Bloom's by LOCS and HOCS.
-
-In general, levels 1 and 2 are LOCS and levels 3-6 are HOCS. But depending on the context and what information the student is given, exercises written for higher Bloom's levels such as levels 3 (Apply) and 5 (Evaluate) can be considered LOCS. Often, the distinction depends on the novelty of the task. For example, if students do an evaluation activity in class (HOCS) and encounter the same exercise on an assessment, then it's no longer an evaluation, but a recall task (LOCS) that reinforces what was learned in class.
-
-!!! note ""
-    #### Practice Bloom's Taxonomy
-
-    For each assessment prompt below, identify if targets a lower-order cognitive skill (LOCS) or higher-order cognitive skill (HOCS):
-
-    1. Design an experiment to test one of Newton's laws of motion, including the necessary equipment, data collection methods, and analysis.
-    2. Use Figure 3 in the textbook to draw your own model that demonstrates one or more of Newton's laws of motion, including the necessary variables and assumptions.
-    3. Define Isaac Newton's three laws of motion, including examples of each.
-    4. Critique the validity of an experiment or study that uses Newton's laws of motion to explain a physical phenomenon, including its limitations and potential sources of error.
-    5. Explain the difference between mass and weight.
-    6. Considering the forces acting on an object in motion (direction and magnitude), predict the resultant motion of the object using Newton's laws.
-
-
 ---
 ## Course Design in Practice
 
@@ -402,6 +366,45 @@ To write an effective learning objective, we suggest the following:
     1. Students will understand the water cycle as a complex process that involves the continuous movement and transformation of water through the environment.
     2. Students will recognize the importance of the water cycle in sustaining life on earth and the implications of human activity on this process.
     3. Students will develop critical thinking skills to analyze and evaluate the impact of changes in the water cycle on ecosystems and human societies.
+
+
+### Bloom's Taxonomy
+
+Bloom's Taxonomy is a framework for categorizing educational goals, objectives and assessment by levels of cognitive complexity and specificity (Bloom, 1959).
+
+Since its development, it has become a widely used tool for designing and assessing instruction. The taxonomy consists of six levels, where each level builds upon the prior (McNulty, 2019):
+
+1. **Remember:** Can the learner recall or retain the information? Action verbs: define, duplicate, identify, list, memorize, name, recall, recognize, repeat, state
+2. **Comprehend:** Can the learner explain ideas or concepts? Action verbs: classify, describe, discuss, explain, locate, paraphrase, report, select, summarize, translate
+3. **Apply:** Can the learner use information in a new way? Action verbs: choose, demonstrate, dramatize, draw, employ, execute, illustrate, implement, interpret, operate, perform, sketch, solve, use
+4. **Analyze:** Can the learner distinguish between different parts? Action verbs: compare, contrast, deconstruct, differentiate, discriminate, distinguish, examine, experiment, infer, investigate, organize, predict, question, test
+5. **Evaluate:** Can the learner justify a stand or decision? Action verbs: appraise, argue, assess, criticize, critique, defend, judge, justify, prioritize, support, value
+6. **Create:** Can the learner create a new product or point of view? Action verbs: assemble, build, compose, construct, design, develop, devise, formulate, invent, plan, produce, write
+
+The framework is used to progressively move learners based on their prior knowledge and abilities from lower-order cognitive skills (LOCS) to higher-order cognitive skills (HOCS).
+
+Action verbs appropriate for each level can be chosen to communicate the cognitive level of the objective or assessment.
+
+There are many other ways to characterize cognitive levels; we recommend Bloom's taxonomy because it is straightforward and easy to use.
+
+However, since it can be difficult to distinguish between the 6 levels of Bloom's taxonomy, we prefer to divide Bloom's by LOCS and HOCS.
+
+In general, levels 1 and 2 are LOCS and levels 3-6 are HOCS. But depending on the context and what information the student is given, exercises written for higher Bloom's levels such as levels 3 (Apply) and 5 (Evaluate) can be considered LOCS. Often, the distinction depends on the novelty of the task. For example, if students do an evaluation activity in class (HOCS) and encounter the same exercise on an assessment, then it's no longer an evaluation, but a recall task (LOCS) that reinforces what was learned in class.
+
+!!! note ""
+    #### Practice Bloom's Taxonomy
+
+    For each assessment prompt below, identify if targets a lower-order cognitive skill (LOCS) or higher-order cognitive skill (HOCS):
+
+    1. Design an experiment to test one of Newton's laws of motion, including the necessary equipment, data collection methods, and analysis.
+    2. Use Figure 3 in the textbook to draw your own model that demonstrates one or more of Newton's laws of motion, including the necessary variables and assumptions.
+    3. Define Isaac Newton's three laws of motion, including examples of each.
+    4. Critique the validity of an experiment or study that uses Newton's laws of motion to explain a physical phenomenon, including its limitations and potential sources of error.
+    5. Explain the difference between mass and weight.
+    6. Considering the forces acting on an object in motion (direction and magnitude), predict the resultant motion of the object using Newton's laws.
+
+
+
 
 !!! note ""
     #### Raising Learning Objective Bloom Levels
@@ -555,14 +558,7 @@ Ideally, multiple activities are leveraged to help students get more practice, g
 ````
 
 ---
-## Module Goals
 
-In this module, we hope you will...
-
-- Understand the principles of Universal Design and how to use them in structuring your course.   
-- Understand how high structure courses embody the principles of Universal Design.
-
----
 ## Course Structure Defined
 
 !!! compat ""
@@ -775,6 +771,13 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
     Add these items to the workbook.
 -->
 ```
+## Course Structure in Practice
+
+!!! compat ""
+    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
+
+### Time to start building your course schedule
+
 
 ---
 ## An AJEDI Lexicon for Course Design
