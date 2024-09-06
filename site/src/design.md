@@ -553,6 +553,268 @@ Ideally, multiple activities are leveraged to help students get more practice, g
     Until you've completed the learning experiences module, you may wish to keep the assessments and activities as simple ideas, then build on them later.
  -->
 ````
+---
+
+### Course Climate
+
+What is Course Climate?
+
+```@raw html
+<!--
+In the opening activity, we saw how an email can communicate what the course will look like and forecast details about the instructor.
+ `TODO "in the opening activity" -- which one?`
+-->
+```
+
+Before the semester even starts, a student may feel intimidated or start doubting their ability to succeed. All students have the right to an education and should be given the tools and space to engage and learn. What can we do as educators to help all students succeed?
+
+One of the first steps we can take is to be intentional in the ways we set up our course. In particular, we can influence the course climate--the overall learning environment in a classroom or educational setting--to be more inclusive (Dewsbury & Brame, 2019). An inclusive course climate is one where all students feel welcome, valued, and supported regardless of different backgrounds and identities (Brame. 2019).
+
+### Hot or Cold or Just Right?
+
+Because course climate is a somewhat abstract concept, we will use an analogy to help us understand it more deeply: temperature.
+
+A common phrase associated with group spaces is "taking the temperature of a room," which means assessing and gauging the emotional or social atmosphere of a situation or group of people. It involves observing the general mood, attitudes, and reactions of individuals in a group to determine how they are feeling and what their overall response is to a situation or idea.
+
+- 🔥 **Hot:** The atmosphere is charged, tense, or hostile. It could also indicate that the individuals in the room are passionate or enthusiastic about a particular topic or idea, which can make others feel anxious or apprehensive about engaging. Students may engage in dismissive, disruptive, or disrespectful behaviors. The classroom environment may be overtly hostile to students based on race, gender, socioeconomic or other status, ability, or other demographic factors.
+- 🧊 **Cold:** The atmosphere is unfavorable, unfriendly, or unwelcoming. The individuals in the room may be unresponsive or uninterested in the topic or discussion being presented. Students may withdraw from participating in activities or attending class altogether. The classroom environment may be covertly hostile to students based on race, gender, socioeconomic or other status, ability, or other demographic factors.
+- ⚖️ **Just Right:** The atmosphere is collaborative, collegial, and supportive. It suggests that the individuals in the room are receptive and engaged, and conversations are respectful and inquiry-based. Diverse perspectives are encouraged and considered. This type of room temperature correlates with a respectful buzz of engagement, where everyone feels their voice is heard, their insights are valid, and their questions are welcome.
+
+```@raw html
+<!-- `TODO where's the data on how well (or not well) we can accurately gauge these things in a real setting? across cultures? etc.?` -->
+```
+
+!!! note ""
+    #### Reflect on Course Temperatures
+
+    Recall times when your courses -- when you were a student -- felt "Hot," "Cold," or "Just Right." Try to describe a few examples of each.
+
+    Then reflect:
+
+    - What all do you think contributed to making those courses feel that way?
+    - How did it impact your learning experiences in that course?
+    - Did any course have a mix of "Hot," "Cold," or "Just Right" days?
+    - Did any course feel at times "Just Right" to you, but "Hot" or "Cold" to your peers?
+
+### Instructor Immediacy and Presence
+
+**Instructor immediacy** is "the extent to which communication behaviors enhance closeness to and nonverbal interaction with another" (Mehrabian. 1969, p. 203) as well as behaviors that reduce distance between teacher and student (Andersen, 1979).
+
+**Instructor presence** is the degree to which instructors are actively involved in the learning environment, including how the course is designed, organized, and managed as well as how the learning is facilitated (Garrison et al., 1999).
+
+Research has shown many positive outcomes from engaging in instructor immediacy and presence practices:
+
+- There is a significant relationship between instructor immediacy and student affective and cognitive learning (Andersen et al., 1981).
+- When instructors exhibit behaviors related to instructor presence, students report high levels of learning and community (Shea et al., 2006).
+- Student affective learning, cognition, and motivation are significantly and positively correlated to instructor immediacy and presence (Baker, 2010).
+
+Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh & Hwang. 2006) include:
+
+- Instructor Immediacy:
+    - Maintain closer physical distance
+    - Use direct body orientation
+    - Use eye contact
+    - Engage in positive body movements such as nods and smiles
+- Instructor Presence:
+    - Communicate goals
+    - Set guidelines for student interaction
+    - Encourage student participation
+    - Ensure students don't feel isolated
+
+!!! note ""
+    #### Instructor Immediacy and Presence
+
+    Match each of the following interactions to either "Instructor Immediacy" or "Instructor Presence."
+
+    - Addressing students by their preferred names
+    - Providing clear instructions and guidance for course assignments
+    - Participating actively in discussion forums and online chats
+    - Expressing nonverbal cues to show interest and attention
+    - Making regular announcements and updates to the course content
+    - Using humor during lectures or in interactions with students
+
+### Identity and Course Climate
+
+**Social identity** is defined as the sense of self that comes from membership in a social group (or groups) along with the "value and emotional significance attached to that membership" (Tajfel, 1981. p. 255). For example, identifying as queer also means identifying with current and historical discrimination against members of the queer community.
+
+Social identity is not always fixed and can change over time and between contexts (Gee, 2000).
+
+Additionally, individuals usually have multiple social identities that intersect with each other, producing unique experiences in which some identities privilege the individual and some identities oppress them.
+
+Similarly, **teacher identity** is defined as "the ways teachers make sense of themselves and the images they present to others" (Yuan & Liu, 2021, p. 2). It encompasses how instructors perceive themselves and how they construct their professional identities within educational settings.
+
+Like social identity, instructor identity is dynamic and "negotiated through experience and the sense that is made of that experience" (Sachs, 2005, p.15).
+
+Social identities and instructor's professional identities (Rus et al., 2013; Peterson et al., 1999) can include:
+
+```@raw html
+<figure>
+    <figcaption>
+        <p><strong id="table3-label">Table 3. Social and Instructor Identities</strong><br><span id="table3-summary"><!-- TODO: Description here. --></span></p>
+    </figcaption>
+    <table aria-labelledby="table3-label" aria-describedby="table3-summary">
+        <tr>
+            <th scope="col">Social Identities</th>
+            <th scope="col">Instructor Identities</th>
+        </tr>
+        <tr>
+            <td>Race/ethnicity</td>
+            <td>Educational background</td>
+        </tr>
+        <tr>
+            <td>Gender and sexual orientation</td>
+            <td>Prior experience</td>
+        </tr>
+        <tr>
+            <td>Socioeconomic status</td>
+            <td>Work-related interests (e.g., academic and research interests)</td>
+        </tr>
+        <tr>
+            <td>Age</td>
+            <td>Work style</td>
+        </tr>
+        <tr>
+            <td>Religion</td>
+            <td>Skills and abilities (e.g., social skills)</td>
+        </tr>
+        <tr>
+            <td>Ability status</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Veteran status</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mental health or trauma</td>
+            <td></td>
+        </tr>
+    </table>
+</figure>
+```
+
+### Impacts of Identity
+
+Identity can significantly influence the course climate.
+
+Why? Instructors and students both bring many identities to the classroom, and these identities influence how people choose to present themselves, communicate with others, and engage with the content.
+
+These social dynamics and interactions shape the classroom environment and affect how students experience the learning space. Instructors who choose to share their social and/or professional identities send a message to students that it is also okay for them to share their identities in the classroom, be their authentic self, and bring all of who they are to their work.
+
+Further, the identities that an instructor presents or that are perceived by students impact students' motivation, engagement, and sense of belonging.
+
+For example, instructors who are approachable, open-minded, and understanding can create a safe space where students feel comfortable expressing their opinions and asserting themselves. Instructors who openly value and bring diversity, inclusion, and cultural awareness into their teaching demonstrate to students that diversity is respected and encouraged.
+
+Through sharing and thoughtful integration of one's identities into the course, instructors can cultivate positive relationships with their students, leading to enhanced learning outcomes, a sense of belonging, and persistence in STEM (Estrada et al., 2011).
+
+!!! tip ""
+    #### Reflect on Identity in Teaching Contexts
+
+    *Answer in your workbook:*
+
+    Take a few minutes to reflect on your various social and professional identities. You can use the items listed below as a starting point:
+
+    - Social Identity: race/ethnicity, gender and sexual orientation, socioeconomic status, age, religion, ability status, veteran status, mental health or trauma
+    - Instructor Identity: educational background, prior experience, work-related interests, work style, skills and abilities
+
+    Then, answer this question: What is, and how would you describe, your identity in teaching contexts?
+    
+    You may pick a few ideas below to help guide you in answering that question:
+    
+    - Consider how you see your role as an educator (e.g., only covering content, thinking about student learning and engagement, ensuring all students are included)
+    - Consider what has been your previous teaching experience and how it has shaped your teaching philosophy
+    - Consider your teaching strengths and weaknesses
+    - Consider the role diversity, equity, and inclusion do or don't play in your teaching, and why
+
+### Impact of Course and Campus Climate
+
+The perception of being unwelcome in the college classroom was termed "chilly climate" by Hall and Sandler (1982) and then later expanded to include the campus environment (1984). Studies have shown that both course and campus climate affect many aspects related to a student's educational experience.
+
+```@raw html
+<figure>
+    <figcaption>
+        <p><strong id="table4-label">Table 4. Impacts of Course and Campus Climate</strong><br><span id="table4-summary"><!-- TODO: Description here. --></span></p>
+    </figcaption>
+    <table aria-labelledby="table4-label" aria-describedby="table4-summary">
+        <tr>
+            <th scope="col">Unwelcoming Environment</th>
+            <th scope="col">Welcoming Environment</th>
+        </tr>
+        <tr>
+            <td>Negative cognitive outcomes for women (Pascarella et al. 1997)</td>
+            <td>The strongest predictor of academic competence is perception of the campus environment as supportive (Reason et al., 2006)</td>
+        </tr>
+        <tr>
+            <td>Negative effects on Latino students' sense of belonging (Hurtado & Carter 1997)</td>
+            <td>Students who are more engaged and more comfortable are significantly more likely to persist in STEM (Barthelemy et al., 2015)</td>
+        </tr>
+        <tr>
+            <td>Non-white students find the campus climate chillier than white students (Morris & Daniel, 2008)</td>
+            <td>Kindness cues affirm social inclusion, especially for underrepresented students (Estrada et al., 2018)</td>
+        </tr>
+        <tr>
+            <td>Negatively affects minority students' academic/ intellectual development, social experiences, and institutional commitment (Cabrera et al. 1999)</td>
+            <td>A utility-value intervention demonstrated long-term positive effects such as improved STEM persistence overall, with larger effects for students from underrepresented minority groups [asher2023utility](@cite)</td>
+        </tr>
+        <tr>
+            <td>Lower perceived gains in academic preparation for women (Pascarella et al. 1997)</td>
+            <td>Evidence-based recommendations increase underrepresented minority students' persistence in STEM such as...</td>
+        </tr>
+        <tr>
+            <td>Students of color perceive the campus climate as more racist and less accepting than white students (Rankin & Reason. 2005)</td>
+            <td>...connecting class content to personal and culturally valued outcomes (Estrada et al., 2016)</td>
+        </tr>
+        <tr>
+            <td>Women find the campus climate chillier than men (Morris & Daniel, 2008)</td>
+            <td>...addressing student resource disparities (Estrada et al., 2016)</td>
+        </tr>
+        <tr>
+            <td>Students in traditionally female-dominated majors perceive the campus climate chillier than students in traditionally male-dominated majors (Morris & Daniel, 2008)</td>
+            <td>...increasing institutional accountability (Estrada et al., 2016)</td>
+        </tr>
+        <tr>
+            <td>LGBTQ students with disabilities experience isolation, tokenization, and an overall chilly climate (Millter & Downey, 2020)</td>
+            <td>...creating strategic partnerships with programs (Estrada et al., 2016)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>...and using best curriculum practices (Estrada et al., 2016)</td>
+        </tr>
+    </table>
+</figure>
+```
+
+### Show Me the Data!
+
+Based on data from $6,687$ first-year students and $5,024$ faculty members from $30$ public and private four-year institutions, analyses identified several student and organizational variables that independently contribute to students' development of academic competence during the first year of college (Reason et al., 2006).
+
+Various performance indicators related to course climate were significantly related to academic competence, such as:
+
+- **Supporting All Students:** Students' perceptions of the supportiveness of the institutional environment ($p < .001$)
+- **Cognitive Engagement:** Students' perceptions that coursework emphasizes higher- order cognitive skills ($p < .001$)
+- **Academic Engagement:** How often students actively engage in class activities and time spent preparing for class ($p < .001$)
+- **Diverse Interactions:** Frequency of, and institutional emphasis placed upon, students' interactions with diverse others and ideas ($p < .001$)
+
+!!! note ""
+    #### Utility-Value Intervention 
+
+    Researchers tested the long-term effects of a utility-value intervention administered in a gateway chemistry course [asher2023utility](@cite). A utility-value intervention is a task designed to help students recognize the practical significance and usefulness of the content they are learning, linking it to their own goals, interests, and future aspirations.
+
+    In a randomized controlled trial ($N = 2505$), students either wrote three essays in a Chemistry course about course content and its personal relevance (Intervention), or wrote three control essays (Control).
+    
+    The figure below shows the percentage of underrepresented minority (URM) students, by condition, who were classified as probable or declared STEM majors over time.
+
+    ![](assets/effects-of-a-utility-value-intervention-on-urm-students.svg)
+
+    - (A) Reported STEM major at beginning and end of intervention semester. The end-of-semester intervention effect was $p = 0.145$.
+    - (B) Took 2 or more STEM courses in each subsequent semester. The effect of the intervention on course taking in the Fall of Year 2 was $p = 0.049$. In the Spring of Year 2, the effect was $p = 0.149$. And in the Fall of Year 3, the effect was $p = 0.007$.
+    - (C) Majored in STEM, end of year 3. This was the primary outcome variable. The intervention effect was $p = 0.020$.
+
+    True or False? Overall, the utility-value intervention led to positive outcomes for URM student retention in STEM.
+
+!!! tip ""
+
+    Commit to one or more mechanisms that will help you create the course climate you want.
 
 ---
 ## An AJEDI Lexicon for Course Design
