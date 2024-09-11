@@ -779,6 +779,29 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
 ### Time to start building your course schedule
 
 
+
+### One Example: CUREs
+
+Course-based Undergraduate Research Experiences (CUREs) increase:
+
+- Research skills and project ownership
+- Confidence, self-efficacy, and belonging in STEM
+- Retention in STEM
+
+CUREs normalize failure by:
+
+- Teaching about scientific failures
+- Showing how to troubleshoot experiments
+- Creating opportunities to share personal failures with colleagues
+
+**Just one CURE in college can increase persistence in STEM.**
+
+!!! tip ""
+    #### Commit to Action: Engage the Facets of Science
+
+    *Answer in your workbook:* Even if you don’t teach a CURE, what is one concrete action you can commit to taking to ensure students engage with the facets of science?
+
+
 ---
 ## An AJEDI Lexicon for Course Design
 
