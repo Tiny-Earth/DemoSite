@@ -31,7 +31,7 @@ By taking this module, we hope you will be able to...
 Scientific teaching is both the *teaching of science* and the *science of teaching*. An instructor who practices scientific teaching:
 
 - Engages students in authentic practices of science
-- Approaches their teaching with the spirit of scientific research.
+- Approaches their teaching with the spirit of scientific research
 
 Scientific teaching combines intentional decisions with iterative improvements to create inclusive learning experiences, which, in turn, support students learning science.
 
@@ -107,7 +107,7 @@ Scientific teaching is needed because inequities plague higher education and aff
 
 Increasing diversity in STEM requires drawing on a larger talent pool that includes the many historically excluded groups of people. Diversity of the future workforce should match the demographics of the world’s citizens, take advantage of underutilized talent in all demographic groups, and make STEM careers readily available to people of all backgrounds.
 
-Yet inequities continue to plague college science education, denying opportunities to students who identify as members of underrepresented racial or ethnic minorities, women, LGBTQIA+, or first-generation in college. Collectively, we refer to these and other underrepresented groups as historically excluded communities (HECs).
+Yet inequities in college science education continue to deny opportunities to students who identify as members of underrepresented racial or ethnic minorities, women, LGBTQIA+, or first-generation in college. Collectively, we refer to these and other underrepresented groups as historically excluded communities (HECs).
 
 To achieve an equitable educational enterprise, we must address the structural, individual, intentional, and unintentional biases that discourage HEC students from pursuing STEM.
 
@@ -115,19 +115,19 @@ To achieve an equitable educational enterprise, we must address the structural, 
 <!-- TODO what are the full citation used in the below sentence? -->
 ```
 
-Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Theobald et al., 2022, Bensimon 2005).
+Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Bensimon, 2005, p. 99).
 
 ### What the US Reports Say about STEM Education
 
-Most US science is taught as lectures that are dominated by facts rather than principles and ways of thinking [stains_anatomy_2018](@cite). Sadly, substantial evidence shows that lecturing alone is a relatively ineffective way of teaching, and retention from lectures is poor. But report after report shows there are better ways to teach science, to teach scientifically, and that these approaches also serve to make science education more equitable:
+Most US science is taught as lectures that are dominated by facts rather than principles and ways of thinking [stains_anatomy_2018](@cite). Substantial evidence shows that lecturing alone is a relatively ineffective way of teaching, and retention from lectures is poor. But reports show there are better ways to teach science, to teach scientifically, and that these approaches also serve to make science education more equitable:
 
 ```@raw html
 <!-- TODO what are the full citations used in the points below? -->
 ```
 
--  In *Science for All*, the American Association for the Advancement of Science (1989) called for a scientifically literate public and charged higher educators with teaching scientific habits of mind. They noted that employers were demanding more efficient and effective employees with problem-solving capabilities, the ability to work in teams, and analytical skills, yet students were unprepared for these demands.
+-  In *Science for All* (1989), the American Association for the Advancement of Science called for a scientifically literate public and charged higher educators with teaching scientific habits of mind. They noted that employers were demanding more efficient and effective employees with problem-solving capabilities, the ability to work in teams, and analytical skills, yet students were unprepared for these demands.
 - In 2003, the National Research Council published *Bio2010*, a report recommending that curriculum better reflect the nature of science as a dynamic, interdisciplinary, and rapidly changing frontier.
-- *Vision and Change* (2008) connected science goals with faculty development practices, and called for more research in STEM higher education.
+- *Vision and Change* (2008) connected science goals with faculty development practices and called for more research in STEM higher education.
 - *Engage to Excel* (2012) purported that improving undergraduate STEM education to address these weaknesses is a national imperative to address STEM workforce shortages.
 - A consensus report from the National Academies on undergraduate STEM education (2018) identified that improving the quality and impact of undergraduate STEM education requires progress on three goals [dibner2018indicators](@cite):
     1. Increase students’ competence in STEM concepts and skills by engaging them in evidence-based STEM educational practices and programs.
@@ -143,7 +143,7 @@ The problems of exclusion and a lack of a diverse, prepared workforce is not uni
 ```
 
 - **India:** The Annual Status of Education Report (ASER 2022) found serious structural inequities with respect to college STEM. Only $18\%$ of schools had a functional computer lab. More than $9\%$ STEM instructor positions were vacant, reaching $25\%$ in some regions. Outdated teaching methods, lack of computing infrastructure, and resource deficits worsen the situation, especially in rural areas. The report recommends a focus on resources to support quality STEM education around critical thinking, multidisciplinary learning, and strong foundations in scientific discovery. It aims to prepare over 250 million young Indians across socioeconomic backgrounds for 21st century jobs and equip them to solve complex real-world problems through technology.
-- **Africa:** A 2020 UN report showed that only $21.7\%$ of African STEM students graduate, compared with $24.3\%$ in Europe and Central Asia, and $25.6\%$ in the USA. Africa's education training programs suffer from inequalities and exclusion at all levels: education expenditures, inadequate teacher development programs, limited access to electricity and internet, and inadequate infrastructure for STEM teaching and learning. The challenges will be not only to improve science curriculum through evidence-based practices, but also to secure the basic resources needed to support instructors and colleges.
+- **Africa:** A 2020 UN report showed that only $21.7\%$ of African STEM students graduate, compared with $24.3\%$ in Europe and Central Asia, and $25.6\%$ in the USA. Africa's education training programs suffer from inequalities and exclusion at all levels: education expenditures, inadequate teacher development programs, limited access to electricity and internet, and inadequate infrastructure for STEM teaching and learning. The challenges lie in improving science curriculum through evidence-based practices and also in ensuring the availability of basic resources to support both instructors and educational institutions.
 - **UK:** In a recent (2022-23) report on Diversity and Inclusion in STEM, the UK government identified several structural inequities, calling for raising levels of diversity and inclusion in STEM education, while also mentioning the importance of measuring change.
 
 ### STEM has an Equity Problem in US Higher Education
@@ -160,7 +160,7 @@ Why? In extensive interviews of college students enrolled in STEM majors, $90\%$
 
 ### Discriminatory Practices in STEM Education
 
-We believe it is crucial to integrate inclusive principles into educational spaces in order to create inclusive and equitable learning environments for all students. The U.S. education system currently and historically uses racist and discriminatory practices to prevent certain communities from having access to and benefiting from the best possible education.
+It is crucial to integrate inclusive principles into educational spaces in order to create inclusive and equitable learning environments for all students. The U.S. education system currently and historically uses racist and discriminatory practices to prevent certain communities from having access to and benefiting from the best possible education.
 
 ```@raw html
 <!--
@@ -211,7 +211,7 @@ Change can be achieved at many levels. Policy decisions can be improved when pol
             <td>
                 <ul>
                     <li>Acquire training in evidence-based teaching</li>
-                    <li>Teaching existing CUREs or develop new ones</li>
+                    <li>Teach existing CUREs or develop new ones</li>
                 </ul>
             </td>
         </tr>
@@ -227,7 +227,7 @@ Change can be achieved at many levels. Policy decisions can be improved when pol
             <th scope="row">Expand Relevance to Diverse Groups</th>
             <td>
                 <ul>
-                    <li>Include impacts of STEM on society and diverse models in course content and public art</li>
+                    <li>Ensure that the science building and classroom spaces are accessible and welcoming, such as displaying diverse art and using inclusive names for rooms</li>
                 </ul>
             </td>
         </tr>
@@ -250,7 +250,7 @@ Change can be achieved at many levels. Policy decisions can be improved when pol
 !!! compat ""
     - Explain why it is important for students to learn the facets of science.
     - Examine how your current course schedule engages students in the facets of science.
-    - Commit to the facets of science you want your future course schedule to embody.
+    - Commit to the facets of science you want your course schedule to embody.
     - Understand key concepts and principles:
         - The facets of science include much more than the facts of science.
         - The facets of science include thinking like a scientist, using the tools of a scientist, and communicating like a scientist.
@@ -260,7 +260,7 @@ Good science is inclusive science.
 
 *Scientific teaching is needed because science is important.*
 
-The rapid expansion of many scientific frontiers places the onus on science educators to teach efficiently and effectively, assuring that students engage with a vast amount of knowledge, learn how to interact with and evaluate it, and retain much of it. Whether they major in biology, art history, math, or elementary education, no one should not complete a college education without understanding basic principles and facts about the world around them. Equally important, our students need to emerge with an understanding of the facets of science so they can appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them. The need to solve global problems and navigate the difference between evidence-based claims and opinions is becoming increasingly important.
+The rapid expansion of many scientific frontiers places the onus on science educators to teach efficiently and effectively, assuring that students engage with a vast amount of knowledge, learn how to interact with and evaluate it, and retain much of it. Whether they major in biology, art history, math, or elementary education, everyone should complete a college education without understanding basic principles and facts about the world around them. Equally important, our students need to emerge with an understanding of the facets of science so they can appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them. The need to solve global problems and navigate the difference between evidence-based claims and opinions is becoming increasingly important.
 
 *Scientific teaching is needed because diversity is important to science.*
 
@@ -286,7 +286,7 @@ In order to achieve these goals, we need to teach in a way that intentionally en
     <!-- TODO where is the full citation used below? -->
     ```
 
-    The facets of science listed on the previous slide can be categorized into three categories (Brownell & Kloser, 2015):
+    The facets of science listed above can be organized into three categories (Brownell & Kloser, 2015):
 
     - Thinking and feeling like a scientist
     - Communicating like a scientist
@@ -405,7 +405,7 @@ To integrate science authentically into teaching requires moving beyond a mindse
 
 This transition involves stepping away from a checklist of topics to cover and instead identifying overarching concepts and broad themes that help students to organize complex information and deepen their understanding. It also considers how students integrate scientific knowledge with authentic practices that represent the facets of science and acknowledge their diverse identities, beliefs, and experiences.
 
-This shift doesn’t mean students don’t learn facts; it means they learn to organize their thinking while learning them.
+This shift doesn’t mean students don’t learn facts; it means they learn to organize their thinking while learning them and that they can apply what they have learned in authentic contexts.
 
 ### Growth mindset opportunity!
 
@@ -444,13 +444,13 @@ Like science, these teaching principles take time to practice and implement. Als
 
 !!! compat ""
     - Examine the parallels between your scientific research and your teaching approaches.
-    - Commit to one action you could take to address each of the five dimensions of diversity and equity in your course.
+    - Commit to one action you could take to address each of the five dimensions of inclusive teaching in your course.
     - Understand key concepts and principles:
         - Good teaching embodies five dimensions of diversity and equity: students, instructors, curriculum, pedagogy, and the classroom climate and group dynamics.
-        - These dimensions can work together to create a cohesive learning experience.
+        - These dimensions work together to create a cohesive learning experience.
         - Instructors do not need to be educational experts to be good teachers, but it helps to use methods that are (1) based on solid theory, (2) tested and evaluated in the classroom, and (3) organized by a logical framework.
 
-![Illustration of the five dimensions of inclusive teaching: Instructors, Pedagogy, Students, Curriculum, and Climate. Each dimension connects to the others, with Climate playing a central or moderating role.](assets/five-dimensions-of-inclusive-teaching.svg)
+![Illustration of the five dimensions of inclusive teaching: Instructors, Pedagogy, Students, Curriculum, and Climate. Each dimension connects to the others, with Climate playing a central, moderating role.](assets/five-dimensions-of-inclusive-teaching.svg)
 
 Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
 
@@ -463,7 +463,7 @@ There are five dimensions to inclusive teaching:
 - **Climate--How the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
 
 !!! note ""
-    #### Reflecting Strengths and Blindspots
+    #### Reflecting on Strengths and Blindspots
 
     Which dimension(s) do you tend to think about most naturally in your teaching? Which dimension(s) will require more attention for you to consider?
 
@@ -478,10 +478,10 @@ There are five dimensions to inclusive teaching:
     - Describe how scientific teaching leverages the facets of science for students for learning and for instructors while teaching.
     - Commit to one action you could take to put scientific teaching in practice with respect to students learning science and for you, the instructor, teaching science.
     - Understand key concepts and principles:
-        - Scientific teaching offers a natural structure for teaching that parallels our scientific research, as well as the scientific practices we are asking our students to learn.
+        - Scientific teaching offers a natural structure for teaching that parallels  scientific research, as well as the scientific practices we are asking our students to learn.
         - The STC focuses on what instructors have agency to change: The classroom.
 
-Scientific teaching offers a natural structure for teaching that parallels our scientific research, as well as the scientific practices we are asking our students to learn. 
+Scientific teaching offers a natural structure for teaching that parallels  scientific research, as well as the scientific practices we are asking our students to learn. 
 
 ```@raw html
 <figure>
