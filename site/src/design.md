@@ -162,8 +162,7 @@ Only you can know what your own commitments are and the ways they:
         - Good teaching embodies five dimensions of inclusion: students, instructors, curriculum, pedagogy, and the classroom climate.
         - These dimensions can work together to create a cohesive learning experience.
         - Instructors do not need to be educational experts to be good teachers, but it helps to use methods that are (1) based on solid theory, (2) tested and evaluated in the classroom, and (3) organized by a logical framework.
--->
-```
+
 
 ### Five Dimensions of Inclusive Teaching
 
@@ -196,8 +195,8 @@ As we design a course, we should intentionally include ways for students to enga
 - **Ownership:** Develop a sense of responsibility for and personal connection to  research findings
 - **Relevance:** Apply the outcomes and applications of scientific discoveries to real world-contexts
 
-```@raw html
-<!--
+
+<!-
 !!! tip ""
 
     Which dimension(s) of the inclusive teaching framework do you tend to think about most naturally in your teaching? 
@@ -205,6 +204,8 @@ As we design a course, we should intentionally include ways for students to enga
     Which facets of science do you already explicitly include in your course? 
 
     Describe the structures you already have in place, and document areas in which you would like to improve.
+->
+
 -->
 ```
 
