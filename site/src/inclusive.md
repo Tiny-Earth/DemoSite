@@ -80,6 +80,23 @@ Knowing more about our students helps us develop effective learning goals and te
 
 ### The Instructor Dimension
 
+```@raw html
+<!--
+### Share Your Identity
+
+!!! compat ""    
+    - Examine your identities.
+    - Predict how instructor identities influence student outcomes.
+    - Decide which identities to share.
+    - Understand key concepts and principles:
+        - Your identity influences the classroom learning environment.
+        - The first step is to be aware of them.
+
+ `TODO wheres the data?` -->
+```
+
+    `TODO: Add scientific/ STEM/ disciplinary identity.`
+
 **Social identity** is defined as the sense of self that comes from membership in a social group (or groups) along with the "value and emotional significance attached to that membership" (Tajfel, 1981. p. 255). For example, identifying as queer also means identifying with current and historical discrimination against members of the queer community.
 
 Social identity is not always fixed and can change over time and between contexts (Gee, 2000).
@@ -136,22 +153,6 @@ Social identities and instructor's professional identities (Rus et al., 2013; Pe
         </tr>
     </table>
 </figure>
-```
-
-
-```@raw html
-<!--
-### Share Your Identity
-
-!!! compat ""    
-    - Examine your identities.
-    - Predict how instructor identities influence student outcomes.
-    - Decide which identities to share.
-    - Understand key concepts and principles:
-        - Your identity influences the classroom learning environment.
-        - The first step is to be aware of them.
-
- `TODO wheres the data?` -->
 ```
 
 ### Impacts of Identity
@@ -220,6 +221,127 @@ Your identity matters. Consider the identities that you bring to the learning en
 
     *Answer in your workbook:* What is one concrete action you could take toward sharing more about your own identity in your courses?
 
+### Address Biases and Assumptions
+
+!!! compat ""    
+    - Examine your biases and assumptions.
+    - Predict how biases and assumptions influence student outcomes.
+    - Commit to one action you could take to mitigate the negative impacts of biases and assumptions in your course.
+    - Understand key concepts and principles:
+        - Biases and assumptions influence the classroom learning environment.
+        - We all hold biases and assumptions.
+        - Biases and assumptions are very difficult to change, but the first step is to be aware of them.
+
+Everyone holds biases, assumptions, and stereotypes about others, which can influence outcomes. For example, biases and assumptions affect how we rate people, which can have consequences for hiring decisions and advancement.
+
+!!! note ""
+    #### Hiring Studies
+
+    In one study, $127$ biologists, chemists, and physicists at six top US research universities received a student resume that was randomly assigned a gendered name: “Jennifer” (female) or “John” (male). Otherwise, the applications were identical, and each evaluator saw only one version of it. Evaluators then reviewed the credentials of the applicant and decided whether to hire or not.
+
+    The researchers asked the scientists questions about the student candidate:
+
+    - Would you hire them as a lab manager?
+    - Do they seem competent?
+    - Do you see potential for mentoring?
+    - What salary would you offer?
+
+    What results would you predict for that study?
+
+    How do you think the gender, field, age, or tenure status of faculty making hiring decisions mattered?
+
+    !!! details "Click here to find out what happened!"
+
+        How do the results below match your predictions?
+
+        ![](assets/would-jennifer-or-john-be-hired.svg)
+
+        ![](assets/would-jennifer-or-john-receive-mentoring.svg)
+
+        ![](assets/how-much-would-jennifer-or-john-be-paid.svg)
+
+        ![](assets/did-the-gender-of-the-faculty-affect-hiring.svg)
+
+        From the paper:
+
+        > Faculty gender did not affect bias. Tests of simple effects (all $d < 0.33$) indicated that female faculty participants did not rate the female student as more competent [$t(62) = 0.06$, $P = 0.95$] or hireable [$t(62) = 0.41$, $P = 0.69$] than did male faculty. Female faculty also did not offer more mentoring [$t(62) = 0.29$, $P = 0.77$] or a higher salary [$t(61) = 1.14$, $P = 0.26$] to the female student than did their male colleagues. In addition, faculty participants’ scientific field, age, and tenure status had no effect (all $P > 0.53$). Thus, the bias appears pervasive among faculty and is not limited to a certain demographic subgroup [Moss-Racusin2012-cm](@cite).
+
+        Images source: [Moss-Racusin2012-cm](@cite)
+
+### Reactions to evidence of bias
+
+But you’re a scientist, so you’re not biased, right?
+
+When confronted with the idea that scientists are biased, we have heard:
+
+- “Women and minorities are just too sensitive.”
+- “It’s not like that here. Probably it’s like that elsewhere…in Sweden, in the Midwest, at Harvard, at the state university, at the community college, in the Economics Department…”
+- “The sample size in the 1988 study was too small.”
+- “We’re trained to be objective, so bias studies don’t apply to us.”
+
+Yet study after study demonstrates that we *all* carry biases, assumptions, and stereotypes. 
+
+### Assumptions Matter
+
+```@raw html
+<!-- `TODO are there citations for this?` -->
+```
+
+Our biases, assumptions, and stereotypes about others can influence outcomes in college or for hiring decisions and advancement.
+
+**Rating Verbal Skills**
+
+When reviewers evaluated a candidate’s written text, their ratings of the candidate’s verbal skills were influenced by the author’s demographics. For example, when reviewers were informed that an African American person had written the text, they rated the candidate’s verbal skills lower compared to when they were told a white person had written it. Similarly, when reviewers were told that a man wrote the text, they evaluated the candidate’s skills more negatively than when they were told a woman wrote it.
+
+**More Hiring Studies**
+
+Dozens of studies have compared hiring decisions with the same setup…
+
+- Identical applications with a male or female name.
+- Evaluators review the applicant’s credentials and decide whether or not to hire them. 
+
+…and they all yield the same result: Evaluators are substantially more likely to hire if an applicant has a man’s name.
+
+**This result has not changed for $50$ years.**
+
+Beyond gender: Studies with members of groups other than white, heterosexual, cis-gendered, able-bodied men yield similar results.
+
+!!! note ""
+    #### Reflection on Bias in STEM
+
+    What other biases have you seen or experienced in STEM higher education? 
+
+### Actions to Mitigate Bias
+
+```@raw html
+<!-- `TODO wheres the data?` -->
+```
+
+Awareness:
+
+- **Catch yourself:** Whose answers do you dismiss or talk over? When a woman or person of color responds, what initial reaction do you have to their point of view?
+- **Collect data:** How often do you call on the students in the front row? Which demographic groups tend to get the highest grades? Which students do you give constructive feedback?
+- **Catch others:** When do they dismiss or talk over someone?
+
+Actions:
+
+- **Call out:** When someone dismisses another, use your voice to return the conversation to the dismissed person. “Jasmine has a point. I’d like to hear more.” “You are restating what Amir said.” 
+- **Be an ally:** Use preferred pronouns and gender-neutral pronouns. Add a statement about bias and assumptions to your syllabus. Complete the [Inclusive STEM Teaching Project course](https://www.inclusivestemteaching.org/). If you are ready to be an ally, complete [Safe Zone training](https://thesafezoneproject.com/learn/) and put a Safe Zone sticker on your office door. 
+- **Grade fairly:** Remove subjectivity in grading due to bias by using a well-defined rubric that makes clear how competencies are scored. Instructors can also grade anonymously, ranodmize the order of grading, and grade question by question instead of assignment by assignment.
+
+Set a tone for your class and reinforce it:
+
+- **Signal expectations and values:** “In this class, everyone’s voice matters.”
+- **Find out more:** Ask students what they need and want. 
+- **Equip students:** Provide them with the language and tools they need to mitigate bias.
+- **Check in:** Do a “bias check” every month. “Have you seen an act of bias or assumptions in this class with negative repercussions? Was it resolved? What needs to be addressed?” Act on the requests.
+
+!!! tip ""
+    #### Commit to Action: Mitigate Bias
+
+    *Answer in your workbook:* What is one concrete action you can commit to taking to mitigate the negative impacts of biases and assumptions in your course?
+
+
 ### The Student Dimension
 
 ```@raw html
@@ -235,10 +357,259 @@ You might have students…
 - Find an image online that represents what they want to get out of your course and share with the whole class, for example through Jamboard or Padlet.
 - Share one thing science-related fact about their lives (favorite science fact, most science-y hobby, why they are interested in science).
 
+### Create a sense of belonging in STEM
+
+!!! compat ""    
+    - Examine how your course might create or preclude a sense of belonging.
+    - Predict how belonging influences student outcomes.
+    - Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
+    - Understand key concepts and principles:
+        - The classroom learning environment influences the extent to which student feel a sense of belonging.
+        - Belonging affects outcomes and persistence in STEM.
+
+Historically excluded communities (HECs) refer to groups of individuals who have traditionally been denied full rights, privileges, and opportunities in STEM education, including but not limited to women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students. These groups have traditionally been underrepresented or excluded from participating in STEM. See also [Asai2020-bb](@cite).
+
+The differential pattern of exclusion from STEM affects students not only according to race and ethnicity; talented college students from HECs leave at higher rates [thiry_talking_2019](@cite). 
+
+Most of those who leave have the interest, confidence, and aptitude to be successful in STEM, but early classroom experiences can dampen their interest and actively exclude them from persisting [thiry_talking_2019,estrada_influence_2019](@cite).
+
+Their departures after gateway STEM courses represent a major talent drain from the system. 
+
+To achieve an equitable educational enterprise, we must address the structural, individual, intentional, and unintentional biases that discourage HEC students from pursuing STEM.
+
+### Actions to foster belonging in STEM
+
+Several interventions have demonstrated promise in increasing college students’ persistence in STEM [estrada_toward_2011](@cite). These interventions often have especially positive effects on HEC students [evans_functional_2021,hurtado_diversifying_2009,olson_expression-based_2019,rodenbusch_early_2016,shuster_implementing_2019,waddell_flying_2021](@cite).
+
+```@raw html
+<!-- `TODO use full sentence for these bullet points` -->
+```
+
+**Discrete interventions** are defined as individual activities embedded within a course. Example interventions that have been shown to lead to positive student outcomes include:
+
+- Active-learning strategies [freeman_active_2014](@cite)
+- Statements that increase students’ sense of belonging with microaffirmations [estrada_influence_2019](@cite)
+- Activities that increase resilience by reframing social adversity as common and transient [walton_brief_2011](@cite)
+- Exercises that demonstrate the relevance of a course by making explicit its utility value [harackiewicz_closing_2016](@cite) (Asher et al., 2023; Harackiewicz et al., 2016).
+
+**Systemic interventions** modify overall course structure. Some approaches that have proven effective include:
+
+- High-structure course design [freeman_increased_2011,theobald_active_2020](@cite)
+- Course-based undergraduate research experiences (CUREs) [aikens_race_2017,dolan_guide_2021,hurtado_diversifying_2009](@cite)
+
+### A framework to gauge belonging
+
+The Tripartite Integration Model of Social Influence (TIMSI) provides a framework for understanding the psychological mechanisms linking educational experiences and persistence outcomes [estrada_toward_2011](@cite). The TIMSI describes three orientations that predict persistence in STEM. 
+
+- **Scientific self-efficacy** indicates that a student feels capable of performing the actions needed to be successful in a STEM course, major, or career. 
+- **Scientific identity** indicates that a student perceives science as part of their identity and feels they belong to a scientific community. 
+- **Students internalize scientific values** when they authentically agree with the values of the scientific community, such as building new knowledge to solve global challenges, the thrill of discovery, and the importance of discourse.
+
+According to the TIMSI, each of these three factors — independently and collectively — contribute to social integration into STEM communities. Social integration (or persistence) is defined as the intent to pursue further academic or career goals in STEM, or as behaviors, such as submitting applications for graduate school.
+
 !!! tip ""
     #### Commit to Action: Promote Belonging
 
     *Answer in your workbook:* What is one discrete and one systemic action you can commit to taking to promote a positive sense of belonging in your course?
+
+
+### The Curriculum Dimension
+
+!!! compat ""
+    - Considering the principles of Universal Design, determine how you will make your course accessible and inclusive.
+
+```@raw html
+<!--
+
+By adopting the principles of Universal Design, an instructor can build an inclusive course from the outset.
+
+**Universal Design for Learning (UDL)** is a *framework for designing and delivering flexible, inclusive, and accessible learning experiences that can be customized to meet the needs of all learners*, regardless of their abilities, backgrounds, or learning preferences (CAST, 2018). It is rooted in the principles of **Universal Design**, which is an approach to creating products, environments, and experiences that are **usable by as many people as possible without the need for adaptation or specialized design**. UDL is based on the idea that learning should be engaging, relevant, and responsive to individual needs. Importantly, **UDL aims to change the design of the environment rather than to change the learner.**
+
+**Universal Design for Learning (UDL)** *places accessibility at the forefront and leverages various AJEDI principles* for improving teaching and learning for all students. To help implement UDL in the classroom, the Center for Applied Special Technology (CAST) developed the **UDL Guidelines** (CAST, 2018). These are *a set of principles and strategies that aim to provide equal and inclusive access to learning for all students*, including those with disabilities or diverse learning styles. The guidelines provide specific recommendations for creating flexible and engaging learning environments and materials that can be customized to meet the diverse needs and preferences of all students.
+
+The UDL Guidelines encompass **three key principles:** providing multiple means of (1) Engagement, (2) Representation, and (3) Action and Expression.
+
+![](https://raw.githubusercontent.com/marzwick/images/main/cs10.jpeg)
+
+### UDL Guidelines: Multiple Means of Representation  
+
+In this module, we will be focusing on the principle of providing **multiple means of Representation.** This principle outlines strategies for creating course materials that provide options for perception, language and symbols, and comprehension.
+- **Perception:** *Present information in a variety of formats*, such as visual, auditory, and tactile. Instructors can use this principle to ensure that textbooks, videos, lectures, and other course materials are accessible to all students, including those with disabilities or those who process information differently. By incorporating visual aids, videos, diagrams, and other interactive media, instructors provide multiple ways of representing important information and allow students to choose the means that work best for them.
+- **Language & Symbols:** *Use clear, concise, and accessible language and symbols and avoid language or symbols that may be exclusive, biased, or offensive.* This guideline aims to promote understanding and reduce barriers to learning by selecting language and symbols that are familiar and meaningful to all learners. This can be achieved by providing captioning, transcripts, and audio descriptions for multimedia content, incorporating pictures or symbols to represent concepts, and avoiding jargon or complex language whenever possible, and providing alternative means of representation for students with different cultural and linguistic backgrounds.
+- **Comprehension:** *Incorporate a variety of instructional techniques to ensure that students can access, process, and assimilate new information and knowledge.* Instructors need to provide supports and scaffold curriculum to help students comprehend the material. This can include activating or providing prior knowledge; providing explicit cues or prompts to emphasize key elements, concepts, and features; embedding scaffolds and feedback to organize and process information; and incorporating opportunities for students to apply their knowledge to new contexts.
+
+For more information on the other two principles, visit the [CAST UDL website](https://udlguidelines.cast.org/).
+
+-->
+```
+
+
+### Structuring for Accessibility
+
+Providing access to resources is **fundamental to addressing inequities**, because it ensures that course structures, artifacts, and the environment do not preclude anyone from learning. However, *the mere existence of a resource* **does not by itself lead to equitable and inclusive outcomes.**
+
+**Accessibility** refers to the *design and creation of products, devices, environments, and content that can be used and accessed by all people*, including those with disabilities or other impairments. The goal of accessibility is to **provide equal access and opportunities for everyone, regardless of their abilities**, so that they can participate fully in all aspects of society. This includes considerations such as physical, digital, and social accessibility.
+
+In the context of education, accessibility refers to the practice of creating learning environments, resources, and technologies that allow all students to access and engage with academic content and participate in learning activities.
+
+- **Physical accessibility:** Make physical spaces and materials accessible, such as by providing wheelchair ramps, captioning videos, and offering alternative formats of textbooks. 
+- **Digital accessibility:** Design digital content and technologies that are compatible with assistive technologies, such as screen readers and text-to-speech software.
+- **Social accessibility:** Use inclusive language, accommodate different communication styles.
+
+### The Need for Accessibility
+
+Students with disabilities face many challenges when seeking accommodations in higher education (Gin et al., 2020).
+
+![](https://raw.githubusercontent.com/marzwick/images/main/cs24.png)
+
+An accessible course design **reduces the need for accommodation, alleviates the burden and stigma** associated with students seeking accommodations, **saves time** for educators, and **diminishes the cost** associated with providing individual accommodations. Importantly, accessibility **improves educational outcomes for all learners** by making sure that educational materials and resources are available and usable by everyone, regardless of their individual needs.
+
+Universal Design for Learning (UDL) provides a framework that guides educators to create accessible course materials and flexible and inclusive learning experiences that meet the needs of all learners, regardless of their abilities or background. Why build a course with UDL at the forefront instead of accommodating student needs as they arise? Consider this passage from Rose and colleagues (2006):
+
+>"Such an environmental view fosters solutions that **address the limitations of the learning environment** rather than the limitations of the student, while making the student less of a problem, and **more a part of diversity within the course**. The advantage of such universal solutions is that, as with such approaches in built environments, they are likely to be useful for many individuals; **built once, applied many times.**" (p. 150)
+
+*Individuals with disabilities are highly underrepresented in STEM degree attainment and STEM employment.*
+
+Individuals with disabilities enter postsecondary education at a slightly higher percentage in which they are represented in the general population. Additionally, individuals with disabilities enroll in STEM field majors at the same percentage as individuals without disabilities.
+
+![](https://raw.githubusercontent.com/marzwick/images/main/cs30.png)
+
+!!! note ""
+    #### Invisible Barriers and Inequity
+
+    The image below shows an instructor making an announcement about office hours, and the different responses of his students. What unintentional inequities are revealed in this interaction, and how would you try to offset them? (Yee, 2016)
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs25.png)
+
+!!! note ""    
+    #### Is it Accessible?
+
+    For each of the following pictures and accompanying statements, list the considerations an instructor should address to ensure all students have access to learning. Think about barriers and issues related to the physical space, learning, sensory, communication, chronic health, and mental health.
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs26.png)
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs27.png)
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs28.png)
+
+### The Impact of Accessibility
+
+Studies have shown that using UDL principles and teaching strategies **positively affect students' perception, performance, and engagement in learning.**
+
+![](https://raw.githubusercontent.com/marzwick/images/main/cs31.png)
+
+Structuring a course using UDL and AJEDI principles positively impacts students, increasing engagement, and empowering students. 
+
+![](https://raw.githubusercontent.com/marzwick/images/main/cs32.png)
+
+### Show Me the Data!
+
+To determine the possible impact of equity-oriented pedagogy on student learning, researchers recruited $54$ undergraduate students for a treatment group and $59$ students for a control. Equity-oriented pedagogy was defined as using specific components of democratic, assessment-driven, strengths-based, multimodal, and game-based pedagogies. Instructors in the treatment group applied the equity-oriented pedagogy, using student data and feedback to adjust instruction, while instructors for the control group used a standard pedagogy and no data/feedback.
+
+The researchers found statistically **significant differences on the final assessment scores** in favor of students who were in the treatment classroom ($p < .0001$). Students in each group answered questions before each lesson (pre) and at the end of each lesson (post). These scores each week are shown in Figure 1. **Students in the treatment group consistently outperformed those in the control group** (Phuong et al., 2017).
+
+![](https://raw.githubusercontent.com/marzwick/images/main/cs33.png)
+
+!!! note "" 
+    **Evaluate the Data Yourself**
+
+    A curriculum called i-NATURE (Indigenous integration of Aquatic sciences and Traditional Ecological Knowledge for Undergraduate culturally Responsive Education) is a culturally relevant, project-, and place-based curriculum that includes extensive applied research experience contextualized for specific Indigenous communities. Researchers tested whether implementation of the i-NATURE curriculum improved retention and learning outcomes for the students who participated (Alexiades et al., 2021).
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs34.png)
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs35.png)
+
+    What conclusions can you draw from the data shown above? (Check all that apply.)
+
+    - The i-NATURE program had no effect on annual percentage retention or mean course GPA
+    - There is a statistically significant difference in mean course GPA for students after participating in the i-NATURE program
+    - Participating in the i-NATURE program did not significantly change the annual percentage retained
+    - Participating in the i-NATURE program did not significantly change the mean GPA of students
+    - There was 100% retention in the Environmental Science and Studies Programs for students participating in the i-NATURE program
+
+!!! tip ""
+    #### Commit to Action: UDL
+
+    *Answer in your workbook:* Describe one specific aspect of universal design that you can commit to implementing in your course to enhance accessibility.
+
+### Connect Facets of Science with Inclusive Learning
+
+!!! compat ""    
+    - Examine how your course provides students with access to the facets of science.
+    - Predict how experiencing the facets of science influences student outcomes.
+    - Commit to one action you could take to ensure students engage in the facets of science. 
+    - Understand key concepts and principles
+        - The facets of science provide a framework for engaging students in learning science authentically.
+        - Students who engage in authentic science practices are more likely to persist in STEM.
+        - Just one CURE in college can increase persistence in STEM.
+
+When students actively participate in the facets of science, we see:
+
+- Improved scientific self-identity and efficacy
+- Increased belonging
+- Persistence in STEM degrees and careers
+- Increased STEM accessibility for students with health conditions or impairments
+- Positive gains for all students with additional gains for students who are members of HEC groups
+
+These outcomes lead to diversity in the STEM workforce and and informed citizenry.
+
+Source: [estrada_toward_2011](@cite).
+
+### Preparing for the first day of class
+
+Instructors might consider collaborating with various colleagues or resources as they design their course to meet accessibility and UDL guidelines. For example, instructors could consult with:
+
+- Staff at the university's center for teaching and learning
+- Staff at the university's disability services office Diversity, Equity, and Inclusion (DEI) specialists
+- Teaching assistants
+- Technology specialists
+
+!!! note ""
+    #### Evaluate the way this instructor uses UDL principles on their first day of class
+    
+    Review the following slides from an introductory biology class for nonmajors (asynchronous and online). What elements from the UDL Guidelines are present? Additionally, how could the slides be improved?
+
+    `TODO: add slides`
+
+### The Pedagogy Dimension
+
+    `TODO: This section needs to be broader.`
+
+**Instructor immediacy** is "the extent to which communication behaviors enhance closeness to and nonverbal interaction with another" (Mehrabian. 1969, p. 203) as well as behaviors that reduce distance between teacher and student (Andersen, 1979).
+
+**Instructor presence** is the degree to which instructors are actively involved in the learning environment, including how the course is designed, organized, and managed as well as how the learning is facilitated (Garrison et al., 1999).
+
+Research has shown many positive outcomes from engaging in instructor immediacy and presence practices:
+
+- There is a significant relationship between instructor immediacy and student affective and cognitive learning (Andersen et al., 1981).
+- When instructors exhibit behaviors related to instructor presence, students report high levels of learning and community (Shea et al., 2006).
+- Student affective learning, cognition, and motivation are significantly and positively correlated to instructor immediacy and presence (Baker, 2010).
+
+Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh & Hwang. 2006) include:
+
+- Instructor Immediacy:
+    - Maintain closer physical distance
+    - Use direct body orientation
+    - Use eye contact
+    - Engage in positive body movements such as nods and smiles
+- Instructor Presence:
+    - Communicate goals
+    - Set guidelines for student interaction
+    - Encourage student participation
+    - Ensure students don't feel isolated
+
+!!! note ""
+    #### Instructor Immediacy and Presence
+
+    Match each of the following interactions to either "Instructor Immediacy" or "Instructor Presence."
+
+    - Addressing students by their preferred names
+    - Providing clear instructions and guidance for course assignments
+    - Participating actively in discussion forums and online chats
+    - Expressing nonverbal cues to show interest and attention
+    - Making regular announcements and updates to the course content
+    - Using humor during lectures or in interactions with students
+
 
 ### The Climate Dimension
 
@@ -367,299 +738,6 @@ Various performance indicators related to course climate were significantly rela
 
     True or False? Overall, the utility-value intervention led to positive outcomes for URM student retention in STEM.
 
-!!! tip ""
-
-    Commit to one or more mechanisms that will help you create the course climate you want.
-
-
-### The Curriculum Dimension
-
-!!! compat ""
-    - Considering the principles of Universal Design, determine how you will make your course accessible and inclusive.
-
-By adopting the principles of Universal Design, an instructor can build an inclusive course from the outset.
-
-**Universal Design for Learning (UDL)** is a *framework for designing and delivering flexible, inclusive, and accessible learning experiences that can be customized to meet the needs of all learners*, regardless of their abilities, backgrounds, or learning preferences (CAST, 2018). It is rooted in the principles of **Universal Design**, which is an approach to creating products, environments, and experiences that are **usable by as many people as possible without the need for adaptation or specialized design**. UDL is based on the idea that learning should be engaging, relevant, and responsive to individual needs. Importantly, **UDL aims to change the design of the environment rather than to change the learner.**
-
-**Universal Design for Learning (UDL)** *places accessibility at the forefront and leverages various AJEDI principles* for improving teaching and learning for all students. To help implement UDL in the classroom, the Center for Applied Special Technology (CAST) developed the **UDL Guidelines** (CAST, 2018). These are *a set of principles and strategies that aim to provide equal and inclusive access to learning for all students*, including those with disabilities or diverse learning styles. The guidelines provide specific recommendations for creating flexible and engaging learning environments and materials that can be customized to meet the diverse needs and preferences of all students.
-
-The UDL Guidelines encompass **three key principles:** providing multiple means of (1) Engagement, (2) Representation, and (3) Action and Expression.
-
-![](https://raw.githubusercontent.com/marzwick/images/main/cs10.jpeg)
-
-### UDL Guidelines: Multiple Means of Representation  
-
-In this module, we will be focusing on the principle of providing **multiple means of Representation.** This principle outlines strategies for creating course materials that provide options for perception, language and symbols, and comprehension.
-- **Perception:** *Present information in a variety of formats*, such as visual, auditory, and tactile. Instructors can use this principle to ensure that textbooks, videos, lectures, and other course materials are accessible to all students, including those with disabilities or those who process information differently. By incorporating visual aids, videos, diagrams, and other interactive media, instructors provide multiple ways of representing important information and allow students to choose the means that work best for them.
-- **Language & Symbols:** *Use clear, concise, and accessible language and symbols and avoid language or symbols that may be exclusive, biased, or offensive.* This guideline aims to promote understanding and reduce barriers to learning by selecting language and symbols that are familiar and meaningful to all learners. This can be achieved by providing captioning, transcripts, and audio descriptions for multimedia content, incorporating pictures or symbols to represent concepts, and avoiding jargon or complex language whenever possible, and providing alternative means of representation for students with different cultural and linguistic backgrounds.
-- **Comprehension:** *Incorporate a variety of instructional techniques to ensure that students can access, process, and assimilate new information and knowledge.* Instructors need to provide supports and scaffold curriculum to help students comprehend the material. This can include activating or providing prior knowledge; providing explicit cues or prompts to emphasize key elements, concepts, and features; embedding scaffolds and feedback to organize and process information; and incorporating opportunities for students to apply their knowledge to new contexts.
-
-For more information on the other two principles, visit the [CAST UDL website](https://udlguidelines.cast.org/).
-
-
-### Structuring for Accessibility
-
-Providing access to resources is **fundamental to addressing inequities**, because it ensures that course structures, artifacts, and the environment do not preclude anyone from learning. However, *the mere existence of a resource* **does not by itself lead to equitable and inclusive outcomes.**
-
-**Accessibility** refers to the *design and creation of products, devices, environments, and content that can be used and accessed by all people*, including those with disabilities or other impairments. The goal of accessibility is to **provide equal access and opportunities for everyone, regardless of their abilities**, so that they can participate fully in all aspects of society. This includes considerations such as physical, digital, and social accessibility.
-
-In the context of education, accessibility refers to the practice of creating learning environments, resources, and technologies that allow all students to access and engage with academic content and participate in learning activities.
-
-- **Physical accessibility:** Make physical spaces and materials accessible, such as by providing wheelchair ramps, captioning videos, and offering alternative formats of textbooks. 
-- **Digital accessibility:** Design digital content and technologies that are compatible with assistive technologies, such as screen readers and text-to-speech software.
-- **Social accessibility:** Use inclusive language, accommodate different communication styles.
-
-### The Need for Accessibility
-
-Students with disabilities face many challenges when seeking accommodations in higher education (Gin et al., 2020).
-
-![](https://raw.githubusercontent.com/marzwick/images/main/cs24.png)
-
-An accessible course design **reduces the need for accommodation, alleviates the burden and stigma** associated with students seeking accommodations, **saves time** for educators, and **diminishes the cost** associated with providing individual accommodations. Importantly, accessibility **improves educational outcomes for all learners** by making sure that educational materials and resources are available and usable by everyone, regardless of their individual needs.
-
-Universal Design for Learning (UDL) provides a framework that guides educators to create accessible course materials and flexible and inclusive learning experiences that meet the needs of all learners, regardless of their abilities or background. Why build a course with UDL at the forefront instead of accommodating student needs as they arise? Consider this passage from Rose and colleagues (2006):
-
->"Such an environmental view fosters solutions that **address the limitations of the learning environment** rather than the limitations of the student, while making the student less of a problem, and **more a part of diversity within the course**. The advantage of such universal solutions is that, as with such approaches in built environments, they are likely to be useful for many individuals; **built once, applied many times.**" (p. 150)
-
-*Individuals with disabilities are highly underrepresented in STEM degree attainment and STEM employment.*
-
-Individuals with disabilities enter postsecondary education at a slightly higher percentage in which they are represented in the general population. Additionally, individuals with disabilities enroll in STEM field majors at the same percentage as individuals without disabilities.
-
-![](https://raw.githubusercontent.com/marzwick/images/main/cs30.png)
-
-!!! note ""
-    #### Invisible Barriers and Inequity
-
-    The image below shows an instructor making an announcement about office hours, and the different responses of his students. What unintentional inequities are revealed in this interaction, and how would you try to offset them? (Yee, 2016)
-
-    ![](https://raw.githubusercontent.com/marzwick/images/main/cs25.png)
-
-!!! note ""    
-    #### Is it Accessible?
-
-    For each of the following pictures and accompanying statements, list the considerations an instructor should address to ensure all students have access to learning. Think about barriers and issues related to the physical space, learning, sensory, communication, chronic health, and mental health.
-
-    ![](https://raw.githubusercontent.com/marzwick/images/main/cs26.png)
-
-    ![](https://raw.githubusercontent.com/marzwick/images/main/cs27.png)
-
-    ![](https://raw.githubusercontent.com/marzwick/images/main/cs28.png)
-
-### The Impact of Accessibility
-
-Studies have shown that using UDL principles and teaching strategies **positively affect students' perception, performance, and engagement in learning.**
-
-![](https://raw.githubusercontent.com/marzwick/images/main/cs31.png)
-
-Structuring a course using UDL and AJEDI principles positively impacts students, increasing engagement, and empowering students. 
-
-![](https://raw.githubusercontent.com/marzwick/images/main/cs32.png)
-
-### Show Me the Data!
-
-To determine the possible impact of equity-oriented pedagogy on student learning, researchers recruited $54$ undergraduate students for a treatment group and $59$ students for a control. Equity-oriented pedagogy was defined as using specific components of democratic, assessment-driven, strengths-based, multimodal, and game-based pedagogies. Instructors in the treatment group applied the equity-oriented pedagogy, using student data and feedback to adjust instruction, while instructors for the control group used a standard pedagogy and no data/feedback.
-
-The researchers found statistically **significant differences on the final assessment scores** in favor of students who were in the treatment classroom ($p < .0001$). Students in each group answered questions before each lesson (pre) and at the end of each lesson (post). These scores each week are shown in Figure 1. **Students in the treatment group consistently outperformed those in the control group** (Phuong et al., 2017).
-
-![](https://raw.githubusercontent.com/marzwick/images/main/cs33.png)
-
-!!! note "" 
-    **Evaluate the Data Yourself**
-
-    A curriculum called i-NATURE (Indigenous integration of Aquatic sciences and Traditional Ecological Knowledge for Undergraduate culturally Responsive Education) is a culturally relevant, project-, and place-based curriculum that includes extensive applied research experience contextualized for specific Indigenous communities. Researchers tested whether implementation of the i-NATURE curriculum improved retention and learning outcomes for the students who participated (Alexiades et al., 2021).
-
-    ![](https://raw.githubusercontent.com/marzwick/images/main/cs34.png)
-
-    ![](https://raw.githubusercontent.com/marzwick/images/main/cs35.png)
-
-    What conclusions can you draw from the data shown above? (Check all that apply.)
-
-    - The i-NATURE program had no effect on annual percentage retention or mean course GPA
-    - There is a statistically significant difference in mean course GPA for students after participating in the i-NATURE program
-    - Participating in the i-NATURE program did not significantly change the annual percentage retained
-    - Participating in the i-NATURE program did not significantly change the mean GPA of students
-    - There was 100% retention in the Environmental Science and Studies Programs for students participating in the i-NATURE program
-
-!!! tip ""
-    #### Commit to Action: UDL
-
-    *Answer in your workbook:* Describe one specific aspect of universal design that you can commit to implementing in your course to enhance accessibility.
-
-
-### Preparing for the first day of class
-
-Instructors might consider collaborating with various colleagues or resources as they design their course to meet accessibility and UDL guidelines. For example, instructors could consult with:
-
-- Staff at the university's center for teaching and learning
-- Staff at the university's disability services office Diversity, Equity, and Inclusion (DEI) specialists
-- Teaching assistants
-- Technology specialists
-
-!!! note ""
-    #### Evaluate the way this instructor uses UDL principles on their first day of class
-    
-    Review the following slides from an introductory biology class for nonmajors (asynchronous and online). What elements from the UDL Guidelines are present? Additionally, how could the slides be improved?
-
-    `TODO: add slides`
-
-### The Pedagogy Dimension
-
-**Instructor immediacy** is "the extent to which communication behaviors enhance closeness to and nonverbal interaction with another" (Mehrabian. 1969, p. 203) as well as behaviors that reduce distance between teacher and student (Andersen, 1979).
-
-**Instructor presence** is the degree to which instructors are actively involved in the learning environment, including how the course is designed, organized, and managed as well as how the learning is facilitated (Garrison et al., 1999).
-
-Research has shown many positive outcomes from engaging in instructor immediacy and presence practices:
-
-- There is a significant relationship between instructor immediacy and student affective and cognitive learning (Andersen et al., 1981).
-- When instructors exhibit behaviors related to instructor presence, students report high levels of learning and community (Shea et al., 2006).
-- Student affective learning, cognition, and motivation are significantly and positively correlated to instructor immediacy and presence (Baker, 2010).
-
-Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh & Hwang. 2006) include:
-
-- Instructor Immediacy:
-    - Maintain closer physical distance
-    - Use direct body orientation
-    - Use eye contact
-    - Engage in positive body movements such as nods and smiles
-- Instructor Presence:
-    - Communicate goals
-    - Set guidelines for student interaction
-    - Encourage student participation
-    - Ensure students don't feel isolated
-
-!!! note ""
-    #### Instructor Immediacy and Presence
-
-    Match each of the following interactions to either "Instructor Immediacy" or "Instructor Presence."
-
-    - Addressing students by their preferred names
-    - Providing clear instructions and guidance for course assignments
-    - Participating actively in discussion forums and online chats
-    - Expressing nonverbal cues to show interest and attention
-    - Making regular announcements and updates to the course content
-    - Using humor during lectures or in interactions with students
-
-
-### Address Biases and Assumptions
-
-!!! compat ""    
-    - Examine your biases and assumptions.
-    - Predict how biases and assumptions influence student outcomes.
-    - Commit to one action you could take to mitigate the negative impacts of biases and assumptions in your course.
-    - Understand key concepts and principles:
-        - Biases and assumptions influence the classroom learning environment.
-        - We all hold biases and assumptions.
-        - Biases and assumptions are very difficult to change, but the first step is to be aware of them.
-
-Everyone holds biases, assumptions, and stereotypes about others, which can influence outcomes. For example, biases and assumptions affect how we rate people, which can have consequences for hiring decisions and advancement.
-
-!!! note ""
-    #### Hiring Studies
-
-    In one study, $127$ biologists, chemists, and physicists at six top US research universities received a student resume that was randomly assigned a gendered name: “Jennifer” (female) or “John” (male). Otherwise, the applications were identical, and each evaluator saw only one version of it. Evaluators then reviewed the credentials of the applicant and decided whether to hire or not.
-
-    The researchers asked the scientists questions about the student candidate:
-
-    - Would you hire them as a lab manager?
-    - Do they seem competent?
-    - Do you see potential for mentoring?
-    - What salary would you offer?
-
-    What results would you predict for that study?
-
-    How do you think the gender, field, age, or tenure status of faculty making hiring decisions mattered?
-
-    !!! details "Click here to find out what happened!"
-
-        How do the results below match your predictions?
-
-        ![](assets/would-jennifer-or-john-be-hired.svg)
-
-        ![](assets/would-jennifer-or-john-receive-mentoring.svg)
-
-        ![](assets/how-much-would-jennifer-or-john-be-paid.svg)
-
-        ![](assets/did-the-gender-of-the-faculty-affect-hiring.svg)
-
-        From the paper:
-
-        > Faculty gender did not affect bias. Tests of simple effects (all $d < 0.33$) indicated that female faculty participants did not rate the female student as more competent [$t(62) = 0.06$, $P = 0.95$] or hireable [$t(62) = 0.41$, $P = 0.69$] than did male faculty. Female faculty also did not offer more mentoring [$t(62) = 0.29$, $P = 0.77$] or a higher salary [$t(61) = 1.14$, $P = 0.26$] to the female student than did their male colleagues. In addition, faculty participants’ scientific field, age, and tenure status had no effect (all $P > 0.53$). Thus, the bias appears pervasive among faculty and is not limited to a certain demographic subgroup [Moss-Racusin2012-cm](@cite).
-
-        Images source: [Moss-Racusin2012-cm](@cite)
-
-### Reactions to evidence of bias
-
-But you’re a scientist, so you’re not biased, right?
-
-When confronted with the idea that scientists are biased, we have heard:
-
-- “Women and minorities are just too sensitive.”
-- “It’s not like that here. Probably it’s like that elsewhere…in Sweden, in the Midwest, at Harvard, at the state university, at the community college, in the Economics Department…”
-- “The sample size in the 1988 study was too small.”
-- “We’re trained to be objective, so bias studies don’t apply to us.”
-
-Yet study after study demonstrates that we *all* carry biases, assumptions, and stereotypes. 
-
-### Assumptions Matter
-
-```@raw html
-<!-- `TODO are there citations for this?` -->
-```
-
-Our biases, assumptions, and stereotypes about others can influence outcomes in college or for hiring decisions and advancement.
-
-**Rating Verbal Skills**
-
-When reviewers evaluated a candidate’s written text, their ratings of the candidate’s verbal skills were influenced by the author’s demographics. For example, when reviewers were informed that an African American person had written the text, they rated the candidate’s verbal skills lower compared to when they were told a white person had written it. Similarly, when reviewers were told that a man wrote the text, they evaluated the candidate’s skills more negatively than when they were told a woman wrote it.
-
-**More Hiring Studies**
-
-Dozens of studies have compared hiring decisions with the same setup…
-
-- Identical applications with a male or female name.
-- Evaluators review the applicant’s credentials and decide whether or not to hire them. 
-
-…and they all yield the same result: Evaluators are substantially more likely to hire if an applicant has a man’s name.
-
-**This result has not changed for $50$ years.**
-
-Beyond gender: Studies with members of groups other than white, heterosexual, cis-gendered, able-bodied men yield similar results.
-
-!!! note ""
-    #### Reflection on Bias in STEM
-
-    What other biases have you seen or experienced in STEM higher education? 
-
-### Actions to Mitigate Bias
-
-```@raw html
-<!-- `TODO wheres the data?` -->
-```
-
-Awareness:
-
-- **Catch yourself:** Whose answers do you dismiss or talk over? When a woman or person of color responds, what initial reaction do you have to their point of view?
-- **Collect data:** How often do you call on the students in the front row? Which demographic groups tend to get the highest grades? Which students do you give constructive feedback?
-- **Catch others:** When do they dismiss or talk over someone?
-
-Actions:
-
-- **Call out:** When someone dismisses another, use your voice to return the conversation to the dismissed person. “Jasmine has a point. I’d like to hear more.” “You are restating what Amir said.” 
-- **Be an ally:** Use preferred pronouns and gender-neutral pronouns. Add a statement about bias and assumptions to your syllabus. Complete the [Inclusive STEM Teaching Project course](https://www.inclusivestemteaching.org/). If you are ready to be an ally, complete [Safe Zone training](https://thesafezoneproject.com/learn/) and put a Safe Zone sticker on your office door. 
-- **Grade fairly:** Remove subjectivity in grading due to bias by using a well-defined rubric that makes clear how competencies are scored. Instructors can also grade anonymously, ranodmize the order of grading, and grade question by question instead of assignment by assignment.
-
-Set a tone for your class and reinforce it:
-
-- **Signal expectations and values:** “In this class, everyone’s voice matters.”
-- **Find out more:** Ask students what they need and want. 
-- **Equip students:** Provide them with the language and tools they need to mitigate bias.
-- **Check in:** Do a “bias check” every month. “Have you seen an act of bias or assumptions in this class with negative repercussions? Was it resolved? What needs to be addressed?” Act on the requests.
-
-!!! tip ""
-    #### Commit to Action: Mitigate Bias
-
-    *Answer in your workbook:* What is one concrete action you can commit to taking to mitigate the negative impacts of biases and assumptions in your course?
-
 ### Understanding Stereotype Threat in STEM Education
 
 !!! compat ""    
@@ -717,101 +795,6 @@ Here are some strategies you can implement to reduce stereotype threat in the cl
     #### Commit to Action: Mitigate Stereotype Threat
 
     *Answer in your workbook:* Describe one concrete action you can take to mitigate the negative impacts of stereotype threat in your course.
-
-### Create a sense of belonging in STEM
-
-!!! compat ""    
-    - Examine how your course might create or preclude a sense of belonging.
-    - Predict how belonging influences student outcomes.
-    - Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
-    - Understand key concepts and principles:
-        - The classroom learning environment influences the extent to which student feel a sense of belonging.
-        - Belonging affects outcomes and persistence in STEM.
-
-Historically excluded communities (HECs) refer to groups of individuals who have traditionally been denied full rights, privileges, and opportunities in STEM education, including but not limited to women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students. These groups have traditionally been underrepresented or excluded from participating in STEM. See also [Asai2020-bb](@cite).
-
-The differential pattern of exclusion from STEM affects students not only according to race and ethnicity; talented college students from HECs leave at higher rates [thiry_talking_2019](@cite). 
-
-Most of those who leave have the interest, confidence, and aptitude to be successful in STEM, but early classroom experiences can dampen their interest and actively exclude them from persisting [thiry_talking_2019,estrada_influence_2019](@cite).
-
-Their departures after gateway STEM courses represent a major talent drain from the system. 
-
-To achieve an equitable educational enterprise, we must address the structural, individual, intentional, and unintentional biases that discourage HEC students from pursuing STEM.
-
-### Actions to foster belonging in STEM
-
-Several interventions have demonstrated promise in increasing college students’ persistence in STEM [estrada_toward_2011](@cite). These interventions often have especially positive effects on HEC students [evans_functional_2021,hurtado_diversifying_2009,olson_expression-based_2019,rodenbusch_early_2016,shuster_implementing_2019,waddell_flying_2021](@cite).
-
-```@raw html
-<!-- `TODO use full sentence for these bullet points` -->
-```
-
-**Discrete interventions** are defined as individual activities embedded within a course. Example interventions that have been shown to lead to positive student outcomes include:
-
-- Active-learning strategies [freeman_active_2014](@cite)
-- Statements that increase students’ sense of belonging with microaffirmations [estrada_influence_2019](@cite)
-- Activities that increase resilience by reframing social adversity as common and transient [walton_brief_2011](@cite)
-- Exercises that demonstrate the relevance of a course by making explicit its utility value [harackiewicz_closing_2016](@cite) (Asher et al., 2023; Harackiewicz et al., 2016).
-
-**Systemic interventions** modify overall course structure. Some approaches that have proven effective include:
-
-- High-structure course design [freeman_increased_2011,theobald_active_2020](@cite)
-- Course-based undergraduate research experiences (CUREs) [aikens_race_2017,dolan_guide_2021,hurtado_diversifying_2009](@cite)
-
-### A framework to gauge belonging
-
-The Tripartite Integration Model of Social Influence (TIMSI) provides a framework for understanding the psychological mechanisms linking educational experiences and persistence outcomes [estrada_toward_2011](@cite). The TIMSI describes three orientations that predict persistence in STEM. 
-
-- **Scientific self-efficacy** indicates that a student feels capable of performing the actions needed to be successful in a STEM course, major, or career. 
-- **Scientific identity** indicates that a student perceives science as part of their identity and feels they belong to a scientific community. 
-- **Students internalize scientific values** when they authentically agree with the values of the scientific community, such as building new knowledge to solve global challenges, the thrill of discovery, and the importance of discourse.
-
-According to the TIMSI, each of these three factors — independently and collectively — contribute to social integration into STEM communities. Social integration (or persistence) is defined as the intent to pursue further academic or career goals in STEM, or as behaviors, such as submitting applications for graduate school.
-
-
-### Connect Facets of Science with Inclusive Learning
-
-!!! compat ""    
-    - Examine how your course provides students with access to the facets of science.
-    - Predict how experiencing the facets of science influences student outcomes.
-    - Commit to one action you could take to ensure students engage in the facets of science. 
-    - Understand key concepts and principles
-        - The facets of science provide a framework for engaging students in learning science authentically.
-        - Students who engage in authentic science practices are more likely to persist in STEM.
-        - Just one CURE in college can increase persistence in STEM.
-
-When students actively participate in the facets of science, we see:
-
-- Improved scientific self-identity and efficacy
-- Increased belonging
-- Persistence in STEM degrees and careers
-- Increased STEM accessibility for students with health conditions or impairments
-- Positive gains for all students with additional gains for students who are members of HEC groups
-
-These outcomes lead to diversity in the STEM workforce and and informed citizenry.
-
-Source: [estrada_toward_2011](@cite).
-
-### One Example: CUREs
-
-Course-based Undergraduate Research Experiences (CUREs) increase:
-
-- Research skills and project ownership
-- Confidence, self-efficacy, and belonging in STEM
-- Retention in STEM
-
-CUREs normalize failure by:
-
-- Teaching about scientific failures
-- Showing how to troubleshoot experiments
-- Creating opportunities to share personal failures with colleagues
-
-**Just one CURE in college can increase persistence in STEM.**
-
-!!! tip ""
-    #### Commit to Action: Engage the Facets of Science
-
-    *Answer in your workbook:* Even if you don’t teach a CURE, what is one concrete action you can commit to taking to ensure students engage with the facets of science?
 
 ### Create Productive Failure Experiences
 
@@ -889,6 +872,11 @@ Scientific failure results from:
     #### Commit to Action: Experience Productive Failure
 
     *Answer in your workbook:* What is one concrete action you can commit to taking to create a productive failure experience in your course, or ensuring that students experience their failures in your course as productive?
+
+
+!!! tip ""
+
+    Commit to one or more mechanisms that will help you create the course climate you want.
 
 ---
 
