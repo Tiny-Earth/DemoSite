@@ -3,24 +3,25 @@
 !!! warning ""
     This site is still under development. Thank you for previewing it! Your feedback is much appreciated -- [Let us know what you think!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eaCduZfaBtfNpRA)
 
-```@raw html
-<!-- TODO insert vignette videos from Sarah K here -->
-```
+`TODO: (1) insert vignette videos from Sarah K, (2) write LOs, (3) revise summary, (4) reorganize/ revise Course Structure sections`
 
 ```@raw html
 <!-- `TODO this is about a 40 minute read, resolve` -->
 ```
 
 ---
-## Module Goals
-
-`NOTE: This content was restructured recently. Its goals need to be rewritten.`
-
----
-## Course Design Defined
+## Module Learning Objectives
 
 !!! compat ""
-    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
+    By the end of this module, you will be able to...
+      - Describe the benefits of using backward design.
+      - Compare high structure and low structure course designs and their strengths and weaknesses.
+      - Create AJEDI and science-focused learning objectives/goals that are at diverse Bloom's levels.
+      - Brainstorm how to implement high structure course design into your classroom.
+
+---
+
+## Course Design Defined
 
 What is course design?
 
@@ -151,64 +152,6 @@ Only you can know what your own commitments are and the ways they:
 ---
 ## A Framework for Course Design
 
-!!! compat ""
-    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
-
-```@raw html
-<!--
-    - Examine the parallels between your scientific research and your teaching approaches.
-    - Commit to one action you could take to address each of the five dimensions of inclusive teaching in your course.
-    - Understand key concepts and principles:
-        - Good teaching embodies five dimensions of inclusion: students, instructors, curriculum, pedagogy, and the classroom climate.
-        - These dimensions can work together to create a cohesive learning experience.
-        - Instructors do not need to be educational experts to be good teachers, but it helps to use methods that are (1) based on solid theory, (2) tested and evaluated in the classroom, and (3) organized by a logical framework.
-
-
-### Five Dimensions of Inclusive Teaching
-
-Course design includes all dimensions of inclusive teaching: as we focus on designing a course, we should consider ourselves, the curriculum, our pedagogy, and our students.
-
-![Illustration of the five dimensions of inclusive teaching, reproduced from the Scientific Teaching module.](assets/five-dimensions-of-inclusive-teaching.svg)
-
-Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
-
-There are five dimensions to inclusive teaching:
-
-- **Instructor--Who we are:** Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
-- **Students--Who we teach:** Plan meaningful interactions when we are aware of the many dimensions of our students.
-- **Curriculum--What we teach:** Choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.  
-- **Pedagogy--How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
-- **Climate--How the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
-
-In this module, we will focus on the last one.
-
-### Six Facets of Science
-
-![Illustration of the six facets of science, reproduced from the Scientific Teaching module.](assets/six-facets-of-science.svg)
-
-As we design a course, we should intentionally include ways for students to engage in the different facets of science 
-
-- **Science Practices:** Ask questions, carry out investigations, analyze and communicate data
-- **Iteration:** Identify and resolve problems in multiple cycles
-- **Discovery:** Engage in research tasks that have unknown outcomes
-- **Authenticity:** Engage in innovation and collaboration to address original research questions
-- **Ownership:** Develop a sense of responsibility for and personal connection to  research findings
-- **Relevance:** Apply the outcomes and applications of scientific discoveries to real world-contexts
-
-
-<!-
-!!! tip ""
-
-    Which dimension(s) of the inclusive teaching framework do you tend to think about most naturally in your teaching? 
-
-    Which facets of science do you already explicitly include in your course? 
-
-    Describe the structures you already have in place, and document areas in which you would like to improve.
-->
-
--->
-```
-
 ### Backward Design
 
 Backward design is an instructional approach that emphasizes starting with the end goals in mind (Wiggins & McTighe, 2005). What should students know or be able to do after instruction? What are the desired results after the course or a lesson? Engaging in backward design intentionally integrates the curricula and pedagogy dimensions as we consider how to make our courses effective and inclusive for all students.
@@ -272,9 +215,6 @@ By prioritizing learning objectives, teachers are able to create more targeted a
 
 ---
 ## Course Design in Practice
-
-!!! compat ""
-    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
 
 ### Setting learning goals and learning objectives
 
@@ -562,9 +502,6 @@ Ideally, multiple activities are leveraged to help students get more practice, g
 
 ## Course Structure Defined
 
-!!! compat ""
-    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
-
 Course structure refers to the organizational system of a course, including schedule, format, content, communication modes and overall themes. A well-structured course communicates all of these components to students and ensures they have access to each component.
 
 How the course is structured can contribute to making the course inclusive for diverse students. As we structure our courses and plan out the details of our course design, it is also important to consider how we communicate our course design with students in our syllabus and our course can be inclusive and accessible for all students.
@@ -774,36 +711,14 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
 ```
 ## Course Structure in Practice
 
-!!! compat ""
-    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
-
 ### Time to start building your course schedule
 
 
-
-### One Example: CUREs
-
-Course-based Undergraduate Research Experiences (CUREs) increase:
-
-- Research skills and project ownership
-- Confidence, self-efficacy, and belonging in STEM
-- Retention in STEM
-
-CUREs normalize failure by:
-
-- Teaching about scientific failures
-- Showing how to troubleshoot experiments
-- Creating opportunities to share personal failures with colleagues
-
-**Just one CURE in college can increase persistence in STEM.**
-
-!!! tip ""
-    #### Commit to Action: Engage the Facets of Science
-
-    *Answer in your workbook:* Even if you don’t teach a CURE, what is one concrete action you can commit to taking to ensure students engage with the facets of science?
-
-
 ---
-## An AJEDI Lexicon for Course Design
+## Summary of Course Design and Course Structure
 
-`NOTE: This content was restructured recently. This section needs to be rewritten.`
+!!! compat ""
+    - Backward design is an approach to course or curriculum design that involves starting with the end goals or outcomes and then designing assessments and then activities that align with these goals.
+    - Learning goals and learning objectives are statements of what learners are expected to achieve, but they differ in their level of specificity and scope.
+    - Bloom's taxonomy is a framework for categorizing educational goals and objectives into a hierarchy of six levels, ranging from simple recall of information to complex, analytical thinking. By using Bloom's taxonomy to guide learning objectives, educators can design learning experiences that promote deeper understanding and critical thinking.
+    - High structure course design involves creating a highly organized plan for the course with clearly defined expectations and a well-defined schedule. This approach focuses on structuring the learning environment for students and providing multiple opportunities for engagement and practice.
