@@ -180,7 +180,7 @@ Change can be achieved at many levels. Policy decisions can be improved when pol
                     <li>Integrate welcoming-classroom practices into syllabus and classroom</li>
                 </ul>
             </td>
-        </tr>reports</th>
+        </tr></th>
         <tr>
             <th scope="row">Expand Relevance to Diverse Groups</th>
             <td>
