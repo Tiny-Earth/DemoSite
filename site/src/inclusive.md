@@ -80,6 +80,14 @@ Knowing more about our students helps us develop effective learning goals and te
 
     Which dimension(s) do you tend to think about most naturally in your teaching? Which dimension(s) will require more attention for you to consider?
 
+```@raw html
+<!--
+!!! tip ""
+    #### Commit to Action: Five Dimensions
+    *Answer in your workbook:* What actions can you commit to taking to address each of the five dimensions of inclusive teaching?
+-->
+```
+
 ---
 ## Inclusive Learning in Practice
 
@@ -221,15 +229,6 @@ Your identity matters. Consider the identities that you bring to the learning en
 
 ### Address Biases and Assumptions
 
-!!! compat ""    
-    - Examine your biases and assumptions.
-    - Predict how biases and assumptions influence student outcomes.
-    - Commit to one action you could take to mitigate the negative impacts of biases and assumptions in your course.
-    - Understand key concepts and principles:
-        - Biases and assumptions influence the classroom learning environment.
-        - We all hold biases and assumptions.
-        - Biases and assumptions are very difficult to change, but the first step is to be aware of them.
-
 Everyone holds biases, assumptions, and stereotypes about others, which can influence outcomes. For example, biases and assumptions affect how we rate people, which can have consequences for hiring decisions and advancement.
 
 !!! note ""
@@ -339,6 +338,44 @@ Set a tone for your class and reinforce it:
 
     *Answer in your workbook:* What is one concrete action you can commit to taking to mitigate the negative impacts of biases and assumptions in your course?
 
+### Instructor Immediacy and Presence
+
+**Instructor immediacy** is "the extent to which communication behaviors enhance closeness to and nonverbal interaction with another" (Mehrabian, 1969, p. 203) as well as behaviors that reduce distance between teacher and student (Andersen, 1979).
+
+**Instructor presence** is the degree to which instructors are actively involved in the learning environment, including how the course is designed, organized, and managed as well as how the learning is facilitated (Garrison et al., 1999).
+
+Research has shown many positive outcomes from engaging in instructor immediacy and presence practices:
+
+- There is a significant relationship between instructor immediacy and student affective and cognitive learning (Andersen et al., 1981).
+- When instructors exhibit behaviors related to instructor presence, students report high levels of learning and community (Shea et al., 2006).
+- Student affective learning, cognition, and motivation are significantly and positively correlated to instructor immediacy and presence (Baker, 2010).
+
+Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh & Hwang, 2006) include:
+
+- Instructor Immediacy:
+    - Maintain closer physical distance
+    - Use direct body orientation
+    - Use eye contact
+    - Engage in positive body movements such as nods and smiles
+- Instructor Presence:
+    - Communicate goals
+    - Set guidelines for student interaction
+    - Encourage student participation
+    - Ensure students don't feel isolated
+
+!!! note ""
+    #### Instructor Immediacy and Presence
+
+    Match each of the following interactions to either "Instructor Immediacy" or "Instructor Presence."
+
+    - Addressing students by their preferred names
+    - Providing clear instructions and guidance for course assignments
+    - Participating actively in discussion forums and online chats
+    - Expressing nonverbal cues to show interest and attention
+    - Making regular announcements and updates to the course content
+    - Using humor during lectures or in interactions with students
+
+
 ### The Student Dimension
 
 `TODO: Student Dimension section order: (1) Get to know your students/ what motivates them, (2) Promote microaffirmations, and (3) Encourage productive failure`
@@ -357,15 +394,6 @@ You might have students…
 - Share one thing science-related fact about their lives (favorite science fact, most science-y hobby, why they are interested in science).
 
 ### Create Productive Failure Experiences
-
-!!! compat ""    
-    - Examine where students implicitly and explicitly learn about failure in your course.
-    - Predict how experiencing personal or scientific failure influences student outcomes.
-    - Commit to one action you could take to create a productive failure experience in your course. 
-    - Understand key concepts and principles:
-        - Science and discovery are based on failure.
-        - Failure can be personal or scientific.
-        - Learning how to fail productively may lead to positive student outcomes.
 
 Science is based on failure:
 
@@ -470,7 +498,7 @@ Instructors might consider collaborating with various colleagues or resources as
 
 ### The Pedagogy Dimension
 
-`TODO: Student Dimension section order: (1) Leverage active learning and formative assessment (LE), (2) Provide transparency in expectations and create predictable patterns (CD, SA), and (3) Incorporate universal design and accessibility principles (CD, CS)`
+`TODO: Pedagogy Dimension section order: (1) Leverage active learning and formative assessment (LE), (2) Provide transparency in expectations and create predictable patterns (CD, SA), and (3) Incorporate universal design and accessibility principles (CD, CS)`
 `This section needs to be broader.`
 
 
@@ -580,42 +608,6 @@ The researchers found statistically **significant differences on the final asses
     #### Commit to Action: UDL
 
     *Answer in your workbook:* Describe one specific aspect of universal design that you can commit to implementing in your course to enhance accessibility.
-
-
-**Instructor immediacy** is "the extent to which communication behaviors enhance closeness to and nonverbal interaction with another" (Mehrabian, 1969, p. 203) as well as behaviors that reduce distance between teacher and student (Andersen, 1979).
-
-**Instructor presence** is the degree to which instructors are actively involved in the learning environment, including how the course is designed, organized, and managed as well as how the learning is facilitated (Garrison et al., 1999).
-
-Research has shown many positive outcomes from engaging in instructor immediacy and presence practices:
-
-- There is a significant relationship between instructor immediacy and student affective and cognitive learning (Andersen et al., 1981).
-- When instructors exhibit behaviors related to instructor presence, students report high levels of learning and community (Shea et al., 2006).
-- Student affective learning, cognition, and motivation are significantly and positively correlated to instructor immediacy and presence (Baker, 2010).
-
-Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh & Hwang, 2006) include:
-
-- Instructor Immediacy:
-    - Maintain closer physical distance
-    - Use direct body orientation
-    - Use eye contact
-    - Engage in positive body movements such as nods and smiles
-- Instructor Presence:
-    - Communicate goals
-    - Set guidelines for student interaction
-    - Encourage student participation
-    - Ensure students don't feel isolated
-
-!!! note ""
-    #### Instructor Immediacy and Presence
-
-    Match each of the following interactions to either "Instructor Immediacy" or "Instructor Presence."
-
-    - Addressing students by their preferred names
-    - Providing clear instructions and guidance for course assignments
-    - Participating actively in discussion forums and online chats
-    - Expressing nonverbal cues to show interest and attention
-    - Making regular announcements and updates to the course content
-    - Using humor during lectures or in interactions with students
 
 
 ### The Climate Dimension
@@ -749,14 +741,6 @@ Various performance indicators related to course climate were significantly rela
 
 ### Create a sense of belonging in STEM
 
-!!! compat ""    
-    - Examine how your course might create or preclude a sense of belonging.
-    - Predict how belonging influences student outcomes.
-    - Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
-    - Understand key concepts and principles:
-        - The classroom learning environment influences the extent to which student feel a sense of belonging.
-        - Belonging affects outcomes and persistence in STEM.
-
 Historically excluded communities (HECs) refer to groups of individuals who have traditionally been denied full rights, privileges, and opportunities in STEM education, including but not limited to women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students. These groups have traditionally been underrepresented or excluded from participating in STEM. See also [Asai2020-bb](@cite).
 
 The differential pattern of exclusion from STEM affects students not only according to race and ethnicity; talented college students from HECs leave at higher rates [thiry_talking_2019](@cite). 
@@ -803,15 +787,6 @@ According to the TIMSI, each of these three factors — independently and collec
     *Answer in your workbook:* What is one discrete and one systemic action you can commit to taking to promote a positive sense of belonging in your course?
 
 ### Understanding Stereotype Threat in STEM Education
-
-!!! compat ""    
-    - Examine how your course might activate stereotype threat.
-    - Predict how stereotypes influence student outcomes.
-    - Commit to one action you could take to mitigate the negative impacts of stereotype threat in your course.
-    - Understand key concepts and principles:
-        - Stereotype threat influences the classroom learning environment.
-        - We all hold stereotypes.
-        - Stereotypes are very difficult to change, but the first step is to be aware of them.
 
 Biases and assumptions can manifest as stereotypes, which can lead to a phenomenon known as **stereotype threat**. Stereotype threat occurs when individuals fear they may confirm negative stereotypes about their social group (Steele, Spencer, & Aronson, 2002). This fear can negatively impact their performance, regardless of their actual capabilities, reinforcing the stereotype and creating a self-fulfilling prophecy.
 
@@ -869,36 +844,7 @@ Here are some strategies you can implement to reduce stereotype threat in the cl
 
 ## Summary of Inclusive Learning
 
-- 
-
-
-
-!!! compat ""        
-    - Explain why inclusive learning environments matter.
-    - Identify actions an instructor can take to create inclusive learning environments.
-    - Understand key concepts and principles:
-        - Inclusive learning environments lead to persistence and diversity in STEM.
-        - Inclusive learning environments come from inclusive teaching practices.
-
-
-!!! compat ""    
-    - Examine your identities.
-    - Predict how instructor identities influence student outcomes.
-    - Decide which identities to share.
-    - Understand key concepts and principles:
-        - Your identity influences the classroom learning environment.
-        - The first step is to be aware of them.
-
-
-!!! compat ""
-    - Considering the principles of Universal Design, determine how you will make your course accessible and inclusive.
-
-
-!!! compat ""    
-    - Examine how your course provides students with access to the facets of science.
-    - Predict how experiencing the facets of science influences student outcomes.
-    - Commit to one action you could take to ensure students engage in the facets of science. 
-    - Understand key concepts and principles
-        - The facets of science provide a framework for engaging students in learning science authentically.
-        - Students who engage in authentic science practices are more likely to persist in STEM.
-        - Just one CURE in college can increase persistence in STEM.
+- Inclusive learning environments come from inclusive teaching practices.
+- Inclusive learning environments lead to persistence and diversity in STEM.
+- The classroom learning environment influences the extent to which student feel a sense of belonging.
+- Learning how to fail productively may lead to positive student outcomes.
