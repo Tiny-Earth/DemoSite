@@ -615,10 +615,10 @@ During the rest of the course, you will have the chance to practice each of the 
 ---
 ## Summary of Scientific Teaching
 
-    - Scientific teaching is both the teaching of science and the science of teaching.
-    - The goals of scientific teaching are to make teaching and learning more scientific and increase diversity in STEM.
-    - Scientific teaching means being intentional, inclusive, and iterative.
-    - Myriad reports call for changes in teaching practices to foster inclusive learning environments.
-    - STEM education reform can happen at many levels. As an instructor, you have agency for change in your courses.
-    - Students who engage in authentic science practices are more likely to persist in STEM.
-    - Scientific teaching offers a natural structure for teaching that parallels scientific research, as well as the scientific practices we are asking our students to learn.
+- Scientific teaching is both the teaching of science and the science of teaching.
+- The goals of scientific teaching are to make teaching and learning more scientific and increase diversity in STEM.
+- Scientific teaching means being intentional, inclusive, and iterative.
+- Myriad reports call for changes in teaching practices to foster inclusive learning environments.
+- STEM education reform can happen at many levels. As an instructor, you have agency for change in your courses.
+- Students who engage in authentic science practices are more likely to persist in STEM.
+- Scientific teaching offers a natural structure for teaching that parallels scientific research, as well as the scientific practices we are asking our students to learn.
