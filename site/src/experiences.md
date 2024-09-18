@@ -3,34 +3,20 @@
 !!! warning ""
     This site is still under development. Thank you for previewing it! Your feedback is much appreciated -- [Let us know what you think!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eaCduZfaBtfNpRA)
 
-```@raw html
-<!-- TODO insert vignette videos from Sarah K here -->
-```
+`TODO: (1) insert vignette videos from Sarah K, (2) write LOs, (3) revise summary, (4) reorganize/ revise all sections... less theory and more doing`
 
 ---
-## Module Goals
+## Module Learning Objectives
 
-In this module, we hope you will...
-
-- Define learning experiences and its goals.
-- Explain how learning experiences engage students in learning the facets of science.
-- Examine why learning experiences matters for diversity.
-- Begin applying learning experiences to your own teaching and course(s).
+!!! compat ""
+    By the end of this module, you will be able to...
+      - Define learning experiences and its goals.
+      - Explain how learning experiences engage students in learning the facets of science.
+      - Examine why learning experiences matters for diversity.
+      - Apply principles of learning experiences to your own teaching and course(s).
 
 ---
 ## Learning Experiences Defined
-
-!!! compat ""
-    By the end of this section, you will be able to:
-
-    - Define what learning experiences encompass.
-    - Write your own definition of active learning and compare it to other published definitions.
-    - Describe how active learning and formative assessment converge.
-    - Compare and contrast active learning and student-centered learning
-    - Understand key concepts and principles:
-        - Learning experiences refers to all in- and out-of-class activities that cognitively engage students with the course content and skills in an inclusive manner.
-        - While there is no single, consistent definition, active learning involves students engaging in activities that promote cognitive engagement.
-        - Learning experiences should be student-centered, provide feedback, and allow for real-time adjustments.
 
 **Learning experiences** encompass all the opportunities students have to engage in learning science plus the factors that influence those opportunities. They leverage what we know about how learning works to appropriately scaffold learning.
 
@@ -94,15 +80,6 @@ Formative assessment provides a unique opportunity for feedback, which can take 
 
 ---
 ## Why Learning Experiences
-
-!!! compat ""
-    By the end of this section, you will be able to:
-
-    - Describe the outcomes of studies comparing student learning in traditional vs. active learning classrooms.
-    - Describe the four modes of student engagement (interactive, constructive, active, and passive strategies).
-    - Understand key concepts and principles:
-        - Active learning approaches lead to improved student learning and persistence, as well as increased learning gains and collaborative skills.
-        - The more students are challenged to engage in high-level cognitive activities, the more they understand and improve.
 
 While we know that students can learn through passive listening, research has consistently shown that active, cognitive engagement with a concept or skill yields much more significant and lasting learning outcomes.
 
@@ -190,29 +167,6 @@ In essence, the results of the activity allow the instructor to “see” what�
 ---
 ## A Framework for Learning Experiences
 
-!!! compat ""
-    By the end of this section, you will be able to:
-
-    - Identify the components of the learning experiences framework.
-    - Understand key concepts and principles:
-        - Intentionally design learning experiences that include active learning, formative assessment, and inclusive learning.
-
-![](assets/five-dimensions-of-inclusive-teaching.svg)
-
-Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
-
-Recall the five dimensions to inclusive teaching:
-
-1. **Instructor--Who we are:** Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
-2. **Students--Who we teach:** Plan meaningful interactions when we are aware of the many dimensions of our students.
-3. **Curriculum--What we teach:** Choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.
-4. **Pedagogy--How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments.
-5. **Climate--How the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
-
-In this module, we are focusing on the fourth dimension, **How we teach**.
-
-### Enhancing Student Engagement
-
 Active learning, formative assessment, and inclusive learning form a framework for learning experiences that is designed to enhance engagement and learning for all students.
 
 ![](assets/LE23.png)
@@ -222,21 +176,13 @@ In this framework, active learning provides the foundation for engaging students
 ---
 ## Learning Experiences in Practice
 
-!!! compat ""
-    By the end of this section, you will be able to:
-
-    - List evidence-based instructional strategies that are applicable to teaching science and align with AJEDI principles.
-    - Evaluate different types of learning experience strategies for the context of your course.
-    - Understand key concepts and principles:
-        - `TODO`
-
 In the previous section, we identified that effective learning experiences are made up of three components: active learning, formative assessment, and inclusive learning.
 
 Additionally, it’s important to design learning experiences that model the framework for how learning works. Students need to activate prior knowledge, contend with dissonant information, organize and build new knowledge, perform repetitive, targeted practice, and reflect on their learning.
 
 Let’s look at one type of learning experience as a detailed example of how a learning experience can leverage these two frameworks: think-pair-share.
 
-### Think-Pair-Share
+### Think-Pair-Share is Active
 
 A paper in Science talks about the efficacy of a large-enrollment physics class in which students engage in repeated think-pair-shares implemented with clickers for the entire 50 minutes (DesLauriers et al. 2011). In a think-pair-share, the instructor asks students to think through a challenge, discuss their answers with neighbors, and then entertain a whole class conversation about the problem. The instructor uses student feedback to determine how much whole class discussion and mini-lecture to share to clarify students’ thinking.
 
@@ -271,6 +217,38 @@ Lastly, let’s look at how think-pair-shares map onto our framework for how peo
 - **Construct new knowledge:** Throughout the think-pair-share activity, students are integrating new information with their existing knowledge, forming new connections between ideas, and developing a deeper understanding of the topic. Knowledge construction is reinforced through the social interaction and feedback provided by their partner.
 - **Practice and apply knowledge:** Throughout the think-pair-share activity, students are sharing their thoughts and ideas, engaging in a collaborative conversation, receiving feedback, and responding to questions.
 - **Reflect and evaluate:** During the “share” phase, students reflect on what they have learned, identify any gaps or areas for further learning, receive feedback from others, and adjust their understanding accordingly.
+
+### Connecting Learning Experiences with Science Practice
+
+To encourage students to think and act like scientists, learning experiences should have alignment with the six facets of science. This can be achieved by incorporating elements of these facets into existing activities. Below are some strategies to enhance engagement with each facet of science:
+
+- **Science Practices:** Add prompts that encourage students to ask scientific questions. For example, include an exit ticket prompt such as, "Write down one question you have about osmosis."
+- **Iteration:** Provide additional opportunities for students to test their knowledge/ receive feedback. For example, use a clicker question in two rounds: students first answer individually, then discuss in pairs or small groups, and finally, vote again.
+- **Discovery:** Add prompts that have students explore new information or complete research tasks. For example, ask students to research a current event related to course concepts and present their findings in small groups.
+- **Authenticity:** Integrate additional opportunities for collaboration. For example, allow students to work together on assignments typically completed individually or implement two-stage testing in which students individually first complete and turn in their exam and then work in small groups to answer the exam questions again.
+- **Ownership:** Incorporate self-reflection prompts that ask students to connect the material to their own experiences. For example, have students complete a one-minute write on something they learned in the course unit that resonated with them personally.
+- **Relevance:** Add prompts that have students apply their learning to contemporary issues. For example, after learning about how vaccines work, engage students in a discussion about the ethics of mandatory vaccination.
+
+### One Example: CUREs
+
+Course-based Undergraduate Research Experiences (CUREs) increase:
+
+- Research skills and project ownership
+- Confidence, self-efficacy, and belonging in STEM
+- Retention in STEM
+
+CUREs normalize failure by:
+
+- Teaching about scientific failures
+- Showing how to troubleshoot experiments
+- Creating opportunities to share personal failures with colleagues
+
+**Just one CURE in college can increase persistence in STEM.**
+
+!!! tip ""
+    #### Commit to Action: Engage the Facets of Science
+
+    *Answer in your workbook:* Even if you don’t teach a CURE, what is one concrete action you can commit to taking to ensure students engage with the facets of science?
 
 ### Beyond Think-Pair-Share
 
@@ -343,18 +321,13 @@ As a scientific instructor, choosing active learning techniques that help you ga
 
         How/why is posing these questions student-centered?
 
-### Connecting Learning Experiences with Science Practice
-
-To encourage students to think and act like scientists, learning experiences should have alignment with the six facets of science. This can be achieved by incorporating elements of these facets into existing activities. Below are some strategies to enhance engagement with each facet of science:
-
-- **Science Practices:** Add prompts that encourage students to ask scientific questions. For example, include an exit ticket prompt such as, "Write down one question you have about osmosis."
-- **Iteration:** Provide additional opportunities for students to test their knowledge/ receive feedback. For example, use a clicker question in two rounds: students first answer individually, then discuss in pairs or small groups, and finally, vote again.
-- **Discovery:** Add prompts that have students explore new information or complete research tasks. For example, ask students to research a current event related to course concepts and present their findings in small groups.
-- **Authenticity:** Integrate additional opportunities for collaboration. For example, allow students to work together on assignments typically completed individually or implement two-stage testing in which students individually first complete and turn in their exam and then work in small groups to answer the exam questions again.
-- **Ownership:** Incorporate self-reflection prompts that ask students to connect the material to their own experiences. For example, have students complete a one-minute write on something they learned in the course unit that resonated with them personally.
-- **Relevance:** Add prompts that have students apply their learning to contemporary issues. For example, after learning about how vaccines work, engage students in a discussion about the ethics of mandatory vaccination.
 
 ---
-## An AJEDI Lexicon for Course Structure
+## Summary of Learning Experiences
 
-`NOTE: This content was restructured recently. This section needs to be rewritten.`
+- Learning experiences refers to all in- and out-of-class activities that cognitively engage students with the course content and skills in an inclusive manner.
+- While there is no single, consistent definition, active learning involves students engaging in activities that promote cognitive engagement.
+- Learning experiences should be student-centered, provide feedback, and allow for real-time adjustments.
+- Active learning approaches lead to improved student learning and persistence, as well as increased learning gains and collaborative skills.
+- The more students are challenged to engage in high-level cognitive activities, the more they understand and improve.
+- Intentionally design learning experiences that include active learning, formative assessment, and inclusive learning.
