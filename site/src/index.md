@@ -44,7 +44,7 @@ The course modules are organized into three parts and are designed to be self-pa
 - Part Three provides tools to synthesize what you learned and identify areas for further development.
 
 ```@raw html
-<-- 
+<!-- 
 - A companion workbook is provided `TODO in Google drive` that you can download and use for tracking reflections and designing your course materials as you progress through the course.
 -->
 ```
