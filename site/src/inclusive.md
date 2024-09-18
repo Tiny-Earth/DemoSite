@@ -3,7 +3,7 @@
 !!! warning ""
     This site is still under development. Thank you for previewing it! Your feedback is much appreciated -- [Let us know what you think!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eaCduZfaBtfNpRA)
 
-`TODO insert vignette videos from Sarah K here `
+`TODO: (1) insert vignette videos from Sarah K, (2) write LOs, (3) revise summary, (4) reorganize/ revise dimension sections`
 
 ---
 ## Module Learning Objectives
