@@ -3,28 +3,27 @@
 !!! warning ""
     This site is still under development. Thank you for previewing it! Your feedback is much appreciated -- [Let us know what you think!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eaCduZfaBtfNpRA)
 
-```@raw html
-<!-- TODO insert vignette videos from Sarah K here -->
-```
+`TODO: (1) insert vignette videos from Sarah K, (2) write LOs, (3) revise summary, (4) revise framework section?, (5) make inclusive section more concise, (6) add rubric`
 
 ---
-## Module Goals
+## Module Learning Objectives
 
-In this module, we hope you will...
-
-- Define summative assessment, including its purpose, characteristics, and when it is typically used in the learning process.
-- Describe how different summative assessment techniques gather different information about a student’s learning.
-- Identify practices that enhance equity in the design of summative assessments.
+!!! compat ""
+    By the end of this module, you will be able to...
+      - Define summative assessment, including its purpose, characteristics, and when it is typically used in the learning process.
+      - Describe the role of summative assessments in evaluating student learning and informing teaching practice.
+      - Describe how different summative assessment techniques gather different information about a student’s learning.
+      - Identify practices that enhance equity in the design of summative assessments, including guidelines for accessibility and Universal Design.
+      - Develop a comprehensive summative assessment plan that addresses the skills and knowledge of the course.
+      - Describe the importance of using rubrics to evaluate summative assessments and support student learning.
+      - Outline how to write a rubric.
+      - Explain how to reduce stereotype threat.
+      - Recognize the importance of equitable grading practices.
+      - Describe equitable grading practices.
+      - Explore alternative grading methods.
 
 ---
 ## Summative Assessment Defined
-
-!!! compat ""
-    By the end of this section, you will be able to:
-
-    - Define summative assessment, including its purpose, characteristics, and when it is typically used in the learning process.
-    - Understand key concepts and principles:
-        - Summative assessments are designed to evaluate whether students have achieved the intended learning objectives at the end of a learning period
 
 Summative assessments are evaluations conducted at the end of a learning period to determine a student’s overall understanding and development of expertise. As seen in the backward design process, summative assessments measure how well students met the learning objectives.
 
@@ -61,14 +60,6 @@ Examples of summative assessments include:
 ---
 ## Why Summative Assessment
 
-!!! compat ""
-    By the end of this section, you will be able to:
-
-    - Describe the role of summative assessments in evaluating student learning and informing teaching practice.
-    - Understand key concepts and principles:
-        - Summative assessments are a valuable tool for evaluating achievement of the established learning objectives and providing feedback to both students and instructors.
-        - Instructors should use summative assessment data to inform their teaching practice and make adjustments to improve student learning.
-
 Summative assessments play a multifaceted role beyond merely assigning grades to students. They serve as invaluable tools for evaluating student learning and providing feedback to both learners and instructors.
 
 From the scientific teaching perspective, these assessments provide instructors essential data to gauge the extent to which students have met predefined objectives as well as identifying areas where additional support may be required. As a scientific instructor, collecting and analyzing this data is crucial in refining your teaching practice (Ebert-May, Batzli, & Lim, 2003) and is aligned with calls to teach science the same way it is practiced (AAAS 1990, Annenberg/CPB 1997, NRC 1997, 1999, Bransford et al. 1999, Pellegrino et al. 2001, Cech 2003).
@@ -81,9 +72,6 @@ Feedback from summative assessments aids students in refining their study strate
 
 ---
 ## A Framework for Summative Assessment
-
-!!! compat ""
-    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
 
 You already have the frameworks!
 
@@ -107,19 +95,6 @@ Some aspects of summative assessment to consider when designing them include:
 
 ---
 ## Summative Assessment in Practice
-
-!!! compat ""
-    By the end of this section, you will be able to:
-
-    - Describe how different summative assessment techniques gather different information about a student’s learning.
-    - Develop a comprehensive summative assessment plan that addresses the skills and knowledge of the course.
-    - Describe the importance of using rubrics to evaluate summative assessments and support student learning.
-    - Outline how to write a rubric.
-    - Understand key concepts and principles:
-        - Intentionally choose summative assessments that help you gain a more comprehensive understanding of a student's learning.
-        - Assessments should measure students' ability to demonstrate scientific skills and bring science to life.
-        - Rubrics provide detailed descriptions of the criteria and standards used to assess student performance, reducing subjective and biased grading.
-        - Share the rubric with students so that they know what is expected of them to achieve a particular grade.
 
 Summative assessments are a critical component of course design, but what techniques should you incorporate?
 
@@ -190,9 +165,7 @@ By using a variety of assessment methods, instructors can gain a more comprehens
 
 ### Facets of Science
 
-![](assets/six-facets-of-science.svg)
-
-Reflecting back on backward design, your assessments need to be aligned to the learning objectives of the unit. These learning objectives are ultimately aligned with the learning goals of the course. Therefore, the summative assessment techniques chosen for your course should be informed by what skills and knowledge students need to exhibit competence for your course. In addition, summative assessments are a space for students to demonstrate the facets of science.
+Reflecting on backward design, your assessments need to be aligned to the learning objectives of the unit. These learning objectives are ultimately aligned with the learning goals of the course. Therefore, the summative assessment techniques chosen for your course should be informed by what skills and knowledge students need to exhibit competence for your course. In addition, summative assessments are a space for students to demonstrate the facets of science.
 
 Let’s look at some examples how different summative assessment techniques assess various skills—which align with six facets of science—in a science communication course.
 
@@ -302,21 +275,6 @@ To support student learning, we strongly advise instructors to share rubrics wit
 
 ---
 ## Inclusive Summative Assessments
-
-!!! compat ""
-    By the end of this section, you will be able to:
-
-    - Identify practices that enhance equity in the design of summative assessments, including guidelines for accessibility and Universal Design. 
-    - Explain how to reduce stereotype threat.
-    - Recognize the importance of equitable grading practices.
-    - Describe equitable grading practices.
-    - Explore alternative grading methods.
-    - Understand key concepts and principles:
-        - All students deserve the opportunity to demonstrate their knowledge on an accurate and unbiased summative assessment.
-        - Incorporate principles for fairness, accessibility, and Universal Design into assessment design.
-        - Practice fair and transparent grading.
-        - Continually keep your biases and assumptions in check.
-        - Alternative grading practices are more equitable than traditional grading practices and can be implemented partially.
 
 Given the significant influence of summative assessment outcomes on students and their grades, which can have a direct impact on scholarship, university admissions, and career opportunities, it is essential to design summative assessments that are equitable, accurate, and fair in their evaluation of student knowledge. The Standards for Educational and Psychological Testing provide principles to establish fairness in testing (American Educational Research Association, 1999):
 
@@ -482,11 +440,17 @@ Despite their benefits, peer-grading and self-assessment also have their challen
     *Answer in your workbook:* Check the alignment between your summative assessment plan and your inclusive learning commitments, learning objectives, and syllabus. Does anything need to be adjusted?
 
 ---
-## An AJEDI Lexicon for Summative Assessment
+## Summary of Summative Assessment
 
-!!! compat ""
-    By the end of this section, you will be able to:
-
-    - `TODO`
-    - Understand key concepts and principles:
-        - `TODO`
+- Summative assessments are designed to evaluate whether students have achieved the intended learning objectives at the end of a learning period.
+- Summative assessments are a valuable tool for evaluating achievement of the established learning objectives and providing feedback to both students and instructors.
+- Instructors should use summative assessment data to inform their teaching practice and make adjustments to improve student learning.
+- Intentionally choose summative assessments that help you gain a more comprehensive understanding of a student's learning.
+- Assessments should measure students' ability to demonstrate scientific skills and bring science to life.
+- Rubrics provide detailed descriptions of the criteria and standards used to assess student performance, reducing subjective and biased grading.
+- Share the rubric with students so that they know what is expected of them to achieve a particular grade.
+- All students deserve the opportunity to demonstrate their knowledge on an accurate and unbiased summative assessment.
+- Incorporate principles for fairness, accessibility, and Universal Design into assessment design.
+- Practice fair and transparent grading.
+- Continually keep your biases and assumptions in check.
+- Alternative grading practices are more equitable than traditional grading practices and can be implemented partially.
