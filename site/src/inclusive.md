@@ -3,39 +3,25 @@
 !!! warning ""
     This site is still under development. Thank you for previewing it! Your feedback is much appreciated -- [Let us know what you think!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eaCduZfaBtfNpRA)
 
-```@raw html
-<!-- TODO insert vignette videos from Sarah K here -->
-```
+`TODO insert vignette videos from Sarah K here `
 
 ---
-## Module Goals
+## Module Learning Objectives
 
-In this module, we hope you will...
-
-- Commit to one action you could take toward sharing your identity in your course. 
-- Commit to one action you could take to mitigate the negative impacts of biases and assumptions in your course. 
-- Commit to one action you could take to mitigate the negative impacts of stereotype threat in your course. 
-- Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
-- Commit to one action you could take to ensure students engage in the facets of science.
-- Commit to one action you could take to create a productive failure experience in your course. 
+!!! compat ""
+    By the end of this module, you will be able to...
+      - Define inclusive learning and its goals.
+      - Explain how addressing each of the five dimensions of inclusive teaching creates a cohesive learning experience.
+      - Examine why inclusive learning environments matter.
+      - Identify strategies to create an inclusive learning environment in your own teaching and course(s).
 
 ---
 ## Inclusive Learning Defined
-
-!!! compat ""
-    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
 
 Inclusive learning encompasses the strategies, structure and climate of a learning environment. An inclusive learning environment is one in which students feel a sense of belonging, value, and respect, and are provided with the necessary resources and opportunities to actively learn.
 
 ---
 ## Why Inclusive Learning
-
-!!! compat ""        
-    - Explain why inclusive learning environments matter.
-    - Identify actions an instructor can take to create inclusive learning environments.
-    - Understand key concepts and principles:
-        - Inclusive learning environments lead to persistence and diversity in STEM.
-        - Inclusive learning environments come from inclusive teaching practices.
 
 Diversity in STEM starts with inclusive learning environments. There is no shortage of proven inclusive teaching methods; in fact the number of choices can be overwhelming. Moreover, who we are as people also influences the learning environment. 
 
@@ -58,9 +44,8 @@ Image source: [handelsman_achieving_2022](@cite)
 ---
 ## A Framework for Inclusive Learning
 
-!!! compat ""    
-    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
-
+```@raw html
+<!--
 ![Illustration of the five dimensions of inclusive teaching, reproduced from the Scientific Teaching module.](assets/five-dimensions-of-inclusive-teaching.svg)
 
 Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
@@ -73,29 +58,42 @@ Recall the five dimensions to inclusive teaching:
 - **Pedagogy--How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
 - **Climate--How the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
 
+-->
+```
+
+![Illustration of the five dimensions of inclusive teaching: Instructors, Pedagogy, Students, Curriculum, and Climate. Each dimension connects to the others, with Climate playing a central, moderating role.](assets/five-dimensions-of-inclusive-teaching.svg)
+
+Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
+
+There are five dimensions to inclusive teaching:
+
+- **Instructor--Who we are:** Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
+- **Students--Who we teach:** Plan meaningful interactions when we are aware of the many dimensions of our students.
+- **Curriculum--What we teach:** Choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.  
+- **Pedagogy--How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
+- **Climate--How the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
+
 Knowing more about our students helps us develop effective learning goals and teaching approaches, enabling us to plan meaningful interactions. Likewise, developing self-awareness helps us recognize how our biases, assumptions, experiences, and backgrounds shape our teaching methods and highlights areas for personal growth.
+
+!!! note ""
+    #### Reflecting on Strengths and Blindspots
+
+    Which dimension(s) do you tend to think about most naturally in your teaching? Which dimension(s) will require more attention for you to consider?
 
 ---
 ## Inclusive Learning in Practice
 
 ### The Instructor Dimension
 
+`TODO: Instructor Dimension section order: (1) Reflect on and share your identities: social, disciplinary/STEM, and instructor, (2) Address your biases and assumptions, and (3) Gauge your own sense of belonging/ TIMSI for instructor - apply their own self-efficacy and identity with inclusive teaching`
+
 ```@raw html
 <!--
 ### Share Your Identity
 
-!!! compat ""    
-    - Examine your identities.
-    - Predict how instructor identities influence student outcomes.
-    - Decide which identities to share.
-    - Understand key concepts and principles:
-        - Your identity influences the classroom learning environment.
-        - The first step is to be aware of them.
-
  `TODO wheres the data?` -->
 ```
 
-    `TODO: Add scientific/ STEM/ disciplinary identity.`
 
 **Social identity** is defined as the sense of self that comes from membership in a social group (or groups) along with the "value and emotional significance attached to that membership" (Tajfel, 1981. p. 255). For example, identifying as queer also means identifying with current and historical discrimination against members of the queer community.
 
@@ -341,8 +339,9 @@ Set a tone for your class and reinforce it:
 
     *Answer in your workbook:* What is one concrete action you can commit to taking to mitigate the negative impacts of biases and assumptions in your course?
 
-
 ### The Student Dimension
+
+`TODO: Student Dimension section order: (1) Get to know your students/ what motivates them, (2) Promote microaffirmations, and (3) Encourage productive failure`
 
 ```@raw html
 <!-- `TODO wheres the data?` -->
@@ -357,69 +356,123 @@ You might have students…
 - Find an image online that represents what they want to get out of your course and share with the whole class, for example through Jamboard or Padlet.
 - Share one thing science-related fact about their lives (favorite science fact, most science-y hobby, why they are interested in science).
 
-### Create a sense of belonging in STEM
+### Create Productive Failure Experiences
 
 !!! compat ""    
-    - Examine how your course might create or preclude a sense of belonging.
-    - Predict how belonging influences student outcomes.
-    - Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
+    - Examine where students implicitly and explicitly learn about failure in your course.
+    - Predict how experiencing personal or scientific failure influences student outcomes.
+    - Commit to one action you could take to create a productive failure experience in your course. 
     - Understand key concepts and principles:
-        - The classroom learning environment influences the extent to which student feel a sense of belonging.
-        - Belonging affects outcomes and persistence in STEM.
+        - Science and discovery are based on failure.
+        - Failure can be personal or scientific.
+        - Learning how to fail productively may lead to positive student outcomes.
 
-Historically excluded communities (HECs) refer to groups of individuals who have traditionally been denied full rights, privileges, and opportunities in STEM education, including but not limited to women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students. These groups have traditionally been underrepresented or excluded from participating in STEM. See also [Asai2020-bb](@cite).
+Science is based on failure:
 
-The differential pattern of exclusion from STEM affects students not only according to race and ethnicity; talented college students from HECs leave at higher rates [thiry_talking_2019](@cite). 
+- All engineering innovation is predicated on failed designs (Petroski 2006).
+- Failure is an expected and necessary part of learning and scientific inquiry [simpson_failure_2017](@cite).
+- Failure in science can lead to learning to iterate and solve problems (Lopatto et al., 2020; Gin, et al., 2018).
 
-Most of those who leave have the interest, confidence, and aptitude to be successful in STEM, but early classroom experiences can dampen their interest and actively exclude them from persisting [thiry_talking_2019,estrada_influence_2019](@cite).
+Yet students may not think failure is productive:
 
-Their departures after gateway STEM courses represent a major talent drain from the system. 
+- Students conclude that classroom struggles indicate they are not cut out for science (Good et al., 2012; Koch et al., 2008).
+- Students have a fear of failure, which is “cognitive and emotional reaction towards environmental stimuli that are apprehended as threats in achievement contexts” (Cacciotti, 2015).
+- Fear is antithetical to learning and creativity.
+ 
+### Growth mindset opportunity!
 
-To achieve an equitable educational enterprise, we must address the structural, individual, intentional, and unintentional biases that discourage HEC students from pursuing STEM.
+Reframe how you and your students think about the role of failure:
 
-### Actions to foster belonging in STEM
+- Instead of: *My experiment failed. I am a failure.*
+- Move toward: *What went wrong? How can I change it next time? What can I learn from it?*
 
-Several interventions have demonstrated promise in increasing college students’ persistence in STEM [estrada_toward_2011](@cite). These interventions often have especially positive effects on HEC students [evans_functional_2021,hurtado_diversifying_2009,olson_expression-based_2019,rodenbusch_early_2016,shuster_implementing_2019,waddell_flying_2021](@cite).
+### Help students perceive failure as productive
+
+- Hearing only about physicists’ achievements diminished students’ interest in science; learning about their struggles enhanced students’ interest in and recall of key concepts from the course (Hong & Lin-Siegler, 2012). 
+- “Struggle stories” increased student motivation and performance, especially among low-performing students [lin-siegler_even_2016](@cite). 
+- The “growth mindset” enables students to see a failure as an opportunity for growth rather than an assurance of further failure. (Dweck, 2006; Good et al., 2012; Canning, XX)
+
+### Failure in STEM
 
 ```@raw html
-<!-- `TODO use full sentence for these bullet points` -->
+<!-- TODO update the framing of this framework as the failure study progresses -->
 ```
 
-**Discrete interventions** are defined as individual activities embedded within a course. Example interventions that have been shown to lead to positive student outcomes include:
+Failure is an essential part of science, yet it, along with resilience, are not explicitly taught. There are two types of failure: personal and scientific. A framework can provide a path for engaging students in failing productively and developing resilience.
 
-- Active-learning strategies [freeman_active_2014](@cite)
-- Statements that increase students’ sense of belonging with microaffirmations [estrada_influence_2019](@cite)
-- Activities that increase resilience by reframing social adversity as common and transient [walton_brief_2011](@cite)
-- Exercises that demonstrate the relevance of a course by making explicit its utility value [harackiewicz_closing_2016](@cite) (Asher et al., 2023; Harackiewicz et al., 2016).
+Productive Failure Framework:
 
-**Systemic interventions** modify overall course structure. Some approaches that have proven effective include:
+Personal failure results from:
 
-- High-structure course design [freeman_increased_2011,theobald_active_2020](@cite)
-- Course-based undergraduate research experiences (CUREs) [aikens_race_2017,dolan_guide_2021,hurtado_diversifying_2009](@cite)
+- Life circumstances
+- Personal choices
+- Challenging or impossible tasks
+- Insufficient effort, practice, or training
 
-### A framework to gauge belonging
+Scientific failure results from:
 
-The Tripartite Integration Model of Social Influence (TIMSI) provides a framework for understanding the psychological mechanisms linking educational experiences and persistence outcomes [estrada_toward_2011](@cite). The TIMSI describes three orientations that predict persistence in STEM. 
+- Technical issues in an experiment
+- Data not supporting a hypothesis
+- Idea not being accepted by peers
 
-- **Scientific self-efficacy** indicates that a student feels capable of performing the actions needed to be successful in a STEM course, major, or career. 
-- **Scientific identity** indicates that a student perceives science as part of their identity and feels they belong to a scientific community. 
-- **Students internalize scientific values** when they authentically agree with the values of the scientific community, such as building new knowledge to solve global challenges, the thrill of discovery, and the importance of discourse.
+!!! note ""
+    #### Reflect on Failure
 
-According to the TIMSI, each of these three factors — independently and collectively — contribute to social integration into STEM communities. Social integration (or persistence) is defined as the intent to pursue further academic or career goals in STEM, or as behaviors, such as submitting applications for graduate school.
+    Think about where students implicitly and explicitly learn about failure in your course, and identify ways they can experience productive failure.
+
+    Do students learn how to navigate **personal** failures and if so, how? 
+
+    What productive failure opportunities could be included in your course to mitigate negative outcomes related to **personal** failure?
+
+    Do students learn how to navigate **scientific** failures and if so, how? 
+
+    What productive failure opportunities could be included in your course to mitigate negative outcomes related to **scientific** failure?
 
 !!! tip ""
-    #### Commit to Action: Promote Belonging
+    #### Commit to Action: Experience Productive Failure
 
-    *Answer in your workbook:* What is one discrete and one systemic action you can commit to taking to promote a positive sense of belonging in your course?
+    *Answer in your workbook:* What is one concrete action you can commit to taking to create a productive failure experience in your course, or ensuring that students experience their failures in your course as productive?
 
 
 ### The Curriculum Dimension
 
-!!! compat ""
-    - Considering the principles of Universal Design, determine how you will make your course accessible and inclusive.
+`TODO: Curriculum Dimension section order: (1) Focus on the facets of science, (2) Select relevant content and issues that represent a range of perspectives , and (3) Highlight diversity through examples, stories, and people (scientist spotlights)`
 
-```@raw html
-<!--
+### Connect Facets of Science with Inclusive Learning
+
+When students actively participate in the facets of science, we see:
+
+- Improved scientific self-identity and efficacy
+- Increased belonging
+- Persistence in STEM degrees and careers
+- Increased STEM accessibility for students with health conditions or impairments
+- Positive gains for all students with additional gains for students who are members of HEC groups
+
+These outcomes lead to diversity in the STEM workforce and and informed citizenry.
+
+Source: [estrada_toward_2011](@cite).
+
+### Preparing for the first day of class
+
+Instructors might consider collaborating with various colleagues or resources as they design their course to meet accessibility and UDL guidelines. For example, instructors could consult with:
+
+- Staff at the university's center for teaching and learning
+- Staff at the university's disability services office Diversity, Equity, and Inclusion (DEI) specialists
+- Teaching assistants
+- Technology specialists
+
+!!! note ""
+    #### Evaluate the way this instructor uses UDL principles on their first day of class
+    
+    Review the following slides from an introductory biology class for nonmajors (asynchronous and online). What elements from the UDL Guidelines are present? Additionally, how could the slides be improved?
+
+    `TODO: add slides`
+
+### The Pedagogy Dimension
+
+`TODO: Student Dimension section order: (1) Leverage active learning and formative assessment (LE), (2) Provide transparency in expectations and create predictable patterns (CD, SA), and (3) Incorporate universal design and accessibility principles (CD, CS)`
+`This section needs to be broader.`
+
 
 By adopting the principles of Universal Design, an instructor can build an inclusive course from the outset.
 
@@ -439,10 +492,6 @@ In this module, we will be focusing on the principle of providing **multiple mea
 - **Comprehension:** *Incorporate a variety of instructional techniques to ensure that students can access, process, and assimilate new information and knowledge.* Instructors need to provide supports and scaffold curriculum to help students comprehend the material. This can include activating or providing prior knowledge; providing explicit cues or prompts to emphasize key elements, concepts, and features; embedding scaffolds and feedback to organize and process information; and incorporating opportunities for students to apply their knowledge to new contexts.
 
 For more information on the other two principles, visit the [CAST UDL website](https://udlguidelines.cast.org/).
-
--->
-```
-
 
 ### Structuring for Accessibility
 
@@ -532,50 +581,8 @@ The researchers found statistically **significant differences on the final asses
 
     *Answer in your workbook:* Describe one specific aspect of universal design that you can commit to implementing in your course to enhance accessibility.
 
-### Connect Facets of Science with Inclusive Learning
 
-!!! compat ""    
-    - Examine how your course provides students with access to the facets of science.
-    - Predict how experiencing the facets of science influences student outcomes.
-    - Commit to one action you could take to ensure students engage in the facets of science. 
-    - Understand key concepts and principles
-        - The facets of science provide a framework for engaging students in learning science authentically.
-        - Students who engage in authentic science practices are more likely to persist in STEM.
-        - Just one CURE in college can increase persistence in STEM.
-
-When students actively participate in the facets of science, we see:
-
-- Improved scientific self-identity and efficacy
-- Increased belonging
-- Persistence in STEM degrees and careers
-- Increased STEM accessibility for students with health conditions or impairments
-- Positive gains for all students with additional gains for students who are members of HEC groups
-
-These outcomes lead to diversity in the STEM workforce and and informed citizenry.
-
-Source: [estrada_toward_2011](@cite).
-
-### Preparing for the first day of class
-
-Instructors might consider collaborating with various colleagues or resources as they design their course to meet accessibility and UDL guidelines. For example, instructors could consult with:
-
-- Staff at the university's center for teaching and learning
-- Staff at the university's disability services office Diversity, Equity, and Inclusion (DEI) specialists
-- Teaching assistants
-- Technology specialists
-
-!!! note ""
-    #### Evaluate the way this instructor uses UDL principles on their first day of class
-    
-    Review the following slides from an introductory biology class for nonmajors (asynchronous and online). What elements from the UDL Guidelines are present? Additionally, how could the slides be improved?
-
-    `TODO: add slides`
-
-### The Pedagogy Dimension
-
-    `TODO: This section needs to be broader.`
-
-**Instructor immediacy** is "the extent to which communication behaviors enhance closeness to and nonverbal interaction with another" (Mehrabian. 1969, p. 203) as well as behaviors that reduce distance between teacher and student (Andersen, 1979).
+**Instructor immediacy** is "the extent to which communication behaviors enhance closeness to and nonverbal interaction with another" (Mehrabian, 1969, p. 203) as well as behaviors that reduce distance between teacher and student (Andersen, 1979).
 
 **Instructor presence** is the degree to which instructors are actively involved in the learning environment, including how the course is designed, organized, and managed as well as how the learning is facilitated (Garrison et al., 1999).
 
@@ -585,7 +592,7 @@ Research has shown many positive outcomes from engaging in instructor immediacy 
 - When instructors exhibit behaviors related to instructor presence, students report high levels of learning and community (Shea et al., 2006).
 - Student affective learning, cognition, and motivation are significantly and positively correlated to instructor immediacy and presence (Baker, 2010).
 
-Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh & Hwang. 2006) include:
+Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh & Hwang, 2006) include:
 
 - Instructor Immediacy:
     - Maintain closer physical distance
@@ -612,6 +619,8 @@ Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh &
 
 
 ### The Climate Dimension
+
+`TODO: Climate Dimension section order: (1) Defining course climate, (2) Create a sense of belonging, and (3) Reduce stereotype threat`
 
 What is Course Climate?
 
@@ -738,6 +747,61 @@ Various performance indicators related to course climate were significantly rela
 
     True or False? Overall, the utility-value intervention led to positive outcomes for URM student retention in STEM.
 
+### Create a sense of belonging in STEM
+
+!!! compat ""    
+    - Examine how your course might create or preclude a sense of belonging.
+    - Predict how belonging influences student outcomes.
+    - Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
+    - Understand key concepts and principles:
+        - The classroom learning environment influences the extent to which student feel a sense of belonging.
+        - Belonging affects outcomes and persistence in STEM.
+
+Historically excluded communities (HECs) refer to groups of individuals who have traditionally been denied full rights, privileges, and opportunities in STEM education, including but not limited to women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students. These groups have traditionally been underrepresented or excluded from participating in STEM. See also [Asai2020-bb](@cite).
+
+The differential pattern of exclusion from STEM affects students not only according to race and ethnicity; talented college students from HECs leave at higher rates [thiry_talking_2019](@cite). 
+
+Most of those who leave have the interest, confidence, and aptitude to be successful in STEM, but early classroom experiences can dampen their interest and actively exclude them from persisting [thiry_talking_2019,estrada_influence_2019](@cite).
+
+Their departures after gateway STEM courses represent a major talent drain from the system. 
+
+To achieve an equitable educational enterprise, we must address the structural, individual, intentional, and unintentional biases that discourage HEC students from pursuing STEM.
+
+### Actions to foster belonging in STEM
+
+Several interventions have demonstrated promise in increasing college students’ persistence in STEM [estrada_toward_2011](@cite). These interventions often have especially positive effects on HEC students [evans_functional_2021,hurtado_diversifying_2009,olson_expression-based_2019,rodenbusch_early_2016,shuster_implementing_2019,waddell_flying_2021](@cite).
+
+```@raw html
+<!-- `TODO use full sentence for these bullet points` -->
+```
+
+**Discrete interventions** are defined as individual activities embedded within a course. Example interventions that have been shown to lead to positive student outcomes include:
+
+- Active-learning strategies [freeman_active_2014](@cite)
+- Statements that increase students’ sense of belonging with microaffirmations [estrada_influence_2019](@cite)
+- Activities that increase resilience by reframing social adversity as common and transient [walton_brief_2011](@cite)
+- Exercises that demonstrate the relevance of a course by making explicit its utility value [harackiewicz_closing_2016](@cite) (Asher et al., 2023; Harackiewicz et al., 2016).
+
+**Systemic interventions** modify overall course structure. Some approaches that have proven effective include:
+
+- High-structure course design [freeman_increased_2011,theobald_active_2020](@cite)
+- Course-based undergraduate research experiences (CUREs) [aikens_race_2017,dolan_guide_2021,hurtado_diversifying_2009](@cite)
+
+### A framework to gauge belonging
+
+The Tripartite Integration Model of Social Influence (TIMSI) provides a framework for understanding the psychological mechanisms linking educational experiences and persistence outcomes [estrada_toward_2011](@cite). The TIMSI describes three orientations that predict persistence in STEM. 
+
+- **Scientific self-efficacy** indicates that a student feels capable of performing the actions needed to be successful in a STEM course, major, or career. 
+- **Scientific identity** indicates that a student perceives science as part of their identity and feels they belong to a scientific community. 
+- **Students internalize scientific values** when they authentically agree with the values of the scientific community, such as building new knowledge to solve global challenges, the thrill of discovery, and the importance of discourse.
+
+According to the TIMSI, each of these three factors — independently and collectively — contribute to social integration into STEM communities. Social integration (or persistence) is defined as the intent to pursue further academic or career goals in STEM, or as behaviors, such as submitting applications for graduate school.
+
+!!! tip ""
+    #### Commit to Action: Promote Belonging
+
+    *Answer in your workbook:* What is one discrete and one systemic action you can commit to taking to promote a positive sense of belonging in your course?
+
 ### Understanding Stereotype Threat in STEM Education
 
 !!! compat ""    
@@ -796,83 +860,6 @@ Here are some strategies you can implement to reduce stereotype threat in the cl
 
     *Answer in your workbook:* Describe one concrete action you can take to mitigate the negative impacts of stereotype threat in your course.
 
-### Create Productive Failure Experiences
-
-!!! compat ""    
-    - Examine where students implicitly and explicitly learn about failure in your course.
-    - Predict how experiencing personal or scientific failure influences student outcomes.
-    - Commit to one action you could take to create a productive failure experience in your course. 
-    - Understand key concepts and principles:
-        - Science and discovery are based on failure.
-        - Failure can be personal or scientific.
-        - Learning how to fail productively may lead to positive student outcomes.
-
-Science is based on failure:
-
-- All engineering innovation is predicated on failed designs (Petroski 2006).
-- Failure is an expected and necessary part of learning and scientific inquiry [simpson_failure_2017](@cite).
-- Failure in science can lead to learning to iterate and solve problems (Lopatto et al., 2020; Gin, et al., 2018).
-
-Yet students may not think failure is productive:
-
-- Students conclude that classroom struggles indicate they are not cut out for science (Good et al., 2012; Koch et al., 2008).
-- Students have a fear of failure, which is “cognitive and emotional reaction towards environmental stimuli that are apprehended as threats in achievement contexts” (Cacciotti, 2015).
-- Fear is antithetical to learning and creativity.
- 
-### Growth mindset opportunity!
-
-Reframe how you and your students think about the role of failure:
-
-- Instead of: *My experiment failed. I am a failure.*
-- Move toward: *What went wrong? How can I change it next time? What can I learn from it?*
-
-### Help students perceive failure as productive
-
-- Hearing only about physicists’ achievements diminished students’ interest in science; learning about their struggles enhanced students’ interest in and recall of key concepts from the course (Hong & Lin-Siegler, 2012). 
-- “Struggle stories” increased student motivation and performance, especially among low-performing students [lin-siegler_even_2016](@cite). 
-- The “growth mindset” enables students to see a failure as an opportunity for growth rather than an assurance of further failure. (Dweck, 2006; Good et al., 2012; Canning, XX)
-
-### Failure in STEM
-
-```@raw html
-<!-- TODO update the framing of this framework as the failure study progresses -->
-```
-
-Failure is an essential part of science, yet it, along with resilience, are not explicitly taught. There are two types of failure: personal and scientific. A framework can provide a path for engaging students in failing productively and developing resilience.
-
-Productive Failure Framework:
-
-Personal failure results from:
-
-- Life circumstances
-- Personal choices
-- Challenging or impossible tasks
-- Insufficient effort, practice, or training
-
-Scientific failure results from:
-
-- Technical issues in an experiment
-- Data not supporting a hypothesis
-- Idea not being accepted by peers
-
-!!! note ""
-    #### Reflect on Failure
-
-    Think about where students implicitly and explicitly learn about failure in your course, and identify ways they can experience productive failure.
-
-    Do students learn how to navigate **personal** failures and if so, how? 
-
-    What productive failure opportunities could be included in your course to mitigate negative outcomes related to **personal** failure?
-
-    Do students learn how to navigate **scientific** failures and if so, how? 
-
-    What productive failure opportunities could be included in your course to mitigate negative outcomes related to **scientific** failure?
-
-!!! tip ""
-    #### Commit to Action: Experience Productive Failure
-
-    *Answer in your workbook:* What is one concrete action you can commit to taking to create a productive failure experience in your course, or ensuring that students experience their failures in your course as productive?
-
 
 !!! tip ""
 
@@ -880,21 +867,38 @@ Scientific failure results from:
 
 ---
 
-## An AJEDI lexicon for inclusive learning
+## Summary of Inclusive Learning
+
+- 
+
+
+
+!!! compat ""        
+    - Explain why inclusive learning environments matter.
+    - Identify actions an instructor can take to create inclusive learning environments.
+    - Understand key concepts and principles:
+        - Inclusive learning environments lead to persistence and diversity in STEM.
+        - Inclusive learning environments come from inclusive teaching practices.
+
 
 !!! compat ""    
-    - Know the relevant terms for inclusive learning.
+    - Examine your identities.
+    - Predict how instructor identities influence student outcomes.
+    - Decide which identities to share.
     - Understand key concepts and principles:
-        - AJEDI = antiracism, justice, equity, diversity, and inclusion
+        - Your identity influences the classroom learning environment.
+        - The first step is to be aware of them.
 
-**Antiracism:** Active efforts to reduce racism that are embodied in behaviors, actions, and policies that lead to racial equity and are substantiated by antiracist ideas. Practicing antiracism requires constantly identifying, challenging, and replacing existing racist acts and policies to foster equity between racial groups.
 
-**Justice:** A concept of fair and just relations between the individual and society. It involves ensuring that power, wealth, education, healthcare, and other opportunities are distributed fairly among individuals regardless of their background. It also means treating people of all races fairly, so that everyone has the same chances and outcomes. Achieving racial justice requires putting systems and measures in place that actively work towards equal treatment and opportunities for people of all races.
+!!! compat ""
+    - Considering the principles of Universal Design, determine how you will make your course accessible and inclusive.
 
-**Equity:** The condition in which individuals are provided the resources they need to have access to the same opportunities as the general population. Equity accounts for systematic inequalities, meaning the distribution of resources provides more for those who need them most.
 
-**Diversity:** The myriad of ways in which people differ, including the psychological, physical, cognitive, and social differences that occur among all individuals, such as race, ethnicity, nationality, socioeconomic status, religion, education, age, gender, sexual orientation, marital status, mental and physical ability, immigration status, and learning preferences. Diversity is all-inclusive and supportive of the proposition that everyone and every group should be valued.
-
-**Inclusion:** Authentically bringing traditionally excluded individuals or groups into processes, activities, and decision- and policy-making in a manner that shares power.
-
-[lawrence2004structural,miller_ajedi_2022](@cite)
+!!! compat ""    
+    - Examine how your course provides students with access to the facets of science.
+    - Predict how experiencing the facets of science influences student outcomes.
+    - Commit to one action you could take to ensure students engage in the facets of science. 
+    - Understand key concepts and principles
+        - The facets of science provide a framework for engaging students in learning science authentically.
+        - Students who engage in authentic science practices are more likely to persist in STEM.
+        - Just one CURE in college can increase persistence in STEM.
