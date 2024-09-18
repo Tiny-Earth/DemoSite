@@ -713,6 +713,13 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
 
 ### Time to start building your course schedule
 
+```@raw html
+<!--
+Course design includes all dimensions of inclusive teaching: as we focus on designing a course, we should consider ourselves, the curriculum, our pedagogy, and our students.
+As we design a course, we should intentionally include ways for students to engage in the different facets of science 
+-->
+```
+
 
 ---
 ## Summary of Course Design and Course Structure
