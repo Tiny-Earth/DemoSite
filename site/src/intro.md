@@ -3,19 +3,17 @@
 !!! warning ""
     This site is still under development. Thank you for previewing it! Your feedback is much appreciated -- [Let us know what you think!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eaCduZfaBtfNpRA)
 
-```@raw html
-<!-- TODO insert vignette videos from Sarah K here -->
-```
+`TODO: (1) insert vignette videos from Sarah K, (2) write LOs, (3) revise summary, (4) reorganize/ revise Why ST and ST in Practice, (5) check use of "facets of science" --> only use after Framework section?, (6) check a Path to ST`
 
 ---
 ## Module Learning Objectives
 
-By the end of this module, you will be able to...
-
-- Define scientific teaching and its goals.
-- Explain how scientific teaching supports students in learning the facets of science.
-- Examine why diversity matters in science.
-- Apply principles of scientific teaching to your own teaching and course(s).
+!!! compat ""
+    By the end of this module, you will be able to...
+      - Define scientific teaching and its goals.
+      - Explain how scientific teaching supports students in learning the facets of science.
+      - Examine why diversity matters in science.
+      - Apply principles of scientific teaching to your own teaching and course(s).
 
 ---
 ## Scientific Teaching Defined
@@ -34,21 +32,6 @@ Scientific teaching combines intentional decisions with iterative improvements t
 *The goals of scientific teaching are to make teaching and learning more scientific and to increase diversity in STEM.*
 
 Embedded in this undertaking is the challenge to all scientists to bring to teaching the critical thinking, rigor, creativity, and spirit of experimentation that defines research [handelsman_scientific_2004](@cite). Scientific teaching also posits that teaching science should capture the spirit of discovery in the classroom in ways that are accessible to all students. As you will see, there is ample evidence that teaching scientifically improves undergraduate education, accessibility, and student learning. This body of evidence can inform instructional decisions.
-
-The Scientific Teaching Course provides an overview of the complex and expansive landscape of evidence, approaches, methods, and theories. It also highlights the role of systemic barriers in learning environments and provides tools to remove them.
-
-*Our aim is to empower you, the instructor, to customize the approaches for your own identities, students, content, and contexts.*
-
-The STC brings scientific teaching to life: This course is organized around interactive modules that provide guidelines, reflective moments, hands-on practice, and immediate application.
-
-The modules build on and reinforce each other:
-
-`NOTE: This list will be updated when the module names and order are finalized`
-
-- **Scientific Teaching** explains why change is needed and lays a foundation of evidence-based theories.
-- **Inclusive Learning** and **How Learning Works** permeates the entire course.
-- **Course Design**, **Learning Experiences**, **Summative Assessment**, and **Course Structure** turn theory into actionable practice.
-- **Scientific Teaching Revisited** offers a framework for lifelong learning and iterative improvement.
 
 ---
 ## Why Scientific Teaching?
@@ -74,7 +57,6 @@ https://www.lifescied.org/doi/full/10.1187/cbe.21-05-0130). It's still framing c
 around a white male control group...
 -->
 ```
-
 
 Scientific teaching is needed because inequities plague higher education and affect STEM workforce diversity.
 
@@ -233,18 +215,7 @@ The rapid expansion of many scientific frontiers places the onus on science educ
 
 Teaching science in a way that reflects how science is done can broaden participation in STEM. When students actively engage in authentic scientific practices, they develop a more robust scientific self-efficacy and identity [estrada_toward_2011](@cite). When students witness diverse scientist identities and engage in real-world problems, it allows a broader range of students to connect with and envision themselves as part of the scientific community. These factors – positive self-efficacy, identity, and connection with scientific values – lead to increased persistence in STEM, especially for students from communities that have been historically excluded [estrada_toward_2011](@cite). Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone.
 
-
-
 ### Good Teaching
-
-!!! compat ""
-    - Identify what aspects of teaching science are personally motivating for you.
-    - Reconsider how you think of the course material and the role of instructors and students in the course.
-    - Connect good science teaching with intentional course design, inclusive learning, and iterative approaches.
-    - Understand key concepts and principles:
-        - Good teaching moves away from the instructor covering content toward the student learning science.
-        - Change can be achieved at many levels. The STC focuses on what instructors have agency to change: the classroom.
-        - Good teaching is intentional, inclusive, and iterative.
 
 *Good teaching moves from covering content to learning science.*
 
@@ -304,6 +275,8 @@ In order to achieve these goals, we need to teach in a way that intentionally en
 
 !!! note ""
     #### Identifying the Facets of Science
+
+    `SF: I think we should remove this activity`
 
     ```@raw html
     <!-- TODO where is the full citation used below? -->
@@ -602,6 +575,24 @@ Scientific teaching offers a natural structure for teaching that parallels scien
 
 ### A Path to Scientific Teaching
 
+The Scientific Teaching Course provides an overview of the complex and expansive landscape of evidence, approaches, methods, and theories. It also highlights the role of systemic barriers in learning environments and provides tools to remove them.
+
+*Our aim is to empower you, the instructor, to customize the approaches for your own identities, students, content, and contexts.*
+
+The STC brings scientific teaching to life: This course is organized around interactive modules that provide guidelines, reflective moments, hands-on practice, and immediate application.
+
+The modules build on and reinforce each other:
+
+`NOTE: This list will be updated when the module names and order are finalized`
+
+- **Scientific Teaching** explains why change is needed and lays a foundation of evidence-based theories.
+- **Inclusive Learning** and **How Learning Works** permeates the entire course.
+- **Course Design**, **Learning Experiences**, **Summative Assessment**, and **Course Structure** turn theory into actionable practice.
+- **Scientific Teaching Revisited** offers a framework for lifelong learning and iterative improvement.
+
+
+```@raw html
+<!--
 During the rest of the course, you will have the chance to practice each of the following, on your path to scientific teaching:
 
 1. Set your **intentions** 
@@ -618,10 +609,12 @@ During the rest of the course, you will have the chance to practice each of the 
         3. Inclusive learning approaches
 3. **Iterate** and improve - ST revisited module
 
+-->
+```
+
 ---
 ## Summary of Scientific Teaching
 
-!!! compat ""
     - Scientific teaching is both the teaching of science and the science of teaching.
     - The goals of scientific teaching are to make teaching and learning more scientific and increase diversity in STEM.
     - Scientific teaching means being intentional, inclusive, and iterative.
