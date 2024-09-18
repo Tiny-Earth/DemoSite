@@ -1,10 +1,10 @@
 # Scientific Teaching Course
 
-Welcome to the Scientific Teaching Course! We (the authors) are a team of STEM educators, scholars, and change agents, with decades of collective experience in the classroom and promoting systemic change in higher education.
+Welcome to the Scientific Teaching Course. We (the authors) are a team of STEM educators, scholars, and change agents, with decades of collective experience in the classroom and promoting systemic change in higher education.
 
-We represent many types of colleges, universities, disciplines, and student demographics, as well as our own backgrounds and perspectives. Though we do not represent every institution type, class size, or demographic, we think that the variety in our perspectives and experiences augments the scholarship on which this course is based.
+We represent many, but not all, types of colleges, universities, and disciplines, as well as our own backgrounds and perspectives. Though we do not represent every institution type, class size, or demographic, we think that the variety in our perspectives and experiences augments the scholarship on which this course is based.
 
-Importantly, we hope that you, as a STEM instructor, find yourself inspired by these pages to rethink your students’ scientific learning experiences and retool how you craft those experiences!
+We hope that this course inspires you, as a STEM instructor, to rethink your students’ scientific learning experiences and retool how you craft those experiences.
 
 ```@raw html
 <!--
@@ -37,14 +37,14 @@ Our goal is that the digital *Scientific Teaching Course* can position you and y
 ---
 ## Structure of the Course
 
-The course is modular and designed to be self-paced.
+The course modules are organized into three parts and are designed to be self-paced.
 
 - Part One provides an overview of scientific teaching and a call to action.
-- Part Two builds on that foundation, providing opportunities to engage with the content, practice with the tools, self-assess, reflect, and apply to your own teaching.
+- Part Two provides opportunities to engage with content, practice with tools, self-assess, reflect, and apply what you learn to your own teaching.
 - Part Three provides tools to synthesize what you learned and identify areas for further development.
 
 ```@raw html
-<!-- 
+<-- 
 - A companion workbook is provided `TODO in Google drive` that you can download and use for tracking reflections and designing your course materials as you progress through the course.
 -->
 ```
@@ -54,7 +54,7 @@ The course is modular and designed to be self-paced.
 
 ### Where do I begin?
 
-Before you begin, we recommend you select one of your STEM courses to revise or build anew as you proceed through the modules. Gather any materials you might want to work on during the Scientific Teaching Course, such as syllabus, learning objectives, lecture materials, assignments or assessments, lab experiments, or instructor guides. It’s ok if you are starting from scratch!
+Before you begin, we recommend you select one of your STEM courses to revise or build anew as you proceed through the modules. Gather any materials you might want to work on during the Scientific Teaching Course, such as your syllabus, learning objectives, lecture materials, assignments, assessments, lab experiments, or instructor guides. It’s ok if you are starting from scratch.
 
 ```@raw html
 <!-- 
@@ -72,7 +72,7 @@ After the course, you will have generated:
 
 Specifically, you will have worked on several components of your STEM course, including the overall design; syllabus, course schedule, and welcome materials; learning objectives, activities, and assessments; and any supporting materials such as lecture notes or exam questions. Each of these components will incorporate evidence-based practices that support inclusive learning.
 
-During the modules, we recommend that you practice using each scientific teaching tool on small parts of your course and in the provided templates. And throughout, the modules will prompt you to leave yourself detailed notes about when and how you plan to finish creating the course materials, when you plan to implement them, and how you will approach iterative revisions over time. To make space for these new tools, you may have to reconsider the nature and amount of content your students are accountable for learning.
+During the modules, we recommend that you practice using each scientific teaching tool on small parts of your course and in the provided templates. And throughout, the modules will prompt you to leave yourself detailed notes about when and how you plan to finish creating the course materials, when you plan to implement them, and how you will approach iterative revisions over time. You may have to reconsider the nature and amount of content your students are accountable for learning in order to support their deeper learning and development as scientists.
 
 ### What will I learn during the Scientific Teaching Course?
 
@@ -82,11 +82,11 @@ The learning objectives for the course as a whole are:
 - Explain how the tenets work together to promote STEM learning and diversity in STEM
 - Apply the tenets to your own teaching and course(s) 
 
-For module-specific objectives, refer to the learning objectives embedded in each module.
+Refer to the learning objectives embedded in each module for more specificity.
 
 ### How long will it take?
 
-We estimate each module will take approximately one hour to complete. This includes time to reflect on your teaching, consider new approaches, and build or re-work small pieces of your course in the workbook. We have curated resources to make your time in the modules efficient and worthwhile.
+We estimate each module will take approximately one hour to complete. This includes time to reflect on your teaching, consider new approaches, and build or re-work small pieces of your course in the workbook. We have made the modules efficient and worthwhile.
 
 However, the extent to which you work on each component and the degree of completion is entirely up to you and will affect the amount of time you spend.
 
