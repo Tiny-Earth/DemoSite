@@ -724,8 +724,7 @@ As we design a course, we should intentionally include ways for students to enga
 ---
 ## Summary of Course Design and Course Structure
 
-!!! compat ""
-    - Backward design is an approach to course or curriculum design that involves starting with the end goals or outcomes and then designing assessments and then activities that align with these goals.
-    - Learning goals and learning objectives are statements of what learners are expected to achieve, but they differ in their level of specificity and scope.
-    - Bloom's taxonomy is a framework for categorizing educational goals and objectives into a hierarchy of six levels, ranging from simple recall of information to complex, analytical thinking. By using Bloom's taxonomy to guide learning objectives, educators can design learning experiences that promote deeper understanding and critical thinking.
-    - High structure course design involves creating a highly organized plan for the course with clearly defined expectations and a well-defined schedule. This approach focuses on structuring the learning environment for students and providing multiple opportunities for engagement and practice.
+- Backward design is an approach to course or curriculum design that involves starting with the end goals or outcomes and then designing assessments and then activities that align with these goals.
+- Learning goals and learning objectives are statements of what learners are expected to achieve, but they differ in their level of specificity and scope.
+- Bloom's taxonomy is a framework for categorizing educational goals and objectives into a hierarchy of six levels, ranging from simple recall of information to complex, analytical thinking. By using Bloom's taxonomy to guide learning objectives, educators can design learning experiences that promote deeper understanding and critical thinking.
+- High structure course design involves creating a highly organized plan for the course with clearly defined expectations and a well-defined schedule. This approach focuses on structuring the learning environment for students and providing multiple opportunities for engagement and practice.
