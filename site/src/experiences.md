@@ -81,6 +81,8 @@ Formative assessment provides a unique opportunity for feedback, which can take 
 ---
 ## Why Learning Experiences
 
+`Move the Show Me the Data and Modes of Engagement sections to ST module?  Or cut down?`
+
 While we know that students can learn through passive listening, research has consistently shown that active, cognitive engagement with a concept or skill yields much more significant and lasting learning outcomes.
 
 ### Show Me the Data
@@ -176,6 +178,8 @@ In this framework, active learning provides the foundation for engaging students
 ---
 ## Learning Experiences in Practice
 
+`Delete T-P-S is Active, Formative, Inclusive, and Helps Students Learn?  Or cut down?`
+
 In the previous section, we identified that effective learning experiences are made up of three components: active learning, formative assessment, and inclusive learning.
 
 Additionally, it’s important to design learning experiences that model the framework for how learning works. Students need to activate prior knowledge, contend with dissonant information, organize and build new knowledge, perform repetitive, targeted practice, and reflect on their learning.
@@ -251,6 +255,8 @@ CUREs normalize failure by:
     *Answer in your workbook:* Even if you don’t teach a CURE, what is one concrete action you can commit to taking to ensure students engage with the facets of science?
 
 ### Beyond Think-Pair-Share
+
+`Passive to active tables? Keep list of techniques but delete definitions and link out to "glossary" of techniques? Formative strategies? Refreshers on how to design LEs to be inclusive?`
 
 Next, we share different active learning techniques and explain how to use them in the classroom.
 
