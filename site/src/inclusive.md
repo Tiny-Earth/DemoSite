@@ -67,13 +67,13 @@ Recall the five dimensions to inclusive teaching:
 -->
 ```
 
-`Text from Sarah: XX et al proposed a framework to illustrate the variables that affect course climate, called the Five Dimensions of Inclusive Teaching. The five dimensions are:
-Instructor–Who we are: Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
+`Text from Sarah: XX et al proposed a framework to illustrate the variables that affect course climate, called the Five Dimensions of Inclusive Teaching. The five dimensions are:`
+`Instructor–Who we are: Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
 Students–Who we teach: Plan meaningful interactions when we are aware of the many dimensions of our students.
 Curriculum–What we teach: Choose diverse content, perspectives, and contexts with students’ needs and backgrounds in mind.
 Pedagogy–How we teach: Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments.
-Climate–How the class is designed: Create an environment that enriches student learning through supportive structure and peer connections.
-Let’s explore evidence-based practices for each dimension that support inclusive learning.`
+Climate–How the class is designed: Create an environment that enriches student learning through supportive structure and peer connections.`
+`Let’s explore evidence-based practices for each dimension that support inclusive learning.`
 
 
 
@@ -111,10 +111,10 @@ Knowing more about our students helps us develop effective learning goals and te
 
 `TODO: Instructor Dimension section order: (1) Reflect on and share your identities: social, disciplinary/STEM, and instructor, (2) Address your biases and assumptions, and (3) Gauge your own sense of belonging/ TIMSI for instructor - apply their own self-efficacy and identity with inclusive teaching`
 
-`Text from Sarah: The first consideration for inclusive learning involves thinking about how our identities influence the course climate and therefore learning. It invites us to be aware of how our social, emotional, and pedagogical perspectives shape how we teach. Take Professor González, for example, who shares a story about themself on the first day of class:
-[vignette] "I was born in Puerto Rico but grew up outside Sacramento, California, with my family and two black cats. I had no idea what I wanted to be when I grew up, but I was able to take advantage of multiple research programs nearby at Sac State and in San Francisco during my college summers. I hated the first program in anthropology. All I did was dig in the dirt looking for ancient shards of broken pottery, alone in the hot sun. I never knew why my effort mattered, and I was ready to leave science. But the project between my sophomore and junior years convinced me to stay: My supervisor partnered with an Antarctic research group to analyze data from ice core extractions. We had weekly video calls with the team on site to discuss our findings. I loved the global and team aspects of the research. After that experience, my courses made more sense and were more relevant, so I found myself applying myself harder to school because I felt like I had purpose and direction. I was admitted to grad school followed by a 2-year postdoc. Now I am a climate scientist trying to predict how human activity affects the planet’s heating and cooling cycles. I still have two black cats (but they are different cats)."
-The story above is simple, but it contains multitudes. It requires the instructor to consciously reflect on the identities they bring into the classroom, and to consider what may interest or inspire students. This particular story elicits elements of wayfinding through multiple experiences outside a normal college curriculum, which could inspire students to do the same. It also talks about working with a global team, inferring that the instructor is open-minded and curious. The story hints that the professor is Puerto Rican or other Latine origin and couples it with a successful outcome of becoming a college professor, demonstrating a positive example of someone from an HEC succeeding in STEM. By injecting light humor about pets, the instructor conveys humanity and approachability, which cue a safe and supportive learning environment.
-We can all tell a story on the first day of class. If you do nothing else, do that. But what else can we do?`
+`Text from Sarah: The first consideration for inclusive learning involves thinking about how our identities influence the course climate and therefore learning. It invites us to be aware of how our social, emotional, and pedagogical perspectives shape how we teach. Take Professor González, for example, who shares a story about themself on the first day of class:`
+`[vignette] "I was born in Puerto Rico but grew up outside Sacramento, California, with my family and two black cats. I had no idea what I wanted to be when I grew up, but I was able to take advantage of multiple research programs nearby at Sac State and in San Francisco during my college summers. I hated the first program in anthropology. All I did was dig in the dirt looking for ancient shards of broken pottery, alone in the hot sun. I never knew why my effort mattered, and I was ready to leave science. But the project between my sophomore and junior years convinced me to stay: My supervisor partnered with an Antarctic research group to analyze data from ice core extractions. We had weekly video calls with the team on site to discuss our findings. I loved the global and team aspects of the research. After that experience, my courses made more sense and were more relevant, so I found myself applying myself harder to school because I felt like I had purpose and direction. I was admitted to grad school followed by a 2-year postdoc. Now I am a climate scientist trying to predict how human activity affects the planet’s heating and cooling cycles. I still have two black cats (but they are different cats)."`
+`The story above is simple, but it contains multitudes. It requires the instructor to consciously reflect on the identities they bring into the classroom, and to consider what may interest or inspire students. This particular story elicits elements of wayfinding through multiple experiences outside a normal college curriculum, which could inspire students to do the same. It also talks about working with a global team, inferring that the instructor is open-minded and curious. The story hints that the professor is Puerto Rican or other Latine origin and couples it with a successful outcome of becoming a college professor, demonstrating a positive example of someone from an HEC succeeding in STEM. By injecting light humor about pets, the instructor conveys humanity and approachability, which cue a safe and supportive learning environment.`
+`We can all tell a story on the first day of class. If you do nothing else, do that. But what else can we do? (1) Reflect on and share your identities (2) Address your biases and assumptions, (3) Gauge your own sense of belonging`
 
 ```@raw html
 <!--
@@ -401,7 +401,7 @@ Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh &
 
 `TODO: Student Dimension section order: (1) Get to know your students/ what motivates them, (2) Promote microaffirmations, and (3) Encourage productive failure`
 
-`Text from Sarah: The next consideration for creating an inclusive learning climate involves our students. It asks us to understand who they are and what motivates them so we can create meaningful learning experiences. It also invites us to mitigate bias and other threats to their learning. Try some of these approaches that have been shown to foster an inclusive climate:`
+`Text from Sarah: The next consideration for creating an inclusive learning climate involves our students. It asks us to understand who they are and what motivates them so we can create meaningful learning experiences. It also invites us to mitigate bias and other threats to their learning. Try some of these approaches that have been shown to foster an inclusive climate: (1) Get to know your students, (2) Promote microaffirmations, and (3) Encourage productive failure`
 
 ```@raw html
 <!-- `TODO wheres the data?` -->
@@ -487,9 +487,9 @@ Scientific failure results from:
 
 ### The Curriculum Dimension
 
-`TODO: Curriculum Dimension section order: (1) Focus on the facets of science, (2) Select relevant content and issues that represent a range of perspectives , and (3) Highlight diversity through examples, stories, and people (scientist spotlights)`
+`TODO: Curriculum Dimension section order: (1) Focus on the facets of science, (2) Select relevant content and issues that represent a range of perspectives, and (3) Highlight diversity through examples, stories, and people (scientist spotlights)`
 
-`Text from Sarah: Curriculum is the most obvious component of a course and therefore influences the course climate. Our decisions regarding what content is included or excluded make a difference. Similarly, the diversity of perspectives and examples affect the climate as well. Some tools that help support inclusive learning through curriculum include:`
+`Text from Sarah: Curriculum is the most obvious component of a course and therefore influences the course climate. Our decisions regarding what content is included or excluded make a difference. Similarly, the diversity of perspectives and examples affect the climate as well. Some tools that help support inclusive learning through curriculum include: (1) Focus on the facets of science, (2) Select relevant content, and (3) Highlight diversity`
 
 ### Connect Facets of Science with Inclusive Learning
 
@@ -527,7 +527,7 @@ Instructors might consider collaborating with various colleagues or resources as
 
 `This section needs to be broader.`
 
-`Text from Sarah: Pedagogy involves how the course is structured and defines how students interact with the content and each other. Once again, the choices we make determine how inclusive the course feels. Some evidence-based practices that foster inclusion are:`
+`Text from Sarah: Pedagogy involves how the course is structured and defines how students interact with the content and each other. Once again, the choices we make determine how inclusive the course feels. Some evidence-based practices that foster inclusion are: (1) Leverage active learning and formative assessment (LE), (2) Provide transparency in expectations and create predictable patterns (CD, SA), and (3) Incorporate universal design and accessibility principles (CD, CS)`
 
 
 By adopting the principles of Universal Design, an instructor can build an inclusive course from the outset.
