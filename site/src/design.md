@@ -40,6 +40,15 @@ The following six statements make up a "rubric" to help gauge effective course d
 5. Activities and assessments reinforce the learning objectives.
 6. Students have multiple chances to interact with the content, with each other, and with the instructional team.
 
+```@raw html
+<!--
+alternative rubric grading scheme
+0 - Absent
+1 - Present, but needs improvement 
+2 - Robust
+-->
+```
+
 !!! note ""
     #### Apply a Rubric for Course Design
 
