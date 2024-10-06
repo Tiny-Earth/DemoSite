@@ -44,9 +44,9 @@ Embedded in this undertaking is the challenge to all scientists to bring to teac
 <!-- TODO distillation sentence / paragraph for this submodule -->
 ```
 
-### Good Science Education
+### Effective Science Education
 
-*Good science education is equitable science education.*
+*Effective science education is equitable science education.*
 
 ```@raw html
 <!--
@@ -60,34 +60,35 @@ around a white male control group...
 
 Scientific teaching is needed because inequities plague higher education and affect STEM workforce diversity.
 
-Increasing diversity in STEM requires drawing on a larger talent pool that includes the many historically excluded groups of people. Diversity of the future workforce should match the demographics of the world’s citizens, take advantage of underutilized talent in all demographic groups, and make STEM careers readily available to people of all backgrounds.
+Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Bensimon, 2005, p. 99).
+
+Increasing diversity in STEM requires drawing from historically excluded groups of people. The future workforce should match the demographics of the world’s citizens, take advantage of underutilized talent in all demographic groups, and make STEM careers readily available to people of all backgrounds.
 
 Yet inequities in college science education continue to deny opportunities to students who identify as members of underrepresented racial or ethnic minorities, women, LGBTQIA+, or first-generation in college. Collectively, we refer to these and other underrepresented groups as historically excluded communities (HECs).
 
-To achieve an equitable educational enterprise, we must address the structural, individual, intentional, and unintentional biases that discourage HEC students from pursuing STEM.
+To achieve an equitable STEM workforce, we must address the structural, individual, intentional, and unintentional biases that discourage HEC students from pursuing STEM.
 
 ```@raw html
 <!-- TODO what are the full citation used in the below sentence? -->
 ```
 
-Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Bensimon, 2005, p. 99).
+
 
 ### What the US Reports Say about STEM Education
 
-Most US science is taught as lectures that are dominated by facts rather than principles and ways of thinking [stains_anatomy_2018](@cite). Substantial evidence shows that lecturing alone is a relatively ineffective way of teaching, and retention from lectures is poor. But reports show there are better ways to teach science, to teach scientifically, and that these approaches also serve to make science education more equitable:
+Most US college educators teach science in a lecture format dominated by facts rather than principles [stains_anatomy_2018](@cite), despite substantial evidence that lecturing alone is relatively ineffective and that retention from lectures is poor. Historically, the scientific community has called for embracing more effective ways to teach science and to teach scientifically, noting that these approaches also serve to make science education more equitable.
 
 ```@raw html
 <!-- TODO what are the full citations used in the points below? -->
 ```
 
-- In *Science for All* (1989), the American Association for the Advancement of Science called for a scientifically literate public and charged higher educators with teaching scientific habits of mind. They noted that employers were demanding more efficient and effective employees with problem-solving capabilities, the ability to work in teams, and analytical skills, yet students were unprepared for these demands.
-- In 2003, the National Research Council published *Bio2010*, a report recommending that curriculum better reflect the nature of science as a dynamic, interdisciplinary, and rapidly changing frontier.
-- *Vision and Change* (2008) connected science goals with faculty development practices and called for more research in STEM higher education.
+- In *Science for All* (1989), the American Association for the Advancement of Science (AAAS) called for a scientifically literate public and charged higher educators with teaching scientific habits of mind. They noted that employers were demanding more efficient and effective employees with problem-solving capabilities, the ability to work in teams, and analytical skills, yet students were unprepared for these demands.
+- In 2003, the National Research Council published *Bio2010*, which recommended that science curricula should reflect the nature of science as a dynamic, interdisciplinary, and rapidly changing frontier.
+- The AAAS *Vision and Change* initiative (2008; 2011) enumerated key biology concepts and science skills, encouraged teaching practices that focused on these concepts and skills, and called for more research in STEM higher education.
 - *Engage to Excel* (2012) purported that improving undergraduate STEM education to address these weaknesses is a national imperative to address STEM workforce shortages.
-- A consensus report from the National Academies on undergraduate STEM education (2018) identified that improving the quality and impact of undergraduate STEM education requires progress on three goals [dibner2018indicators](@cite):
+- A consensus report from the National Academies on undergraduate STEM education (2018) identified goals for improving the quality and impact of undergraduate STEM education [dibner2018indicators](@cite):
     1. Increase students’ competence in STEM concepts and skills by engaging them in evidence-based STEM educational practices and programs.
     2. Strive for equity, diversity, and inclusion of STEM students and instructors by providing equitable opportunities for access and success.
-    3. Ensure adequate numbers of STEM professionals by increasing completion of STEM credentials as needed in the different disciplines.
 
 ### What the International Reports Say
 
@@ -97,21 +98,17 @@ The problems of exclusion and a lack of a diverse, prepared workforce is not uni
 <!-- TODO what are the full citations used in the paragraphs below? -->
 ```
 
-- **India:** The Annual Status of Education Report (ASER 2022) found serious structural inequities with respect to college STEM. Only $18\%$ of schools had a functional computer lab. More than $9\%$ STEM instructor positions were vacant, reaching $25\%$ in some regions. Outdated teaching methods, lack of computing infrastructure, and resource deficits worsen the situation, especially in rural areas. The report recommends a focus on resources to support quality STEM education around critical thinking, multidisciplinary learning, and strong foundations in scientific discovery. It aims to prepare over 250 million young Indians across socioeconomic backgrounds for 21st century jobs and equip them to solve complex real-world problems through technology.
-- **Africa:** A 2020 UN report showed that only $21.7\%$ of African STEM students graduate, compared with $24.3\%$ in Europe and Central Asia, and $25.6\%$ in the USA. Africa's education training programs suffer from inequalities and exclusion at all levels: education expenditures, inadequate teacher development programs, limited access to electricity and internet, and inadequate infrastructure for STEM teaching and learning. The challenges lie in improving science curriculum through evidence-based practices and also in ensuring the availability of basic resources to support both instructors and educational institutions.
-- **UK:** In a recent (2022-23) report on Diversity and Inclusion in STEM, the UK government identified several structural inequities, calling for raising levels of diversity and inclusion in STEM education, while also mentioning the importance of measuring change.
+ !!! details "Click here to show the Course 1 Schedule"
+     
+       - **India:** The Annual Status of Education Report (ASER 2022) found serious structural inequities with respect to college STEM. Only $18\%$ of schools had a functional computer lab. More than $9\%$ STEM instructor positions were vacant, reaching $25\%$ in some regions. Outdated teaching methods, lack of computing infrastructure, and resource deficits worsen the situation, especially in rural areas. The report recommends a focus on resources to support quality STEM education around critical thinking, multidisciplinary learning, and strong foundations in scientific discovery. It aims to prepare over 250 million young Indians across socioeconomic backgrounds for 21st century jobs and equip them to solve complex real-world problems through technology.
+       - **Africa:** A 2020 UN report showed that only $21.7\%$ of African STEM students graduate, compared with $24.3\%$ in Europe and Central Asia, and $25.6\%$ in the USA. Africa's education training programs suffer from inequalities and exclusion at all levels: education expenditures, inadequate teacher development programs, limited access to electricity and internet, and inadequate infrastructure for STEM teaching and learning. The challenges lie in improving science curriculum through evidence-based practices and also in ensuring the availability of basic resources to support both instructors and educational institutions.
+       - **UK:** In a recent (2022-23) report on Diversity and Inclusion in STEM, the UK government identified several structural inequities, calling for raising levels of diversity and inclusion in STEM education, while also mentioning the importance of measuring change.
 
 ### STEM has an Equity Problem in US Higher Education
 
-Underrepresentation in STEM is primarily due to attrition in the US. Who switches out of STEM?
+In the US, underrepresentation in STEM is primarily due to attrition. More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields. Although 42% of white students leave STEM majors, a higher proportion, 58% of Latine students and 66% of Black students, do so.
 
-- It's $42\%$ of white students
-- It's $58\%$ of Latine students
-- And it's $66\%$ of Black students
-
-More than half of the approximately $600,000$ US college students who intend to major in STEM switch to other fields.
-
-Why? In extensive interviews of college students enrolled in STEM majors, $90\%$ complained about poor teaching methods.
+Why? In extensive interviews of college students enrolled in STEM majors, $90\%$ mentioned ineffective teaching approaches.
 
 ```@raw html
 <!--
@@ -151,17 +148,15 @@ Example discriminatory practices:
 We need more:
 
 - Scientists in the workforce to solve global and local problems
-- Diversity in the STEM workforce to inform what problems are important and to come up with creative solutions
-- Scientifically literate citizens to make informed decisions
-
-Change can be achieved at many levels. Policy decisions can be improved when policy-makers and voters understand how scientific knowledge is derived and what findings have been discovered [handelsman_achieving_2022](@cite).
+- Diversity in the STEM workforce to identify key problems and come up with creative solutions
+- Scientifically literate citizens who can make informed decisions
 
 *The STC focuses on what instructors have agency to change: the classroom.*
 
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table1-label">Table 1. Ways Instructors can Adopt Inclusive Classroom Practices</strong><br><span id="table1-summary"><!-- TODO: Description here. --></span></p>
+        <p><strong id="table1-label">Table 1. A Few Ways Instructors can Adopt Inclusive Classroom Practices</strong><br><span id="table1-summary"><!-- TODO: Description here. --></span></p>
     </figcaption>
     <table aria-labelledby="table1-label" aria-describedby="table1-summary">
         <tr>
@@ -203,44 +198,51 @@ Change can be achieved at many levels. Policy decisions can be improved when pol
 
     *Answer in your workbook:* What is one discrete action you could take to improve how science is taught in your own course? Draw inspiration from any source: this course, reports from your country, effective practices from your teacher-peers or your own teachers, or so on.
 
-### Good Science
+### Effective Science
 
-Good science is inclusive science.
+Effective science is inclusive science.
 
-*Scientific teaching is needed because science is important.*
+*Scientific teaching is needed because science is a critical component of our world.*
 
-The rapid expansion of many scientific frontiers places the onus on science educators to teach efficiently and effectively, assuring that students engage with a vast amount of knowledge, learn how to interact with and evaluate it, and retain much of it. Whether they major in biology, art history, math, or elementary education, everyone should complete a college education without understanding basic principles and facts about the world around them. Equally important, our students need to emerge with an understanding of the facets of science so they can appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them. The need to solve global problems and navigate the difference between evidence-based claims and opinions is becoming increasingly important.
+The rapid expansion of scientific knowledge means students will need to solve global problems and navigate the difference between evidence-based claims and opinions. Whether they major in biology, art history, math, or elementary education, college-educated students should understand the basic principles of the world around them. Equally important, students need to appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them (all critical facets of science).
 
-*Scientific teaching is needed because diversity is important to science.*
+*Scientific teaching is needed because diversity impacts science.*
 
-Teaching science in a way that reflects how science is done can broaden participation in STEM. When students actively engage in authentic scientific practices, they develop a more robust scientific self-efficacy and identity [estrada_toward_2011](@cite). When students witness diverse scientist identities and engage in real-world problems, it allows a broader range of students to connect with and envision themselves as part of the scientific community. These factors – positive self-efficacy, identity, and connection with scientific values – lead to increased persistence in STEM, especially for students from communities that have been historically excluded [estrada_toward_2011](@cite). Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone.
+Teaching science in a way that reflects how science is done can broaden participation in STEM. When students actively engage in authentic scientific practices, they develop a more robust scientific self-efficacy and identity [estrada_toward_2011](@cite). When students witness diverse scientist identities and engage in solving real-world problems, they can connect with and envision themselves as part of the scientific community. These factors – positive self-efficacy, identity, and connection with scientific values – lead to increased persistence in STEM, especially for students from communities that have been historically excluded [estrada_toward_2011](@cite). Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone.
 
-### Good Teaching
+### Effective Teaching
 
-*Good teaching moves from covering content to learning science.*
+*Effective teaching helps students develop science skills.*
 
-To integrate science authentically into teaching requires moving beyond a mindset of “covering the content” toward designing experiences in which students actively develop the essential knowledge, skills, and mindsets that align with how science is practiced.
+Authentically integrating science into teaching requires moving beyond a mindset of “covering the content” toward designing experiences in which students actively develop the essential knowledge, skills, and mindsets that align with how science is practiced.
 
-This transition involves stepping away from a checklist of topics to cover and instead identifying overarching concepts and broad themes that help students to organize complex information and deepen their understanding. It also considers how students integrate scientific knowledge with authentic practices that represent the facets of science and acknowledge their diverse identities, beliefs, and experiences.
+Instructors should identify overarching concepts and broad themes that help students to organize complex information and deepen their understanding. They should also help students integrate scientific knowledge with authentic practices and acknowledge students' diverse identities, beliefs, and experiences.
 
-This shift doesn’t mean students don’t learn facts; it means they learn to organize their thinking while learning them and that they can apply what they have learned in authentic contexts.
+This shift doesn’t mean students don’t learn facts; it means they learn how to organize these facts and apply what they have learned in authentic contexts.
+
+
+```@raw html
+<!--
 
 ### Growth mindset opportunity!
 
-Reframe how you think of the course material and the role of instructors and students in the course:
+Reframe how you think of course materials, the instructor's role and student roles:
 
 - Instead of: Instructor covers the science facts
 - Move toward: Students learn the facets of science
 
-### Good teaching is intentional, inclusive, and iterative
+-->
+```
 
-Good teaching creates learning experiences for students to engage in the practices of science – more on that in the next two modules. Good teaching also means approaching your teaching with the same rigor and spirit of your scientific research.
+### Effective teaching is intentional, inclusive, and iterative
+
+Effective teaching creates learning experiences for students to engage in the practices of science – more on that in the next two modules. Effective teaching also means approaching your teaching with the same rigor and spirit of your scientific research.
 
 *This involves being intentional, inclusive, and iterative.*
 
-Scientific teaching aims to bring a philosophy and framework to teaching that makes the process more rigorous, reflective, and evaluative. Drawing from discovery and evidence-based strategies, scientific teaching provides a model for teaching that parallels science research. Rather than allowing a last-minute, somewhat random approach to designing classes, scientific teaching emphasizes intentional planning and using empirical evidence and data to inform instructional decisions. This not only allows the instruction to evolve over time, it also means students are engaging in the best possible STEM learning experience, which can also be very rewarding for instructors.
+Scientific teaching aims to bring a philosophy and framework to teaching that makes the process more rigorous, reflective, and evaluative. Drawing from discovery and evidence-based strategies, scientific teaching provides a model for teaching that parallels science research. Rather than allowing a haphazard approach to designing daily lectures, scientific teaching emphasizes intentional course-level planning, using empirical evidence and data to inform instructional decisions. This approach allows courses to evolve over time using student learning as the driving evidence.
 
-Like science, these teaching principles take time to practice and implement. Also like science, we advocate that you select from practices that demonstrate positive student outcomes and carefully evaluate which approaches will work in your context.
+Like science, these teaching principles take time to practice and implement. Also like science, we advocate that you select from practices that demonstrate positive student outcomes and carefully evaluate which approaches will work best in your context.
 
 !!! tip ""
     #### Reflect on Your Own Motivations
