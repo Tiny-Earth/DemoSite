@@ -10,10 +10,12 @@
 
 !!! compat ""
     By the end of this module, you will be able to...
-      - Define scientific teaching and its goals.
-      - Explain how scientific teaching supports students in learning the facets of science.
-      - Examine why diversity matters in science.
-      - Apply principles of scientific teaching to your own teaching and course(s).
+      - Explain the idea of scientific teaching and its goals.
+      - Explain how effective science education, effective science and effective teaching are connected.
+      - Defend the importance of diversity in science and science education.
+      - Choose approaches that will engage your students with the six facets of science.
+      - Apply the principles of scientific teaching to your own teaching.
+
 
 ---
 ## Scientific Teaching Defined
