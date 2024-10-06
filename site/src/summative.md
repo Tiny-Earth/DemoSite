@@ -16,11 +16,6 @@
       - Identify practices that enhance equity in the design of summative assessments, including guidelines for accessibility and Universal Design.
       - Develop a comprehensive summative assessment plan that addresses the skills and knowledge of the course.
       - Describe the importance of using rubrics to evaluate summative assessments and support student learning.
-      - Outline how to write a rubric.
-      - Explain how to reduce stereotype threat.
-      - Recognize the importance of equitable grading practices.
-      - Describe equitable grading practices.
-      - Explore alternative grading methods.
 
 ---
 ## Summative Assessment Defined
