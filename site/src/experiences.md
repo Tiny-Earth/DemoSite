@@ -10,10 +10,11 @@
 
 !!! compat ""
     By the end of this module, you will be able to...
-      - Define learning experiences and its goals.
-      - Explain how learning experiences engage students in learning the facets of science.
-      - Examine why learning experiences matters for diversity.
-      - Apply principles of learning experiences to your own teaching and course(s).
+      - Compare the types of student engagement (interactive, constructive, active, and passive) and how you plan to incorporate them.   
+      - Explain the difference between student-centered and instructor-centered approaches.
+      - Identify the active learning approaches you are most interested in incorporating.
+      - Intentionally design learning experiences that include active learning, formative assessment, and inclusive learning.
+
 
 ---
 ## Learning Experiences Defined
