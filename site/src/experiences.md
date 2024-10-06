@@ -337,4 +337,3 @@ As a scientific instructor, choosing active learning techniques that help you ga
 - Learning experiences should be student-centered, provide feedback, and allow for real-time adjustments.
 - Active learning approaches lead to improved student learning and persistence, as well as increased learning gains and collaborative skills.
 - The more students are challenged to engage in high-level cognitive activities, the more they understand and improve.
-- Intentionally design learning experiences that include active learning, formative assessment, and inclusive learning.
