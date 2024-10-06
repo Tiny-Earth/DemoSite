@@ -29,6 +29,23 @@ It is an intentional, reflective process of developing effective learning materi
 
 In designing a course, we set goals and adopt strategies for students and teachers to achieve learning outcomes.
 
+---
+## Why Course Design
+
+Science teachers are designers: You select content. You modify it for your courses. You create presentations and you craft lectures. You prepare online course space so students can find the assignments they need. You prepare physical lab space so the flow of traffic does not impede hands-on learning. You plan, you adapt, you iterate.
+
+
+And like in any type of design—from technology, to paintings, to skyscrapers, and yes, to science courses—you make decisions. Your decisions help you approach your aims, within your constraints. You’ll make decisions about your teaching before the semester begins, while teaching a unit, and after you’ve seen how it all played out. From designing new courses, to overhauling an old design you’ve inherited, and to continuously improving your teaching, as a science teacher you are as much a designer as you are a scientist.
+
+In all three of these roles—teacher, scientist, designer—you hold a number of commitments that are relevant to, inspire, and inform how you carry out your course [flanagan2005values,flanagan2014values,belman2009instructional](@cite). As a teacher, you are likely committed to delivering on the specific learning objectives of your courses. As a scientist, you may be committed to a certain bar of rigor in your work, and as a science teacher you may be committed to instilling a sense of this rigor in your students. And so on.
+
+Only you can know what your own commitments are and the ways they:
+
+- Shape what you aspire to achieve in your work as a science teacher
+- Motivate you to pursue your own degree of quality
+- Guide you to explore and weigh between design alternatives
+
+
 ### A Rubric for Course Design
 
 The following six statements make up a "rubric" to help gauge effective course design:
@@ -116,21 +133,6 @@ alternative rubric grading scheme
     5. How well do the activities and assessments reinforce the learning objectives?
     6. How well do students have multiple chances to interact with the content, with each other, and with the Instructional team?
 
----
-## Why Course Design
-
-Science teachers are designers: You select content. You modify it for your courses. You create presentations and you craft lectures. You prepare online course space so students can find the assignments they need. You prepare physical lab space so the flow of traffic does not impede hands-on learning. You plan, you adapt, you iterate.
-
-
-And like in any type of design—from technology, to paintings, to skyscrapers, and yes, to science courses—you make decisions. Your decisions help you approach your aims, within your constraints. You’ll make decisions about your teaching before the semester begins, while teaching a unit, and after you’ve seen how it all played out. From designing new courses, to overhauling an old design you’ve inherited, and to continuously improving your teaching, as a science teacher you are as much a designer as you are a scientist.
-
-In all three of these roles—teacher, scientist, designer—you hold a number of commitments that are relevant to, inspire, and inform how you carry out your course [flanagan2005values,flanagan2014values,belman2009instructional](@cite). As a teacher, you are likely committed to delivering on the specific learning objectives of your courses. As a scientist, you may be committed to a certain bar of rigor in your work, and as a science teacher you may be committed to instilling a sense of this rigor in your students. And so on.
-
-Only you can know what your own commitments are and the ways they:
-
-- Shape what you aspire to achieve in your work as a science teacher
-- Motivate you to pursue your own degree of quality
-- Guide you to explore and weigh between design alternatives
 
 !!! tip ""
     #### Reflect on Your Design Decisions
