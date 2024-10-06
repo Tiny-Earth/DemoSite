@@ -98,7 +98,7 @@ The problems of exclusion and a lack of a diverse, prepared workforce is not uni
 <!-- TODO what are the full citations used in the paragraphs below? -->
 ```
 
- !!! details "Click here to show the Course 1 Schedule"
+ !!! details "Click here to show select international reports"
      
        - **India:** The Annual Status of Education Report (ASER 2022) found serious structural inequities with respect to college STEM. Only $18\%$ of schools had a functional computer lab. More than $9\%$ STEM instructor positions were vacant, reaching $25\%$ in some regions. Outdated teaching methods, lack of computing infrastructure, and resource deficits worsen the situation, especially in rural areas. The report recommends a focus on resources to support quality STEM education around critical thinking, multidisciplinary learning, and strong foundations in scientific discovery. It aims to prepare over 250 million young Indians across socioeconomic backgrounds for 21st century jobs and equip them to solve complex real-world problems through technology.
        - **Africa:** A 2020 UN report showed that only $21.7\%$ of African STEM students graduate, compared with $24.3\%$ in Europe and Central Asia, and $25.6\%$ in the USA. Africa's education training programs suffer from inequalities and exclusion at all levels: education expenditures, inadequate teacher development programs, limited access to electricity and internet, and inadequate infrastructure for STEM teaching and learning. The challenges lie in improving science curriculum through evidence-based practices and also in ensuring the availability of basic resources to support both instructors and educational institutions.
