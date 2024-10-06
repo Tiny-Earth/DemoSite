@@ -10,10 +10,10 @@
 
 !!! compat ""
     By the end of this module, you will be able to...
-      - Define inclusive learning and its goals.
-      - Explain how addressing each of the five dimensions of inclusive teaching creates a cohesive learning experience.
-      - Examine why inclusive learning environments matter.
-      - Identify strategies to create an inclusive learning environment in your own teaching and course(s).
+      - Defend the importance of taking an inclusive approach to teaching.
+      - Explain how each of the five dimensions of inclusive teaching work together to create a cohesive learning experience for students.
+      - Identify approaches that will help create a positive course climate by mitigating biases, stereotype threat and lack of accessibility.
+
 
 ---
 ## Inclusive Learning Defined
@@ -359,43 +359,6 @@ Set a tone for your class and reinforce it:
 
     *Answer in your workbook:* What is one concrete action you can commit to taking to mitigate the negative impacts of biases and assumptions in your course?
 
-### Instructor Immediacy and Presence
-
-**Instructor immediacy** is "the extent to which communication behaviors enhance closeness to and nonverbal interaction with another" (Mehrabian, 1969, p. 203) as well as behaviors that reduce distance between teacher and student (Andersen, 1979).
-
-**Instructor presence** is the degree to which instructors are actively involved in the learning environment, including how the course is designed, organized, and managed as well as how the learning is facilitated (Garrison et al., 1999).
-
-Research has shown many positive outcomes from engaging in instructor immediacy and presence practices:
-
-- There is a significant relationship between instructor immediacy and student affective and cognitive learning (Andersen et al., 1981).
-- When instructors exhibit behaviors related to instructor presence, students report high levels of learning and community (Shea et al., 2006).
-- Student affective learning, cognition, and motivation are significantly and positively correlated to instructor immediacy and presence (Baker, 2010).
-
-Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh & Hwang, 2006) include:
-
-- Instructor Immediacy:
-    - Maintain closer physical distance
-    - Use direct body orientation
-    - Use eye contact
-    - Engage in positive body movements such as nods and smiles
-- Instructor Presence:
-    - Communicate goals
-    - Set guidelines for student interaction
-    - Encourage student participation
-    - Ensure students don't feel isolated
-
-!!! note ""
-    #### Instructor Immediacy and Presence
-
-    Match each of the following interactions to either "Instructor Immediacy" or "Instructor Presence."
-
-    - Addressing students by their preferred names
-    - Providing clear instructions and guidance for course assignments
-    - Participating actively in discussion forums and online chats
-    - Expressing nonverbal cues to show interest and attention
-    - Making regular announcements and updates to the course content
-    - Using humor during lectures or in interactions with students
-
 
 ### The Student Dimension
 
@@ -505,6 +468,8 @@ These outcomes lead to diversity in the STEM workforce and and informed citizenr
 
 Source: [estrada_toward_2011](@cite).
 
+```@raw html
+<!--
 ### Preparing for the first day of class
 
 Instructors might consider collaborating with various colleagues or resources as they design their course to meet accessibility and UDL guidelines. For example, instructors could consult with:
@@ -513,6 +478,8 @@ Instructors might consider collaborating with various colleagues or resources as
 - Staff at the university's disability services office Diversity, Equity, and Inclusion (DEI) specialists
 - Teaching assistants
 - Technology specialists
+-->
+```
 
 !!! note ""
     #### Evaluate the way this instructor uses UDL principles on their first day of class
@@ -810,6 +777,45 @@ The Tripartite Integration Model of Social Influence (TIMSI) provides a framewor
 - **Students internalize scientific values** when they authentically agree with the values of the scientific community, such as building new knowledge to solve global challenges, the thrill of discovery, and the importance of discourse.
 
 According to the TIMSI, each of these three factors — independently and collectively — contribute to social integration into STEM communities. Social integration (or persistence) is defined as the intent to pursue further academic or career goals in STEM, or as behaviors, such as submitting applications for graduate school.
+
+
+### Instructor Immediacy and Presence
+
+**Instructor immediacy** is "the extent to which communication behaviors enhance closeness to and nonverbal interaction with another" (Mehrabian, 1969, p. 203) as well as behaviors that reduce distance between teacher and student (Andersen, 1979).
+
+**Instructor presence** is the degree to which instructors are actively involved in the learning environment, including how the course is designed, organized, and managed as well as how the learning is facilitated (Garrison et al., 1999).
+
+Research has shown many positive outcomes from engaging in instructor immediacy and presence practices:
+
+- There is a significant relationship between instructor immediacy and student affective and cognitive learning (Andersen et al., 1981).
+- When instructors exhibit behaviors related to instructor presence, students report high levels of learning and community (Shea et al., 2006).
+- Student affective learning, cognition, and motivation are significantly and positively correlated to instructor immediacy and presence (Baker, 2010).
+
+Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh & Hwang, 2006) include:
+
+- Instructor Immediacy:
+    - Maintain closer physical distance
+    - Use direct body orientation
+    - Use eye contact
+    - Engage in positive body movements such as nods and smiles
+- Instructor Presence:
+    - Communicate goals
+    - Set guidelines for student interaction
+    - Encourage student participation
+    - Ensure students don't feel isolated
+
+!!! note ""
+    #### Instructor Immediacy and Presence
+
+    Match each of the following interactions to either "Instructor Immediacy" or "Instructor Presence."
+
+    - Addressing students by their preferred names
+    - Providing clear instructions and guidance for course assignments
+    - Participating actively in discussion forums and online chats
+    - Expressing nonverbal cues to show interest and attention
+    - Making regular announcements and updates to the course content
+    - Using humor during lectures or in interactions with students
+
 
 !!! tip ""
     #### Commit to Action: Promote Belonging
