@@ -14,10 +14,10 @@
 
 !!! compat ""
     By the end of this module, you will be able to...
-      - Describe the benefits of using backward design.
-      - Compare high structure and low structure course designs and their strengths and weaknesses.
-      - Create AJEDI and science-focused learning objectives/goals that are at diverse Bloom's levels.
-      - Brainstorm how to implement high structure course design into your classroom.
+      - Gain confidence in writing learning goals and learning objectives
+      - Determine the level of cognitive engagement (Bloom’s level) for each of your learning objectives, and align your activities and assessments to this level.
+      - Use the Rubric for Course Design to check the design of your courses.
+
 
 ---
 
@@ -506,6 +506,15 @@ Ideally, multiple activities are leveraged to help students get more practice, g
     Until you've completed the learning experiences module, you may wish to keep the assessments and activities as simple ideas, then build on them later.
  -->
 ````
+
+---
+## Module Learning Objectives
+
+!!! compat ""
+    By the end of this module, you will be able to...
+      - Compare low and high structure course designs and describe the benefits of high structure.
+      - Describe the advantages of a learner-centered syllabus.
+      - Make a plan for incorporating high-impact practices into your own course structure.
 
 ---
 
