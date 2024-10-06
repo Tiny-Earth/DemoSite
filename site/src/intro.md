@@ -90,10 +90,6 @@ Most US college educators teach science in a lecture format dominated by facts r
     1. Increase students’ competence in STEM concepts and skills by engaging them in evidence-based STEM educational practices and programs.
     2. Strive for equity, diversity, and inclusion of STEM students and instructors by providing equitable opportunities for access and success.
 
-### What the International Reports Say
-
-The problems of exclusion and a lack of a diverse, prepared workforce is not unique to the United States. International reports echo the American reports:
-
 ```@raw html
 <!-- TODO what are the full citations used in the paragraphs below? -->
 ```
