@@ -12,7 +12,8 @@
 - Dimensions of teaching and learning
 - **Diversity:** The myriad of ways in which people differ, including the psychological, physical, cognitive, and social differences that occur among all individuals, such as race, ethnicity, nationality, socioeconomic status, religion, education, age, gender, sexual orientation, marital status, mental and physical ability, immigration status, and learning preferences. Diversity is all-inclusive and supportive of the proposition that everyone and every group should be valued.
 - Facets of science
-- Formative assessment 
+- Formative assessment
+- Graded review assignments: Tasks or assessments that evaluate students' understanding, comprehension, and recall of previously covered material. Examples: case studies, writing assignments, discussion posts, quizzes, projects.
 - Historically excluded community (HEC)
 - Historically included community  (HIC)
 - **Inclusion:** Authentically bringing traditionally excluded individuals or groups into processes, activities, and decision- and policy-making in a manner that shares power.
@@ -29,6 +30,7 @@
 - Nature of science
 - Philosophy
 - Practice
+- Preparatory assignments: Tasks or activities given to students prior to a class or lesson to help them prepare for upcoming content. Examples: reading assigned texts, watching videos, researching a topic, completing practice exercises.
 - Principle
 - Prior knowledge
 - Rubric
@@ -38,6 +40,19 @@
 - Summative assessment
 - Technique
 - Tool
-- Utilty Value Intervention
+- Utilty Value Intervention: A task designed to help students recognize the practical significance and usefulness of the content they are learning, linking it to their own goals, interests, and future aspirations.
+
+If you live somewhere in which AJEDI language is restricted, considering using these terms:
+- Access/ Accessibility
+- Belonging
+- Celebration of differences
+- Collaboration
+- Empathy
+- Learning community
+- Open-mindedness
+- Respect
+- Support
+- Understanding
+- Welcoming enivronment
 
 [lawrence2004structural,miller_ajedi_2022](@cite)
