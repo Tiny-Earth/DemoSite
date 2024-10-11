@@ -112,7 +112,7 @@ Yet despite these findings, 70% of instructors reported extensive use of lecturi
 
 ### STEM has an Equity Problem in US Higher Education
 
-The problem of not using evidence-based practices is compounded when we ignore the role of systemic inequities in higher education. In the US, underrepresentation in STEM is prevalent []. The lack of representation of people who belong to communities that have been historically excluded from STEM primarily due to attrition. More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields. Although 42% of white students leave STEM majors, a higher proportion, 58% of Latine students and 66% of Black students, do so (Theobald et al., 2020).
+The problem of not using evidence-based practices is compounded when we ignore the role of systemic inequities in higher education. In the US, underrepresentation in STEM is prevalent [TK need #s, citation]. The lack of representation of people who belong to communities that have been historically excluded from STEM primarily due to attrition. More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields. Although 42% of white students leave STEM majors, a higher proportion, 58% of Latine students and 66% of Black students, do so (Theobald et al., 2020).
 
 Why? In extensive interviews of college students enrolled in STEM majors, $90\%$ mentioned ineffective teaching approaches.
 
