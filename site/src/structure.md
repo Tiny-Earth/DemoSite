@@ -42,7 +42,7 @@
 - Tool
 - Utilty Value Intervention: A task designed to help students recognize the practical significance and usefulness of the content they are learning, linking it to their own goals, interests, and future aspirations.
 
-If you live somewhere in which AJEDI language is restricted, considering using these terms:
+If you live somewhere in which you cannot use certain AJEDI language in your course or syllabus, considering using these alternative terms:
 - Access/ Accessibility
 - Belonging
 - Celebration of differences
