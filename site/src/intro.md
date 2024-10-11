@@ -86,11 +86,15 @@ Most US college educators teach science in a lecture format dominated by facts r
 
 - In *Science for All* (1989), the American Association for the Advancement of Science (AAAS) called for a scientifically literate public and charged higher educators with teaching scientific habits of mind. They noted that employers were demanding more efficient and effective employees with problem-solving capabilities, the ability to work in teams, and analytical skills, yet students were unprepared for these demands.
 - In 2003, the National Research Council published *Bio2010*, which recommended that science curricula should reflect the nature of science as a dynamic, interdisciplinary, and rapidly changing frontier.
-- The AAAS *Vision and Change* initiative (2008; 2011) enumerated key biology concepts and science skills, encouraged teaching practices that focused on these concepts and skills, and called for more research in STEM higher education.
+- The AAAS *Vision and Change* initiative (2008; 2011) enumerated key biology concepts and science skills, encouraged teaching practices that focused on these concepts and skills, and called for more research in STEM higher education. A follow-up report, *Levers for Change* (AAAS, 2019) noted that:
+  - “There is sufficient evidence from education research…to indicate that active-learning experiences are good for students and support their learning, attitudes, sense of belonging, and persistence in STEM.”
+  - “Instructors’ adoption of active teaching strategies is a critical step in ensuring that all students experience the benefits of active learning in their STEM courses.”
 - *Engage to Excel* (2012) purported that improving undergraduate STEM education to address these weaknesses is a national imperative to address STEM workforce shortages.
 - A consensus report from the National Academies on undergraduate STEM education (2018) identified goals for improving the quality and impact of undergraduate STEM education [dibner2018indicators](@cite):
     1. Increase students’ competence in STEM concepts and skills by engaging them in evidence-based STEM educational practices and programs.
     2. Strive for equity, diversity, and inclusion of STEM students and instructors by providing equitable opportunities for access and success.
+
+Yet despite these findings, 70% of instructors reported extensive use of lecturing in their courses, not evidence-based practices such as active learning (AAAS, 2019).
 
 ```@raw html
 <!-- TODO what are the full citations used in the paragraphs below? -->
@@ -108,7 +112,7 @@ Most US college educators teach science in a lecture format dominated by facts r
 
 ### STEM has an Equity Problem in US Higher Education
 
-In the US, underrepresentation in STEM is primarily due to attrition. More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields. Although 42% of white students leave STEM majors, a higher proportion, 58% of Latine students and 66% of Black students, do so.
+The problem of not using evidence-based practices is compounded when we ignore the role of systemic inequities in higher education. In the US, underrepresentation in STEM is prevalent []. The lack of representation of people who belong to communities that have been historically excluded from STEM primarily due to attrition. More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields. Although 42% of white students leave STEM majors, a higher proportion, 58% of Latine students and 66% of Black students, do so (Theobald et al., 2020).
 
 Why? In extensive interviews of college students enrolled in STEM majors, $90\%$ mentioned ineffective teaching approaches.
 
