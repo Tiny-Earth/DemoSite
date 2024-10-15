@@ -397,11 +397,11 @@ In order to achieve these goals, we need to teach in a way that intentionally en
 
 Scientific teaching offers a natural structure for teaching that parallels scientific research, as well as the scientific practices we are asking our students to learn. Teaching science can mimic science practices in many ways.
 
-- Both researchers and instructors can develop and use models, plan and carry out investigations, analyze and interpret data, engage in scientific arguments and construct explanations (science practices).
-- Instructors can also replicate and troubleshoot experiments and resolve problems (iteration).
-- Engaging in educational research allows instructors to propose hypotheses and make inquiries (discovery).
-- Instructors also engage in innovation, iteration, and collaboration, build on previous knowledge, gain agency and develop a sense of responsibility for outcomes (authenticity and ownership).
-- Finally, instructors can share their findings with others and work on education reform that has relevance beyond their own classroom (relevance).
+- **Science Practices:** Both researchers and instructors can develop and use models, plan and carry out investigations, analyze and interpret data, engage in scientific arguments and construct explanations.
+- **Iteration:** Instructors can also replicate and troubleshoot experiments and resolve problems.
+- **Discovery:** Engaging in educational research allows instructors to propose hypotheses and make inquiries.
+- **Authenticity and Ownership:** Instructors also engage in innovation and collaboration, build on previous knowledge, gain agency, and develop a sense of responsibility for outcomes.
+- **Relevance:** Finally, instructors can share their findings with others and work on education reform that has application beyond their own classroom.
 
 ### A Path to Scientific Teaching
 
