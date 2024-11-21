@@ -1,32 +1,50 @@
-# Course Design
+# Course Design and Course Structure
 
 !!! warning ""
     This site is still under development. Thank you for previewing it! Your feedback is much appreciated -- [Let us know what you think!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eaCduZfaBtfNpRA)
 
-```@raw html
-<!-- TODO insert vignette videos from Sarah K here -->
-```
+`TODO: (1) insert vignette videos from Sarah K, (2) write LOs, (3) revise summary, (4) reorganize/ revise Course Structure sections`
 
 ```@raw html
 <!-- `TODO this is about a 40 minute read, resolve` -->
 ```
 
 ---
-## Module Goals
-
-`NOTE: This content was restructured recently. Its goals need to be rewritten.`
-
----
-## Course Design Defined
+## Module Learning Objectives
 
 !!! compat ""
-    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
+    By the end of this module, you will be able to...
+      - Gain confidence in writing learning goals and learning objectives
+      - Determine the level of cognitive engagement (Bloom’s level) for each of your learning objectives, and align your activities and assessments to this level.
+      - Use the Rubric for Course Design to check the design of your courses.
+
+
+---
+
+## Course Design Defined
 
 What is course design?
 
 It is an intentional, reflective process of developing effective learning materials and environments that encourage students to develop their skills and knowledge. 
 
 In designing a course, we set goals and adopt strategies for students and teachers to achieve learning outcomes.
+
+---
+## Why Course Design
+
+Science teachers are designers: You select content. You modify it for your courses. You create presentations and you craft lectures. You prepare online course space so students can find the assignments they need. You prepare physical lab space so the flow of traffic does not impede hands-on learning. You plan, you adapt, you iterate.
+
+
+And like in any type of design—from technology, to paintings, to skyscrapers, and yes, to science courses—you make decisions. Your decisions help you approach your aims, within your constraints. You’ll make decisions about your teaching before the semester begins, while teaching a unit, and after you’ve seen how it all played out. From designing new courses, to overhauling an old design you’ve inherited, and to continuously improving your teaching, as a science teacher you are as much a designer as you are a scientist.
+
+In all three of these roles—teacher, scientist, designer—you hold a number of commitments that are relevant to, inspire, and inform how you carry out your course [flanagan2005values,flanagan2014values,belman2009instructional](@cite). As a teacher, you are likely committed to delivering on the specific learning objectives of your courses. As a scientist, you may be committed to a certain bar of rigor in your work, and as a science teacher you may be committed to instilling a sense of this rigor in your students. And so on.
+
+Only you can know what your own commitments are and the ways they:
+
+- Shape what you aspire to achieve in your work as a science teacher
+- Motivate you to pursue your own degree of quality
+- Guide you to explore and weigh between design alternatives
+
 
 ### A Rubric for Course Design
 
@@ -38,6 +56,15 @@ The following six statements make up a "rubric" to help gauge effective course d
 4. Students know what is expected of them in the course.
 5. Activities and assessments reinforce the learning objectives.
 6. Students have multiple chances to interact with the content, with each other, and with the instructional team.
+
+```@raw html
+<!--
+alternative rubric grading scheme
+0 - Absent
+1 - Present, but needs improvement 
+2 - Robust
+-->
+```
 
 !!! note ""
     #### Apply a Rubric for Course Design
@@ -53,7 +80,7 @@ The following six statements make up a "rubric" to help gauge effective course d
     > - Additionally, I like to **highlight the various ways different cultures learned about and used** the night sky. For example, Polynesians used celestial knowledge to navigate long-distance ocean voyages.
     > - To increase clarity and transparency, **all learning objectives are provided** in the syllabus and in lecture notes.
     > - **Mastery-oriented rubrics** are also provided to students **to help them know what I'm looking for** in their term papers.
-    > - Lastly, my course includes multiple assignments before, during, and after class to help provide **low-stakes opportunities for practice and feedback**. In particular, I like to use the **jigsaw activity** in class so that students have a **sense or ownership and can learn from each other**.
+    > - Lastly, my course includes multiple assignments before, during, and after class to help provide **low-stakes opportunities for practice and feedback**. In particular, I like to use the **jigsaw activity** in class so that students have a **sense of ownership and can learn from each other**.
 
 !!! note ""
     #### Rating Courses with a Rubric
@@ -106,21 +133,6 @@ The following six statements make up a "rubric" to help gauge effective course d
     5. How well do the activities and assessments reinforce the learning objectives?
     6. How well do students have multiple chances to interact with the content, with each other, and with the Instructional team?
 
----
-## Why Course Design
-
-Science teachers are designers: You select content. You modify it for your courses. You create presentations and you craft lectures. You prepare online course space so students can find the assignments they need. You prepare physical lab space so the flow of traffic does not impede hands-on learning. You plan, you adapt, you iterate.
-
-
-And like in any type of design—from technology, to paintings, to skyscrapers, and yes, to science courses—you make decisions. Your decisions help you approach your aims, within your constraints. You’ll make decisions about your teaching before the semester begins, while teaching a unit, and after you’ve seen how it all played out. From designing new courses, to overhauling an old design you’ve inherited, and to continuously improving your teaching, as a science teacher you are as much a designer as you are a scientist.
-
-In all three of these roles—teacher, scientist, designer—you hold a number of commitments that are relevant to, inspire, and inform how you carry out your course [flanagan2005values,flanagan2014values,belman2009instructional](@cite). As a teacher, you are likely committed to delivering on the specific learning objectives of your courses. As a scientist, you may be committed to a certain bar of rigor in your work, and as a science teacher you may be committed to instilling a sense of this rigor in your students. And so on.
-
-Only you can know what your own commitments are and the ways they:
-
-- Shape what you aspire to achieve in your work as a science teacher
-- Motivate you to pursue your own degree of quality
-- Guide you to explore and weigh between design alternatives
 
 !!! tip ""
     #### Reflect on Your Design Decisions
@@ -146,65 +158,14 @@ Only you can know what your own commitments are and the ways they:
         - Committed to our Work/Life Balance
         - Committed to our Personal and Professional Identities
         - Committed to our Beliefs, Values, Principles
-        - Special Commitments in Concerning Times: various commitments that arose from specific needs and conversations at a specific moment in time, eg. COVID-19, George Floyd, wars at home and abroad, Title IX cases, and advancements in artificial intelligence
+        - Special Commitments in Concerning Times: various commitments that arose from specific needs and conversations at a specific moment in time, e.g., COVID-19, George Floyd, wars at home and abroad, Title IX cases, and advancements in artificial intelligence
 
 ---
 ## A Framework for Course Design
 
-!!! compat ""
-    - Examine the parallels between your scientific research and your teaching approaches.
-    - Commit to one action you could take to address each of the five dimensions of diversity and equity in your course.
-    - Understand key concepts and principles:
-        - Good teaching embodies five dimensions of inclusion: students, instructors, curriculum, pedagogy, and the classroom climate.
-        - These dimensions can work together to create a cohesive learning experience.
-        - Instructors do not need to be educational experts to be good teachers, but it helps to use methods that are (1) based on solid theory, (2) tested and evaluated in the classroom, and (3) organized by a logical framework. 
-
-### Five Dimensions of Inclusive Teaching
-
-Course design includes all dimensions of inclusive teaching: as we focus on designing a course, we should consider ourselves, the curriculum, our pedagogy, and our students.
-
-![Illustration of the five dimensions of inclusive teaching, reproduced from the Scientific Teaching module.](assets/five-dimensions-of-inclusive-teaching.svg)
-
-Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
-
-There are five dimensions to inclusive teaching:
-
-- **Instructor--Who we are:** Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
-- **Students--Who we teach:** Plan meaningful interactions when we are aware of the many dimensions of our students.
-- **Curriculum--What we teach:** Choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.  
-- **Pedagogy--How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
-- **Climate--How the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
-
-In this module, we will focus on the last one.
-
-### Six Facets of Science
-
-![Illustration of the six facets of science, reproduced from the Scientific Teaching module.](assets/six-facets-of-science.svg)
-
-As we design a course, we should intentionally include ways for students to engage in the different facets of science 
-
-- **Science Practices:** Ask questions, carry out investigations, analyze and communicate data
-- **Iteration:** Identify and resolve problems in multiple cycles
-- **Discovery:** Engage in research tasks that have unknown outcomes
-- **Authenticity:** Engage in innovation and collaboration to address original research questions
-- **Ownership:** Develop a sense of responsibility for and personal connection to  research findings
-- **Relevance:** Apply the outcomes and applications of scientific discoveries to real world-contexts
-
-```@raw html
-<!--
-!!! tip ""
-
-    Which dimension(s) of the inclusive teaching framework do you tend to think about most naturally in your teaching? 
-
-    Which facets of science do you already explicitly include in your course? 
-
-    Describe the structures you already have in place, and document areas in which you would like to improve.
--->
-```
-
 ### Backward Design
 
-Backward design is an instructional approach that emphasizes starting with the end goals in mind (Wiggins & McTighe, 2005). What should students know or be able to do after instruction? What are the desired results after the course or a lesson? Once you have identified these goals, you can design the curriculum such that students can achieve the goals.
+Backward design is an instructional approach that emphasizes starting with the end goals in mind (Wiggins & McTighe, 2005). What should students know or be able to do after instruction? What are the desired results after the course or a lesson? Engaging in backward design intentionally integrates the curricula and pedagogy dimensions as we consider how to make our courses effective and inclusive for all students.
 
 The process of backward design typically involves three stages:
 
@@ -225,7 +186,7 @@ By prioritizing learning objectives, teachers are able to create more targeted a
 
     Two professors are covering the same learning objective and using the same assessment in their introductory science courses.
 
-    - Objective: Using the scientific methods, design an experiment based on a given hypothesis.
+    - Objective: Using the scientific method, design an experiment based on a given hypothesis.
     - Assessment: Given the results of an experiment on antibiotic resistance, design a follow-up experiment that tests a revised hypothesis.
 
     They have both planned various activities to meet the learning objective:
@@ -241,12 +202,12 @@ By prioritizing learning objectives, teachers are able to create more targeted a
                 <th scope="col">Course B</th>
             </tr>
             <tr>
-                <td>Before class: Read a popular science on article on the scientific method.</td>
+                <td>Before class: Read a popular science article on the scientific method.</td>
                 <td>Before class: Read select passages on the scientific method from the course's textbook.</td>
             </tr>
             <tr>
                 <td>In class: Poll students on what a scientific hypothesis is. Brainstorm key features of the scientific method in small groups.</td>
-                <td>In class: Clicker Question: What are experimental controls (eg. positive, negative)? In pairs, analyse data of an Alzheimer's drug and evaluate the hypothesis.</td>
+                <td>In class: Clicker Question: What are experimental controls (e.g., positive, negative)? In pairs, analyze data of an Alzheimer's drug and evaluate the hypothesis.</td>
             </tr>
             <tr>
                 <td>After class: Diagram the scientific method and label each step with key features.</td>
@@ -263,47 +224,8 @@ By prioritizing learning objectives, teachers are able to create more targeted a
     - Course B. The objective is measured by the assessment question, and the activities prepare students for the assessment.
     - Course B. Students will meet the objective because the activities are the same as the assessment.
 
-### Bloom's Taxonomy
-
-Bloom's Taxonomy is a framework for categorizing educational goals, objectives and assessment by levels of cognitive complexity and specificity (Bloom, 1959).
-
-Since its development, it has become a widely used tool for designing and assessing instruction. The taxonomy consists of six levels, where each level builds upon the prior (McNulty 2019):
-
-1. **Remember:** Can the learner recall or retain the information? Action verbs: define, duplicate, list, memorize, recall, repeat, state
-2. **Comprehend:** Can the learner explain ideas or concepts? Action verbs: classify, describe, discuss, explain, identify, locate, recognize, report, select, translate, paraphrase
-3. **Apply:** Can the learner use information in a new way? Action verbs: choose, demonstrate, dramatize, employ, illustrate, interpret, operate, schedule, sketch, solve, use, write
-4. **Analyze:** Can the learner distinguish between different parts? Action verbs: approause, compare, contrast, criticize, differentiate, discriminate, distinguish, examine, experiment, question, test
-5. **Evaluate:** Can the learner justify a stand or decision? Action verbs: appraise, argue, defend, judge, select, support, value, evaluate
-6. **Create:** Can the learner create a new product or point of view? Action verbs: assemble, construct, create, design, develop, forumlate, write
-
-The framework is used to progressively move learners based on their prior knowledge and abilities from lower-order cognitive skills (LOCS) to higher-order cognitive skills (HOCS).
-
-Action verbs appropriate for each level can be chosen to communicate the cognitive level of the objective or assessment.
-
-There are many other ways to characterize cognitive levels; we recommend Bloom's taxonomy because it is straightforward and easy to use.
-
-However, since it can be difficult to distinguish between the 6 levels of Bloom's taxonomy, we prefer to divide Bloom's by LOCS and HOCS.
-
-In general, levels 1 and 2 are LOCS and levels 3-6 are HOCS. But depending on the context and what information the student is given, exercises written for higher Bloom's levels such as levels 3 (Apply) and 5 (Evaluate) can be considered LOCS. Often, the distinction depends on the novelty of the task. For example, if students do an evaluation activity in class (HOCS) and encounter the same exercise on an assessment, then it's no longer an evaluation, but a recall task (LOCS) that reinforces what was learned in class.
-
-!!! note ""
-    #### Practice Bloom's Taxonomy
-
-    For each assessment prompt below, identify if targets a lower-order cognitive skill (LOCS) or higher-order cognitive skill (HOCS):
-
-    1. Design an experiment to test one of Newton's laws of motion, including the necessary equipment, data collection methods, and analysis.
-    2. Use Figure 3 in the textbook to draw your own model that demonstrates one or more of Newton's laws of motion, including the necessary variables and assumptions.
-    3. Define Isaac Newton's three laws of motion, including examples of each.
-    4. Critique the validity of an experiment or study that uses Newton's laws of motion to explain a physical phenomenon, including its limitations and potential sources of error.
-    5. Explain the difference between mass and weight.
-    6. Considering the forces acting on an object in motion (direction and magnitude), predict the resultant motion of the object using Newton's laws.
-
-
 ---
 ## Course Design in Practice
-
-!!! compat ""
-    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
 
 ### Setting learning goals and learning objectives
 
@@ -385,17 +307,56 @@ To write an effective learning objective, we suggest the following:
 
     **Objectives:**
     
-    1. Describe the water cycle and its different stages, including precipitation, evaporation, transpiration, surface runoff, and groundwater storages.
+    1. Predict how changes to the natural water cycle process from human activities affect other lifeforms on Earth.
     2. Explain the connections between the various stages of the water cycle.
-    3. Analyze the human impact on the water cycle, including deforestation, urbanization, and climate change.
-    4. Predict how changes to the natural water cycle process from human activities affect other lifeforms on Earth.
-    5. Evaluate the effects of droughts, floods, and water pollution on various civilizations around the globe.
+    3. Evaluate the effects of droughts, floods, and water pollution on various civilizations around the globe.
+    4. Describe the water cycle and its different stages, including precipitation, evaporation, transpiration, surface runoff, and groundwater storages.
+    5. Analyze the human impact on the water cycle, including deforestation, urbanization, and climate change.
 
     **Goals:**
 
     1. Students will understand the water cycle as a complex process that involves the continuous movement and transformation of water through the environment.
     2. Students will recognize the importance of the water cycle in sustaining life on earth and the implications of human activity on this process.
     3. Students will develop critical thinking skills to analyze and evaluate the impact of changes in the water cycle on ecosystems and human societies.
+
+
+### Bloom's Taxonomy
+
+Bloom's Taxonomy is a framework for categorizing educational goals, objectives and assessment by levels of cognitive complexity and specificity (Bloom, 1959).
+
+Since its development, it has become a widely used tool for designing and assessing instruction. The taxonomy consists of six levels, where each level builds upon the prior (McNulty, 2019):
+
+1. **Remember:** Can the learner recall or retain the information? Action verbs: define, duplicate, identify, list, memorize, name, recall, recognize, repeat, state
+2. **Comprehend:** Can the learner explain ideas or concepts? Action verbs: classify, describe, discuss, explain, locate, paraphrase, report, select, summarize, translate
+3. **Apply:** Can the learner use information in a new way? Action verbs: choose, demonstrate, dramatize, draw, employ, execute, illustrate, implement, interpret, operate, perform, sketch, solve, use
+4. **Analyze:** Can the learner distinguish between different parts? Action verbs: compare, contrast, deconstruct, differentiate, discriminate, distinguish, examine, experiment, infer, investigate, organize, predict, question, test
+5. **Evaluate:** Can the learner justify a stand or decision? Action verbs: appraise, argue, assess, criticize, critique, defend, judge, justify, prioritize, support, value
+6. **Create:** Can the learner create a new product or point of view? Action verbs: assemble, build, compose, construct, design, develop, devise, formulate, invent, plan, produce, write
+
+The framework is used to progressively move learners based on their prior knowledge and abilities from lower-order cognitive skills (LOCS) to higher-order cognitive skills (HOCS).
+
+Action verbs appropriate for each level can be chosen to communicate the cognitive level of the objective or assessment.
+
+There are many other ways to characterize cognitive levels; we recommend Bloom's taxonomy because it is straightforward and easy to use.
+
+However, since it can be difficult to distinguish between the 6 levels of Bloom's taxonomy, we prefer to divide Bloom's by LOCS and HOCS.
+
+In general, levels 1 and 2 are LOCS and levels 3-6 are HOCS. But depending on the context and what information the student is given, exercises written for higher Bloom's levels such as levels 3 (Apply) and 5 (Evaluate) can be considered LOCS. Often, the distinction depends on the novelty of the task. For example, if students do an evaluation activity in class (HOCS) and encounter the same exercise on an assessment, then it's no longer an evaluation, but a recall task (LOCS) that reinforces what was learned in class.
+
+!!! note ""
+    #### Practice Bloom's Taxonomy
+
+    For each assessment prompt below, identify if targets a lower-order cognitive skill (LOCS) or higher-order cognitive skill (HOCS):
+
+    1. Design an experiment to test one of Newton's laws of motion, including the necessary equipment, data collection methods, and analysis.
+    2. Use Figure 3 in the textbook to draw your own model that demonstrates one or more of Newton's laws of motion, including the necessary variables and assumptions.
+    3. Define Isaac Newton's three laws of motion, including examples of each.
+    4. Critique the validity of an experiment or study that uses Newton's laws of motion to explain a physical phenomenon, including its limitations and potential sources of error.
+    5. Explain the difference between mass and weight.
+    6. Considering the forces acting on an object in motion (direction and magnitude), predict the resultant motion of the object using Newton's laws.
+
+
+
 
 !!! note ""
     #### Raising Learning Objective Bloom Levels
@@ -412,12 +373,12 @@ To write an effective learning objective, we suggest the following:
     
     You can use this list of action verbs to help reword the objective:
 
-    1. **Remember:** assemble, construct, create, design, develop, forumlate, write
-    2. **Comprehend:** appraise, argue, defend, judge, select, support, value, evaluate
-    3. **Apply:** approause, compare, contrast, criticize, differentiate, discriminate, distinguish, examine, experiment, question, test
-    4. **Analyze:** choose, demonstrate, dramatize, employ, illustrate, interpret, operate, schedule, sketch, solve, use, write
-    5. **Evaluate:** classify, describe, discuss, explain, identify, locate, recognize, report, select, translate, paraphrase
-    6. **Create:** define, duplicate, list, memorize, recall, repeat, state
+    1. **Remember:** define, duplicate, identify, list, memorize, name, recall, recognize, repeat, state
+    2. **Comprehend:** classify, describe, discuss, explain, locate, paraphrase, report, select, summarize, translate
+    3. **Apply:** choose, demonstrate, dramatize, draw, employ, execute, illustrate, implement, interpret, operate, perform, sketch, solve, use
+    4. **Analyze:** compare, contrast, deconstruct, differentiate, discriminate, distinguish, examine, experiment, infer, investigate, organize, predict, question, test
+    5. **Evaluate:** appraise, argue, assess, criticize, critique, defend, judge, justify, prioritize, support, value
+    6. **Create:** assemble, build, compose, construct, design, develop, devise, formulate, invent, plan, produce, write
 
 ### Determine acceptable evidence and align objectives with assessments
 
@@ -548,266 +509,242 @@ Ideally, multiple activities are leveraged to help students get more practice, g
  -->
 ````
 
-### Course Climate
+---
+## Module Learning Objectives
 
-What is Course Climate?
+!!! compat ""
+    By the end of this module, you will be able to...
+      - Compare low and high structure course designs and describe the benefits of high structure.
+      - Describe the advantages of a learner-centered syllabus.
+      - Make a plan for incorporating high-impact practices into your own course structure.
 
-In the opening activity, we saw how an email can communicate what the course will look like and forecast details about the instructor.
+---
 
-```@raw html
-<!-- `TODO "in the opening activity" -- which one?` -->
-```
+## Course Structure Defined
 
-Before the semester even starts, a student may feel intimidated or start doubting their ability to succeed. All students have the right to an education and should be given the tools and space to engage and learn. What can we do as educators to help all students succeed?
+Course structure refers to the organizational system of a course, including schedule, format, content, communication modes and overall themes. A well-structured course communicates all of these components to students and ensures they have access to each component.
 
-One of the first steps we can take is to be intentional in the ways we set up our course. In particular, we can influence the course climate--the overall learning environment in a classroom or educational setting--to be more inclusive (Dewsbury & Brame, 2019). An inclusive course climate is one where all students feel welcome, valued, and supported regardless of different backgrounds and identities (Brame. 2019).
-
-### Hot or Cold or Just Right?
-
-Because course climate is a somewhat abstract concept, we will use an analogy to help us understand it more deeply: temperature.
-
-A common phrase associated with group spaces is "taking the temperature of a room," which means assessing and gauging the emotional or social atmosphere of a situation or group of people. It involves observing the general mood, attitudes, and reactions of individuals in a group to determine how they are feeling and what their overall response is to a situation or idea.
-
-- 🔥 **Hot:** The atmosphere is charged, tense, or hostile. It could also indicate that the individuals in the room are passionate or enthusiastic about a particular topic or idea, which can make others feel anxious or apprehensive about engaging. Students may engage in dismissive, disruptive, or disrespectful behaviors. The classroom environment may be overtly hostile to students based on race, gender, socioeconomic or other status, ability, or other demographic factors.
-- 🧊 **Cold:** The atmosphere is unfavorable, unfriendly, or unwelcoming. The individuals in the room may be unresponsive or uninterested in the topic or discussion being presented. Students may withdraw from participating in activities or attending class altogether. The classroom environment may be covertly hostile to students based on race, gender, socioeconomic or other status, ability, or other demographic factors.
-- ⚖️ **Just Right:** The atmosphere is collaborative, collegial, and supportive. It suggests that the individuals in the room are receptive and engaged, and conversations are respectful and inquiry-based. Diverse perspectives are encouraged and considered. This type of room temperature correlates with a respectful buzz of engagement, where everyone feels their voice is heard, their insights are valid, and their questions are welcome.
-
-```@raw html
-<!-- `TODO where's the data on how well (or not well) we can accurately gauge these things in a real setting? across cultures? etc.?` -->
-```
+How the course is structured can contribute to making the course inclusive for diverse students. As we structure our courses and plan out the details of our course design, it is also important to consider how we communicate our course design with students in our syllabus and our course can be inclusive and accessible for all students.
 
 !!! note ""
-    #### Reflect on Course Temperatures
+    #### Welcome Emails
 
-    Recall times when your courses -- when you were a student -- felt "Hot," "Cold," or "Just Right." Try to describe a few examples of each.
-
-    Then reflect:
-
-    - What all do you think contributed to making those courses feel that way?
-    - How did it impact your learning experiences in that course?
-    - Did any course have a mix of "Hot," "Cold," or "Just Right" days?
-    - Did any course feel at times "Just Right" to you, but "Hot" or "Cold" to your peers?
-
-### Instructor Immediacy and Presence
-
-**Instructor immediacy** is "the extent to which communication behaviors enhance closeness to and nonverbal interaction with another" (Mehrabian. 1969, p. 203) as well as behaviors that reduce distance between teacher and student (Andersen, 1979).
-
-**Instructor presence** is the degree to which instructors are actively involved in the learning environment, including how the course is designed, organized, and managed as well as how the learning is facilitated (Garrison et al., 1999).
-
-Research has shown many positive outcomes from engaging in instructor immediacy and presence practices:
-
-- There is a significant relationship between instructor immediacy and student affective and cognitive learning (Andersen et al., 1981).
-- When instructors exhibit behaviors related to instructor presence, students report high levels of learning and community (Shea et al., 2006).
-- Student affective learning, cognition, and motivation are significantly and positively correlated to instructor immediacy and presence (Baker. 2010).
-
-Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh & Hwang. 2006) include:
-
-- Instructor Immediacy:
-    - Maintain closer physical distance
-    - Use direct body orientation
-    - Use eye contact
-    - Engage in positive body movements such as nods and smiles
-- Instructor Presence:
-    - Communicate goals
-    - Set guidelines for student interaction
-    - Encourage student participation
-    - Ensure students don't feel isolated
-
-!!! note ""
-    #### Instructor Immediacy and Presence
-
-    Match each of the following interactions to either "Instructor Immediacy" or "Instructor Presence."
-
-    - Addressing students by their preferred names
-    - Providing clear instructions and guidance for course assignments
-    - Participating actively in discussion forums and online chats
-    - Expressing nonverbal cues to show interest and attention
-    - Making regular announcements and updates to the course content Using humor during lectures or in interactions with students
-
-### Identity and Course Climate
-
-**Social identity** is defined as the sense of self that comes from membership in a social group (or groups) along with the "value and emotional significance attached to that membership" (Tajfel, 1981. p. 255). For example, identifying as queer also means identifying with current and historical discrimination against members of the queer community.
-
-Social identity is not always fixed and can change over time and between contexts (Gee, 2000).
-
-Additionally, individuals usually have multiple social identities that intersect with each other, producing unique experiences in which some identities privilege the individual and some identities oppress them.
-
-Similarly, **teacher identity** is defined as "the ways teachers make sense of themselves and the images they present to others" (Yuan & Liu, 2021, p. 2). It encompasses how instructors perceive themselves and how they construct their professional identities within educational settings.
-
-Like social identity, instructor identity is dynamic and "negotiated through experience and the sense that is made of that experience" (Sachs, 2005, p.15).
-
-Social identities and instructor's professional identities (Rus et al., 2013; Peterson et al., 1999) can include:
-
-```@raw html
-<figure>
-    <figcaption>
-        <p><strong id="table3-label">Table 3. Social and Instructor Identities</strong><br><span id="table3-summary"><!-- TODO: Description here. --></span></p>
-    </figcaption>
-    <table aria-labelledby="table3-label" aria-describedby="table3-summary">
-        <tr>
-            <th scope="col">Social Identities</th>
-            <th scope="col">Instructor Identities</th>
-        </tr>
-        <tr>
-            <td>Race/ethnicity</td>
-            <td>Educational background</td>
-        </tr>
-        <tr>
-            <td>Gender and sexual orientation</td>
-            <td>Prior experience</td>
-        </tr>
-        <tr>
-            <td>Socioeconomic status</td>
-            <td>Work-related interests (e.g., academic and research interests)</td>
-        </tr>
-        <tr>
-            <td>Age</td>
-            <td>Work style</td>
-        </tr>
-        <tr>
-            <td>Religion</td>
-            <td>Skills and abilities (e.g., social skills)</td>
-        </tr>
-        <tr>
-            <td>Ability status</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Veteran status</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Mental health or trauma</td>
-            <td></td>
-        </tr>
-    </table>
-</figure>
-```
-
-### Impacts of Identity
-
-Identity can significantly influence the course climate.
-
-Why? Instructors and students both bring many identities to the classroom, and these identities influence how people choose to present themselves, communicate with others, and engage with the content.
-
-These social dynamics and interactions shape the classroom environment and affect how students experience the learning space. Instructors who choose to share their social and/or professional identities send a message to students that it is also okay for them to share their identities in the classroom, be their authentic self, and bring all of who they are to their work.
-
-Further, the identities that an instructor presents or that are perceived by students impact students' motivation, engagement, and sense of belonging.
-
-For example, instructors who are approachable, open-minded, and understanding can create a safe space where students feel comfortable expressing their opinions and asserting themselves. Instructors who openly value and bring diversity, inclusion, and cultural awareness into their teaching demonstrate to students that diversity is respected and encouraged.
-
-Through sharing and thoughtful integration of one's identities into the course, instructors can cultivate positive relationships with their students, leading to enhanced learning outcomes, a sense of belonging, and persistence in STEM (Estrada et al., 2011).
-
-!!! tip ""
-    #### Reflect on Identity in Teaching Contexts
-
-    *Answer in your workbook:*
-
-    Take a few minutes to reflect on your various social and professional identities. You can use the items listed below as a starting point:
-
-    - Social Identity: race/ethnicity, gender and sexual orientation, socioeconomic status, age, religion, ability status, veteran status, mental health or trauma
-    - Instructor Identity: educational background, prior experience, work-related interests, work style, skills and abilities
-
-    Then, answer this question: What is, and how would you describe, your identity in teaching contexts?
+    Read Dr. Reyes's and Dr. Wong's "Welcome to Class" emails below, which introduce their courses to their students. 
     
-    You may pick a few ideas below to help guide you in answering that question:
+    - What do these emails reveal about the class atmosphere and course structure? 
+    - How do you feel after reading these?
+
+    !!! details "Click to show Dr. Reyes's email"
+        Dear students,
+
+        I am writing to welcome you to BIO 101 - Introduction to Biology. My name is Emilio Reyes, and I will be your instructor for this course.
+        
+        Biology is a complex and fascinating field that requires a disciplined and rigorous approach to learning. Throughout this course, we will
+        cover the fundamental concepts of biology, including cell biology, genetics, ecology, and evolution.
+
+        As a student in this course, you will be held to a high standard of academic excellence. You will be expected to attend all class meetings,
+        arrive on time, and actively participate in discussions. You must complete all assigned readings and assignments on time and meet all
+        deadlines.
+
+        It is essential that you come to this course prepared to learn, work hard, and meet the expectations set forth in the course syllabus.Failure to do so may result in a lower grade or even failure of the course.
+
+        If you have any questions or concerns, please do not hesitate to reach out to me. However, please understand that I expect you to take responsibility for your own learning and to do everything in your power to succeed in this course.
+
+        I look forward to working with you throughout the semester and seeing you meet the expectations of this challenging course.
+
+        Sincerely,
+
+        **Emilio Reyes, Ph.D.**
+
+        University of Universities
+        
+        Department of Biological Sciences
+        
+        ereyes@school.edu
     
-    - Consider how you see your role as an educator (e.g., only covering content, thinking about student learning and engagement, ensuring all students are included)
-    - Consider what has been your previous teaching experience and how it has shaped your teaching philosophy
-    - Consider your teaching strengths and weaknesses
-    - Consider the role diversity, equity, and inclusion do or don't play in your teaching, and why
+    !!! details "Click to show Dr. Wong's email"
+        Dear students,
 
-### Impact of Course and Campus Climate
+        It is my pleasure to welcome you to BIO 101 - Introduction to Biology. My name is Mei Wong, and I will be your instructor for this course. Biology is an exciting and ever-evolving field that explores the diversity of life, the processes that sustain life, and the interactions between living organisms and their environments. Throughout this course, we will cover the fundamentals of biology, including cell biology, genetics, ecology, and evolution. Based on your interests, we will also discuss current issues and challenges facing the field of biology, such as climate change and emerging diseases. 
 
-The perception of being unwelcome in the college classroom was termed "chilly climate" by Hall and Sandler (1982) and then later expanded to include the campus environment (1984). Studies have shown that both course and campus climate affect many aspects related to a student's educational experience.
+        As a student in BIO 101, you will be part of a diverse and engaging community of learners. You will have the opportunity to work with your peers on group projects, participate in classroom discussions, and engage in case studies.
 
-```@raw html
-<figure>
-    <figcaption>
-        <p><strong id="table4-label">Table 4. Impacts of Course and Campus Climate</strong><br><span id="table4-summary"><!-- TODO: Description here. --></span></p>
-    </figcaption>
-    <table aria-labelledby="table4-label" aria-describedby="table4-summary">
-        <tr>
-            <th scope="col">Unwelcoming Environment</th>
-            <th scope="col">Welcoming Environment</th>
-        </tr>
-        <tr>
-            <td>Negative cognitive outcomes for women (Pascarella et al. 1997)</td>
-            <td>The strongest predictor of academic competence is perception of the campus environment as supportive (Reason et al., 2006)</td>
-        </tr>
-        <tr>
-            <td>Negative effects on Latino students' sense of belonging (Hurtado & Carter 1997)</td>
-            <td>Students who are more engaged and more comfortable are significantly more likely to persist in STEM (Barthelemy et al., 2015)</td>
-        </tr>
-        <tr>
-            <td>Non-white students find the campus climate chillier than white students (Morris & Daniel, 2008)</td>
-            <td>Kindness cues affirm social inclusion, especially for underrepresented students (Estrada et al., 2018)</td>
-        </tr>
-        <tr>
-            <td>Negatively affects minority students' academic/ intellectual development, social experiences, and institutional commitment (Cabrera et al. 1999)</td>
-            <td>A utility-value intervention demonstrated long-term positive effects such as improved STEM persistence overall, with larger effects for students from underrepresented minority groups [asher2023utility](@cite)</td>
-        </tr>
-        <tr>
-            <td>Lower perceived gains in academic preparation for women (Pascarella et al. 1997)</td>
-            <td>Evidence-based recommendations increase underrepresented minority students' persistence in STEM such as...</td>
-        </tr>
-        <tr>
-            <td>Students of color perceive the campus climate as more racist and less accepting than white students (Rankin & Reason. 2005)</td>
-            <td>...connecting class content to personal and culturally valued outcomes (Estrada et al., 2016)</td>
-        </tr>
-        <tr>
-            <td>Women find the campus climate chillier than men (Morris & Daniel, 2008)</td>
-            <td>...addressing student resource disparities (Estrada et al., 2016)</td>
-        </tr>
-        <tr>
-            <td>Students in traditionally female-dominated majors perceive the campus climate chillier than students in traditionally male-dominated majors (Morris & Daniel, 2008)</td>
-            <td>...increasing institutional accountability (Estrada et al., 2016)</td>
-        </tr>
-        <tr>
-            <td>LGBTQ students with disabilities experience isolation, tokenization, and an overall chilly climate (Millter & Downey, 2020)</td>
-            <td>...creating strategic partnerships with programs (Estrada et al., 2016)</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>...and using best curriculum practices (Estrada et al., 2016)</td>
-        </tr>
-    </table>
-</figure>
-```
+        To get started, please review the course syllabus and familiarize yourself with the expectations and requirements for the course. It is okay if the last biology course you took was many years ago. We will work together to elicit your prior knowledge and leverage the skills and experiences you have to help you succeed in the course. My goal is to provide a classroom space where you are free to take chances, make mistakes, and learn from each other.
+
+        There is no textbook to purchase, but you will need access to a computer and the internet to read pre-class readings and submit assignments on Canvas (our learning management system). Please email me or speak to me if you have concerns or issues related to access.
+
+        If you have any questions or concerns, please do not hesitate to reach out to me. I am available to meet with you during office hours or by appointment to discuss any course-related topics or questions you may have. My door is also always open if you need guidance or someone to speak to about non-course topics.
+
+        I look forward to meeting you and working with you throughout the semester. Let's make it a great one!
+
+        Best regards,
+
+        **Mei Wong, Ph.D.** (she/her, they/them)
+
+        University of Universities
+
+        Department of Biological Sciences
+
+        mwong@school.edu
+
+---
+## A Framework for Course Structure
+
+The structure of a course and organization of its content, activities, experiences, and assessments lie on a continuum from low to high. Low structure courses have few opportunities for engagement and assessment whereas high structure courses embed multiple opportunities for engagement and frequent assessments (Beck & Roosa, 2020). Low structure courses assume that students know how to efficiently work with course materials in and outside of class. However, data suggest that many students do not implement effective study strategies nor time management skills (Hartwig & Dunlosky, 2012). High structure courses scaffold student learning with increased engagement and practice and by decoding the learning process through clear and accessible learning goals and expectations (Beck & Roosa, 2020).
+
+![](https://raw.githubusercontent.com/marzwick/images/main/cs38.png)
+
+!!! note "" 
+
+    Examine the home pages for two courses, and identify which course is low structure and which one is high structure.
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs39.png)
+
+!!! note "" 
+
+    **Comparing Course Designs**
+
+    Examine the two course preparations below that describe one week of a course.
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs40.png)
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs41.png)
+
+    Which course looks more like yours and why?
+
+    If you haven't taught a course yet, which course preparation resonates with your experiences as a student?
+  
+
+### The Impact of High Structure Courses
+
+Increasing a course's structure has many implications for student learning and their educational experience.
+
+- **Student failure rates** were lower in a moderately structured course design and were **dramatically lower in a highly structured course design** (Freeman et al., 2011)
+- A "moderate-structure" intervention **increased course performance for all student populations**, but worked **disproportionately well for black students and first-generation students**. Students also consistently reported completing the assigned readings more frequently, spending more time studying for class, and feeling an increased sense of community (Eddy & Hogan, 2014)
+- Implementing a hybrid course format with high structure improved exam performance for **traditionally underrepresented students** (Gavassa et al., 2019)
+- A highly structured course design improved the performance of all students in a college-level introductory biology class and **reduced the achievement gap between disadvantaged and nondisadvantaged students** (Haak et al., 2011)
 
 ### Show Me the Data!
 
-Based on data from $6,687$ first-year students and $5,024$ faculty members from $30$ public and private four-year institutions, analyses identified several student and organizational variables that independently contribute to students' development of academic competence during the first year of college (Reason et al., 2006).
+Freeman and colleagues measured failure rates in a major's introductory biology course, while varying the structure of the course. One instructor taught the course in $6$ iterations using a low structure, moderate structure, or high structure course design (2011). The researchers found that the difference between the proportion of students predicted to fail and the actual proportion failing decreased with increasing structure. ($n = 2267$, $*p = 0.06$, $**p = 0.0004$).
 
-Various performance indicators related to course climate were significantly related to academic competence, such as:
+![](https://raw.githubusercontent.com/marzwick/images/main/cs43.png)
 
-- **Supporting All Students:** Students' perceptions of the supportiveness of the institutional environment ($p < .001$)
-- **Cognitive Engagement:** Students' perceptions that coursework emphasizes higher- order cognitive skills ($p < .001$)
-- **Academic Engagement:** How often students actively engage in class activities and time spent preparing for class ($p < .001$)
-- **Diverse Interactions:** Frequency of, and institutional emphasis placed upon, students' interactions with diverse others and ideas ($p < .001$)
+!!! note "" 
+    #### Evaluate the Data Yourself
 
-!!! note ""
-    #### Utility-Value Intervention 
+    Eddy and Hogan (2014) used a similar study structure, comparing exam performance in traditional vs. increased structure sections of the same course. The figure below shows point estimates for exam performance (% correct) based on a regression model that included (A) race and ethnicity and (B) first-generation status.
 
-    Researchers tested the long-term effects of a utility-value intervention administered in a gateway chemistry course [asher2023utility](@cite). A utility-value intervention is a task designed to help students recognize the practical significance and usefulness of the content they are learning, linking it to their own goals, interests, and future aspirations.
+    What conclusions can you draw from these data? (Check all that apply.)
 
-    In a randomized controlled trial ($N = 2505$), students either wrote three essays in a Chemistry course about course content and its personal relevance (Intervention), or wrote three control essays (Control).
-    
-    The figure below shows the percentage of underrepresented minority (URM) students, by condition, who were classified as probable or declared STEM majors over time.
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs44.png)
 
-    ![](assets/effects-of-a-utility-value-intervention-on-urm-students.svg)
+    - Exam performance will likely not be affected by course structure.
+    - All students are expected to perform worse on exams in high structure courses.
+    - All students are expected to perform better on exams in high structure courses.
+    - Students from communities historically excluded from STEM aren't expected to show much improvement.
+    - Students from communities historically excluded from STEM are expected to show greater improvements.
 
-    - (A) Reported STEM major at beginning and end of intervention semester. The end-of-semester intervention effect was $p = 0.145$.
-    - (B) Took 2 or more STEM courses in each subsequent semester. The effect of the intervention on course taking in the Fall of Year 2 was $p = 0.049$. In the Spring of Year 2, the effect was $p = 0.149$. And in the Fall of Year 3, the effect was $p = 0.007$.
-    - (C) Majored in STEM, end of year 3. This was the primary outcome variable. The intervention effect was $p = 0.020$.
+Remember, a high structure course has multiple opportunities for engagement and practice and makes clear the learning goals and expectations (Beck & Roosa, 2020). Eddy and Hogan provide a table that shows how adding in more graded preparatory assignments, student in-class engagement, and graded review assignments increases course design (2014).
 
-    True or False? Overall, the utility-value intervention led to positive outcomes for URM student retention in STEM.
+![](https://raw.githubusercontent.com/marzwick/images/main/cs45.png)
+
+Preparatory assignments are tasks or activities given to students prior to a class or lesson to help them prepare for upcoming content. Examples: reading assigned texts, watching videos, researching a topic, completing practice exercises.
+
+Graded review assignments are tasks or assessments that evaluate students' understanding, comprehension, and recall of previously covered material. Examples: case studies, writing assignments, discussion posts, quizzes, projects.
+
+!!! note ""   
+    #### Increasing the Course Structure
+
+    Professor Ali wants to transform her lecture-based chemistry course into a higher structure course, but is feeling overwhelmed. What are some possible small changes Professor Ali can make to her Week 1 course map to modify it from a low structure to a moderate structure? (Select all that apply.)
+
+    ![](https://raw.githubusercontent.com/marzwick/images/main/cs46.png)
+
+    - Add a homework assignment that covers concepts from class such as entropy.
+    - Add a brief pre-class quiz on principles of energy conservation.
+    - Have students complete example problems in class and use small group discussions.
+    - Add in a few clicker questions that elicit students' prior knowledge on the week's concepts.
 
 !!! tip ""
 
-    Commit to one or more mechanisms that will help you create the course climate you want.
+    *Answer in your workbook:* What is one concrete action you can commit to taking to convert your course into a higher structure format?
+
+### Learner-Centered Syllabi
+
+The syllabus offers one of the first opportunities for instructors to communicate with their students about the course and begin building an inclusive learning environment. The **conventional syllabus** is *content-focused*, providing a brief overview of the course subject matter followed by a weekly outline of topics to be covered, and a list of assignments and course activities with relative grading weights and due dates.
+
+A **learner-centered syllabus** also provides basic course information, but **it shifts the emphasis** from what the instructor will cover in the course *to what learning outcomes students will achieve by the end of the course* (Johnson, 2006). It explains how learning will be assessed and offers information and tools to promote student learning and intellectual development in an inclusive environment. It establishes the responsibilities of the instructor(s) and students for achieving course goals. In short, the learner-centered syllabus "becomes an invitation to share responsibility for successful learning" (O'Brien et al., 2008, p. 22).
+
+In his book, "What the Best College Teachers Do," Ken Bain (2004) describes three parts of what he calls "the promising syllabus":
+
+1. **Highlight the promises or opportunities.**
+    - What kinds of questions will the course help students answer?
+    - What kind of intellectual, physical, emotional, or social abilities will it help them develop?
+    - Why is the course relevant?
+2. **Explain what students will do to meet those promises.**
+    - What are the learning activities (e.g., activities, assignments, readings) that will be used in the course?
+    - How will they learn from the course resources, the instructional team, and each other?
+    - Give students a sense of agency in their education
+3. **Discuss how students will engage in the learning process.**
+    - How will the instructor and students best "understand the nature and progress of their learning?"
+    - How will learning be evaluated?
+    - How will all students feel included in the learning process and welcome as scientists?
+
+!!! note ""
+    #### Learner-Centered Syllabus
+
+    !!! details "Click to see an example excerpt of a learner-centered syllabus"
+        The following is excerpted from Dr. Cara Gormally's asynchronous introductory biology class for non-majors (bilingual-American Sign Language & English).
+
+        **What we'll actually do**
+
+        - You're likely taking this class because it's required for your major.
+        - My goal: make this class actually useful to your life.
+        - Together, we'll make this class meaningful for ourselves. How will we do that?
+        - We'll learn biology relevant to our lives: when a person is most likely to get pregnant; how Covid-19 vaccines work; why we have skin color; how antidepressants work; what we can do to slow climate change; and why we should limit plastic use.
+        - There's no textbook; we'll read and watch high quality enjoyable articles and videos.
+        - We'll learn how to answer questions we have related to biology, for example about health or the environment.
+        - I hope you're excited about our class--I am so excited to get to know you all and do this work together! This work feels real and important to me. I hope you think so, too.
+
+        **Diversity: it makes our class better**
+
+        - **Build community through discussion:** Though we won't meet face-to-face, we'll learn about each other and build a community through our discussions.
+        - **Diversity strengthens us:** The diversity that we all bring to this class is a resource, strength and benefit to our class. I'm committed to anti-racism and I believe Black Lives Matter. Everyone belongs here in my classroom if you want to be here. In this class, we'll use materials and activities that are respectful of diversity: gender, sexuality, disability, age, socioeconomic status, national origin, ethnicity, race, culture, etc. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally or for other students or student groups.
+        - **You make our class what it is.** Our class will be awesome because of the diversity of perspectives, thoughts, and experiences that we will share through our work. Who you are, what you bring to our class, your perspective--it's important.
+
+    Now that you've seen a learner-centered syllabus, reflect on your own syllabus. (If you do not have one, think about a traditional syllabus or one from a course you've taken.) Think about the elements in a learner-centered syllabus and the components of your syllabus.
+
+    What are two things you could change in your syllabus to make it more learner-centered? You can use these prompts to help you re-imagine your syllabus:
+    - What are the promises or opportunities presented by the instructor?
+    - What activities will students do in order to meet those promises?
+    - How will students track progress of their learning (i.e., how will learning be evaluated)?
+
+```@raw html
+<!--
+!!! tip ""
+    **Acting on Intentions**
+
+    Fill out the learner-centered syllabus template provided. Also, consider how you will introduce your course on the first day of class.
+
+    Add these items to the workbook.
+-->
+```
+## Course Structure in Practice
+
+### Time to start building your course schedule
+
+```@raw html
+<!--
+Course design includes all dimensions of inclusive teaching: as we focus on designing a course, we should consider ourselves, the curriculum, our pedagogy, and our students.
+As we design a course, we should intentionally include ways for students to engage in the different facets of science 
+-->
+```
+
 
 ---
-## An AJEDI Lexicon for Course Design
+## Summary of Course Design and Course Structure
 
-`NOTE: This content was restructured recently. This section needs to be rewritten.`
+- Backward design is an approach to course or curriculum design that involves starting with the end goals or outcomes and then designing assessments and then activities that align with these goals.
+- Learning goals and learning objectives are statements of what learners are expected to achieve, but they differ in their level of specificity and scope.
+- Bloom's taxonomy is a framework for categorizing educational goals and objectives into a hierarchy of six levels, ranging from simple recall of information to complex, analytical thinking. By using Bloom's taxonomy to guide learning objectives, educators can design learning experiences that promote deeper understanding and critical thinking.
+- High structure course design involves creating a highly organized plan for the course with clearly defined expectations and a well-defined schedule. This approach focuses on structuring the learning environment for students and providing multiple opportunities for engagement and practice.

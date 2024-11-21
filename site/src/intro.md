@@ -3,60 +3,35 @@
 !!! warning ""
     This site is still under development. Thank you for previewing it! Your feedback is much appreciated -- [Let us know what you think!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eaCduZfaBtfNpRA)
 
-```@raw html
-<!-- TODO insert vignette videos from Sarah K here -->
-```
+`TODO: (1) insert vignette videos from Sarah K, (2) write LOs, (3) revise summary, (4) reorganize/ revise Why ST and ST in Practice, (5) check use of "facets of science" --> only use after Framework section?, (6) check a Path to ST`
 
 ---
-## Module Goals
+## Module Learning Objectives
 
-By taking this module, we hope you will be able to...
+!!! compat ""
+    By the end of this module, you will be able to...
+      - Explain the idea of scientific teaching and its goals.
+      - Explain how effective science education, effective science and effective teaching are connected.
+      - Defend the importance of diversity in science and science education.
+      - Choose approaches that will engage your students with the six facets of science.
+      - Apply the principles of scientific teaching to your own teaching.
 
-- Define scientific teaching and its goals.
-- Explain how scientific teaching supports students in learning the facets of science.
-- Examine why diversity matters in science.
-- Begin applying scientific teaching to your own teaching and course(s).
 
 ---
 ## Scientific Teaching Defined
 
-!!! compat ""
-    - Define scientific teaching.
-    - Articulate the goals of scientific teaching.
-    - Understand key concepts and principles:
-        - Scientific teaching is both the teaching of science and the science of teaching.
-        - The goals of scientific teaching are to make teaching and learning more scientific and increase diversity in STEM.
-        - Scientific teaching means being intentional, inclusive, and iterative.
-
 Scientific teaching is both the *teaching of science* and the *science of teaching*. An instructor who practices scientific teaching:
 
 - Engages students in authentic practices of science
-- Approaches their teaching with the spirit of scientific research.
+- Approaches their teaching with the spirit of scientific research
 
-Scientific teaching combines intentional decisions with iterative improvements to create inclusive learning experiences, which, in turn, support students learning science.
-
-*Scientific teaching is intentional, inclusive, and iterative.*
+Scientific teaching combines intentional instructional decisions with iterative improvements to create inclusive learning experiences, which, in turn, support students learning science.
 
 ### Goals of Scientific Teaching
 
-*The goals of scientific teaching are to make teaching and learning more scientific and to increase diversity in STEM.*
+*The goals of scientific teaching are infuse scientific thinking into teaching and learning and increase diversity in STEM.*
 
-Embedded in this undertaking is the challenge to all scientists to bring to teaching the critical thinking, rigor, creativity, and spirit of experimentation that defines research [handelsman_scientific_2004](@cite). Scientific teaching also posits that teaching science should capture the spirit of discovery in the classroom in ways that are accessible to all students. As you will see, there is ample evidence that teaching scientifically improves undergraduate education, accessibility, and student learning. This body of evidence can inform instructional decisions.
-
-The Scientific Teaching Course provides an overview of the complex and expansive landscape of evidence, approaches, methods, and theories. It also highlights the role of systemic barriers in learning environments and provides tools to remove them.
-
-*Our aim is to empower you, the instructor, to customize the approaches for your own identities, students, content, and contexts.*
-
-The STC brings scientific teaching to life: This course is organized around interactive modules that provide guidelines, reflective moments, hands-on practice, and immediate application.
-
-The modules build on and reinforce each other:
-
-`NOTE: This list will be updated when the module names and order are finalized`
-
-- **Scientific Teaching** explains why change is needed and lays a foundation of evidence-based theories.
-- **Inclusive Learning** and **How Learning Works** permeates the entire course.
-- **Course Design**, **Learning Experiences**, **Summative Assessment**, and **Course Structure** turn theory into actionable practice.
-- **Scientific Teaching Revisited** offers a framework for lifelong learning and iterative improvement.
+Embedded in this undertaking is the challenge to all scientists to bring to teaching the critical thinking, rigor, creativity, and spirit of experimentation that defines research [handelsman_scientific_2004](@cite). Scientific teaching also posits that teaching science should capture the spirit of discovery in the classroom in ways that are accessible to all students. Teaching scientifically supports student learning, brings joy to teaching, and leads to increased diversity in STEM.
 
 ---
 ## Why Scientific Teaching?
@@ -65,32 +40,13 @@ The modules build on and reinforce each other:
 <!-- TODO we still need to address the use of "good" and whether we are going to select a different word -->
 ```
 
-!!! compat ""
-    - Explain why scientific teaching leads to good science education, good science, and good teaching
-    - Examine how various courses (including your own) uphold scientific teaching.
-    - Commit to one change in your course to uphold scientific teaching principles.
-    - Understand key concepts and principles:
-        - Good science education means equitable science education.
-        - Good science is inclusive science.
-        - Good teaching is intentional, inclusive, and iterative.
-
 ```@raw html
 <!-- TODO distillation sentence / paragraph for this submodule -->
 ```
 
-### Good Science Education
+### Effective Science Education
 
-!!! compat ""
-    - Identify barriers to good science education around the world.
-    - List recommendations to improve science education in your country.
-    - Commit to one systemic recommendation for improving diversity in STEM.
-    - Commit to one discrete action you could take to improve how science is taught in your own course.
-    - Understand key concepts and principles:
-        - Poor teaching methods are the main reason college students switch out of STEM majors.
-        - Myriad reports call for changes in teaching practices to foster inclusive learning environments.
-        - STEM education reform can happen at many levels. As an instructor, you have agency for change in your courses.
-
-*Good science education is equitable science education.*
+*Effective science education is equitable science education.*
 
 ```@raw html
 <!--
@@ -102,197 +58,108 @@ around a white male control group...
 -->
 ```
 
-
 Scientific teaching is needed because inequities plague higher education and affect STEM workforce diversity.
 
-Increasing diversity in STEM requires drawing on a larger talent pool that includes the many historically excluded groups of people. Diversity of the future workforce should match the demographics of the world’s citizens, take advantage of underutilized talent in all demographic groups, and make STEM careers readily available to people of all backgrounds.
+Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Bensimon, 2005, p. 99).
 
-Yet inequities continue to plague college science education, denying opportunities to students who identify as members of underrepresented racial or ethnic minorities, women, LGBTQIA+, or first-generation in college. Collectively, we refer to these and other underrepresented groups as historically excluded communities (HECs).
+Increasing diversity in STEM requires drawing from historically excluded groups of people. The future workforce should match the demographics of the world’s citizens, take advantage of underutilized talent in all demographic groups, and make STEM careers readily available to people of all backgrounds.
 
-To achieve an equitable educational enterprise, we must address the structural, individual, intentional, and unintentional biases that discourage HEC students from pursuing STEM.
+Yet inequities in college science education continue to deny opportunities to students who identify as members of underrepresented racial or ethnic minorities, women, LGBTQIA2S+, or first-generation in college. Collectively, we refer to these and other underrepresented groups as historically excluded communities (HECs) with respect to STEM.
+
+To achieve an equitable STEM workforce, we must address the structural, individual, intentional, and unintentional biases that discourage HEC students from pursuing STEM.
 
 ```@raw html
 <!-- TODO what are the full citation used in the below sentence? -->
 ```
 
-Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Theobald et al., 2022, Bensimon 2005).
 
-### What the US Reports Say about STEM Education
 
-Most US science is taught as lectures that are dominated by facts rather than principles and ways of thinking [stains_anatomy_2018](@cite). Sadly, substantial evidence shows that lecturing alone is a relatively ineffective way of teaching, and retention from lectures is poor. But report after report shows there are better ways to teach science, to teach scientifically, and that these approaches also serve to make science education more equitable:
+### What the US Reports Say about Science Education
+
+For decades, numerous reports have called for science education reform, citing overwhelming evidence that effective and equitable science education requires widespread adoption of evidence-based practices. Highlights of these evolving arguments include:
 
 ```@raw html
 <!-- TODO what are the full citations used in the points below? -->
 ```
 
--  In *Science for All*, the American Association for the Advancement of Science (1989) called for a scientifically literate public and charged higher educators with teaching scientific habits of mind. They noted that employers were demanding more efficient and effective employees with problem-solving capabilities, the ability to work in teams, and analytical skills, yet students were unprepared for these demands.
-- In 2003, the National Research Council published *Bio2010*, a report recommending that curriculum better reflect the nature of science as a dynamic, interdisciplinary, and rapidly changing frontier.
-- *Vision and Change* (2008) connected science goals with faculty development practices, and called for more research in STEM higher education.
-- *Engage to Excel* (2012) purported that improving undergraduate STEM education to address these weaknesses is a national imperative to address STEM workforce shortages.
-- A consensus report from the National Academies on undergraduate STEM education (2018) identified that improving the quality and impact of undergraduate STEM education requires progress on three goals [dibner2018indicators](@cite):
-    1. Increase students’ competence in STEM concepts and skills by engaging them in evidence-based STEM educational practices and programs.
-    2. Strive for equity, diversity, and inclusion of STEM students and instructors by providing equitable opportunities for access and success.
-    3. Ensure adequate numbers of STEM professionals by increasing completion of STEM credentials as needed in the different disciplines.
+- *Science for All Americans* (American Association for the Advancement of Science [AAAS], 1989) called for a scientifically literate public and charged higher educators with teaching scientific “habits of mind.” The report noted that employers demanded efficient and effective employees with problem-solving capabilities, the ability to work in teams, and analytical skills, yet students were unprepared for these demands.
+- *Bio2010* (National Research Council, 2003) recommended that science curriculum should reflect the nature of science as a dynamic, interdisciplinary, and rapidly changing frontier, rather than a static body of facts.
+- *Vision and Change* (AAAS 2008; 2011) furthered the Bio2010 recommendations by enumerating key biology concepts and science skills, encouraging teaching practices that focused on these concepts and skills, and calling for more research in STEM higher education.
+- *Engage to Excel* (PCAST, 2012) illuminated national STEM workforce shortages, including racial and gender disparities. The report purported that addressing these weaknesses required improving undergraduate STEM education. The report recommended widespread adoption of active learning strategies and undergraduate research experiences, citing dozens of studies demonstrating their effectiveness.
+- *Indicators for Monitoring Undergraduate STEM Education*, a National Academies report, reinforced goals for improving the quality and impact of undergraduate STEM education [dibner2018indicators](@cite) by engaging students in evidence-based educational practices. They broadened the call to strive for inclusion by providing equitable access to STEM opportunities.
+- Levers for Change (AAAS, 2019) noted that the benefits of active learning extended beyond knowledge and skills to include “attitudes, sense of belonging, and persistence in STEM” and again pleaded for widespread adoption of evidence-based strategies to support students.
 
-### What the International Reports Say
+Despite these findings, 70% of instructors reported extensive use of lecturing in their courses, rather than evidence-based instructional strategies (AAAS, 2019; [stains_anatomy_2018](@cite)). One of the main reasons for not using these practices is obvious: Instructors need to know about them in order to use them—preferably with a chance to practice and reflect.
 
-The problems of exclusion and a lack of a diverse, prepared workforce is not unique to the United States. International reports echo the American reports:
+### STEM has an Equity Problem
 
-```@raw html
-<!-- TODO what are the full citations used in the paragraphs below? -->
-```
+The problem of not using evidence-based practices is compounded when we ignore the role of systemic inequities in US higher education, where underrepresentation in STEM is prevalent [TK need #s, citation].
 
-- **India:** The Annual Status of Education Report (ASER 2022) found serious structural inequities with respect to college STEM. Only $18\%$ of schools had a functional computer lab. More than $9\%$ STEM instructor positions were vacant, reaching $25\%$ in some regions. Outdated teaching methods, lack of computing infrastructure, and resource deficits worsen the situation, especially in rural areas. The report recommends a focus on resources to support quality STEM education around critical thinking, multidisciplinary learning, and strong foundations in scientific discovery. It aims to prepare over 250 million young Indians across socioeconomic backgrounds for 21st century jobs and equip them to solve complex real-world problems through technology.
-- **Africa:** A 2020 UN report showed that only $21.7\%$ of African STEM students graduate, compared with $24.3\%$ in Europe and Central Asia, and $25.6\%$ in the USA. Africa's education training programs suffer from inequalities and exclusion at all levels: education expenditures, inadequate teacher development programs, limited access to electricity and internet, and inadequate infrastructure for STEM teaching and learning. The challenges will be not only to improve science curriculum through evidence-based practices, but also to secure the basic resources needed to support instructors and colleges.
-- **UK:** In a recent (2022-23) report on Diversity and Inclusion in STEM, the UK government identified several structural inequities, calling for raising levels of diversity and inclusion in STEM education, while also mentioning the importance of measuring change.
+The lack of representation of HEC students can be largely attributed to STEM attrition during college. More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields. For example, a disheartening 42% of white students leave STEM majors, but the problem is much worse for students of color: 58% of Latine students and 66% of Black students leave STEM (Theobald et al., 2020). These disparities repeat again and again across most HEC groups: first-generation and rural students, women, queer folks—the list goes on.
 
-### STEM has an Equity Problem in US Higher Education
+Why do students leave? In extensive interviews of college students enrolled in STEM majors, 90% mentioned ineffective teaching approaches (Seymour, 2019). The good news is that we can learn how to change our teaching, which can have immediate and lasting positive effects for our students. *The STC focuses on what instructors have agency to change: course design and the classroom environment.*
 
-Underrepresentation in STEM is primarily due to attrition in the US. Who switches out of STEM?
-
-- It's $42\%$ of white students
-- It's $58\%$ of Latine students
-- And it's $66\%$ of Black students
-
-More than half of the approximately $600,000$ US college students who intend to major in STEM switch to other fields.
-
-Why? In extensive interviews of college students enrolled in STEM majors, $90\%$ complained about poor teaching methods.
-
-### Discriminatory Practices in STEM Education
-
-We believe it is crucial to integrate inclusive principles into educational spaces in order to create inclusive and equitable learning environments for all students. The U.S. education system currently and historically uses racist and discriminatory practices to prevent certain communities from having access to and benefiting from the best possible education.
-
-```@raw html
-<!--
-TODO from Cara:
-
-This slide feels K-12y to me. Is that what this is based on? If the purpose of the slide is to establish
-"we have a problem" I wonder if it would be more valuable to cite research for why students are leaving
-STEM in college - building on the previous slide - because it might feel more relevant to our audience
-and more immediately actionable.
-
-shifting it in this way would also better align with this key concept from earlier slide: Poor teaching
-methods are the main reason college students switch out of STEM majors.
--->
-```
-
-Example discriminatory practices:
-
-- **Disparities in funding:** Schools with mostly white, affluent students receive more funding compared to schools in low-income areas and schools with predominantly students of color.
-- **Lack of diversity in curriculum:** The curriculum in many schools and universities perpetuates the achievements and culture of white people while neglecting the contributions of diverse cultures and people of color.
-- **Discipline disparities:** Students of color are more likely to receive harsher disciplinary punishments while their white counterparts receive lighter sanctions for the same offenses.
-- **Racial profiling and stereotyping:** Students of color are more likely to be labeled as "troubled," "aggressive," or "unintelligent" based on their appearance and behavior, leading to disparate experiences in the education system.
-- **Unequal access to resources and opportunities:** Students of color have less access to resources such as books and technology as well as research opportunities.
-
-### What We Can Do
-
-```@raw html
-<!-- TODO streamline this -->
-```
-
-We need more:
-
-- Scientists in the workforce to solve global and local problems
-- Diversity in the STEM workforce to inform what problems are important and to come up with creative solutions
-- Scientifically literate citizens to make informed decisions
-
-Change can be achieved at many levels. Policy decisions can be improved when policy-makers and voters understand how scientific knowledge is derived and what findings have been discovered [handelsman_achieving_2022](@cite).
-
-*The STC focuses on what instructors have agency to change: the classroom.*
-
-```@raw html
-<figure>
-    <figcaption>
-        <p><strong id="table1-label">Table 1. Ways Instructors can Adopt Inclusive Classroom Practices</strong><br><span id="table1-summary"><!-- TODO: Description here. --></span></p>
-    </figcaption>
-    <table aria-labelledby="table1-label" aria-describedby="table1-summary">
-        <tr>
-            <th scope="row">Reform Teaching Practices</th>
-            <td>
-                <ul>
-                    <li>Acquire training in evidence-based teaching</li>
-                    <li>Teaching existing CUREs or develop new ones</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <th scope="row">Create Welcoming Classrooms</th>
-            <td>
-                <ul>
-                    <li>Integrate welcoming-classroom practices into syllabus and classroom</li>
-                </ul>
-            </td>
-        </tr>reports</th>
-        <tr>
-            <th scope="row">Expand Relevance to Diverse Groups</th>
-            <td>
-                <ul>
-                    <li>Include impacts of STEM on society and diverse models in course content and public art</li>
-                </ul>
-            </td>
-        </tr>
-    </table>
-</figure>
-```
 
 !!! tip ""
-    #### What do your country’s reports recommend?
+    #### Reflect on your teaching
 
-    *Answer in your workbook:* Find one or more reports from your country. What STEM education inequities affect your country? What do those reports recommend that you could use in your course?
+    How much of your course is based on evidence-based teaching practices?  
+
+
+### Effective Science
+
+*Effective science is inclusive science.*
+
+Scientific teaching is needed because science is a critical component of our world. Teaching science in a way that reflects how science is done equips the students we teach today to ask and answer the scientific questions of tomorrow. The rapid expansion of scientific knowledge means students will need to solve global problems and navigate the difference between evidence-based claims and opinions. Whether they major in biology, art history, math, or elementary education, college-educated students should understand the basic principles of the world around them. Equally important, students need to appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them.
+
+Scientific teaching is also needed because diversity impacts science. Teaching science authentically can also broaden participation in STEM. When students actively engage in scientific practices, they develop a more robust scientific self-efficacy and identity [estrada_toward_2011](@cite). When students witness diverse scientist identities and engage in solving real-world problems, they connect with and envision themselves as part of the scientific community [ref spotlight scientist]. These factors—positive self-efficacy, identity, and connection with scientific values—lead to increased persistence in STEM, especially for students from communities that have been historically excluded [estrada_toward_2011](@cite). Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone.
+
+### Effective Teaching
+
+*Effective teaching helps students develop science skills.*
+
+Authentically integrating science into teaching requires moving beyond a mindset of “covering the content” toward designing experiences in which students “uncover the content” and actively develop the essential knowledge, skills, and mindsets that align with how science is practiced.
+
+Instructors who identify overarching concepts and broad themes can help students to organize complex information and deepen their understanding. They also help students integrate scientific knowledge with authentic practices and account for students' diverse identities, beliefs, and experiences. This shift doesn’t mean students don’t learn facts; it means they learn how to organize these facts and apply what they have learned in authentic contexts.
+
+*Effective teaching is intentional, inclusive, and iterative.*
+
+Effective teaching creates learning experiences for students to engage in doing science—more on that in upcoming modules. Effective teaching also means approaching your teaching with the same rigor and spirit of your scientific research. This involves being intentional, inclusive, and iterative.
+
+Scientific teaching aims to bring a philosophy and framework to teaching that makes the process more rigorous, reflective, and evaluative. Drawing from discovery and evidence-based strategies, scientific teaching provides a model for teaching that parallels science research. Rather than allowing a haphazard approach to designing daily lectures, scientific teaching emphasizes intentional course-level planning, using empirical evidence and data to inform instructional decisions. This approach allows courses to evolve over time using student learning as the driving evidence.
+
+Like science, these teaching principles take time to practice and implement. Also like science, we advocate that you select from practices that demonstrate positive student outcomes and carefully evaluate which approaches will work best in your context.
 
 !!! tip ""
-    #### Commit to Action
+    #### Reflect on your motivations
 
-    *Answer in your workbook:* What is one discrete action you could take to improve how science is taught in your own course? Draw inspiration from any source: this course, reports from your country, effective practices from your teacher-peers or your own teachers, or so on.
+    Which reasons for incorporating the practices of science into your course are most motivating for you personally? Check all that apply.
 
-### Good Science
+    - Prepare students for the scientific workforce and challenges of today’s society
+    - Cultivate informed citizens
+    - Foster critical thinking
+    - Increase interest in science
+    - Humanize science
+    - Broaden participation in science
+    - Increase equity of science
 
-!!! compat ""
-    - Explain why it is important for students to learn the facets of science.
-    - Examine how your current course schedule engages students in the facets of science.
-    - Commit to the facets of science you want your future course schedule to embody.
-    - Understand key concepts and principles:
-        - The facets of science include much more than the facts of science.
-        - The facets of science include thinking like a scientist, using the tools of a scientist, and communicating like a scientist.
-        - Students who engage in authentic science practices are more likely to persist in STEM.
+---
+## A Framework for Scientific Teaching
 
-Good science is inclusive science.
-
-*Scientific teaching is needed because science is important.*
-
-The rapid expansion of many scientific frontiers places the onus on science educators to teach efficiently and effectively, assuring that students engage with a vast amount of knowledge, learn how to interact with and evaluate it, and retain much of it. Whether they major in biology, art history, math, or elementary education, no one should not complete a college education without understanding basic principles and facts about the world around them. Equally important, our students need to emerge with an understanding of the facets of science so they can appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them. The need to solve global problems and navigate the difference between evidence-based claims and opinions is becoming increasingly important.
-
-*Scientific teaching is needed because diversity is important to science.*
-
-Teaching science in a way that reflects how science is done can broaden participation in STEM. When students actively engage in authentic scientific practices, they develop a more robust scientific self-efficacy and identity [estrada_toward_2011](@cite). When students witness diverse scientist identities and engage in real-world problems, it allows a broader range of students to connect with and envision themselves as part of the scientific community. These factors – positive self-efficacy, identity, and connection with scientific values – lead to increased persistence in STEM, especially for students from communities that have been historically excluded [estrada_toward_2011](@cite). Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone.
+The main framework for scientific teaching is the process of science itself: how we ask and answer questions and what questions are explored. Most of us are familiar with the scientific method, which asks us to make an observation, develop a hypothesis, design an experiment, collect and analyze data, and summarize findings. However, anyone who engages with science knows there is more to science than experimentation. The six facets of science expand to include other hallmarks of research and discovery, contextualized for undergraduate STEM education. The facets below are largely derived from the literature around undergraduate research [ref NAP, Dolan etc] and provide a framework for engaging students in scientific inquiry through the courses that we teach.
 
 ### The Facets of Science
 
-![Illustration of the six facets of science: Science Practices, Iteration, Discovery, Authenticity, Ownership, and Relevance](assets/six-facets-of-science.svg)
+![Illustration of the six facets of science: Science practices, iteration, discovery, authenticity, ownership, and relevance](assets/six-facets-of-science.svg)
 
-In order to achieve these goals, we need to teach in a way that intentionally engages students with the six facets of science:
+The six facets of science include:
 
-- **Science Practices:** Ask questions, carry out investigations, analyze and communicate data
-- **Iteration:** Identify and resolve problems in multiple cycles
+- **Science Practices:** Ask questions, generate hypotheses, carry out investigations, analyze and communicate data
+- **Iteration:** Identify and resolve problems in multiple cycles; replicate experiments
 - **Discovery:** Engage in research tasks that have unknown outcomes
-- **Authenticity:** Engage in innovation and collaboration to address original research questions
-- **Ownership:** Develop a sense of responsibility for and personal connection to  research findings
-- **Relevance:** Apply the outcomes and applications of scientific discoveries to real world-contexts
-
-!!! note ""
-    #### Identifying the Facets of Science
-
-    ```@raw html
-    <!-- TODO where is the full citation used below? -->
-    ```
-
-    The facets of science listed on the previous slide can be categorized into three categories (Brownell & Kloser, 2015):
-
-    - Thinking and feeling like a scientist
-    - Communicating like a scientist
-    - Using the tools of a scientist
-
-    Which facets of science belong in each category?
+- **Authenticity:** Engage in innovation and collaboration to address original research questions and do authentic scientific tasks
+- **Ownership:** Develop a sense of responsibility for and personal connection to the research
+- **Relevance:** Apply the outcomes and applications of scientific discoveries to real world-contexts, or ask questions relevant to the researcher
 
 !!! note ""
     #### Embodying the Facets of Science
@@ -388,339 +255,34 @@ In order to achieve these goals, we need to teach in a way that intentionally en
     - How well does it embody **Ownership**, high, medium, or low? Why is that?
     - How well does it embody **Relevance**, high, medium, or low? Why is that?
 
-### Good Teaching
-
-!!! compat ""
-    - Identify what aspects of teaching science are personally motivating for you.
-    - Reconsider how you think of the course material and the role of instructors and students in the course.
-    - Connect good science teaching with intentional course design, inclusive learning, and iterative approaches.
-    - Understand key concepts and principles:
-        - Good teaching moves away from the instructor covering content toward the student learning science.
-        - Change can be achieved at many levels. The STC focuses on what instructors have agency to change: the classroom.
-        - Good teaching is intentional, inclusive, and iterative.
-
-*Good teaching moves from covering content to learning science.*
-
-To integrate science authentically into teaching requires moving beyond a mindset of “covering the content” toward designing experiences in which students actively develop the essential knowledge, skills, and mindsets that align with how science is practiced.
-
-This transition involves stepping away from a checklist of topics to cover and instead identifying overarching concepts and broad themes that help students to organize complex information and deepen their understanding. It also considers how students integrate scientific knowledge with authentic practices that represent the facets of science and acknowledge their diverse identities, beliefs, and experiences.
-
-This shift doesn’t mean students don’t learn facts; it means they learn to organize their thinking while learning them.
-
-### Growth mindset opportunity!
-
-Reframe how you think of the course material and the role of instructors and students in the course:
-
-- Instead of: Instructor covers the science facts
-- Move toward: Students learn the facets of science
-
-### Good teaching is intentional, inclusive, and iterative
-
-Good teaching creates learning experiences for students to engage in the practices of science – more on that in the next two modules. Good teaching also means approaching your teaching with the same rigor and spirit of your scientific research.
-
-*This involves being intentional, inclusive, and iterative.*
-
-Scientific teaching aims to bring a philosophy and framework to teaching that makes the process more rigorous, reflective, and evaluative. Drawing from discovery and evidence-based strategies, scientific teaching provides a model for teaching that parallels science research. Rather than allowing a last-minute, somewhat random approach to designing classes, scientific teaching emphasizes intentional planning and using empirical evidence and data to inform instructional decisions. This not only allows the instruction to evolve over time, it also means students are engaging in the best possible STEM learning experience, which can also be very rewarding for instructors.
-
-Like science, these teaching principles take time to practice and implement. Also like science, we advocate that you select from practices that demonstrate positive student outcomes and carefully evaluate which approaches will work in your context.
-
-!!! tip ""
-    #### Reflect on Your Own Motivations
-
-    *Answer in your workbook:*
-
-    Which reasons for incorporating the practices of science into your course are most motivating for you personally? Why and how so?
-
-    - Prepare students for the scientific workforce and challenges of today’s society: Students are equipped to apply their knowledge and skills to real-world problems.
-    - Cultivate informed citizens: Students can critically evaluate scientific claims, engage in evidence-based decision making, and contribute to societal discussions.
-    - Foster critical thinking: Students learn to evaluate evidence and integrate information, rather than seeking “the right answer.”
-    - Increase interest in science: Students see science as more engaging and can see the relevance of what they are learning.
-    - Humanize science: Students see that science is a human endeavor that involves curiosity, creativity, and collaboration.
-    - Broaden participation in science: Students see science as more accessible and more relevant, and are better able to see themselves as scientists.
-    - Increase equity of science: Students with diverse identities persist in science, enhancing the range of questions that scientists investigate and the ways that science benefits society.
-
----
-## A Framework for Scientific Teaching
-
-!!! compat ""
-    - Examine the parallels between your scientific research and your teaching approaches.
-    - Commit to one action you could take to address each of the five dimensions of diversity and equity in your course.
-    - Understand key concepts and principles:
-        - Good teaching embodies five dimensions of diversity and equity: students, instructors, curriculum, pedagogy, and the classroom climate and group dynamics.
-        - These dimensions can work together to create a cohesive learning experience.
-        - Instructors do not need to be educational experts to be good teachers, but it helps to use methods that are (1) based on solid theory, (2) tested and evaluated in the classroom, and (3) organized by a logical framework.
-
-![Illustration of the five dimensions of inclusive teaching: Instructors, Pedagogy, Students, Curriculum, and Climate. Each dimension connects to the others, with Climate playing a central or moderating role.](assets/five-dimensions-of-inclusive-teaching.svg)
-
-Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
-
-There are five dimensions to inclusive teaching:
-
-- **Instructor--Who we are:** Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
-- **Students--Who we teach:** Plan meaningful interactions when we are aware of the many dimensions of our students.
-- **Curriculum--What we teach:** Choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.  
-- **Pedagogy--How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
-- **Climate--How the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
-
-!!! note ""
-    #### Reflecting Strengths and Blindspots
-
-    Which dimension(s) do you tend to think about most naturally in your teaching? Which dimension(s) will require more attention for you to consider?
-
-!!! tip ""
-    #### Commit to Action: Five Dimensions
-    *Answer in your workbook:* What actions can you commit to taking to address each of the five dimensions of inclusive teaching?
-
 ---
 ## Scientific Teaching in Practice
 
-!!! compat ""
-    - Describe how scientific teaching leverages the facets of science for students for learning and for instructors while teaching.
-    - Commit to one action you could take to put scientific teaching in practice with respect to students learning science and for you, the instructor, teaching science.
-    - Understand key concepts and principles:
-        - Scientific teaching offers a natural structure for teaching that parallels our scientific research, as well as the scientific practices we are asking our students to learn.
-        - The STC focuses on what instructors have agency to change: The classroom.
+Scientific teaching offers a natural structure for teaching that parallels scientific research, as well as the scientific practices we are asking our students to learn. Teaching science can mimic science practices in many ways.
 
-Scientific teaching offers a natural structure for teaching that parallels our scientific research, as well as the scientific practices we are asking our students to learn. 
-
-```@raw html
-<figure>
-    <figcaption>
-        <p><strong id="table1-label">Table 1. Parallels in Science Practices</strong><br><span id="table1-summary"><!-- TODO: Description here. --></span></p>
-    </figcaption>
-    <table aria-labelledby="table1-label" aria-describedby="table1-summary">
-        <tr>
-            <th scope="col">What Students Do</th>
-            <th scope="col">What Instructors Do</th>
-        </tr>
-        <tr>
-            <td>Ask questions about scientific concepts</td>
-            <td>Ask questions about instructional interventions and outcomes</td>
-        </tr>
-        <tr>
-            <td>Develop and use models</td>
-            <td>Develop and use instructional models</td>
-        </tr>
-        <tr>
-            <td>Plan and carry out investigations</td>
-            <td>Plan and carry out educational investigations</td>
-        </tr>
-        <tr>
-            <td>Analyze and interpret data</td>
-            <td>Analyze and interpret learning data</td>
-        </tr>
-        <tr>
-            <td>Use math and computational thinking to answer research questions</td>
-            <td>Use math and computational thinking to answer questions</td>
-        </tr>
-        <tr>
-            <td>Construct explanations for experimental outcomes</td>
-            <td>Construct explanations for educational outcomes</td>
-        </tr>
-        <tr>
-            <td>Engage in scientific arguments constructed from evidence</td>
-            <td>Engage in educational arguments constructed from evidence</td>
-        </tr>
-        <tr>
-            <td>Obtain, evaluate, and communicate information about scientific discoveries</td>
-            <td>Obtain, evaluate, and communicate information about learning outcomes</td>
-        </tr>
-    </table>
-</figure>
-```
-
-```@raw html
-<figure>
-    <figcaption>
-        <p><strong id="table2-label">Table 2. Parallels in Iteration</strong><br><span id="table2-summary"><!-- TODO: Description here. --></span></p>
-    </figcaption>
-    <table aria-labelledby="table2-label" aria-describedby="table2-summary">
-        <tr>
-            <th scope="col">What Students Do</th>
-            <th scope="col">What Instructors Do</th>
-        </tr>
-        <tr>
-            <td>Replicate and reproduce scientific experiments</td>
-            <td>Replicate and reproduce educational experiments</td>
-        </tr>
-        <tr>
-            <td>Troubleshoot failed experiments</td>
-            <td>Troubleshoot failed experiments</td>
-        </tr>
-        <tr>
-            <td>Identify and resolve lab problems</td>
-            <td>Identify and resolve educational problems</td>
-        </tr>
-    </table>
-</figure>
-```
-
-```@raw html
-<figure>
-    <figcaption>
-        <p><strong id="table3-label">Table 3. Parallels in Discovery</strong><br><span id="table3-summary"><!-- TODO: Description here. --></span></p>
-    </figcaption>
-    <table aria-labelledby="table3-label" aria-describedby="table3-summary">
-        <tr>
-            <th scope="col">What Students Do</th>
-            <th scope="col">What Instructors Do</th>
-        </tr>
-        <tr>
-            <td>Do scientific research tasks that have unknown outcomes</td>
-            <td>Do educational research tasks or make inquiries that have unknown outcomes</td>
-        </tr>
-        <tr>
-            <td>Become aware of the history and culture of science (who has participated and who has benefited)</td>
-            <td>Become aware of the history and culture of STEM education (who has participated and who has benefited)</td>
-        </tr>
-    </table>
-</figure>
-```
-
-```@raw html
-<figure>
-    <figcaption>
-        <p><strong id="table4-label">Table 4. Parallels in Authenticity</strong><br><span id="table4-summary"><!-- TODO: Description here. --></span></p>
-    </figcaption>
-    <table aria-labelledby="table4-label" aria-describedby="table4-summary">
-        <tr>
-            <th scope="col">What Students Do</th>
-            <th scope="col">What Instructors Do</th>
-        </tr>
-        <tr>
-            <td>Actively do the type of work that professional science researchers do</td>
-            <td>Actively do the type of work that professional STEM education researchers do</td>
-        </tr>
-        <tr>
-            <td>Intellectually engage in scientific discovery, innovation, iteration, and collaboration</td>
-            <td>Intellectually engage in educational discovery, innovation, iteration, and collaboration</td>
-        </tr>
-        <tr>
-            <td>Build on previous scientific knowledge by using published methods and studies</td>
-            <td>Build on previous STEM education knowledge by using published methods and studies</td>
-        </tr>
-        <tr>
-            <td>Examine new scientific protocols when needed</td>
-            <td>Examine new STEM education protocols when needed</td>
-        </tr>
-        <tr>
-            <td>Learn and develop while engaging in scientific practices</td>
-            <td>Learn and develop while engaging in education practices</td>
-        </tr>
-        <tr>
-            <td>Assume increasing ownership of scientific research over time with structure and guidance by a mentor or teacher</td>
-            <td>Assume increasing ownership of educational practices over time with structure and guidance by a mentor or teacher</td>
-        </tr>
-    </table>
-</figure>
-```
-
-```@raw html
-<figure>
-    <figcaption>
-        <p><strong id="table5-label">Table 5. Parallels in Ownership</strong><br><span id="table5-summary"><!-- TODO: Description here. --></span></p>
-    </figcaption>
-    <table aria-labelledby="table5-label" aria-describedby="table5-summary">
-        <tr>
-            <th scope="col">What Students Do</th>
-            <th scope="col">What Instructors Do</th>
-        </tr>
-        <tr>
-            <td>Have a sense of responsibility for scientific research findings</td>
-            <td>Have a sense of responsibility for educational outcomes</td>
-        </tr>
-        <tr>
-            <td>Have a personal connection to scientific research</td>
-            <td>Have a personal connection to STEM education</td>
-        </tr>
-        <tr>
-            <td>Feel emotional responses such as joy or surprise at the outcomes of scientific research</td>
-            <td>Feel emotional responses such as joy or surprise at the outcomes of STEM education research</td>
-        </tr>
-    </table>
-</figure>
-```
-
-```@raw html
-<figure>
-    <figcaption>
-        <p><strong id="table6-label">Table 6. Parallels in Relevance</strong><br><span id="table6-summary"><!-- TODO: Description here. --></span></p>
-    </figcaption>
-    <table aria-labelledby="table6-label" aria-describedby="table6-summary">
-        <tr>
-            <th scope="col">What Students Do</th>
-            <th scope="col">What Instructors Do</th>
-        </tr>
-        <tr>
-            <td>Share scientific research findings outside the classroom</td>
-            <td>Share STEM education research findings outside the classroom</td>
-        </td>
-        <tr>
-            <td>Work on a scientific topic that has relevance beyond the course</td>
-            <td>Work on STEM education reform that has relevance beyond your own teaching or classroom</td>
-        </td>
-        <tr>
-            <td>Consider the outcomes and applications of scientific discoveries</td>
-            <td>Consider the outcomes and applications of STEM education discoveries</td>
-        </td>
-    </table>
-</figure>
-```
+- **Science Practices:** Both researchers and instructors can develop and use models, plan and carry out investigations, analyze and interpret data, engage in scientific arguments and construct explanations.
+- **Iteration:** Instructors can also replicate and troubleshoot experiments and resolve problems.
+- **Discovery:** Engaging in educational research allows instructors to propose hypotheses and make inquiries.
+- **Authenticity and Ownership:** Instructors also engage in innovation and collaboration, build on previous knowledge, gain agency, and develop a sense of responsibility for outcomes.
+- **Relevance:** Finally, instructors can share their findings with others and work on education reform that has application beyond their own classroom.
 
 ### A Path to Scientific Teaching
 
-During the rest of the course, you will have the chance to practice each of the following, on your path to scientific teaching:
+The Scientific Teaching Course is designed to help you put all these ideas into practice. It provides an overview of the complex and expansive landscape of evidence, approaches, methods, and theories. It also highlights the role of systemic barriers in learning environments and provides tools to remove them. Our aim is to empower you, the instructor, to customize the approaches for your own identities, students, content, and contexts.
+This course is organized around interactive modules that provide guidelines, reflective moments, hands-on practice, and immediate application. The modules build on and reinforce each other:
 
-1. Set your **intentions** 
-    1. Write teaching goals - You did this already!
-    2. Make commitments - Workbook 
-2. Apply tools for creating **inclusive** learning experiences - Throughout STC
-    1. Frameworks 
-        1. Five dimensions of inclusive teaching
-        2. Six facets of science 
-        3. Five principles for learning
-    2. Tactical tools
-        1. Course design strategies
-        2. Learning experiences techniques
-        3. Inclusive learning approaches
-3. **Iterate** and improve - ST revisited module
+- **Scientific Teaching** explains why change is needed and lays a foundation of evidence-based theories.
+- **Inclusive Learning** provides a deeper dive into theories and practices for equitable learning.
+- **Course Design**, **Learning Experiences**, **Summative Assessment**, and **Course Structure** turn theory into actionable practice.
+- **Scientific Teaching Revisited** offers suggestions for lifelong learning and iterative improvement as a scientific teacher.
 
 ---
-## Lexicon of Scientific Teaching
+## Summary of Scientific Teaching
 
-!!! compat ""
-    - Know the definitions of terms used in STC
-    - Understand key concepts and principles:
-        - Words used in scientific teaching support a common, shared understanding.
-
-- Active learning
-- AJEDI
-- Antiracism
-- Course design
-- Equity
-- Dimensions of teaching and learning
-- Diversity
-- Facets of science
-- Formative assessment 
-- Historically excluded community (HEC)
-- Historically included community  (HIC)
-- Inclusion
-- Inclusive learning
-- Justice
-- Learning
-- Learning environment
-- Learning experience
-- Learning goal
-- Learning objective
-- Learning outcome
-- Metacognition
-- Nature of science
-- Philosophy
-- Prior knowledge
-- Rubric
-- Scientific teaching
-- Schema
-- Summative assessment
-
-Approach, technique, tool, practice, principle
-Instructor, educator; student, learner
+- Scientific teaching is both the teaching of science and the science of teaching.
+- The goals of scientific teaching are to make teaching and learning more scientific and increase diversity in STEM.
+- Scientific teaching means being intentional, inclusive, and iterative.
+- Myriad reports call for changes in teaching practices to foster inclusive learning environments.
+- STEM education reform can happen at many levels. As an instructor, you have agency for change in your courses.
+- Students who engage in authentic science practices are more likely to persist in STEM.
+- Scientific teaching offers a natural structure for teaching that parallels scientific research, as well as the scientific practices we are asking our students to learn.
