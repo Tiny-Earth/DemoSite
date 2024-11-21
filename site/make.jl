@@ -30,4 +30,4 @@ makedocs(
 )
 
 # Deploy the website
-deploydocs(repo="github.com/Sharleen6F/DemoSite.git")
+deploydocs(repo="github.com/Tiny-Earth/DemoSite.git")
