@@ -100,3 +100,107 @@ To answer the increasingly complex science questions of the future, we need to e
 Diversity within the scientific community supports the broadening of participation in STEM fields.  When students witness diverse scientist identities and engage in solving real-world problems, they connect with and envision themselves as part of the scientific community [ref]. 
 
 These factors—positive self-efficacy, identity, and connection with scientific values—lead to increased persistence in STEM, especially for students from communities that have been historically excluded (Estrada et al., 2011). Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone.
+
+## Effective Teaching
+
+<mark>*Effective teaching helps students develop science skills.*</mark>
+
+Authentically integrating science into teaching requires moving beyond a mindset of “covering the content” and toward designing experiences where students “uncover the content.” This active engagement with the content helps students develop the essential knowledge, skills, and habits of mind that align with how science is practiced.
+
+Instructors who identify overarching concepts and broad themes can help students to organize complex information and deepen their understanding. They also help students integrate scientific knowledge with authentic practices and account for students' diverse identities, beliefs, and experiences. This shift doesn’t mean students don’t learn facts; it means they learn how to organize these facts and apply what they have learned in authentic contexts.
+
+## The Three I’s of Effective Teaching
+
+<mark>*Effective teaching is intentional, inclusive, and iterative.*</mark>
+
+Effective teaching creates learning experiences for students to engage in doing science—more on that in upcoming modules.
+
+Effective teaching also means approaching your teaching with the same rigor and spirit of your scientific research. This involves being intentional, inclusive, and iterative.
+
+Scientific teaching aims to bring a philosophy and framework to teaching that makes the process more rigorous, reflective, and evaluative. Drawing from discovery and evidence-based strategies, scientific teaching provides a model for teaching that parallels science research. Rather than allowing a haphazard approach to designing daily lectures, scientific teaching emphasizes intentional course-level planning, using empirical evidence and data to inform instructional decisions. This approach allows courses to evolve over time using student learning as the driving evidence.
+
+Like science, these teaching principles take time to practice and implement. Also like science, we advocate that you select from practices that demonstrate positive student outcomes and carefully evaluate which approaches will work best in your context.
+
+
+!!! note ""
+
+    **Activity: Reflect on Your Own Motivations**
+
+    **Check all that apply:** Which reasons for incorporating the practices of science into your course are most motivating for you personally? 
+
+    - [ ] Prepare students for the scientific workforce and challenges of today’s society
+    - [ ] Cultivate informed citizens
+    - [ ] Foster critical thinking
+    - [ ] Increase interest in science
+    - [ ] Humanize science
+    - [ ] Broaden participation in science
+    - [ ] Increase equity of science
+
+    Why do you believe you selected the reasons above that you did? What about them motivates you?
+
+---
+
+## A Framework for Scientific Teaching
+
+The main framework for scientific teaching is the process of science itself: how we ask and answer questions and what questions are explored.
+
+Most of us are familiar with the scientific method, which asks us to make an observation, develop a hypothesis, design an experiment, collect and analyze data, and summarize findings. However, anyone who engages in science knows there is more to science than experimentation.
+
+The six facets of science expand on the scientific method to include other hallmarks of research and discovery, contextualized for undergraduate STEM education. The facets below are largely derived from the literature around undergraduate research [ref NAP, Dolan etc] and provide a framework for engaging students in scientific inquiry through the courses that we teach.
+
+### The Six Facets of Science
+
+![Illustration of the six facets of science: Science practices, iteration, discovery, authenticity, ownership, and relevance](assets/six-facets-of-science.svg)
+
+**Fig. 1.** Illustration of the six facets of science: Science practices, iteration, discovery, authenticity, ownership, and relevance
+
+The six facets of science include:
+
+1. Science practices: Ask questions, generate hypotheses, carry out investigations, analyze and communicate data
+2. Iteration: Identify and resolve problems in multiple cycles; replicate experiments
+3. Discovery: Engage in research tasks that have unknown outcomes
+4. Authenticity: Engage in innovation and collaboration to address original research questions, and do authentic scientific tasks
+5. Ownership: Develop a sense of responsibility for and personal connection to the research 
+6. Relevance: Apply the outcomes and applications of scientific discoveries to real world-contexts, or ask questions with scientific relevance.
+
+!!! note ""
+
+    **Activity: Embodying the Facets of Science**
+
+    Compare the following two course schedules with the facets of science in mind.
+
+    To what extent does each schedule embody each of the facets of science? Rate them as high, medium, or low.
+
+    - Science practices
+    - Iteration
+    - Discovery
+    - Authenticity
+    - Ownership
+    - Relevance
+
+    <details open>
+    <summary><strong>Click here to show the Course 1 Schedule</strong></summary>
+    <br>
+    </details>
+
+    <details open>
+    <summary><strong>Click here to show the Course 2 Schedule</strong></summary>
+    <br>
+    </details>
+
+!!! note ""
+
+    **Activity: Rate Your Own Course**
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
+
+    To what extent does your course schedule embody each of the facets of science? Rate them as high, medium, or low.
+
+    - Science practices
+    - Iteration
+    - Discovery
+    - Authenticity
+    - Ownership
+    - Relevance
+
+---
