@@ -181,11 +181,78 @@ The six facets of science include:
     <details open>
     <summary><strong>Click here to show the Course 1 Schedule</strong></summary>
     <br>
+
+    **Week 1:**
+        
+    - Before class, complete a reading and a quiz.
+    - In class we will discuss: What are the facets of science?
+    - And in Lab: Orientation to the lab, research, and discovery by diverse scientists; and importance of lab safety and sterile technique.
+
+    **Week 2:**
+        
+    - Before class, complete a reading and a quiz.
+    - In class we will discuss: Evolution.
+    - And in lab: Ask 3 research questions about antibiotic discovery. Pick one. Generate a hypothesis and design an experiment to test it.
+
+    **Week 3:**
+        
+    - Before class, complete a reading and a quiz.
+    - In class we will discuss: Antibiotic discovery and resistance.
+    - And in lab: Test your hypothesis: Collect and plate soil samples. Include replicates.
+
+    **Week 4:**
+        
+    - Before class, watch a video and complete a worksheet.
+    - In class we will discuss: What role does evidence play in discovery?.
+    - And in lab: Test your hypothesis: Observe and record data. Re-test if needed.
+
+    **Week 5:**
+        
+    - Before class, complete a reading and a quiz.
+    - In class we will discuss: What role does diversity play in discovery?.
+    - And in lab: Test your hypothesis: Analyze data. Draw graphs, figures, and tables.
+
+    **Week 6:**
+    - Before class, complete a take home mid-term exam.
+    - In class we will check-in about the exam.
+    - And in lab: Submit a summary of results so far. Do they support your hypothesis? Propose your next experiments; get feedback from lab partners.
+
     </details>
 
     <details open>
     <summary><strong>Click here to show the Course 2 Schedule</strong></summary>
     <br>
+
+    **Week 1:**
+        
+    - To prepare for lecture, read chapters 1 and 2.
+    - In lab: Lab safety.
+
+    **Week 2:**
+        
+    - To prepare for lecture, read chapters 3 and 4.
+    - In lab: Pipetting.
+
+    **Week 3:**
+        
+    - To prepare for lecture, read chapters 5.
+    - In lab: Sterile technique.
+
+    **Week 4:**
+        
+    - To prepare for lecture, read chapters 6 and 7.
+    - In lab: Plating microbes.
+
+    **Week 5:**
+        
+    - To prepare for lecture, read chapters 8.
+    - In lab: Gram positive and negative bacteria.
+
+    **Week 6:**
+        
+    - In class we will complete Exam 1 (multiple choice).
+    - In lab: Lab report due.
+
     </details>
 
 !!! note ""
@@ -204,3 +271,44 @@ The six facets of science include:
     - Relevance
 
 ---
+
+## Scientific Teaching in Practice
+
+Scientific teaching offers a natural structure for teaching that parallels scientific research, as well as the scientific practices we are asking our students to learn. Teaching science can mimic science practices in many ways.
+
+- **Science practices:** Both researchers and instructors can develop and use models, plan and carry out investigations, analyze and interpret data, engage in scientific arguments and construct explanations.
+- **Iteration:** Instructors can identify problems, improve materials, and repeat the process to resolution.
+- **Discovery:** Engaging in scholarship of teaching and learning allows instructors to propose hypotheses and make inquiries.
+- **Authenticity and Ownership:** Instructors also engage in innovation and collaboration, build on previous knowledge, gain agency, and develop a sense of responsibility for outcomes.
+- **Relevance:** Instructors can share their findings with others and work on education reform that has applications beyond their own classroom.
+
+The Scientific Teaching Course is designed to help you put all these ideas into practice. It provides an overview of the complex and expansive landscape of evidence, approaches, methods, and theories. It also highlights the role of systemic barriers in learning environments and provides tools to remove them.
+
+Our aim is to empower you, the instructor, to customize the approaches for your own identities, students, content, and contexts.
+
+## Organization of the Scientific Teaching Course
+
+This course is organized around interactive modules that provide guidelines, reflective moments, hands-on practice, and immediate application. The modules build on and reinforce each other:
+
+- **Scientific Teaching** explains why change is needed and lays a foundation of evidence-based theories.
+- **Inclusive Learning** provides a deeper dive into theories and practices for equitable learning.
+- The modules on **Course Design, Learning Experiences, Summative Assessment,** and **Course Structure** turn theory into actionable practice.
+- **Scientific Teaching Revisited** offers suggestions for lifelong learning and iterative improvement as a scientific teacher.
+
+---
+
+## Summary of Scientific Teaching
+
+- Scientific teaching is both the teaching of science and the science of teaching.
+- The goals of scientific teaching are to make teaching and learning more scientific and increase diversity in STEM.
+- Scientific teaching means being intentional, inclusive, and iterative.
+- Myriad reports call for changes in teaching practices to foster inclusive learning environments.
+- STEM education reform can happen at many levels. As instructors, we have agency to effect change in our courses.
+- Students who engage in authentic science practices are more likely to persist in STEM.
+- Scientific teaching offers a natural structure for teaching that parallels scientific research, as well as the scientific practices we are asking our students to learn.
+
+!!! note ""
+
+    **Activity: Takeaways from Scientific Teaching**
+
+    Identify two key takeaways that resonate most with you after completing this module.
