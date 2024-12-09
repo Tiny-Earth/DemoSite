@@ -75,9 +75,9 @@ Most of those who leave a STEM major have the interest, confidence, and aptitude
 
 Therefore, this Scientific Teaching Course focuses on what instructors have agency to change: course design and the classroom environment.
 
-!!! note ""
+!!! tip ""
 
-    **Activity: Reflect on Your Own Course**
+    #### Activity: Reflect on Your Own Course
     
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
@@ -93,7 +93,10 @@ Therefore, this Scientific Teaching Course focuses on what instructors have agen
 
 ## Effective Science
 
-<mark>*Effective science is inclusive science.*</mark>
+
+```@raw html
+<mark>Effective science is inclusive science.</mark>
+```
 
 To answer the increasingly complex science questions of the future, we need to ensure that students develop a working understanding of how science is done. The rapid expansion of scientific knowledge means students need to be prepared to solve global problems and navigate the difference between evidence-based claims and opinions. Whether they major in biology, art history, math, or elementary education, college-educated students should understand the basic principles of the world around them. When students actively engage in scientific practices, they develop a more robust scientific self-efficacy and identity (Estrada et al., 2011). Equally important, students need to appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them.
 
@@ -122,19 +125,19 @@ Scientific teaching aims to bring a philosophy and framework to teaching that ma
 Like science, these teaching principles take time to practice and implement. Also like science, we advocate that you select from practices that demonstrate positive student outcomes and carefully evaluate which approaches will work best in your context.
 
 
-!!! note ""
+!!! tip ""
 
-    **Activity: Reflect on Your Own Motivations**
+    #### Activity: Reflect on Your Own Motivations
+    
+    Which reasons for incorporating the practices of science into your course are most motivating for you personally? 
 
-    **Check all that apply:** Which reasons for incorporating the practices of science into your course are most motivating for you personally? 
-
-    - [ ] Prepare students for the scientific workforce and challenges of today’s society
-    - [ ] Cultivate informed citizens
-    - [ ] Foster critical thinking
-    - [ ] Increase interest in science
-    - [ ] Humanize science
-    - [ ] Broaden participation in science
-    - [ ] Increase equity of science
+    - Prepare students for the scientific workforce and challenges of today’s society
+    - Cultivate informed citizens
+    - Foster critical thinking
+    - Increase interest in science
+    - Humanize science
+    - Broaden participation in science
+    - Increase equity of science
 
     Why do you believe you selected the reasons above that you did? What about them motivates you?
 
@@ -163,9 +166,9 @@ The six facets of science include:
 5. Ownership: Develop a sense of responsibility for and personal connection to the research 
 6. Relevance: Apply the outcomes and applications of scientific discoveries to real world-contexts, or ask questions with scientific relevance.
 
-!!! note ""
+!!! tip ""
 
-    **Activity: Embodying the Facets of Science**
+    #### Activity: Embodying the Facets of Science
 
     Compare the following two course schedules with the facets of science in mind.
 
@@ -178,86 +181,77 @@ The six facets of science include:
     - Ownership
     - Relevance
 
-    <details open>
-    <summary><strong>Click here to show the Course 1 Schedule</strong></summary>
-    <br>
-
-    **Week 1:**
+        !!! details "Click here to show the Course 1 Schedule"
+        **Week 1:**
         
-    - Before class, complete a reading and a quiz.
-    - In class we will discuss: What are the facets of science?
-    - And in Lab: Orientation to the lab, research, and discovery by diverse scientists; and importance of lab safety and sterile technique.
+        - Before class, complete a reading and a quiz.
+        - In class we will discuss: What are the facets of science?
+        - And in Lab: Orientation to the lab, research, and discovery by diverse scientists; and importance of lab safety and sterile technique.
 
-    **Week 2:**
+        **Week 2:**
         
-    - Before class, complete a reading and a quiz.
-    - In class we will discuss: Evolution.
-    - And in lab: Ask 3 research questions about antibiotic discovery. Pick one. Generate a hypothesis and design an experiment to test it.
+        - Before class, complete a reading and a quiz.
+        - In class we will discuss: Evolution.
+        - And in lab: Ask 3 research questions about antibiotic discovery. Pick one. Generate a hypothesis and design an experiment to test it.
 
-    **Week 3:**
+        **Week 3:**
         
-    - Before class, complete a reading and a quiz.
-    - In class we will discuss: Antibiotic discovery and resistance.
-    - And in lab: Test your hypothesis: Collect and plate soil samples. Include replicates.
+        - Before class, complete a reading and a quiz.
+        - In class we will discuss: Antibiotic discovery and resistance.
+        - And in lab: Test your hypothesis: Collect and plate soil samples. Include replicates.
 
-    **Week 4:**
+        **Week 4:**
         
-    - Before class, watch a video and complete a worksheet.
-    - In class we will discuss: What role does evidence play in discovery?.
-    - And in lab: Test your hypothesis: Observe and record data. Re-test if needed.
+        - Before class, watch a video and complete a worksheet.
+        - In class we will discuss: What role does evidence play in discovery?.
+        - And in lab: Test your hypothesis: Observe and record data. Re-test if needed.
 
-    **Week 5:**
+        **Week 5:**
         
-    - Before class, complete a reading and a quiz.
-    - In class we will discuss: What role does diversity play in discovery?.
-    - And in lab: Test your hypothesis: Analyze data. Draw graphs, figures, and tables.
+        - Before class, complete a reading and a quiz.
+        - In class we will discuss: What role does diversity play in discovery?.
+        - And in lab: Test your hypothesis: Analyze data. Draw graphs, figures, and tables.
 
-    **Week 6:**
-    - Before class, complete a take home mid-term exam.
-    - In class we will check-in about the exam.
-    - And in lab: Submit a summary of results so far. Do they support your hypothesis? Propose your next experiments; get feedback from lab partners.
-
-    </details>
-
-    <details open>
-    <summary><strong>Click here to show the Course 2 Schedule</strong></summary>
-    <br>
-
-    **Week 1:**
+        **Week 6:**
         
-    - To prepare for lecture, read chapters 1 and 2.
-    - In lab: Lab safety.
+        - Before class, complete a take home mid-term exam.
+        - In class we will check-in about the exam.
+        - And in lab: Submit a summary of results so far. Do they support your hypothesis? Propose your next experiments; get feedback from lab partners.
 
-    **Week 2:**
+    !!! details "Click here to show the Course 2 Schedule"
+        **Week 1:**
         
-    - To prepare for lecture, read chapters 3 and 4.
-    - In lab: Pipetting.
+        - To prepare for lecture, read chapters 1 and 2.
+        - In lab: Lab safety.
 
-    **Week 3:**
+        **Week 2:**
         
-    - To prepare for lecture, read chapters 5.
-    - In lab: Sterile technique.
+        - To prepare for lecture, read chapters 3 and 4.
+        - In lab: Pipetting.
 
-    **Week 4:**
+        **Week 3:**
         
-    - To prepare for lecture, read chapters 6 and 7.
-    - In lab: Plating microbes.
+        - To prepare for lecture, read chapters 5.
+        - In lab: Sterile technique.
 
-    **Week 5:**
+        **Week 4:**
         
-    - To prepare for lecture, read chapters 8.
-    - In lab: Gram positive and negative bacteria.
+        - To prepare for lecture, read chapters 6 and 7.
+        - In lab: Plating microbes.
 
-    **Week 6:**
+        **Week 5:**
         
-    - In class we will complete Exam 1 (multiple choice).
-    - In lab: Lab report due.
+        - To prepare for lecture, read chapters 8.
+        - In lab: Gram positive and negative bacteria.
 
-    </details>
+        **Week 6:**
+        
+        - In class we will complete Exam 1 (multiple choice).
+        - In lab: Lab report due.
+        
+!!! tip ""
 
-!!! note ""
-
-    **Activity: Rate Your Own Course**
+    #### Activity: Rate Your Own Course
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
@@ -307,8 +301,8 @@ This course is organized around interactive modules that provide guidelines, ref
 - Students who engage in authentic science practices are more likely to persist in STEM.
 - Scientific teaching offers a natural structure for teaching that parallels scientific research, as well as the scientific practices we are asking our students to learn.
 
-!!! note ""
+!!! tip ""
 
-    **Activity: Takeaways from Scientific Teaching**
+    #### Activity: Takeaways from Scientific Teaching
 
     Identify two key takeaways that resonate most with you after completing this module.
