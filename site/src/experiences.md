@@ -322,7 +322,7 @@ To encourage students to think and act like scientists, active learning experien
             <td><ol>
                 <li>Sustainable soil practices include rotating crops, not tilling, and planting strips of native prairie plants with deep roots.</li>
                 <li>Nutrition information labels provide information about caloric content, serving size, ingredients, and nutrient composition.</li>
-                <li>“There are currently 451 named stars. All these names were formally approved in recent years, but most of them have been used for centuries.”</li>
+                <li>The names of more than 400 stars have been formally approved in modern times. However, most of those names have been used for centuries.</li>
             </ol></td>
             <td><ol>
                 <li>Propose three sustainable agricultural practices that would improve the health of the soil in your backyard or a neighborhood park/community garden.</li>
