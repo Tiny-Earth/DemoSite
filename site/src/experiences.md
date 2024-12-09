@@ -267,14 +267,15 @@ To encourage students to think and act like scientists, active learning experien
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table4-label">Table 1. TODO table title</strong><br><span id="table4-summary"><!-- TODO: Description here. --></span></p>
+        <p><strong id="table1-label">Table 1. TODO table title</strong><br><span id="table1-summary"><!-- TODO: Description here. --></span></p>
     </figcaption>
-    <table aria-labelledby="table4-label" aria-describedby="table4-summary">
+    <table aria-labelledby="table1-label" aria-describedby="table1-summary">
         <tr>
             <th scope="col">Facet of science</th>
             <th scope="col">Passive class</th>
             <th scope="col">Active class</th>
         </tr>
+        <tr>
             <th scope="row">Scientific practices</th>
             <td><ol>
                 <li>Wolves hunt deer, deer eat vegetation, and vegetation holds river banks in place. When wolves are removed from an ecosystem, rivers are more likely to change their course and flood.</li>
