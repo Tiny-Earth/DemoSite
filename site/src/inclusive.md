@@ -104,6 +104,10 @@ Interventions can be incorporated as individual or repeated activities, such as:
 - Incorporate interventions that make explicit the **utility value** of a course or its parts (Harackiewicz et al., 2016; Asher et al., 2023).
 - Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance (Steele et al., 2002).
 
+```@raw html
+<!-- `TODO size figs` -->
+```
+
 ![](assets/five-dimensions-of-inclusive-teaching2.svg)
 
 Instructors can also modify overall course structure or infuse practices into an entire course to accomplish an inclusive learning environment. Some examples:
@@ -123,6 +127,10 @@ Instructors can also modify overall course structure or infuse practices into an
 
 Identity comprises the social, emotional, and professional attributes of an individual (Rus et al., 2013; Peterson et al., 1999). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate. 
 Social identity is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group (Tajfel, 1981. p. 255). 
+
+```@raw html
+<!-- `TODO size figs` -->
+```
 
 ![](assets/five-dimensions-of-inclusive-teaching3.svg)
 
@@ -166,5 +174,50 @@ Social identity is defined as the sense of self that comes from membership in a 
     - Circle of friends
     - Hobbies or interests
     - Financial situation
-    
+
     Do you tell your students these attributes? Why or why not?
+
+## Mitigate Biases and Assumptions
+Identities aren’t the only thing that influence outcomes in STEM. Biases and assumptions matter, too. For example, biases and assumptions affect how we rate people, which can have consequences for hiring decisions and advancement.
+
+Let’s examine hiring studies as one example of bias affecting outcomes. In one study (Moss-Racusin et al., 2012) 127 biology, chemistry, and physics faculty at six top US research universities received a student resume for a lab manager position. Each resume was randomly assigned a gendered name: “Jennifer” (female) or “John” (male). Otherwise, the applications were identical, and each evaluator saw only one version. Faculty then evaluated the student’s competence and hireability and proposed a salary.
+
+What results would you predict? Click here to find out what happened!
+
+```@raw html
+<!-- `TODO add figs` -->
+```
+
+**Figure 2.** Science faculty rated male applicants higher than women regarding competence and hireability for a lab manager position (p < 0.001). Scales range from 1 to 7, with 7 being the highest score.
+
+```@raw html
+<!-- `TODO add figs` -->
+```
+
+**Figure 3.** Science faculty provided higher salary offers for male applicants than women for a lab manager position (p < 0.01). 
+Interestingly, the gender of the reviewer did not affect scores or salaries. Both men and women faculty scored women students lower and offered lower salaries. Compounded over a 40-year career, a $4,000 disparity in a starting salary—or being 25% less likely to be hired—has serious economic repercussions for women. 
+
+Dozens of studies have compared hiring decisions with the same setup, all yielding the same result: Evaluators are substantially more likely to hire and pay a higher salary if an applicant has a man’s name. **These results have not changed for 50 years.**
+
+In fact, we hold biases about everything imaginable—not just hiring. For a more complete list of the HEC groups affected by bias and assumptions in STEM higher education, check out the supplementary materials for Achieving STEM Diversity: Fix the Classrooms (Handelsman et al., 2022). 
+
+Bias is not inherently bad and is part of human nature. But when bias leads to recurring, systemic inequalities that cause negative socioeconomic impacts and structural inequities, we need to pay attention and effect change. 
+
+!!! tip ""
+
+    #### Activity: Reflect on Bias and Assumptions 
+
+    What biases have you seen or experienced in STEM higher education?
+
+---
+
+## Summary of Inclusive Learning
+
+- The instructor, students, curriculum, and pedagogy influence each other and collectively affect the course climate.
+- Instructors can leverage these dimensions to create inclusive learning environments.
+- Inclusive learning environments lead to persistence and diversity in STEM.
+
+!!! tip ""
+    #### Activity: Takeaways from Inclusive Learning
+    
+    Identify two key takeaways that resonate most with you after completing this module.
