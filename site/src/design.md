@@ -73,9 +73,9 @@ Effective design principles incorporate balance and alignment, while focusing on
 
     #### Evaluate Your Course
 
-    Call to mind a course you are teaching, have taught, or are planning to teach.
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    Now consider your course. To what extent (0=not at all; 1=to some extent; 2=a lot) does it:
+    To what extent (0=not at all; 1=to some extent; 2=a lot) does your course:
 
     - Emphasize learning the facets of science
     - Clarify what is expected of students
