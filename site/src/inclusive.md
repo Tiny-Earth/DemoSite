@@ -104,6 +104,8 @@ Interventions can be incorporated as individual or repeated activities, such as:
 - Incorporate interventions that make explicit the **utility value** of a course or its parts (Harackiewicz et al., 2016; Asher et al., 2023).
 - Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance (Steele et al., 2002).
 
+![](assets/five-dimensions-of-inclusive-teaching2.svg)
+
 Instructors can also modify overall course structure or infuse practices into an entire course to accomplish an inclusive learning environment. Some examples:
 
 - Create a culture where **failure is a productive and normal part of science**, rather than a judgement on students' identity (Petroski 2006; Simpson and Maltese, 2017; Lopatto et al., 2020; Gin, et al., 2018; Good et al., 2012; Koch et al., 2008; Cacciotti, 2015).
@@ -114,5 +116,55 @@ Instructors can also modify overall course structure or infuse practices into an
 !!! tip ""
 
     #### Activity: Taking Action for Inclusive Learning
-    
+
     Describe 2-3 new actions you could take to promote inclusive learning in your course.
+
+## Consider Identities
+
+Identity comprises the social, emotional, and professional attributes of an individual (Rus et al., 2013; Peterson et al., 1999). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate. 
+Social identity is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group (Tajfel, 1981. p. 255). 
+
+![](assets/five-dimensions-of-inclusive-teaching3.svg)
+
+**Social identity** can change over time and between contexts (Gee, 2000). Moreover, we are each of us complex persons with multiple social identities that intersect, add up, and produce unique experiences–both for ourselves and how we are viewed by others (Crenshaw, 1989; Gordon, 1997). And while much social science in recent decades has worked toward identifying current and historical discrimination against members of protected social groups, it is important to also recognize the unique joys, places, desires, values, traditions, stories, practices, hardships, and acts of resistance that contribute to what it means to “belong” in one’s social groups (Tuck, 2009). 
+
+**Emotional identity** characterizes how a person responds to their own emotions and the emotions of others. It is informed by experiences, power dynamics, and agency.
+
+**Professional identity** (in our case, teacher identity or STEM instructor identity) encompasses how individuals perceive themselves and construct their professional identities as teachers within educational settings (Yuan & Liu, 2021, p. 2). An instructor’s professional identity is dynamic and influenced by experience and positionality (Sachs, 2005, p.15).
+
+!!! tip ""
+
+    #### Activity: Identify Matching
+
+    Drag and drop the following attributes with the identity category:
+
+    SOCIAL: race/ethnicity, gender, sexual orientation, socioeconomic status, age, ability, veteran status, neurodiversity
+
+    EMOTIONAL: trauma history, mental health status, current state of mind, support network, overall health and well being
+
+    PROFESSIONAL: educational background, first-generation status, work experience, work-related interests, skills and abilities, positionality within an institution
+
+!!! tip ""
+
+    #### Activity: Reflect on Your Identity in Teaching Science
+
+    Your identity matters. Consider the identities that you bring to the learning environment and how they influence your perspectives and the learning environment.
+
+    Write down, on a separate piece of paper for privacy, your:
+
+    - Full name
+    - Race
+    - Ethnicity
+    - Birth country
+    - Gender identity 
+    - Sexual orientation
+    - Veteran status
+    - Educational path
+    - Family socioeconomic status
+    - Health status (mental and physical)
+    - Family situation and/or relationship status
+    - Circle of friends
+    - Hobbies or interests
+    - Financial situation
+    
+    Do you tell your students these attributes? Why or why not?
