@@ -32,7 +32,7 @@ Examples of summative assessments include:
 - Presentations
 - Performance assessments (e.g., demonstrating aseptic technique during a lab practical)
 
-![](assets/SA06.png)
+![](../assets/SA06.png)
 
 !!! note ""
     #### Identify Formative and Summative Assessments
@@ -309,7 +309,7 @@ Test-taking pace is not a valid measure of student understanding. Students who n
 
 Research shows that most students who do receive additional time on tests do not use all of it (Cahalan-Laitusis, King, Cline, & Bridgeman, 2006; Holmes & Silvestri, 2019; Spenceley & Wheeler, 2016). Gernsbacher speculates that these students are actually requesting to not experience the anxiety and pressure of running out of time (2015). When time limits are removed from exams, numerous studies have shown that student performance improves across student groups including those who are learning English, from underrepresented backgrounds, older than average, and females (De Paoloa & Gioia, 2015; Foos & Boone, 2008; Mullane & McKelvie, 2001). Consider administering untimed asynchronous tests such as take-home exams or untimed online exams and designing test questions that aren’t easily searchable.
 
-![](assets/SA28.png)
+![](../assets/SA28.png)
 
 ### Designing Summative Assessments for Equity
 

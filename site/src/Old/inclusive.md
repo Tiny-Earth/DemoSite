@@ -41,7 +41,7 @@ This module provides a supplement to the many examples woven into the rest of th
 
 `TODO add a distillation sentence`
 
-![](assets/actions-to-create-inclusive-stem-college-classrooms.png)
+![](../assets/actions-to-create-inclusive-stem-college-classrooms.png)
 
 Image source: [handelsman_achieving_2022](@cite)
 -->
@@ -52,7 +52,7 @@ Image source: [handelsman_achieving_2022](@cite)
 
 ```@raw html
 <!--
-![Illustration of the five dimensions of inclusive teaching, reproduced from the Scientific Teaching module.](assets/five-dimensions-of-inclusive-teaching.svg)
+![Illustration of the five dimensions of inclusive teaching, reproduced from the Scientific Teaching module.](../assets/five-dimensions-of-inclusive-teaching.svg)
 
 Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
 
@@ -77,7 +77,7 @@ Climate–How the class is designed: Create an environment that enriches student
 
 
 
-![Illustration of the five dimensions of inclusive teaching: Instructors, Pedagogy, Students, Curriculum, and Climate. Each dimension connects to the others, with Climate playing a central, moderating role.](assets/five-dimensions-of-inclusive-teaching.svg)
+![Illustration of the five dimensions of inclusive teaching: Instructors, Pedagogy, Students, Curriculum, and Climate. Each dimension connects to the others, with Climate playing a central, moderating role.](../assets/five-dimensions-of-inclusive-teaching.svg)
 
 Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
 
@@ -272,13 +272,13 @@ Everyone holds biases, assumptions, and stereotypes about others, which can infl
 
         How do the results below match your predictions?
 
-        ![](assets/would-jennifer-or-john-be-hired.svg)
+        ![](../assets/would-jennifer-or-john-be-hired.svg)
 
-        ![](assets/would-jennifer-or-john-receive-mentoring.svg)
+        ![](../assets/would-jennifer-or-john-receive-mentoring.svg)
 
-        ![](assets/how-much-would-jennifer-or-john-be-paid.svg)
+        ![](../assets/how-much-would-jennifer-or-john-be-paid.svg)
 
-        ![](assets/did-the-gender-of-the-faculty-affect-hiring.svg)
+        ![](../assets/did-the-gender-of-the-faculty-affect-hiring.svg)
 
         From the paper:
 
@@ -728,7 +728,7 @@ Various performance indicators related to course climate were significantly rela
     
     The figure below shows the percentage of underrepresented minority (URM) students, by condition, who were classified as probable or declared STEM majors over time.
 
-    ![](assets/effects-of-a-utility-value-intervention-on-urm-students.svg)
+    ![](../assets/effects-of-a-utility-value-intervention-on-urm-students.svg)
 
     - (A) Reported STEM major at beginning and end of intervention semester. The end-of-semester intervention effect was $p = 0.145$.
     - (B) Took 2 or more STEM courses in each subsequent semester. The effect of the intervention on course taking in the Fall of Year 2 was $p = 0.049$. In the Spring of Year 2, the effect was $p = 0.149$. And in the Fall of Year 3, the effect was $p = 0.007$.

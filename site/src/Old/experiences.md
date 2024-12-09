@@ -92,7 +92,7 @@ Decades of studies have demonstrated the superiority of active over passive lear
 
 This suggests that there is no magical threshold of active learning necessary to improve student understanding, but rather the more students are challenged to engage in high-level cognitive tasks, the more they learn.
 
-![](assets/LE14.png)
+![](../assets/LE14.png)
 
 This interpretation is supported by numerous recent studies, including one that surveyed nearly 1000 students in classes taught by educators trained in evidence-based teaching practices through the Summer Institutes on Scientific Teaching (Reeves et al., 2024). The study found that students who experienced active learning more often reported higher learning and improvement in collaborative skills.
 
@@ -100,7 +100,7 @@ A seminal metastudy by Freeman and colleagues (2014) synthesized the findings of
 
 The stark contrast between active and passive learning classes is evident when examining the failure rates. While active learning classes had an average failure rate of around 20%, passive classes averaged a rate just under 35%. This represents a substantial 55% increase in failure rates for passive classes.
 
-![](assets/LE15.png)
+![](../assets/LE15.png)
 
 A more recent metastudy by Theobald and colleagues (2020) examined the impact of active learning on achievement gaps for students from historically excluded groups. The study found that active learning classes reduced achievement gaps for assessment scores by 33% and reduced gaps in failure rates by 45%. These findings underscore the importance of active learning in promoting equity in STEM education.
 
@@ -172,7 +172,7 @@ In essence, the results of the activity allow the instructor to “see” what�
 
 Active learning, formative assessment, and inclusive learning form a framework for learning experiences that is designed to enhance engagement and learning for all students.
 
-![](assets/LE23.png)
+![](../assets/LE23.png)
 
 In this framework, active learning provides the foundation for engaging students in meaningful activities, while formative assessment provides feedback and guidance to help students stay on track. Inclusive learning practices help to ensure that all students feel welcome and supported in the learning environment, which can help to promote students’ ability to engage in the learning experiences.
 

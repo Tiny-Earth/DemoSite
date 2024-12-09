@@ -150,7 +150,7 @@ The main framework for scientific teaching is the process of science itself: how
 
 ### The Facets of Science
 
-![Illustration of the six facets of science: Science practices, iteration, discovery, authenticity, ownership, and relevance](assets/six-facets-of-science.svg)
+![Illustration of the six facets of science: Science practices, iteration, discovery, authenticity, ownership, and relevance](../assets/six-facets-of-science.svg)
 
 The six facets of science include:
 
