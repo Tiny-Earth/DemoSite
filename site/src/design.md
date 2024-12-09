@@ -1,5 +1,7 @@
 # Course Design
 
+**Estimated time to complete:** 60 minutes
+
 ## Module Learning Objectives
 
 !!! compat ""
