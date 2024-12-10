@@ -166,18 +166,34 @@ Rubrics also provide a positive framework for student expectations, outlining cl
 
 A rubric typically consists of a grid or list that outlines the specific criteria for success, along with descriptions of different levels of performance for each criterion (e.g., developing, proficient, and excellent).
 
-**Rubrics can be analytic or holistic.** Analytic rubrics provide a different score for each criterion, such as overall ideas and conceptual understanding, organization, use of evidence in arguments, grammar and spelling, and format. In contrast, holistic rubrics provide a single score that represents the grader’s overall impression of the paper (Bean, 2011).
+**Rubrics can be analytic or holistic.** Analytic rubrics provide a different score for each criterion, such as overall ideas and conceptual understanding, organization, use of evidence in arguments, grammar and spelling, and format. In contrast, holistic rubrics provide a single score that represents the grader’s overall assessment of the work and how its components hang together (Bean, 2011).
 
 **Rubrics can be generic or task-specific.** A generic rubric would apply to multiple assignments, whereas a task-specific rubric would call out specific criteria for one assignment (Bean, 2011). For example, a generic rubric could be used to assess all written assignments during a semester, whereas a task-specific rubric would be tailored for each lab report.
 
 **Rubrics use a range of descriptors for performance levels** (Bean, 2011). Terms indicating understanding or achievement of learning objectives might include “exceeds”, “fully”, or “meets criteria”. Terms such as “usually” and “sometimes” specify mid-range competency and may indicate that students need more practice with the concepts or skills, or that they need to improve communication of their understanding. Terms like “never”, “rarely”, or “minimally” convey that the criteria are not being met and more work would need to be done to further understanding or demonstrate proficiency.
 
-To write a rubric, once again we revisit our backward design principles:
+And to write a rubric, once again we revisit our backward design principles:
 
 - Establish clear and specific expectations for student performance based on the assignment type (e.g., written lab report, oral presentation).
 - Use the expectations to fill out the “criteria” column of the rubric, then articulate “rating” levels.
 
-Try using [the example above TODO link to analytic rubric PDF, prev: Table 1. Example of a generic, analytic rubric for a STEM lab report that uses a “meets criteria” approach to describe performance levels.] as a starting point. That example could be adapted to a task-specific lab report by incorporating more details about the scientific concepts or relevance. And it could be made more holistic by removing the “rating” descriptions and only including the “criteria”.
+!!! tip ""
+
+    #### TODO title
+
+    Examine [these example paper rubrics](assets/paper-rubrics.html) showing two difference approaches to assessing STEM papers.
+
+    Which example paper rubric resonates with your experiences as a student? Why?
+
+    Which example paper rubric looks more learner-centered? Why?
+    
+    Could the context of the course and the sequencing of its activities make either example paper rubric more or less learner-centered or effective? How so?
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
+
+    Which example paper rubric looks more like yours? Why?
+
+    How else do you communicate clear and specific expectations for student performance in your course?
 
 ### Example of an Inclusive Assessment Tool: Exams without Time Limits
 
