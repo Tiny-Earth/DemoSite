@@ -38,7 +38,7 @@ At the center of the framework is course climate, which encompasses the atmosphe
 
 ![Illustration of the five dimensions of inclusive teaching: Instructors, Pedagogy, Students, Curriculum, and Climate. Each dimension connects to the others, with Climate playing a central, moderating role.](assets/five-dimensions-of-inclusive-teaching.svg)
 
-**Figure 1.** *Illustration of the five dimensions of inclusive teaching. Four dimensions – instructors, students, curriculum, and pedagogy – interact with each other and collectively influence course climate, which is depicted in the center. The figure is adapted from the five dimensions of diversity and equity in the classroom (Bell et al., 2016), which draws on the dynamics of multicultural teaching and learning framework (Marchesani and Adams, 1992).*
+Figure adapted from (Bell et al., 2016;Marchesani and Adams, 1992).
 
 !!! tip ""
 
@@ -104,11 +104,7 @@ Interventions can be incorporated as individual or repeated activities, such as:
 - Incorporate interventions that make explicit the **utility value** of a course or its parts (Harackiewicz et al., 2016; Asher et al., 2023).
 - Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance (Steele et al., 2002).
 
-```@raw html
-<!-- `TODO size figs` -->
-```
-
-![](assets/five-dimensions-of-inclusive-teaching2.svg)
+![Illustration of the five dimensions of inclusive teaching, with a focus on dimensions dealing with evidenced-based interventions: curriculum, climate, and pedagogy.](assets/five-dimensions-of-inclusive-teaching-hori.svg)
 
 Instructors can also modify overall course structure or infuse practices into an entire course to accomplish an inclusive learning environment. Some examples:
 
@@ -128,11 +124,7 @@ Instructors can also modify overall course structure or infuse practices into an
 Identity comprises the social, emotional, and professional attributes of an individual (Rus et al., 2013; Peterson et al., 1999). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate. 
 Social identity is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group (Tajfel, 1981. p. 255). 
 
-```@raw html
-<!-- `TODO size figs` -->
-```
-
-![](assets/five-dimensions-of-inclusive-teaching3.svg)
+![Illustration of the five dimensions of inclusive teaching, with a focus on dimensions dealing with identities: instructors, climate, and students.](assets/five-dimensions-of-inclusive-teaching-vert.svg)
 
 **Social identity** can change over time and between contexts (Gee, 2000). Moreover, we are each of us complex persons with multiple social identities that intersect, add up, and produce unique experiences–both for ourselves and how we are viewed by others (Crenshaw, 1989; Gordon, 1997). And while much social science in recent decades has worked toward identifying current and historical discrimination against members of protected social groups, it is important to also recognize the unique joys, places, desires, values, traditions, stories, practices, hardships, and acts of resistance that contribute to what it means to “belong” in one’s social groups (Tuck, 2009). 
 

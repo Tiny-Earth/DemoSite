@@ -167,3 +167,123 @@ let ## local scope
         end
     end 444 444 "site/src/assets/five-dimensions-of-inclusive-teaching.svg" ## @svg
 end ## let
+
+# five-dimensions-of-inclusive-teaching-hori.svg
+let ## local scope
+    @svg begin
+        ## Set font
+        fontsize(16)
+        fontface("Helvetica-Bold")
+
+        ## Plot title
+        top = Point(0, -220)
+        setcolor("black"); Luxor.text("Five Dimensions of Inclusive Teaching", top, halign=:center, valign=:top)
+
+        ## Draw circles with text
+        climate = Point(0,0)
+        circlesize = 50
+        setcolor("#209cee"); circle(climate, circlesize, action=:fill)
+        setcolor("white"); Luxor.text("Climate", climate, halign=:center, valign=:middle)
+
+        circleoffset = 140
+        instructors = Point(0, -circleoffset)
+        setcolor("#209cee"); circle(instructors, circlesize, action=:fill)
+        setcolor("white"); Luxor.text("Instructors", instructors, halign=:center, valign=:middle)
+
+        students = Point(0, circleoffset)
+        setcolor("#209cee"); circle(students, circlesize, action=:fill)
+        setcolor("white"); Luxor.text("Students", students, halign=:center, valign=:middle)
+
+        curriculum = Point(-circleoffset, 0)
+        setcolor("#209cee"); circle(curriculum, circlesize, action=:fill)
+        setcolor("white"); Luxor.text("Curriculum", curriculum, halign=:center, valign=:middle)
+
+        pedagogy = Point(circleoffset, 0)
+        setcolor("#209cee"); circle(pedagogy, circlesize, action=:fill)
+        setcolor("white"); Luxor.text("Pedagogy", pedagogy, halign=:center, valign=:middle)
+
+        ## Connect Climate to the other four
+        setcolor("#209cee")
+        points = [instructors, pedagogy, students, curriculum]
+        for point in points
+            Luxor.arrow(between(climate, point, [.5, .6])..., linewidth=4)
+            Luxor.arrow(between(point, climate, [.5, .6])..., linewidth=4)
+        end
+
+        ## Connect each of the outer points to their neighbors before/after them
+        for a in eachindex(points)
+            b = a + 1
+            if b > length(points)
+                b = 1
+            end
+
+            Luxor.arrow(between(points[a], points[b], [.5, .7])..., linewidth=4)
+            Luxor.arrow(between(points[b], points[a], [.5, .7])..., linewidth=4)
+        end
+
+        horioffset = Point(2*circlesize, 0)
+        # NOTE: 450 is the "sum of the distances of a point on the perimeter to the two focii" that gives us a pleasant curve
+        # See: https://juliagraphics.github.io/Luxor.jl/stable/howto/simplegraphics/
+        setcolor("red"); Luxor.ellipse(curriculum-horioffset, pedagogy+horioffset, 450, action=:stroke)
+    end 460 460 "site/src/assets/five-dimensions-of-inclusive-teaching-hori.svg" ## @svg
+end ## let
+
+# five-dimensions-of-inclusive-teaching-vert.svg
+let ## local scope
+    @svg begin
+        ## Set font
+        fontsize(16)
+        fontface("Helvetica-Bold")
+
+        ## Plot title
+        top = Point(0, -220)
+        setcolor("black"); Luxor.text("Five Dimensions of Inclusive Teaching", top, halign=:center, valign=:top)
+
+        ## Draw circles with text
+        climate = Point(0,0)
+        circlesize = 50
+        setcolor("#209cee"); circle(climate, circlesize, action=:fill)
+        setcolor("white"); Luxor.text("Climate", climate, halign=:center, valign=:middle)
+
+        circleoffset = 140
+        instructors = Point(0, -circleoffset)
+        setcolor("#209cee"); circle(instructors, circlesize, action=:fill)
+        setcolor("white"); Luxor.text("Instructors", instructors, halign=:center, valign=:middle)
+
+        students = Point(0, circleoffset)
+        setcolor("#209cee"); circle(students, circlesize, action=:fill)
+        setcolor("white"); Luxor.text("Students", students, halign=:center, valign=:middle)
+
+        curriculum = Point(-circleoffset, 0)
+        setcolor("#209cee"); circle(curriculum, circlesize, action=:fill)
+        setcolor("white"); Luxor.text("Curriculum", curriculum, halign=:center, valign=:middle)
+
+        pedagogy = Point(circleoffset, 0)
+        setcolor("#209cee"); circle(pedagogy, circlesize, action=:fill)
+        setcolor("white"); Luxor.text("Pedagogy", pedagogy, halign=:center, valign=:middle)
+
+        ## Connect Climate to the other four
+        setcolor("#209cee")
+        points = [instructors, pedagogy, students, curriculum]
+        for point in points
+            Luxor.arrow(between(climate, point, [.5, .6])..., linewidth=4)
+            Luxor.arrow(between(point, climate, [.5, .6])..., linewidth=4)
+        end
+
+        ## Connect each of the outer points to their neighbors before/after them
+        for a in eachindex(points)
+            b = a + 1
+            if b > length(points)
+                b = 1
+            end
+
+            Luxor.arrow(between(points[a], points[b], [.5, .7])..., linewidth=4)
+            Luxor.arrow(between(points[b], points[a], [.5, .7])..., linewidth=4)
+        end
+
+        vertoffset = Point(0, 2*circlesize)
+        # NOTE: 450 is the "sum of the distances of a point on the perimeter to the two focii" that gives us a pleasant curve
+        # See: https://juliagraphics.github.io/Luxor.jl/stable/howto/simplegraphics/
+        setcolor("red"); Luxor.ellipse(instructors-vertoffset, students+vertoffset, 450, action=:stroke)
+    end 460 460 "site/src/assets/five-dimensions-of-inclusive-teaching-vert.svg" ## @svg
+end ## let
