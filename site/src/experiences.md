@@ -60,19 +60,29 @@ While active learning is a broad concept that encompasses a variety of technique
 The ICAP model provides categories to understand active learning better. It classifies student engagement into four modes: **interactive, constructive, active, and passive** (Chi and Wylie, 2014):
 
 ```@raw html
-<dl>
-    <dt>Interactive</dt>
-    <dd>Learners engage in social discourse and co-construct knowledge</dd>
-
-    <dt>Constructive</dt>
-    <dd>Learners generate their own understanding of the material</dd>
-
-    <dt>Active</dt>
-    <dd>Learners participate in some form of hands-on activity or engage in a task</dd>
-
-    <dt>Passive</dt>
-    <dd>Learners receive information without actively participating in the learning process</dd>
-</dl>
+<figure>
+    <figcaption>
+        <p><strong id="table1-label">Table 1. ICAP Model</strong></p>
+    </figcaption>
+    <table aria-labelledby="table1-label">
+        <tr>
+            <th scope="row">Interactive</th>
+            <td>Learners engage in social discourse and co-construct knowledge</td>
+        </tr>
+        <tr>
+            <th scope="row">Constructive</th>
+            <td>Learners generate their own understanding of the material</td>
+        </tr>
+        <tr>
+            <th scope="row">Active</th>
+            <td>Learners participate in some form of hands-on activity or engage in a task</td>
+        </tr>
+        <tr>
+            <th scope="row">Passive</th>
+            <td>Learners receive information without actively participating in the learning process</td>
+        </tr>
+    </table>
+</figure>
 ```
 
 Each of the four modes is defined by the level of cognitive demand and type of learning activity. Additionally, the ICAP framework suggests that higher levels of engagement (constructive and interactive) lead to better learning outcomes than lower levels (passive and active) because they involve more complex cognitive processing.
@@ -267,9 +277,9 @@ To encourage students to think and act like scientists, active learning experien
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table1-label">Table 1. TODO table title</strong><br><span id="table1-summary"><!-- TODO: Description here. --></span></p>
+        <p><strong id="table2-label">Table 2. TODO table title</strong><br><span id="table2-summary"><!-- TODO: Description here. --></span></p>
     </figcaption>
-    <table aria-labelledby="table1-label" aria-describedby="table1-summary">
+    <table aria-labelledby="table2-label" aria-describedby="table2-summary">
         <tr>
             <th scope="col">Facet of science</th>
             <th scope="col">Passive class</th>
