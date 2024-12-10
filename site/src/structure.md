@@ -148,19 +148,15 @@ The level of course structure lies on a continuum from low to high. High-structu
 
     #### Comparing Course Structures
 
-`TODO`
+    Examine [these example course structures](assets/course-structures.html) that describe one week of two different courses, Course 1 and Course 2.
 
-Examine the two course structures below that describe one week of a course.
+    Which example course structure resonates with your experiences as a student? Why?
 
-Figure 3. An example course map that provides detailed structure about the activities students will engage in during one week of the class. It includes aligned learning objectives, assessments, and learner-centered activities.
+    Which example course structure looks more learner-centered? Why?
 
-Figure 4. An example course map that provides less structure and details about the activities students will engage in during one week of the class.
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-Which course preparation resonates with your experiences as a student?
-
-Which course looks more learner-centered and why?
-
-Which course looks more like yours and why?
+    Which example course structure looks more like yours? Why?
 
 ---
 
