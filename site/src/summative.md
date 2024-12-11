@@ -181,19 +181,41 @@ And to write a rubric, once again we revisit our backward design principles:
 
     #### TODO title
 
-    Examine [these example paper rubrics](assets/paper-rubrics.html) showing two difference approaches to assessing STEM papers.
+    Examine [these example rubrics](assets/paper-rubrics.html) showing two difference approaches to assessing STEM student work.
 
-    Which example paper rubric resonates with your experiences as a student? Why?
+    Which example rubric resonates with your experiences as a student? Why?
 
-    Which example paper rubric looks more learner-centered? Why?
+    Which example rubric looks more learner-centered? Why?
     
-    Could the context of the course and the sequencing of its activities make either example paper rubric more or less learner-centered or effective? How so?
+    Could the context of the course and the sequencing of its activities make either example rubric more or less learner-centered or effective? How so?
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    Which example paper rubric looks more like yours? Why?
+    Which example rubric looks more like how you communicate clear and specific expectations for student performance in your course? Why?
 
     How else do you communicate clear and specific expectations for student performance in your course?
+
+!!! tip ""
+
+    #### TODO above title + Now You Try
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
+
+    Using [these example rubrics](assets/paper-rubrics.html) as a guide, answer the following questions.
+
+    Imagine a lab report, research paper, group project, or other large assignment for your course or a course similar to yours. What is one criteria that you would assess that student work on?
+
+    Describe what student work looks like that *fully meets* that criteria. How much variety could their be in student work that still meets that criteria? Briefly give a few examples.
+
+    Describe what student work looks like that *does not meet* that criteria.  How much variety could their be in student work that still does not meet that criteria? Briefly give a few examples.
+
+    What advice would you provide students whose work *does not meet* the criteria to help them move towards *fully meets* the criteria?
+
+    And what would you say to students to convey why the criteria matters?
+
+    Then, repeat the above questions, choosing a second criteria you would assess this student work on.
+
+    Finally, how could you present this information to students in an effective, equitable, learner-centered way? Think about how you would design a holistic or analytic rubric around information like this, then briefly describe your design.
 
 ### Example of an Inclusive Assessment Tool: Exams without Time Limits
 
