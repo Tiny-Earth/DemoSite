@@ -53,7 +53,7 @@ Effective design principles incorporate balance and alignment, while focusing on
 
 !!! tip ""
 
-    #### Consider these Scenarios
+    #### Rate Two Vignettes
 
     Read each of the following vignettes, and then rate them based on the effective design principles. To what extent (0=not at all; 1=to some extent; 2=a lot) does each vignette:
 
@@ -71,7 +71,7 @@ Effective design principles incorporate balance and alignment, while focusing on
 
 !!! tip ""
 
-    #### Evaluate Your Course
+    #### Rate Two Vignettes: Now You Try!
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
@@ -127,9 +127,9 @@ For example:
 
 > Objective: Compare and contrast the role of soil vs. air as a carbon sink.
 
-!!! tip ""
+!!! note ""
 
-    #### TODO activity name
+    #### Goals vs. Objectives
 
     Which of the following statements are learning goals, and which are learning objectives?
 
@@ -140,9 +140,23 @@ For example:
     - Identify and manipulate algebraic expressions, including equations, inequalities, and functions.
     - Understand the relationship between physical structure and physiological function at the cellular and systemic levels.
 
+    !!! details "Click here to show the answer"
+
+        Learning Goals:
+
+        - Understand how sustainable engineering practices affect the environment.
+        - Appreciate the relevance of physics in technology, engineering, and medicine.
+        - Understand the relationship between physical structure and physiological function at the cellular and systemic levels.
+
+        Learning Objectives:
+
+        - Code, test, and debug simple algorithms using a programming language such as Python.
+        - Apply safe techniques for preparing and handling laboratory chemicals.
+        - Identify and manipulate algebraic expressions, including equations, inequalities, and functions.
+
 !!! tip ""
 
-    #### TODO above title + Now You Try
+    #### Goals vs. Objectives: Now You Try!
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
@@ -150,20 +164,13 @@ For example:
 
     What came to mind first, some of your objectives for that moment in time, or an activity you want to happen in the course?
 
-    If objective came to mind first:
+    If an objective came to mind first: What objective came to mind? How would you communicate the importance of that objective to your students?
 
-    1. What objective(s) came to mind?
-    2. Which Facet(s) of Science does that objective seem most closely related to?
-    3. How could you assess student success toward that objective? Put another way, what are multiple ways students could demonstrate that objective? Take time to think through this so that you broaden your understanding of the objective.
+    If an activity came to mind first: What activity came to mind? What objective(s) does that activity seem to be advancing? Put another way, why do you want students to complete this activity? How does it help them grow towards the broader learning goals of the course?
 
-    If activity came to mind first:
+    Then, what are be some other objectives you might have for the weeks/days leading up to and shortly after that moment in time in your course?
 
-    1. What activity came to mind?
-    2. What objective(s) does that activity seem to be advancing? Put another way, *why* do you want students to complete this activity? How does it help them grow towards the broader goals of the course?
-    3. Which Facet(s) of Science does that objective seem most closely related to?
-    4. How could you assess student success toward that objective? Put another way, what are multiple ways students could demonstrate that objective? Take time to think through this so that you broaden your understanding of the objective.
-
-    Finally, what are be some other objectives you might have for the weeks/days leading up to and shortly after that moment in time in your course?
+    Finally, revise the ideas you've generated above to make sure they are specific learning objectives instead of broad learning goals.
 
 ### Writing Effective Learning Goals
 
@@ -188,7 +195,7 @@ For example:
 
 !!! tip ""
 
-    #### TODO activity name
+    #### Help Professor Nguyen
 
     The following learning goals come from Professor Nguyen's earth science syllabus:
 
@@ -204,14 +211,13 @@ For example:
 
 !!! tip ""
 
-    #### TODO above title + Now You Try
+    #### Help Professor Nguyen: Now You Try!
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    Choose one:
-
-    - Select an existing learning goal from your course. Does it communicate enduring understanding and the facets of science? How would you update it, if needed?
-    - Write a new learning goal for your course that communicates enduring understanding and one or more facets of science.
+    Above, we asked you to imagine the third week/day for your course and some learning objectives for that moment in time.
+    
+    Select one of those objectives. Does it communicate enduring understanding and the facets of science? How would you update it, if needed?
 
 ### Writing Effective Learning Objectives
 
@@ -238,15 +244,15 @@ Bloom’s Taxonomy categorizes several domains of educational goals based on the
 - **Evaluate:** Can the learner justify a stand or decision? *Action verbs: appraise, argue, assess, criticize, critique, defend, judge, justify, prioritize, support, value*
 - **Create:** Can the learner create a new product or point of view? *Action verbs: assemble, build, compose, construct, design, develop, devise, formulate, invent, plan, produce, write*
 
-![Example learning objectives across all six levels of Bloom’s Taxonomy based on one STEM topic (the water cycle).](assets/Blooms_one-topic.png)
+![Example learning objectives across all six levels of Bloom’s Taxonomy based on one STEM topic (the water cycle). Examples are shown in order from Higher-Order Cognitive Skills (HOCS) to Lower-Order Cognitive Skills (LOCS). Level 6, Create: Construct a new model of the water cycle that incorporates human impacts such as urbanization or climate change. Level 5, Evaluate: Justify which stage of the water cycle is most crucial for sustaining life. Level 4, Analyze: Distinguish between the effects of natural and human-induced changes on precipitation patterns in the water cycle. Level 3, Apply: Draw a labeled diagram that clearly illustrates the connections between the stages of the water cycle. Level 2, Comprehend: Describe the connections between the stages of the water cycle in your own words. Level 1, Remember: Recognize the names and basic characteristics of each stage in the water cycle.](assets/Blooms_one-topic.png)
 
-![Example learning objectives across all six levels of Bloom’s Taxonomy using multiple STEM topics.](assets/Blooms_multiple-topics.png)
+![Example learning objectives across all six levels of Bloom’s Taxonomy using multiple STEM topics. Examples are shown in order from Higher-Order Cognitive Skills (HOCS) to Lower-Order Cognitive Skills (LOCS). Level 6, Create: Design a mathematical model to represent the growth of a population using exponential functions. Level 5, Evaluate: Critique the effectiveness of renewable energy sources in reducing greenhouse gas emissions. Level 4, Analyze: Compare and contrast the properties of ionic and covalent bonds. Level 3, Apply: Demonstrate how to assemble a simple circuit using a battery, wires, and a light bulb. Level 2, Comprehend: Explain the relationship between force, mass, and acceleration using Newton's second law of motion. Level 1, Remember: List the names and functions of primary organelles in a eukaryotic cell.](assets/Blooms_multiple-topics.png) 
 
 In designing learning objectives, select action verbs that communicate the desired cognitive level. Importantly, students do not necessarily have to complete LOCs before moving to HOCs. In fact, asking questions, making assessments, or proposing hypotheses can encourage a growth mindset and readiness to learn the facts or concepts.
 
-!!! tip ""
+!!! note ""
 
-    #### TODO title
+    #### LOCS vs. HOCS
 
     For each assessment prompt below, identify whether it targets a lower-order cognitive skill (LOCS) or higher-order cognitive skill (HOCS):
 
@@ -257,9 +263,23 @@ In designing learning objectives, select action verbs that communicate the desir
     - Explain the difference between mass and weight.
     - Considering the forces acting on an object in motion (direction and magnitude), predict the resultant motion of the object using Newton's laws.
 
+    !!! details "Click here to show the answer"
+
+        LOCS:
+
+        - Define Isaac Newton's three laws of motion, including examples of each.
+        - Explain the difference between mass and weight.
+        - Use Figure 3 in the textbook to draw your own model that demonstrates one or more of Newton's laws of motion, including the necessary variables and assumptions.
+
+        HOCS:
+
+        - Design an experiment to test one of Newton's laws of motion, including the necessary equipment, data collection methods, and analysis.
+        - Critique the validity of an experiment or study that uses Newton's laws of motion to explain a physical phenomenon, including its limitations and potential sources of error.
+        - Considering the forces acting on an object in motion (direction and magnitude), predict the resultant motion of the object using Newton's laws.
+
 !!! tip ""
 
-    #### TODO title
+    #### LOCS to HOCS
 
     Convert this LOCS into a HOCS:
 
@@ -267,14 +287,13 @@ In designing learning objectives, select action verbs that communicate the desir
 
 !!! tip ""
 
-    #### TODO above title + Now You Try
+    #### LOCS to HOCS: Now You Try!
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    Choose one:
-
-    - Select an existing learning objective from your course. Does it communicate the desired cognitive level and incorporate one or more facets of science? How would you update it, if needed?
-    - Write a new learning objective for your course that communicates the desired cognitive level for one or more facets of science.
+    Above, we asked you to imagine the third week/day for your course and some learning objectives for that moment in time.
+    
+    Select one of those objectives. Does it communicate the desired cognitive level and incorporate one or more facets of science? How would you update it, if needed?
 
 ### Step 2. Determine acceptable evidence.
 
@@ -322,11 +341,11 @@ Backward design is an iterative process. Keep checking how the objectives, asses
 
 !!! tip ""
 
-    #### Reflect on Your Design Decisions and Design Commitments
+    #### Reflection: Design Decisions and Design Commitments
 
     Effective teaching is intentional, inclusive, and iterative. And being intentional involves being aware of both your design process and everything that shapes, motivates, guides, and informs it.
 
-    Take a moment to recall and list design decisions you have made while planning your course(s).
+    Take a moment to recall and list design decisions you have made while planning courses or teaching-related activities in general.
 
     Which decisions stand out? What decisions have you made that were unlike what your own teachers made when you were a student?
 

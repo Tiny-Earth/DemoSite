@@ -23,7 +23,7 @@ Scientific teaching is both the *teaching of science* and the *science of teachi
 
 Scientific teaching combines intentional instructional decisions with iterative improvements to create inclusive learning experiences, which, in turn, support students learning science.
 
-## Goals of Scientific Teaching
+### Goals of Scientific Teaching
 
 The goals of scientific teaching are to:
 
@@ -60,16 +60,16 @@ For decades, numerous reports have called for science education reform, citing o
 
 - Science for All Americans (American Association for the Advancement of Science [AAAS], 1989) called for a scientifically literate public and charged higher educators with teaching scientific “habits of mind.” The report noted that employers demanded efficient and effective employees with problem-solving capabilities, the ability to work in teams, and analytical skills, yet students were unprepared for these demands.
 - Bio2010 (National Research Council, 2003) recommended that science curriculum should reflect the nature of science as a dynamic, interdisciplinary, and rapidly changing frontier, rather than a static body of facts.
-- Vision and Change (AAAS 2008; 2011) furthered the Bio2010 recommendations by enumerating key biology concepts and science skills, encouraging teaching practices that focused on these concepts and skills, and calling for more research in STEM higher education. 
+- Vision and Change (AAAS 2008; 2011) furthered the Bio2010 recommendations by enumerating key biology concepts and science skills, encouraging teaching practices that focused on these concepts and skills, and calling for more research in STEM higher education.
 - Engage to Excel (PCAST, 2012) illuminated national STEM workforce shortages, including racial and gender disparities. The report purported that addressing these weaknesses required improving undergraduate STEM education. The report recommended widespread adoption of active learning strategies and undergraduate research experiences, citing dozens of studies demonstrating their effectiveness.
 - Indicators for Monitoring Undergraduate STEM Education, a National Academies report, reinforced goals for improving the quality and impact of undergraduate STEM education (Dibner et al., 2018) by engaging students in evidence-based educational practices. They broadened the call to strive for inclusion by providing equitable access to STEM opportunities.
 - Levers for Change (AAAS, 2019) noted that the benefits of active learning extended beyond knowledge and skills to include “attitudes, sense of belonging, and persistence in STEM” and again pleaded for widespread adoption of evidence-based strategies to support students.
 
 Despite these findings, 70% of instructors have reported extensive use of lecturing in their courses, rather than evidence-based instructional strategies (AAAS, 2019; Stains et al., 2018), citing the absence of formal pedagogical training as one of the main reasons (Walczyk et al, 2006). The good news is that faculty who receive pedagogical training are more likely to seek innovative teaching methods and implement learner-centered practices (Marsh & Hattie, 2002; Walczyk & Ramsey, 2003).
 
-### STEM has an Equity Problem 
+### STEM has an Equity Problem
 
-The problem of not using evidence-based practices is compounded when we ignore the role of systemic inequities in US higher education, where underrepresentation in STEM is prevalent. 
+The problem of not using evidence-based practices is compounded when we ignore the role of systemic inequities in US higher education, where underrepresentation in STEM is prevalent.
 More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields (Thiry et al., 2019; Handelsman et al., 2022).
 
 Although a disheartening 42% of white students leave STEM majors, the problem is much worse for students of color: 58% of Latine students and 66% of Black students leave STEM (Riegle-Crumb et al., 2019).
@@ -82,18 +82,20 @@ Therefore, this Scientific Teaching Course focuses on what instructors have agen
 
 !!! tip ""
 
-    #### Activity: Reflect on Your Own Course
-    
+    #### Reflection: Role, Equity, and Intention
+
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
     How would you describe your role?
 
     - My role is to cover the course content and skills.
-    - My role is to engage students in learning content and skills. 
+    - My role is to engage students in learning content and skills.
+
     How would you describe your course’s approach to equity?
 
     - The learning environment is fair for everyone because it is the same for everyone.
     - The learning environment meets students where they are and supports them in engaging with the content and skills.
+
     What aspects of your course are you most excited to revise or improve through this Scientific Teaching Course?
 
 ### Effective Science
@@ -105,7 +107,7 @@ Therefore, this Scientific Teaching Course focuses on what instructors have agen
 
 To answer the increasingly complex science questions of the future, we need to ensure that students develop a working understanding of how science is done. The rapid expansion of scientific knowledge means students need to be prepared to solve global problems and navigate the difference between evidence-based claims and opinions. Whether they major in biology, art history, math, or elementary education, college-educated students should understand the basic principles of the world around them. When students actively engage in scientific practices, they develop a more robust scientific self-efficacy and identity (Estrada et al., 2011). Equally important, students need to appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them.
 
-Diversity within the scientific community supports the broadening of participation in STEM fields.  When students witness diverse scientist identities and engage in solving real-world problems, they connect with and envision themselves as part of the scientific community [ref]. 
+Diversity within the scientific community supports the broadening of participation in STEM fields.  When students witness diverse scientist identities and engage in solving real-world problems, they connect with and envision themselves as part of the scientific community [ref].
 
 These factors—positive self-efficacy, identity, and connection with scientific values—lead to increased persistence in STEM, especially for students from communities that have been historically excluded (Estrada et al., 2011). Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone.
 
@@ -136,9 +138,9 @@ Like science, these teaching principles take time to practice and implement. Als
 
 !!! tip ""
 
-    #### Activity: Reflect on Your Own Motivations
-    
-    Which reasons for incorporating the practices of science into your course are most motivating for you personally? 
+    #### Reflection: Motivations
+
+    Which reasons for incorporating the practices of science into your course are most motivating for you personally?
 
     - Prepare students for the scientific workforce and challenges of today’s society
     - Cultivate informed citizens
@@ -164,20 +166,18 @@ The six facets of science expand on the scientific method to include other hallm
 
 ![Illustration of the six facets of science: Science practices, iteration, discovery, authenticity, ownership, and relevance](assets/six-facets-of-science.svg)
 
-**Fig. 1.** Illustration of the six facets of science: Science practices, iteration, discovery, authenticity, ownership, and relevance
-
 The six facets of science include:
 
 1. Science practices: Ask questions, generate hypotheses, carry out investigations, analyze and communicate data
 2. Iteration: Identify and resolve problems in multiple cycles; replicate experiments
 3. Discovery: Engage in research tasks that have unknown outcomes
 4. Authenticity: Engage in innovation and collaboration to address original research questions, and do authentic scientific tasks
-5. Ownership: Develop a sense of responsibility for and personal connection to the research 
+5. Ownership: Develop a sense of responsibility for and personal connection to the research
 6. Relevance: Apply the outcomes and applications of scientific discoveries to real world-contexts, or ask questions with scientific relevance.
 
 !!! tip ""
 
-    #### Activity: Embodying the Facets of Science
+    #### Embodying the Facets of Science
 
     Compare the following two course schedules with the facets of science in mind.
 
@@ -192,75 +192,75 @@ The six facets of science include:
 
     !!! details "Click here to show the Course 1 Schedule"
         **Week 1:**
-        
+
         - Before class, complete a reading and a quiz.
         - In class we will discuss: What are the facets of science?
         - And in Lab: Orientation to the lab, research, and discovery by diverse scientists; and importance of lab safety and sterile technique.
 
         **Week 2:**
-        
+
         - Before class, complete a reading and a quiz.
         - In class we will discuss: Evolution.
         - And in lab: Ask 3 research questions about antibiotic discovery. Pick one. Generate a hypothesis and design an experiment to test it.
 
         **Week 3:**
-        
+
         - Before class, complete a reading and a quiz.
         - In class we will discuss: Antibiotic discovery and resistance.
         - And in lab: Test your hypothesis: Collect and plate soil samples. Include replicates.
 
         **Week 4:**
-        
+
         - Before class, watch a video and complete a worksheet.
         - In class we will discuss: What role does evidence play in discovery?.
         - And in lab: Test your hypothesis: Observe and record data. Re-test if needed.
 
         **Week 5:**
-        
+
         - Before class, complete a reading and a quiz.
         - In class we will discuss: What role does diversity play in discovery?.
         - And in lab: Test your hypothesis: Analyze data. Draw graphs, figures, and tables.
 
         **Week 6:**
-        
+
         - Before class, complete a take home mid-term exam.
         - In class we will check-in about the exam.
         - And in lab: Submit a summary of results so far. Do they support your hypothesis? Propose your next experiments; get feedback from lab partners.
 
     !!! details "Click here to show the Course 2 Schedule"
         **Week 1:**
-        
+
         - To prepare for lecture, read chapters 1 and 2.
         - In lab: Lab safety.
 
         **Week 2:**
-        
+
         - To prepare for lecture, read chapters 3 and 4.
         - In lab: Pipetting.
 
         **Week 3:**
-        
+
         - To prepare for lecture, read chapters 5.
         - In lab: Sterile technique.
 
         **Week 4:**
-        
+
         - To prepare for lecture, read chapters 6 and 7.
         - In lab: Plating microbes.
 
         **Week 5:**
-        
+
         - To prepare for lecture, read chapters 8.
         - In lab: Gram positive and negative bacteria.
 
         **Week 6:**
-        
+
         - In class we will complete Exam 1 (multiple choice).
         - In lab: Lab report due.
 
 !!! tip ""
 
-    #### Activity: Rate Your Own Course
+    #### Reflection: Facets of Science
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
@@ -312,6 +312,6 @@ This course is organized around interactive modules that provide guidelines, ref
 
 !!! tip ""
 
-    #### Activity: Takeaways from Scientific Teaching
+    #### Takeaways from Scientific Teaching
 
     Identify two key takeaways that resonate most with you after completing this module.

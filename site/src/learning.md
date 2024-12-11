@@ -81,9 +81,8 @@ The theory of **constructivism** explains how people construct their own underst
 
 **Metacognition** refers to thinking about thinking, when the learner evaluates the extent to which they understand the material and use that information to decide when to move on. Metacognition can happen at any step in the learning process.
 
-![fig2](assets/How-We-Learn.png)
+![Illustration of a framework for how learning works. Five stages iterate and lead into one another. 1. Activate prior knowledge: Everyone has views about how the world works. This prior knowledge needs to be activated for learning. 2. Recognize dissonance: New information may challenges these views, causing dissonance that needs to be reconciled and explained. 3. Construct new knowledge: During the reconciliation, new neural networks form, leading to new knowledge, skills, and views. 4. Practice and apply knowledge: Application, targeted practice, and assessment with feedback reinforce the new networks and views. 5. Reflect and evaluate: Awareness of one's knowledge gaps and reflection guide future learning.](assets/How-We-Learn.png)
 
-**Figure 2.** A framework for how learning works. 
 
 Many things contribute to learning, including one’s prior experiences, stress, situational factors, and motivation. Each of these can create different conditions that either favor learning in general or favor learning a particular aspect of a situation (for example, a familiar smell from childhood can bring back specific memories) (Gold and Korol, 2017). Significant learning experiences commonly involve an important event or relationship to real events, a level of interest or value in the experience, and an opportunity to apply and integrate new knowledge (Fink, 2013).
 
@@ -150,6 +149,6 @@ The following modules will provide opportunities to effectively scaffold learnin
 
 !!! tip ""
 
-    #### Activity: Takeaways from How Learning Works
+    #### Takeaways from How Learning Works
 
     Identify two key takeaways that resonate most with you after completing this module.

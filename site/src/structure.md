@@ -23,7 +23,7 @@ How the course is structured can contribute to making the course inclusive for d
 
 !!! tip ""
 
-    #### Welcome Emails
+    #### Two Welcome Emails
 
     Read Dr. Reyes's and Dr. Wong's "Welcome to Class" emails below, which introduce their courses to their students.
 
@@ -122,7 +122,7 @@ The level of course structure lies on a continuum from low to high. High-structu
 
 !!! tip ""
 
-    #### TODO title
+    #### Two Course Homepages
 
     Examine Professor Li's and Professor Garcia's homepages for their Technology and Society courses below.
 
@@ -148,7 +148,7 @@ The level of course structure lies on a continuum from low to high. High-structu
 
 !!! tip ""
 
-    #### Comparing Course Structures
+    #### Two Course Structures
 
     Examine [these example course structures](assets/course-structures.html) that describe one week of two different courses, Course 1 and Course 2.
 
@@ -175,9 +175,7 @@ Increasing a course's structure has many implications for student learning and t
 
 Freeman and colleagues measured failure rates in a major's introductory biology course, while varying the structure of the course. One instructor taught the course in six iterations using a low-structure, moderate-structure, or high-structure course design (2011). The difference between the proportion of students predicted to fail and the actual proportion failing decreased with increasing structure.
 
-![fig5](assets/increasing_structure_graphs.png)
-
-Figure 5. The change in the proportion of students failing decreases with increasing course structure (n=2267, ∗p=0.06, ∗∗p=0.0004).
+![The change in the proportion of students failing decreases as course structure increases (n=2267, ∗p=0.06, ∗∗p=0.0004)](assets/increasing_structure_graphs.png)
 
 ---
 
@@ -232,15 +230,15 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
 
 ## Course Structure in Practice
 
-To help you structure your course in practice, several course planning tools exist. For example, [we have provided our own recommended course planning tool that aligns with this course's content](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub).
+To help you structure your course in practice, several course maps exist. For example, [we have provided our own recommended course map that aligns with this course's content](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub).
 
-There are also other course planning tools published by, for example:
+There are also other course maps published by, for example:
 
 - [University of Wisconsin-Madison](https://idc.ls.wisc.edu/course-design-templates/)
 - [Virginia Tech](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/0f64ad16-ae86-46e7-acd0-b7a77864b093/content)
 - [UC Berkeley](https://dls.berkeley.edu/services/course-design-tools/digital-pedagogy-resources/use-course-map-design-your-course)
 
-Some general tips for working with a course planning tool:
+Some general tips for working with a course map:
 
 - Start, as backward design suggests, by identifying what students will understand (learning objectives).
 - Be intentional about where you can incorporate active and inclusive learning practices.
@@ -249,13 +247,13 @@ Some general tips for working with a course planning tool:
 
 !!! tip ""
 
-    #### TODO title
+    #### Course Maps
 
-    Peruse [our course planning tool](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub) and at least one other course planning tool of your choice.
+    Peruse [our course map](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub) and at least one other course map of your choice.
 
     Which tools did you peruse?
 
-    What appear to be the common features of course planning tools in terms of:
+    What appear to be the common features of course maps in terms of:
 
     - What information about your course they prompt you to fill in?
     - How they have you format and prepare that information so it can readily be shared with students?
@@ -266,23 +264,17 @@ Some general tips for working with a course planning tool:
 
 !!! tip ""
 
-    #### TODO above title + Now You Try
+    #### Course Maps: Now You Try!
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    In the *Course Design* module, we asked you to imagine the third week/day for your course and some objectives for that moment in time. What were the objectives you came up with then?
+    In the *Course Design* module, we asked you to imagine the third week/day for your course and some objectives for that moment in time.
 
-    Also, what came to mind first then, your objectives for that moment in time, or an activity you want to happen?
+    Then in *Active Learning Experiences*, we asked you to design an activity that embodies active learning experiences around one objective.
 
-    If objective came to mind first:
+    And in *Summative Assessment*, we asked you to broaden your understanding of the objective by imagining several ways students could demonstrate it.
 
-    1. How could you actively engage your students in class that week/day with that objective? Review the active instructional strategies from the *Active Learning Experiences* module for ideas.
-    2. Consider the sequence of events around that activity. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
-
-    If activity came to mind first:
-
-    1. What activity came to mind?
-    2. Consider the sequence of events around the activity that came to mind. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
+    With that in mind, consider the sequence of events around the activity you designed for that objective. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
 
     Finally, with [our course planning tool](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub) as a guide, how could you present the information in your answers above to students in an effective, equitable, learner-centered way?
 
@@ -305,7 +297,7 @@ And so, we encourage all teachers, even those who have control of their syllabi,
 
 !!! tip ""
 
-    #### Practice writing parts of a learner-centered syllabus
+    #### Learner-Centered Syllabus Materials
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 

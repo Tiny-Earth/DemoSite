@@ -104,9 +104,15 @@ Notice that all the summative assessment plans utilize more than one kind of sum
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    How could students demonstrate enduring understanding of the scientific content and concepts that were established as learning objectives?
+    In the *Course Design* module, we asked you to imagine the third week/day for your course and some objectives for that moment in time.
 
-    In what ways could they demonstrate scientific skills, knowledge, and competencies?
+    Then in *Active Learning Experiences*, we asked you to design an activity that embodies active learning experiences around one objective.
+    
+    How could students demonstrate enduring understanding of the scientific content and concepts related to that objective?
+
+    In what ways could they demonstrate scientific skills, knowledge, and competencies related to that objective?
+
+    Be sure to imagine several, varied ways students could demonstrate the objective, and take time to think through this so that you broaden your understanding of the objective.
 
 !!! tip ""
 
@@ -120,7 +126,7 @@ Notice that all the summative assessment plans utilize more than one kind of sum
 
 !!! tip ""
 
-    #### Aligning Assessments, Objectives, and Facets
+    #### Design with Professor Pham: Now You Try!
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
@@ -181,7 +187,7 @@ And to write a rubric, once again we revisit our backward design principles:
 
 !!! tip ""
 
-    #### TODO title
+    #### Analytic vs. Holistic Rubric
 
     Examine [these example rubrics](assets/paper-rubrics.html) showing two difference approaches to assessing STEM student work.
 
@@ -199,7 +205,7 @@ And to write a rubric, once again we revisit our backward design principles:
 
 !!! tip ""
 
-    #### TODO above title + Now You Try
+    #### Analytic vs. Holistic Rubric: Now You Try!
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
@@ -227,8 +233,9 @@ Test-taking pace is not a valid measure of student understanding. Students who n
 
 Research shows that most students who do receive additional time on tests do not use all of it (Cahalan-Laitusis, King, Cline, & Bridgeman, 2006; Holmes & Silvestri, 2019; Spenceley & Wheeler, 2016). Gernsbacher speculates that these students are actually requesting to not experience the anxiety and pressure of running out of time (2015). When time limits are removed from exams, numerous studies have shown that student performance improves across student groups including those who are learning English, from underrepresented backgrounds, older than average, and females (De Paola & Gioia, 2015; Foos & Boone, 2008; Mullane & McKelvie, 2001). Consider administering untimed asynchronous tests such as take-home exams or untimed online exams and designing test questions that aren’t easily searchable.
 
+![Mean scores with standard deviation for older and younger participants in timed and not timed conditions for five different tests. Their study showed that young adults score higher than older adults under standard timed test conditions, but older adults perform as well as young adults when time limits are removed.](assets/Summative Assessment Timed Tests Graph.png)
 
-![Mean scores with standard deviation for older and younger participants in timed and not timed conditions for five different tests (Foos & Boone, 2008). Their study showed that young adults score higher than older adults under standard timed test conditions, but older adults perform as well as young adults when time limits are removed.](assets/Summative Assessment Timed Tests Graph.png)
+Figure based on (Foos & Boone, 2008).
 
 ### Equitable Summative Assessments Leverage Universal Design for Learning
 
@@ -269,6 +276,8 @@ Students deserve the opportunity to engage with an assessment to the best of the
 !!! tip ""
 
     #### Commit to Action: Equitable Summative Assessments
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
     
     What is one concrete action you can take to make the design of your summative assessments more equitable?
 
@@ -327,11 +336,15 @@ Instructors who are interested in alternative grading but can’t or aren’t re
 
     #### Commit to Action: Equitable Grading
 
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
+
     What is one concrete action you can take to make the grading in your course more equitable?
 
 !!! tip ""
 
-    #### Check Alignment
+    #### Reflection: Course Alignment
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
     Briefly describe the alignment between your summative assessment plan and your inclusive learning commitments, learning objectives, and syllabus. Where is there room for growth or adjustment?
 

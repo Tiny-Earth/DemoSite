@@ -15,7 +15,7 @@
 
 ## Active Learning Experiences Defined
 
-![TODO caption](assets/LE23.png)
+![Illustration of Active Learning Experiences. Three circles overlap: Active Learning, Formative Assessment, and Inclusive Learning. Where they overlap is Learning Experiences.](assets/LE23.png)
 
 Active learning experiences encompass:
 
@@ -27,19 +27,15 @@ We use the term “learning experiences” to convey an emphasis on the student 
 
 Active learning experiences manifest curricular intentions and bring science to life. They feature all the activities—active learning plus assessment opportunities—that occur during a course, plus the inclusive learning considerations that support them. Active learning experiences range from assignments to assessments, experiments to exams, interactions to inquiries, questions to quizzes. They include activities during a prescribed classroom period (such as a lecture, lab, or field work) and outside the classroom (such as a pre-class reading/quiz in a learning management system or a post-class homework assignment).
 
-In short:
-
-```@raw html
-<mark>Active learning experiences = active learning + formative assessment + inclusive learning</mark>
-```
+In short: *Active learning experiences $=$ active learning $+$ formative assessment $+$ inclusive learning*
 
 ### Active Learning
 
 Surprisingly, given its long history, there is not a consistent definition of active learning in education literature. So, before we delve into how to develop and execute an active learning approach, let’s start by creating your own working definition of this concept: What does active learning mean to you?
 
-!!! tip ""
+!!! note ""
 
-    #### TODO Activity
+    #### Define Active Learning
 
     How do you define active learning? Write this down before revealing published examples below.
 
@@ -91,7 +87,7 @@ Each of the four modes is defined by the level of cognitive demand and type of l
 
 In scientific teaching, we use the term **“active learning experiences”** as an umbrella term that encompasses active, interactive, and constructive modes of engagement, in contrasts to passive modes of engagement.
 
-!!! tip ""
+!!! note ""
 
     #### ICAP Matching
 
@@ -102,13 +98,31 @@ In scientific teaching, we use the term **“active learning experiences”** as
     - Listening to lectures, watching demonstrations, or reading instructional materials
     - Generating explanations, creating concept maps, or engaging in problem-solving tasks
 
+    !!! details "Click here to show the answer"
+
+        Interactive:
+        
+        - Group discussions, collaborative projects, or peer teaching
+
+        Constructive:
+
+        - Generating explanations, creating concept maps, or engaging in problem-solving tasks
+
+        Active:
+
+        - Completing worksheets, solving problems, or participating in discussions
+
+        Passive:
+
+        - Listening to lectures, watching demonstrations, or reading instructional materials
+        
 !!! tip ""
 
-    #### TODO title
+    #### Reflection: ICAP
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    Based on the above descriptions of the ICAP modes of engagement, which modes do you currently use most often in your course? Which modes could be expanded further in your course?
+    Based on the above descriptions of the ICAP modes of engagement (Table 1), which modes do you currently use most often in your course? Which modes could be expanded further in your course?
 
 ### Formative Assessment
 
@@ -126,7 +140,7 @@ For example, when asked to interpret a graph as part of a learning activity, stu
 
 !!! tip ""
 
-    #### TODO Activity title
+    #### Reflection: Formative Assessment
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
@@ -148,7 +162,7 @@ Failure rates also illuminate a stark contrast between courses taught with an ac
 
 !!! tip ""
 
-    #### TODO Activity title
+    #### Persuading Colleagues
 
     The literature on active learning argues that its implementation leads to improved learning gains, lower failure rates, and reduced achievement gaps.
 
@@ -162,13 +176,9 @@ Failure rates also illuminate a stark contrast between courses taught with an ac
 
 ## A Framework for Active Learning Experiences
 
-![TODO caption](assets/LE23.png)
-
 To summarize, above we identified that effective active learning experiences are made up of three components: active learning, formative assessment, and inclusive learning. This becomes our framework for learning experiences.
 
-```@raw html
-<mark>Active learning experiences = active learning + formative assessment + inclusive learning</mark>
-```
+*Active learning experiences $=$ active learning $+$ formative assessment $+$ inclusive learning*
 
 ---
 
@@ -256,7 +266,7 @@ Any active learning technique can serve as a formative assessment for students, 
 
 !!! tip ""
 
-    #### TODO title
+    #### Beyond Think-Pair-Share: Now You Try!
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
@@ -279,9 +289,9 @@ To encourage students to think and act like scientists, active learning experien
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table2-label">Table 2. TODO table title</strong><br><span id="table2-summary"><!-- TODO: Description here. --></span></p>
+        <p><strong id="table2-label">Table 2. Passive vs. Active Facets of Science</strong></p>
     </figcaption>
-    <table aria-labelledby="table2-label" aria-describedby="table2-summary">
+    <table aria-labelledby="table2-label">
         <tr>
             <th scope="col">Facet of science</th>
             <th scope="col">Passive class</th>
@@ -379,7 +389,9 @@ To encourage students to think and act like scientists, active learning experien
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    Select one learning objective from the course and design an activity that embodies active learning experiences. Briefly describe your design.
+    In the *Course Design* module, we asked you to imagine the third week/day for your course and some learning objectives for that moment in time. What were the objectives you came up with then?
+
+    Select one of those objectives, then design an activity that embodies active learning experiences. Briefly describe your design.
     
     How will the activity:
 
