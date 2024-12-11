@@ -140,6 +140,31 @@ For example:
     - Identify and manipulate algebraic expressions, including equations, inequalities, and functions.
     - Understand the relationship between physical structure and physiological function at the cellular and systemic levels.
 
+!!! tip ""
+
+    #### TODO above title + Now You Try
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
+
+    Take a moment to imagine what might be happening for your course in the third week of your semester. (Or third day if you are teaching a shorter course, such as a summer camp or winter term.)
+
+    What came to mind first, some of your objectives for that moment in time, or an activity you want to happen in the course?
+
+    If objective came to mind first:
+
+    1. What objective(s) came to mind?
+    2. Which Facet(s) of Science does that objective seem most closely related to?
+    3. How could you assess student success toward that objective? Put another way, what are multiple ways students could demonstrate that objective? Take time to think through this so that you broaden your understanding of the objective.
+
+    If activity came to mind first:
+
+    1. What activity came to mind?
+    2. What objective(s) does that activity seem to be advancing? Put another way, *why* do you want students to complete this activity? How does it help them grow towards the broader goals of the course?
+    3. Which Facet(s) of Science does that objective seem most closely related to?
+    4. How could you assess student success toward that objective? Put another way, what are multiple ways students could demonstrate that objective? Take time to think through this so that you broaden your understanding of the objective.
+
+    Finally, what are be some other objectives you might have for the weeks/days leading up to and shortly after that moment in time in your course?
+
 ### Writing Effective Learning Goals
 
 Learning goals describe broad outcomes at the course-level. An instructor may have only a few learning goals for an entire course. Think about the main ideas listed on your course website or the top of your syllabus—they are probably goals.

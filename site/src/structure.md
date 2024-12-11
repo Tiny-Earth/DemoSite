@@ -266,27 +266,23 @@ Some general tips for working with a course planning tool:
 
 !!! tip ""
 
-    #### TODO title
+    #### TODO above title + Now You Try
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    Take a moment to imagine what might be happening for your course in the third week of your semester. (Or third day if you are teaching a shorter course, such as a summer camp or winter term.)
+    In the *Course Design* module, we asked you to imagine the third week/day for your course and some objectives for that moment in time. What were the objectives you came up with then?
 
-    What came to mind first, your objectives for that moment in time, or an activity you want to happen?
+    Also, what came to mind first then, your objectives for that moment in time, or an activity you want to happen?
 
     If objective came to mind first:
 
-    1. What objective(s) came to mind?
-    2. How could you assess student success toward that objective? Put another way, what are multiple ways students could demonstrate that objective? Take time to think through this so that you broaden your understanding of the objective.
-    3. How could you actively engage your students in class that week/day with that objective? Review the active instructional strategies from the *Active Learning Experiences* module for ideas.
-    4. Consider the sequence of events around that activity. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
+    1. How could you actively engage your students in class that week/day with that objective? Review the active instructional strategies from the *Active Learning Experiences* module for ideas.
+    2. Consider the sequence of events around that activity. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
 
     If activity came to mind first:
 
     1. What activity came to mind?
-    2. What objective(s) does that activity seem to be advancing? Put another way, *why* do you want students to complete this activity? How does it help them grow towards the broader goals of the course?
-    3. How could you assess student success toward that objective? Put another way, what are multiple ways students could demonstrate that objective? Take time to think through this so that you broaden your understanding of the objective.
-    4. Consider the sequence of events around the activity that came to mind. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
+    2. Consider the sequence of events around the activity that came to mind. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
 
     Finally, with [our course planning tool](https://docs.google.com/document/d/1dcIUClCU9Op5GFZ4PG9qZ6j3DL4Znje6s9s5BkRqB0Q/view) as a guide, how could you present the information in your answers above to students in an effective, equitable, learner-centered way?
 
