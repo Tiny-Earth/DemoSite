@@ -52,7 +52,7 @@ To achieve an equitable STEM workforce, we must address the structural, individu
 - Limit professors, departments, and institutions from actively working toward challenging systematic inequalities
 - Obscure “opportunities for all faculty and all students to analyze power and privilege in classrooms, in peer groups, in departments, in disciplines, in institutions, and in society” (Chikkatur and Valle, 2023)
 
-## What the US Reports Say about Science Education
+### What the US Reports Say about Science Education
 
 For decades, numerous reports have called for science education reform, citing overwhelming evidence that effective and equitable science education requires widespread adoption of evidence-based practices. Highlights of these evolving arguments include:
 
@@ -65,7 +65,7 @@ For decades, numerous reports have called for science education reform, citing o
 
 Despite these findings, 70% of instructors have reported extensive use of lecturing in their courses, rather than evidence-based instructional strategies (AAAS, 2019; Stains et al., 2018), citing the absence of formal pedagogical training as one of the main reasons (Walczyk et al, 2006). The good news is that faculty who receive pedagogical training are more likely to seek innovative teaching methods and implement learner-centered practices (Marsh & Hattie, 2002; Walczyk & Ramsey, 2003).
 
-## STEM has an Equity Problem 
+### STEM has an Equity Problem 
 
 The problem of not using evidence-based practices is compounded when we ignore the role of systemic inequities in US higher education, where underrepresentation in STEM is prevalent. 
 More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields (Thiry et al., 2019; Handelsman et al., 2022).
@@ -94,7 +94,7 @@ Therefore, this Scientific Teaching Course focuses on what instructors have agen
     - The learning environment meets students where they are and supports them in engaging with the content and skills.
     What aspects of your course are you most excited to revise or improve through this Scientific Teaching Course?
 
-## Effective Science
+### Effective Science
 
 
 ```@raw html
@@ -107,7 +107,7 @@ Diversity within the scientific community supports the broadening of participati
 
 These factors—positive self-efficacy, identity, and connection with scientific values—lead to increased persistence in STEM, especially for students from communities that have been historically excluded (Estrada et al., 2011). Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone.
 
-## Effective Teaching
+### Effective Teaching
 
 ```@raw html
 <mark>*Effective teaching helps students develop science skills.*</mark>
@@ -117,7 +117,7 @@ Authentically integrating science into teaching requires moving beyond a mindset
 
 Instructors who identify overarching concepts and broad themes can help students to organize complex information and deepen their understanding. They also help students integrate scientific knowledge with authentic practices and account for students' diverse identities, beliefs, and experiences. This shift doesn’t mean students don’t learn facts; it means they learn how to organize these facts and apply what they have learned in authentic contexts.
 
-## The Three I’s of Effective Teaching
+### The Three I’s of Effective Teaching
 
 ```@raw html
 <mark>*Effective teaching is intentional, inclusive, and iterative.*</mark>
@@ -287,7 +287,7 @@ The Scientific Teaching Course is designed to help you put all these ideas into 
 
 Our aim is to empower you, the instructor, to customize the approaches for your own identities, students, content, and contexts.
 
-## Organization of the Scientific Teaching Course
+### Organization of the Scientific Teaching Course
 
 This course is organized around interactive modules that provide guidelines, reflective moments, hands-on practice, and immediate application. The modules build on and reinforce each other:
 

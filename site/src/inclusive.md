@@ -50,7 +50,7 @@ Figure adapted from (Bell et al., 2016;Marchesani and Adams, 1992).
 
 ---
 
-### The Climate Dimension
+## The Climate Dimension
 
 Course climate is the manifestation of all the decisions that influence the learning environment. As instructors, our role is to examine how we set up and sustain learning experiences to be inclusive (Dewsbury & Brame, 2019; Bell et al., 2016). An inclusive course climate is one where all students feel welcomed, valued, and supported in their learning, regardless of backgrounds and identities (Brame, 2019). 
 
@@ -88,7 +88,7 @@ Part of scientific identity includes seeing one’s self and perspectives repres
 
 Pedagogy involves how a course is designed and taught. It also defines how students interact with the content and each other. Once again, the choices we make determine how inclusive the course feels. In the Scientific Teaching module, we demonstrated how poor instruction leads to a pattern of exclusion from STEM that differentially affects students. In contrast, pedagogies that promote a sense of belonging lead to increased persistence in STEM (Estrada et al., 2011), especially for HEC students (Evans et al., 2021; Hurtado et al., 2009; Olson et al., 2019; Rodenbusch et al., 2016; Shuster et al., 2019; Waddell et al., 2021).
 
-## Inclusive Learning in Practice
+### Inclusive Learning in Practice
 
 Let’s examine how the instructor, student, curriculum, and pedagogy dimensions work together to create a course climate that is based on inclusive learning. Below is a summary of several evidence-based practices based on the five dimensions of inclusive teaching.
 
@@ -119,7 +119,7 @@ Instructors can also modify overall course structure or infuse practices into an
 
     Describe 2-3 new actions you could take to promote inclusive learning in your course.
 
-## Consider Identities
+### Consider Identities
 
 Identity comprises the social, emotional, and professional attributes of an individual (Rus et al., 2013; Peterson et al., 1999). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate. 
 Social identity is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group (Tajfel, 1981. p. 255). 
@@ -169,7 +169,7 @@ Social identity is defined as the sense of self that comes from membership in a 
 
     Do you tell your students these attributes? Why or why not?
 
-## Mitigate Biases and Assumptions
+### Mitigate Biases and Assumptions
 Identities aren’t the only thing that influence outcomes in STEM. Biases and assumptions matter, too. For example, biases and assumptions affect how we rate people, which can have consequences for hiring decisions and advancement.
 
 Let’s examine hiring studies as one example of bias affecting outcomes. In one study (Moss-Racusin et al., 2012) 127 biology, chemistry, and physics faculty at six top US research universities received a student resume for a lab manager position. Each resume was randomly assigned a gendered name: “Jennifer” (female) or “John” (male). Otherwise, the applications were identical, and each evaluator saw only one version. Faculty then evaluated the student’s competence and hireability and proposed a salary.
