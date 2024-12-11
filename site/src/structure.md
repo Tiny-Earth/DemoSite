@@ -232,30 +232,63 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
 
 `TODO`
 
-Download this template and start building out your course!
+To help you structure your course in practice, several course planning tools exist. For example, [we have provided our own recommended tool that aligns with this course's content](https://docs.google.com/document/d/1dcIUClCU9Op5GFZ4PG9qZ6j3DL4Znje6s9s5BkRqB0Q/view).
 
-!!! tip ""
+There are also other course planning tools published by, for example:
 
-    #### Practice using a course map with part of your course
+- [University of Wisconsin-Madison](https://idc.ls.wisc.edu/course-design-templates/)
+- [Virginia Tech](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/0f64ad16-ae86-46e7-acd0-b7a77864b093/content)
+- [UC Berkeley](https://dls.berkeley.edu/services/course-design-tools/digital-pedagogy-resources/use-course-map-design-your-course)
 
-LEARNING OBJECTIVES
-
-ASSESSMENTS
-
-LEARNING EXPERIENCES
-
-PRE-CLASS
-
-IN-CLASS
-
-POST-CLASS
-
-Tips:
+Some general tips for working with a course planning tool:
 
 - Start, as backward design suggests, by identifying what students will understand (learning objectives).
 - Be intentional about where you can incorporate active and inclusive learning practices.
 - Incorporate opportunities for students to practice skills and engage with content before being graded.
 - Iterate and adjust as you go along.
+
+!!! tip ""
+
+    #### TODO title
+
+    Peruse [our course planning tool](https://docs.google.com/document/d/1dcIUClCU9Op5GFZ4PG9qZ6j3DL4Znje6s9s5BkRqB0Q/view) and at least one other course planning tool of your choice.
+
+    Which tools did you peruse?
+
+    What appear to be the common features of course planning tools in terms of:
+
+    - What information about your course they prompt you to fill in?
+    - How they have you format and prepare that information so it can readily be shared with students?
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
+
+    What information is important for your own teaching that these tools miss? How could you determine, format, and prepare this information so it could be readily shared with your students?
+
+!!! tip ""
+
+    #### TODO title
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
+
+    Take a moment to imagine what might be happening for your course in the third week of your semester. (Or third day if you are teaching a shorter course, such as a summer camp or winter term.)
+
+    What came to mind first, your objectives for that moment in time, or an activity you want to happen?
+
+    If objective came to mind first:
+
+    1. What objective(s) came to mind?
+    2. How could you assess student success toward that objective? Put another way, what are multiple ways students could demonstrate that objective? Take time to think through this so that you broaden your understanding of the objective.
+    3. How could you actively engage your students in class that week/day with that objective? Review the active instructional strategies from the *Active Learning Experiences* module for ideas.
+    4. Consider the sequence of events around that activity. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
+
+    If activity came to mind first:
+
+    1. What activity came to mind?
+    2. What objective(s) does that activity seem to be advancing? Put another way, *why* do you want students to complete this activity? How does it help them grow towards the broader goals of the course?
+    3. How could you assess student success toward that objective? Put another way, what are multiple ways students could demonstrate that objective? Take time to think through this so that you broaden your understanding of the objective.
+    4. Consider the sequence of events around the activity that came to mind. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
+
+    Finally, with [our course planning tool](https://docs.google.com/document/d/1dcIUClCU9Op5GFZ4PG9qZ6j3DL4Znje6s9s5BkRqB0Q/view) as a guide, how could you present the information in your answers above to students in an effective, equitable, learner-centered way?
 
 ### Learner-Centered Syllabus
 
