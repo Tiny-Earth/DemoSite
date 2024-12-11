@@ -40,7 +40,7 @@ Scientific teaching also posits that teaching science should capture the spirit 
 
 
 ```@raw html
-<mark>*Effective science education is equitable science education.* </mark>
+<mark>Effective science education is equitable science education.</mark>
 ```
 
 Scientific teaching is needed to create a diverse and creative workforce equipped to address emerging global and local problems.Increasing diversity in STEM requires drawing from historically excluded groups. The future workforce should match the demographics of the world’s citizens, take advantage of underutilized talent in all demographic groups, and make STEM careers readily available to people of all backgrounds.
@@ -110,7 +110,7 @@ These factors—positive self-efficacy, identity, and connection with scientific
 ### Effective Teaching
 
 ```@raw html
-<mark>*Effective teaching helps students develop science skills.*</mark>
+<mark>Effective teaching helps students develop science skills.</mark>
 ```
 
 Authentically integrating science into teaching requires moving beyond a mindset of “covering the content” and toward designing experiences where students “uncover the content.” This active engagement with the content helps students develop the essential knowledge, skills, and habits of mind that align with how science is practiced.
@@ -120,7 +120,7 @@ Instructors who identify overarching concepts and broad themes can help students
 ### The Three I’s of Effective Teaching
 
 ```@raw html
-<mark>*Effective teaching is intentional, inclusive, and iterative.*</mark>
+<mark>Effective teaching is intentional, inclusive, and iterative.</mark>
 ```
 
 Effective teaching creates learning experiences for students to engage in doing science—more on that in upcoming modules.
