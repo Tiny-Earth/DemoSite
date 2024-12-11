@@ -1,5 +1,7 @@
 # Scientific Teaching
 
+**Estimated time to complete:** 40 minutes
+
 ## Module Learning Objectives
 
 !!! compat ""

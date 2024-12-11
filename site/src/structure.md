@@ -1,5 +1,7 @@
 # Course Structure
 
+**Estimated time to complete:** 25 minutes
+
 ## Module Learning Objectives
 
 !!! compat ""

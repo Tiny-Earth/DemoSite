@@ -1,5 +1,7 @@
 # Active Learning Experiences
 
+**Estimated time to complete:** 60 minutes
+
 !!! compat ""
 
     By the end of this module, you will be able to...

@@ -1,5 +1,7 @@
 # Inclusive Learning
 
+**Estimated time to complete:** 35 minutes
+
 ## Learning Objectives
 
 !!! compat "" 

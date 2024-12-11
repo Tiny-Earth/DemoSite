@@ -1,5 +1,7 @@
 # How Learning Works
 
+**Estimated time to complete:** 15 minutes
+
 ## Module Goals
 
 !!! compat "" 

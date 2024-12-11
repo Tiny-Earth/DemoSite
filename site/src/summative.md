@@ -1,5 +1,7 @@
 # Summative Assessment
 
+**Estimated time to complete:** 50 minutes
+
 ## Module Learning Objectives
 
 !!! compat ""
