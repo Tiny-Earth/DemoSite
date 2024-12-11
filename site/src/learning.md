@@ -2,9 +2,10 @@
 
 ## Module Goals
 
-By the end of this module, you will be able to...
-- Define learning and the factors that influence it.
-- Explain the role of prior knowledge and scaffolding in learning.
+!!! compat "" 
+    By the end of this module, you will be able to...
+    - Define learning and the factors that influence it.
+    - Explain the role of prior knowledge and scaffolding in learning.
 
 ---
 

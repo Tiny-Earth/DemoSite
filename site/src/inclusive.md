@@ -2,11 +2,12 @@
 
 ## Learning Objectives
 
-By the end of this module, you will be able to...
+!!! compat "" 
+    By the end of this module, you will be able to...
 
-- Justify why inclusive learning matters for increasing diversity in STEM.
-- Explain how instructors, students, curriculum, and pedagogy can influence course climate.
-- Practice applying the five dimensions of inclusive teaching to your course.
+    - Justify why inclusive learning matters for increasing diversity in STEM.
+    - Explain how instructors, students, curriculum, and pedagogy can influence course climate.
+    - Practice applying the five dimensions of inclusive teaching to your course.
 
 ---
 
