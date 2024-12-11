@@ -175,7 +175,7 @@ Increasing a course's structure has many implications for student learning and t
 
 Freeman and colleagues measured failure rates in a major's introductory biology course, while varying the structure of the course. One instructor taught the course in six iterations using a low-structure, moderate-structure, or high-structure course design (2011). The difference between the proportion of students predicted to fail and the actual proportion failing decreased with increasing structure.
 
-`TODO figure file`
+![fig5](assets/increasing_structure_graphs.png)
 
 Figure 5. The change in the proportion of students failing decreases with increasing course structure (n=2267, ∗p=0.06, ∗∗p=0.0004).
 
