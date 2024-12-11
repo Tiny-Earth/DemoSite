@@ -179,15 +179,11 @@ Let’s examine hiring studies as one example of bias affecting outcomes. In one
 
 What results would you predict? Click here to find out what happened!
 
-```@raw html
-<!-- `TODO add figs` -->
-```
+![fig2](assets/competence_hireability.png)
 
 **Figure 2.** Science faculty rated male applicants higher than women regarding competence and hireability for a lab manager position (p < 0.001). Scales range from 1 to 7, with 7 being the highest score.
 
-```@raw html
-<!-- `TODO add figs` -->
-```
+![fig3](assets/salary.png)
 
 **Figure 3.** Science faculty provided higher salary offers for male applicants than women for a lab manager position (p < 0.01). 
 Interestingly, the gender of the reviewer did not affect scores or salaries. Both men and women faculty scored women students lower and offered lower salaries. Compounded over a 40-year career, a $4,000 disparity in a starting salary—or being 25% less likely to be hired—has serious economic repercussions for women. 

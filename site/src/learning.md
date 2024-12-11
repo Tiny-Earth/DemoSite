@@ -81,9 +81,7 @@ The theory of **constructivism** explains how people construct their own underst
 
 **Metacognition** refers to thinking about thinking, when the learner evaluates the extent to which they understand the material and use that information to decide when to move on. Metacognition can happen at any step in the learning process.
 
-```@raw html
-<!-- `TODO add figs` -->
-```
+![fig2](assets/How-We-Learn.png)
 
 **Figure 2.** A framework for how learning works. 
 
