@@ -230,7 +230,7 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
 
 ## Course Structure in Practice
 
-To help you structure your course in practice, several course planning tools exist. For example, [we have provided our own recommended course planning tool that aligns with this course's content](https://docs.google.com/document/d/1dcIUClCU9Op5GFZ4PG9qZ6j3DL4Znje6s9s5BkRqB0Q/view).
+To help you structure your course in practice, several course planning tools exist. For example, [we have provided our own recommended course planning tool that aligns with this course's content](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub).
 
 There are also other course planning tools published by, for example:
 
@@ -249,7 +249,7 @@ Some general tips for working with a course planning tool:
 
     #### TODO title
 
-    Peruse [our course planning tool](https://docs.google.com/document/d/1dcIUClCU9Op5GFZ4PG9qZ6j3DL4Znje6s9s5BkRqB0Q/view) and at least one other course planning tool of your choice.
+    Peruse [our course planning tool](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub) and at least one other course planning tool of your choice.
 
     Which tools did you peruse?
 
@@ -282,11 +282,11 @@ Some general tips for working with a course planning tool:
     1. What activity came to mind?
     2. Consider the sequence of events around the activity that came to mind. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
 
-    Finally, with [our course planning tool](https://docs.google.com/document/d/1dcIUClCU9Op5GFZ4PG9qZ6j3DL4Znje6s9s5BkRqB0Q/view) as a guide, how could you present the information in your answers above to students in an effective, equitable, learner-centered way?
+    Finally, with [our course planning tool](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub) as a guide, how could you present the information in your answers above to students in an effective, equitable, learner-centered way?
 
 ### Learner-Centered Syllabus
 
-Some course planning tools focus on designing learner-centered syllabi for your courses. For example, [we have provided our own recommended learner-centered syllabus guide that aligns with this course's content](https://docs.google.com/document/d/1VrBVOXTuLc_we4dxApjdjpitqb9aCyhaqWkd0DLCFLU/view). This tool is structured as a questionnaire to help you start imagining and building out learner-centered syllabi.
+Some course planning tools focus on designing learner-centered syllabi for your courses. For example, [we have provided our own recommended learner-centered syllabus guide that aligns with this course's content](https://docs.google.com/document/d/e/2PACX-1vSSUHVaisNabRd5xHegugbp__iU9KHfBuYezJcb6td0ZOixXMSCtOMu4SNVCWxOeuyt2RKPD7KgdX-F/pub). This tool is structured as a questionnaire to help you start imagining and building out learner-centered syllabi.
 
 Keep in mind, not all teachers are able to modify the syllabi for their courses, which may be standardized across a department, district, or so on. In any case, however, teachers *welcome* their students to their courses.
 
