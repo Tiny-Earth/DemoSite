@@ -45,10 +45,30 @@ Instead, reframe like this:
 Many instructors approach learning with a model of student deficit in which students have “deficiencies” and learning is geared toward fixing them (Griffin, Murray, Care, Thomas & Perri, 2010). In contrast, a model of learning-environment deficit strives to change the classroom and use supportive strategies that benefit all students (Handelsman et al., 2022). Emphasizing what students will learn, rather than what content will be covered, requires instructors to have a growth mindset that focuses on improving the learning environment.
 
 ```@raw html
-<!-- `TODO add figs` -->
+<figure>
+    <figcaption>
+        <p><strong id="table1-label">Table 1. Comparison between instructional deficit models.</strong></p>
+    </figcaption>
+    <table aria-labelledby="table1-label">
+        <tr>
+            <th scope="col">Student Deficit Model</th>
+            <th scope="col">Learning Environment Deficit Model</th>
+        </tr>
+        <tr>
+            <td>Focuses on perceived deficiencies within students</td>
+            <td>Focuses on removing barriers to learning</td>
+        </tr>
+        <tr>
+            <td>Holds students responsible for their academic struggles</td>
+            <td>Acknowledges challenges stem from systemic or environmental factors</td>
+        </tr>
+        <tr>
+            <td>Perpetuates inequities</td>
+            <td>Creates equitable opportunities for success</td>
+        </tr>
+    </table>
+</figure>
 ```
-
-**Figure 1.** Comparison between instructional deficit models.
 
 ---
 
@@ -77,10 +97,29 @@ The strength of a memory represents how associated the memory is with related kn
 An expert not only understands many concepts, but can relate them to each other, transfer principles across concepts, and easily add new knowledge to their framework. Novice are still acquiring and connecting information, and as a result, need guidance and practice in constructing their own frameworks. Experts have a conceptual framework that they use to identify concepts or patterns in various contexts so that they can transfer/apply their understanding to solve problems in novel contexts.
 
 ```@raw html
-<!-- `TODO add figs` -->
+<figure>
+    <figcaption>
+        <p><strong id="table2-label">Table 2. Cognitive organization of novices and experts.</strong><br><span id="table2-summary">The novice's understanding is characterized by limited or missing concepts, broken or missing connections, and misconceptions. In contrast, experts possess a more robust conceptual framework with well-formed concepts and meaningful interconnections.</span></p>
+    </figcaption>
+    <table aria-labelledby="table2-label" aria-describedby="table2-summary">
+        <tr>
+            <td></td>
+            <th scope="col">Novice</th>
+            <th scope="col">Expert</th>
+        </tr>
+        <tr>
+            <th scope="row">Concepts</th>
+            <td>Limited understanding, missing, or incorrect concepts</td>
+            <td>Robust conceptual framework</td>
+        </tr>
+        <tr>
+            <th scope="row">Connections</th>
+            <td>Missing or broken connections</td>
+            <td>Meaningful connections</td>
+        </tr>
+    </table>
+</figure>
 ```
-
-**Figure 3.** Cognitive organization of novices and experts. The novice's understanding is characterized by limited or missing concepts, broken or missing connections, and misconceptions. In contrast, experts possess a more robust conceptual framework with well-formed concepts and meaningful interconnections.
 
 ### Seven Principles for Learning
 
