@@ -230,9 +230,7 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
 
 ## Course Structure in Practice
 
-`TODO`
-
-To help you structure your course in practice, several course planning tools exist. For example, [we have provided our own recommended tool that aligns with this course's content](https://docs.google.com/document/d/1dcIUClCU9Op5GFZ4PG9qZ6j3DL4Znje6s9s5BkRqB0Q/view).
+To help you structure your course in practice, several course planning tools exist. For example, [we have provided our own recommended course planning tool that aligns with this course's content](https://docs.google.com/document/d/1dcIUClCU9Op5GFZ4PG9qZ6j3DL4Znje6s9s5BkRqB0Q/view).
 
 There are also other course planning tools published by, for example:
 
@@ -288,9 +286,20 @@ Some general tips for working with a course planning tool:
 
 ### Learner-Centered Syllabus
 
-`TODO`
+Some course planning tools focus on designing learner-centered syllabi for your courses. For example, [we have provided our own recommended learner-centered syllabus guide that aligns with this course's content](https://docs.google.com/document/d/1VrBVOXTuLc_we4dxApjdjpitqb9aCyhaqWkd0DLCFLU/view). This tool is structured as a questionnaire to help you start imagining and building out learner-centered syllabi.
 
-Download this questionnaire and start building out your learner-centered syllabus!
+Keep in mind, not all teachers are able to modify the syllabi for their courses, which may be standardized across a department, district, or so on. In any case, however, teachers *welcome* their students to their courses.
+
+So, in this course when we refer to a "syllabus," we equally mean *any* of the materials you provide students that introduce them to your course, such as:
+
+- Syllabus addenda
+- Welcome videos
+- Welcome emails
+- Slides or handouts presented on the first day of class
+- The homepage or first module on the course LMS
+- And many more!
+
+And so, we encourage all teachers, even those who have control of their syllabi, to imagine all the ways they welcome students to their courses and provide students a roadmap for success.
 
 !!! tip ""
 
