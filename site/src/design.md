@@ -15,13 +15,9 @@
     - Evaluate the level of cognitive engagement (Bloom’s level) for learning objectives.
     - Evaluate the extent to which learning goals and objectives support inclusive learning.
 
----
-
 ## Course Design Defined
 
 Course design is an intentional, reflective process of developing effective learning materials and environments that encourage students to develop their skills and knowledge. In designing a course, we set goals and adopt strategies for students to achieve learning objectives.
-
----
 
 ## Why Course Design?
 
@@ -63,7 +59,7 @@ Effective design principles incorporate balance and alignment, while focusing on
 
     !!! details "Click here to show Vignette #1"
 
-        My physics course uses the premiere $300 textbook that covers all the founding fathers' discoveries. I give two-hour multiple-choice exams from 6-8pm on Tuesdays every 5 weeks. The final is cumulative, and all exams are graded on a curve. Content is delivered through the textbook and my lectures, which are not recorded. Students have to come to class if they want to learn the material. There are no worksheets or homework assignments because I'm not going to tell them what's important and what to study. I pride myself in weeding out students who aren't cut out to be physics majors. We only want the best of the best in our program.
+        My physics course uses the premiere \$300 textbook that covers all the founding fathers' discoveries. I give two-hour multiple-choice exams from 6-8pm on Tuesdays every 5 weeks. The final is cumulative, and all exams are graded on a curve. Content is delivered through the textbook and my lectures, which are not recorded. Students have to come to class if they want to learn the material. There are no worksheets or homework assignments because I'm not going to tell them what's important and what to study. I pride myself in weeding out students who aren't cut out to be physics majors. We only want the best of the best in our program.
 
     !!! details "Click here to show Vignette #2"
 
@@ -82,8 +78,6 @@ Effective design principles incorporate balance and alignment, while focusing on
     - Remove barriers that could preclude some students from accessing resources
 
     What areas would you like to change or improve?
-
----
 
 ## A Framework for Course Design
 
@@ -106,8 +100,6 @@ The process of backward design is meant to be flexible and iterative, not prescr
 - **Plan learning experiences and instruction.** What activities could engage students with the facets of science and scaffold their learning? How will learners be supported as they come to understand important ideas and processes? What activities, sequence, and resources are best suited to accomplish the desired goals?
 
   *Action: Design inclusive learning experiences that support learners in understanding the facets of science.*
-
----
 
 ## Course Design in Practice
 
@@ -168,9 +160,9 @@ For example:
 
     If an activity came to mind first: What activity came to mind? What objective(s) does that activity seem to be advancing? Put another way, why do you want students to complete this activity? How does it help them grow towards the broader learning goals of the course?
 
-    Then, what are be some other objectives you might have for the weeks/days leading up to and shortly after that moment in time in your course?
+    Then, what are some other objectives you might have for the weeks/days leading up to and shortly after that moment in time in your course?
 
-    Finally, revise the ideas you've generated above to make sure they are specific learning objectives instead of broad learning goals.
+    Finally, revise the ideas you've generated above to separate your specific learning objectives from your broad learning goals.
 
 ### Writing Effective Learning Goals
 
@@ -307,6 +299,24 @@ Now imagine the opposite scenario, where a student presumes the exam will have l
 
 In both cases, the students’ study strategies are misaligned with the objectives of the exam. When students have the chance to practice the skills they are expected to learn, and those are the skills on which they are tested, it creates a less frustrating and more equitable learning environment for everyone.
 
+!!! tip ""
+
+    #### Study Skills
+
+    What might be effective ways for students to study to prepare them to:
+
+    > Label the parts of a plant cell and recall their functions, including the cell wall, nucleus, chloroplasts, and mitochondria.
+
+!!! tip ""
+
+    #### Study Skills: Now You Try!
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
+
+    Above, we asked you to imagine the third week/day for your course and some learning objectives for that moment in time.
+    
+    Select one of those objectives. What would be some effective ways for students to study to help them towards that objective? What resources, study tips, guides, or so on could you provide your students to help set their study time up for success?
+
 ### Step 3. Plan learning experiences and instruction.
 
 Now that learning goals, learning objectives, and assessments have been addressed, it's time to design the activities that will bring the facets of science to life. We will explore developing activities in more detail in the *Learning Experiences* module. For now, we'll highlight a few key ideas.
@@ -326,7 +336,7 @@ What might be an appropriate activity for students to gain practice toward answe
 - Students design an experiment to measure how much water is absorbed by different soil types.
 - Students compare and contrast how the water cycle varies depending on the climate, such as a tropical rainforest versus a desert.
 
-We will practice writing assessments and creating learning experiences in the modules about *Learning Experiences* and *Summative Assessment*, so hold onto the learning objective(s) you wrote!
+We will practice creating learning experiences, writing assessments, and scaffolding activities in the modules to follow, so hold onto the learning objective(s) you wrote!
 
 ### Step 4. Check alignment within curriculum and values.
 
@@ -388,8 +398,6 @@ Students with disabilities face many challenges when seeking accommodations in h
 - **Physical accessibility:** Make physical spaces and materials accessible, such as by providing wheelchair ramps, captioning videos, and offering alternative formats of textbooks.
 - **Digital accessibility:** Design digital content and technologies that are compatible with assistive technologies, such as screen readers and text-to-speech software.
 - **Social accessibility:** Use inclusive language, accommodate different communication styles.
-
----
 
 ## Summary of Course Design
 

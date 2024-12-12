@@ -9,8 +9,6 @@
     - Define learning and the factors that influence it.
     - Explain the role of prior knowledge and scaffolding in learning.
 
----
-
 ## Learning Defined
 
 **Learning** is the acquisition and integration of new information that leads to a change in behavior. It is influenced by each learner’s individual motivations and brain composition; disciplinary content, values, and approaches; and the sociocultural environment [ref].
@@ -20,8 +18,6 @@
 Each course brings a unique mixture of course content, skills, and methods. The course **learning objectives** help students understand what is expected of them so they can build on what they already know and emphasize learning new ideas or difficult approaches (Wiggins & McTighe, 2005; Wiggins & McTighe, 2011).
 
 The **learning environment** affects the extent to which students feel a sense of belonging and agency to engage in learning. It is influenced by the instructor’s actions and statements, the instructional choices about which problems or examples matter, as well as cultural factors in society at large [ref].
-
----
 
 ## Why Learning?
 
@@ -72,8 +68,6 @@ Many instructors approach learning with a model of student deficit in which stud
     </table>
 </figure>
 ```
-
----
 
 ## A Framework for Learning
 
@@ -133,13 +127,9 @@ This brings us to a set of research-based principles about learning (Ambrose et 
 6. Students’ level of development interacts with the social, emotional, and intellectual climate to impact learning.
 7. To become self-directed learners, students must learn to monitor and adjust their approaches to learning
 
----
-
 ## Learning in Practice
 
 The following modules will provide opportunities to effectively scaffold learning through your course design.
-
----
 
 ## Summary of Learning
 

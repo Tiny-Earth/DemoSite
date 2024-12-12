@@ -11,8 +11,6 @@
     - Explain how instructors, students, curriculum, and pedagogy can influence course climate.
     - Practice applying the five dimensions of inclusive teaching to your course.
 
----
-
 ## Inclusive Learning Defined
 Inclusive learning refers to all the factors that contribute to a classroom environment where:
 
@@ -23,15 +21,11 @@ The curriculum, pedagogy, instructors, and students work together to create a co
 
 There is no shortage of inclusive teaching methods. In fact, the number of choices can be overwhelming. This module distills evidence-based practices that support an inclusive course climate and gives you the chance to evaluate them for your course. It also asks you to consider how your identities and actions influence who feels included or excluded in your course. The examples provided in this module are not comprehensive; many more can be found throughout this Scientific Teaching Course. 
 
----
-
 ## Why Inclusive Learning?
 
 Diversity in STEM starts with inclusive learning environments. Recall from the previous module that a prevailing reason students leave science majors is not because they are incapable, but because science is too often taught in a way that doesn’t inspire them or instill a sense of belonging. Consequently, more than half of the 600,000 US students who declare STEM majors change to a different major before graduating (Thiry et al., 2019), with students from underrepresented backgrounds switching out of STEM at disproportionate rates (Riegle-Crumb, et al, 2019).
 
 Reversing STEM attrition requires us to reimagine how the various components of a classroom work together to create inclusive learning environments.
-
----
 
 ## A Framework for Inclusive Learning
 
@@ -217,8 +211,6 @@ Bias is not inherently bad and is part of human nature. But when bias leads to r
     #### Reflection: Bias in STEM
 
     What biases have you seen or experienced in STEM or STEM higher education?
-
----
 
 ## Summary of Inclusive Learning
 

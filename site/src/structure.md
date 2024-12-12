@@ -13,8 +13,6 @@
     - Practice creating a course map.
     - Create welcome materials for a learner-centered syllabus.
 
----
-
 ## Course Structure Defined
 
 Course structure refers to the organizational system of a course, including the schedule, welcome materials, format, content, communication modes and overall themes. A well-structured course communicates all of these components to students and ensures they have access to each component.
@@ -160,8 +158,6 @@ The level of course structure lies on a continuum from low to high. High-structu
 
     Which example course structure looks more like yours? Why?
 
----
-
 ## Why Course Structure?
 
 Increasing a course's structure has many implications for student learning and their educational experience:
@@ -176,8 +172,6 @@ Increasing a course's structure has many implications for student learning and t
 Freeman and colleagues measured failure rates in a major's introductory biology course, while varying the structure of the course. One instructor taught the course in six iterations using a low-structure, moderate-structure, or high-structure course design (2011). The difference between the proportion of students predicted to fail and the actual proportion failing decreased with increasing structure.
 
 ![The change in the proportion of students failing decreases as course structure increases (n=2267, ∗p=0.06, ∗∗p=0.0004)](assets/increasing_structure_graphs.png)
-
----
 
 ## Frameworks for Course Structure
 
@@ -225,8 +219,6 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
     - How will students gauge progress toward understanding? How will the instructor?
     - How will learning be evaluated?
     - How will all students feel included in the learning process and welcome as scientists?
-
----
 
 ## Course Structure in Practice
 
@@ -331,8 +323,6 @@ And so, we encourage all teachers, even those who have control of their syllabi,
     - Describe how your students may communicate with you.
     - Describe your expectations for how your students will work together on collaborative assignments and discussions.
     - Highlight a few ways that the course is accessible and how your students can find resources, including resources you provide and the university itself provides. (Tip: Universities in the US are required to publish a yearly Security and Fire Safety Report, which usually list university resources. These can be helpful places to start finding resources if your university does not already advertise them all in one place.)
-
----
 
 ## Summary of Course Structure
 

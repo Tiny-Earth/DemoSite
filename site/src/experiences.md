@@ -11,8 +11,6 @@
     - Select several learning experiences to engage students in some or all of the six facets of science in your course.
     - Practice integrating the learning experiences into your course design by aligning them with the learning objectives and adjusting as needed.
 
----
-
 ## Active Learning Experiences Defined
 
 ![Illustration of Active Learning Experiences. Three circles overlap: Active Learning, Formative Assessment, and Inclusive Learning. Where they overlap is Learning Experiences.](assets/LE23.png)
@@ -23,11 +21,11 @@ Active learning experiences encompass:
 - The factors that influence those opportunities.
 - Active learning experiences leverage what we know about how learning works to appropriately scaffold learning.
 
-We use the term “learning experiences” to convey an emphasis on the student and the active engagement required for learning, rather than the more instructor-centered alternative, which focuses on covering the content. A learner- and learning-centered mindset also considers how inclusive an experience is.
+Put another way, active learning experiences $=$ active learning $+$ formative assessment $+$ inclusive learning. And in this course, we use the term “learning experiences” to convey an emphasis on the student and the active engagement required for learning, rather than the more instructor-centered alternative, which focuses on covering the content. A learner- and learning-centered mindset also considers how inclusive an experience is.
+
+> __*Active learning experiences $=$ active learning $+$ formative assessment $+$ inclusive learning*__
 
 Active learning experiences manifest curricular intentions and bring science to life. They feature all the activities—active learning plus assessment opportunities—that occur during a course, plus the inclusive learning considerations that support them. Active learning experiences range from assignments to assessments, experiments to exams, interactions to inquiries, questions to quizzes. They include activities during a prescribed classroom period (such as a lecture, lab, or field work) and outside the classroom (such as a pre-class reading/quiz in a learning management system or a post-class homework assignment).
-
-In short: *Active learning experiences $=$ active learning $+$ formative assessment $+$ inclusive learning*
 
 ### Active Learning
 
@@ -146,8 +144,6 @@ For example, when asked to interpret a graph as part of a learning activity, stu
 
     How does your course use formative assessment? Where is there room for improvement?
 
----
-
 ## Why Active Learning Experiences?
 
 **Active learning experiences lead to better learning outcomes.** Two decades of studies have shown that active-learning environments lead to better outcomes for STEM students, with additional positive benefits for students from historically excluded communities (HEC). For example, a seminal metastudy by Freeman and colleagues (2014) synthesized the findings of over 200 active-learning studies in STEM and found that students in active courses consistently performed half a standard deviation higher than those in passive classes. Likewise, a survey of nearly 1,000 students who experienced active learning more often reported higher learning gains and improvements in collaborative skills. (Reeves et al., 2024). Another study found that polling questions that challenged students to think critically and solve problems collaboratively led to improved learning gains—and more questions correlated with higher gains (Smith et al., 2009, 2011).
@@ -172,15 +168,11 @@ Failure rates also illuminate a stark contrast between courses taught with an ac
     - Active learning helps close the opportunity gap between students who belong to groups that have been historically excluded from and included in science. By providing opportunities for students to practice higher-order cognitive skills, active learning can support students in achieving the learning goals and belonging in STEM.
     - Active learning strategies are designed to engage students in the learning process. By encouraging students to reflect on their understanding, active learning can increase student independence and growth mindset, leading to positive learning outcomes and STEM persistence.
 
----
-
 ## A Framework for Active Learning Experiences
 
 To summarize, above we identified that effective active learning experiences are made up of three components: active learning, formative assessment, and inclusive learning. This becomes our framework for learning experiences.
 
-*Active learning experiences $=$ active learning $+$ formative assessment $+$ inclusive learning*
-
----
+> __*Active learning experiences $=$ active learning $+$ formative assessment $+$ inclusive learning*__
 
 ## Active Learning Experiences in Practice
 
@@ -400,8 +392,6 @@ To encourage students to think and act like scientists, active learning experien
     - Provide feedback to the students?
     - Provide feedback to the instructor?
     - Be inclusive?
-
----
 
 ## Summary of Active Learning Experiences
 

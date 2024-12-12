@@ -13,8 +13,6 @@
     - Select summative assessments to integrate into your course design.
     - Align summative assessments with learning objectives and learning experiences.
 
----
-
 ## Summative Assessment Defined
 
 Summative assessments are evaluations conducted at the end of a learning period to determine a student’s overall understanding and development of expertise. As seen in the backward design process, summative assessments provide evidence about the extent to which students achieved the learning objectives (Wiggins & McTighe, 2005; Wiggins & McTighe, 2011).
@@ -29,8 +27,6 @@ Examples of summative assessments include:
 - Presentations
 - Performance assessments
 
----
-
 ## Why Summative Assessment?
 
 Summative assessments play a role beyond merely assigning grades to students. They serve as invaluable tools for evaluating student learning and providing feedback to both learners and instructors.
@@ -41,8 +37,6 @@ For instructors, summative assessments provide essential data to gauge the exten
 
 Like a scientist uses data to evaluate their hypotheses, a scientific instructor uses assessment data to evaluate their instructional practice. And given the importance of engaging students in scientific practices to equip them for future careers in science, summative assessments need to extend beyond evaluation of content knowledge and assess competencies expected for aspiring scientists.
 
----
-
 ## A Framework for Summative Assessment
 
 You already have the frameworks! Recall that when we leverage backward design, we:
@@ -52,8 +46,6 @@ You already have the frameworks! Recall that when we leverage backward design, w
 - Plan learning experiences to guide students toward understanding.
 
 These pieces of evidence will be used to guide the creation of summative assessments, which will both reinforce key concepts and serve as checkpoints throughout the learning process in your STEM course.
-
----
 
 ## Summative Assessment in Practice
 
@@ -145,8 +137,6 @@ Notice that all the summative assessment plans utilize more than one kind of sum
     How would each summative assessment technique evaluate the skills and knowledge that students practiced during formative assessments?
 
     What adjustments would you need to make so the plan is feasible for you and your instructional team to implement and grade?
-
----
 
 ## Inclusive Summative Assessments
 
@@ -347,8 +337,6 @@ Instructors who are interested in alternative grading but can’t or aren’t re
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
     Briefly describe the alignment between your summative assessment plan and your inclusive learning commitments, learning objectives, and syllabus. Where is there room for growth or adjustment?
-
----
 
 ## Summary of Summative Assessment
 

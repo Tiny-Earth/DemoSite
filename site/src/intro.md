@@ -12,8 +12,6 @@
     - Explain how scientific teaching can manifest the six facets of science for students and instructors.
     - Evaluate your current course (or a course you took) and propose where to increase the six facets of science.
 
----
-
 ## Scientific Teaching Defined
 
 Scientific teaching is both the *teaching of science* and the *science of teaching*. An instructor who practices scientific teaching:
@@ -34,18 +32,13 @@ Embedded in this undertaking is a challenge to all scientists to bring to teachi
 
 Scientific teaching also posits that teaching science should capture the spirit of discovery in the classroom in ways that are accessible to all students. Teaching scientifically supports student learning, brings joy to teaching, and leads to increased diversity in STEM.
 
----
-
 ## Why Scientific Teaching?
 
 ### Effective Science Education
 
+Effective science education is equitable science education: Scientific teaching is needed to create a diverse and creative workforce equipped to address emerging global and local problems. Increasing diversity in STEM requires drawing from historically excluded groups. The future workforce should match the demographics of the world’s citizens, take advantage of underutilized talent in all demographic groups, and make STEM careers readily available to people of all backgrounds.
 
-```@raw html
-<mark>Effective science education is equitable science education.</mark>
-```
-
-Scientific teaching is needed to create a diverse and creative workforce equipped to address emerging global and local problems.Increasing diversity in STEM requires drawing from historically excluded groups. The future workforce should match the demographics of the world’s citizens, take advantage of underutilized talent in all demographic groups, and make STEM careers readily available to people of all backgrounds.
+> __*Effective science education is equitable science education.*__
 
 Yet inequities plague higher education, quelling STEM workforce diversity. Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Bensimon, 2005, p. 99). The inequities in college science education continue to deny opportunities to historically excluded communities (HECs): groups and individuals who have traditionally been underrepresented and denied full rights, privileges, and participantion in STEM education. HECs include but are not limited to women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students (Asai, 2020).
 
@@ -100,12 +93,9 @@ Therefore, this Scientific Teaching Course focuses on what instructors have agen
 
 ### Effective Science
 
+Effective science is inclusive science. To answer the increasingly complex science questions of the future, we need to ensure that students develop a working understanding of how science is done. The rapid expansion of scientific knowledge means students need to be prepared to solve global problems and navigate the difference between evidence-based claims and opinions. Whether they major in biology, art history, math, or elementary education, college-educated students should understand the basic principles of the world around them. When students actively engage in scientific practices, they develop a more robust scientific self-efficacy and identity (Estrada et al., 2011). Equally important, students need to appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them.
 
-```@raw html
-<mark>Effective science is inclusive science.</mark>
-```
-
-To answer the increasingly complex science questions of the future, we need to ensure that students develop a working understanding of how science is done. The rapid expansion of scientific knowledge means students need to be prepared to solve global problems and navigate the difference between evidence-based claims and opinions. Whether they major in biology, art history, math, or elementary education, college-educated students should understand the basic principles of the world around them. When students actively engage in scientific practices, they develop a more robust scientific self-efficacy and identity (Estrada et al., 2011). Equally important, students need to appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them.
+> __*Effective science is inclusive science.*__
 
 Diversity within the scientific community supports the broadening of participation in STEM fields.  When students witness diverse scientist identities and engage in solving real-world problems, they connect with and envision themselves as part of the scientific community [ref].
 
@@ -113,28 +103,21 @@ These factors—positive self-efficacy, identity, and connection with scientific
 
 ### Effective Teaching
 
-```@raw html
-<mark>Effective teaching helps students develop science skills.</mark>
-```
+Effective teaching helps students develop science skills. Authentically integrating science into teaching requires moving beyond a mindset of “covering the content” and toward designing experiences where students “uncover the content.” This active engagement with the content helps students develop the essential knowledge, skills, and habits of mind that align with how science is practiced.
 
-Authentically integrating science into teaching requires moving beyond a mindset of “covering the content” and toward designing experiences where students “uncover the content.” This active engagement with the content helps students develop the essential knowledge, skills, and habits of mind that align with how science is practiced.
+> __*Effective teaching helps students develop science skills.*__
 
 Instructors who identify overarching concepts and broad themes can help students to organize complex information and deepen their understanding. They also help students integrate scientific knowledge with authentic practices and account for students' diverse identities, beliefs, and experiences. This shift doesn’t mean students don’t learn facts; it means they learn how to organize these facts and apply what they have learned in authentic contexts.
 
 ### The Three I’s of Effective Teaching
 
-```@raw html
-<mark>Effective teaching is intentional, inclusive, and iterative.</mark>
-```
+Effective teaching is intentional, inclusive, and iterative. Effective teaching creates learning experiences for students to engage in doing science—more on that in upcoming modules. Effective teaching also means approaching your teaching with the same rigor and spirit—the same intentionality, inclusiveness, and iterativeness—of your scientific research.
 
-Effective teaching creates learning experiences for students to engage in doing science—more on that in upcoming modules.
-
-Effective teaching also means approaching your teaching with the same rigor and spirit of your scientific research. This involves being intentional, inclusive, and iterative.
+> __*Effective teaching is intentional, inclusive, and iterative.*__
 
 Scientific teaching aims to bring a philosophy and framework to teaching that makes the process more rigorous, reflective, and evaluative. Drawing from discovery and evidence-based strategies, scientific teaching provides a model for teaching that parallels science research. Rather than allowing a haphazard approach to designing daily lectures, scientific teaching emphasizes intentional course-level planning, using empirical evidence and data to inform instructional decisions. This approach allows courses to evolve over time using student learning as the driving evidence.
 
 Like science, these teaching principles take time to practice and implement. Also like science, we advocate that you select from practices that demonstrate positive student outcomes and carefully evaluate which approaches will work best in your context.
-
 
 !!! tip ""
 
@@ -151,8 +134,6 @@ Like science, these teaching principles take time to practice and implement. Als
     - Increase equity of science
 
     Why do you believe you selected the reasons above that you did? What about them motivates you?
-
----
 
 ## A Framework for Scientific Teaching
 
@@ -273,8 +254,6 @@ The six facets of science include:
     - Ownership
     - Relevance
 
----
-
 ## Scientific Teaching in Practice
 
 Scientific teaching offers a natural structure for teaching that parallels scientific research, as well as the scientific practices we are asking our students to learn. Teaching science can mimic science practices in many ways.
@@ -297,8 +276,6 @@ This course is organized around interactive modules that provide guidelines, ref
 - **Inclusive Learning** provides a deeper dive into theories and practices for equitable learning.
 - The modules on **Course Design, Learning Experiences, Summative Assessment,** and **Course Structure** turn theory into actionable practice.
 - **Scientific Teaching Revisited** offers suggestions for lifelong learning and iterative improvement as a scientific teacher.
-
----
 
 ## Summary of Scientific Teaching
 
