@@ -104,12 +104,12 @@ td:empty, th:empty {
 
 th[scope=col] {
   border: 0 !important;
-  border-bottom: 6px solid #ffe59a !important;
+  border-bottom: 6px solid gold !important;
 }
 
 th[scope=row] {
   border: 0 !important;
-  border-right: 6px solid #ffe59a !important;
+  border-right: 6px solid gold !important;
   text-align: right !important;
 }
 
@@ -123,4 +123,18 @@ tr > *:nth-last-child(3)~* {
 
 tr > *:nth-last-child(4)~* {
   width: 25%;
+}
+
+/* Custom pull quotes */
+blockquote strong em, blockquote em strong {
+  color: inherit;
+  background: inherit;
+  font-style: normal;
+  font-weight: normal;
+  border-bottom: 4px solid gold;
+}
+
+h2 {
+  border-top: 6px solid rgb(70 156 160);
+  padding-top: .5em;
 }
