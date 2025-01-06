@@ -11,7 +11,7 @@ pages = process(YAML.load_file("site/toc.yaml"))
 
 # Compile the website
 makedocs(
-    sitename="Scientific Teaching Course",
+    sitename="Scientific Teaching Course [DRAFT]",
     # authors="Mariah A. Knowles <snotskie@gmail.com> and contributors", # TODO
     pages=pages,
     format=Documenter.HTML(
