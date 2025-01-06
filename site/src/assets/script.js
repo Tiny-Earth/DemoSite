@@ -19,7 +19,7 @@ window.addEventListener("load", function(){
     let fig_no = 1;
     for (const img of document.querySelectorAll("img[alt]")){
         // Skip doing this on the site logo
-        if (img.getAttribute("alt") === "Scientific Teaching Course logo") continue;
+        if (img.getAttribute("alt").startsWith("Scientific Teaching Course") && img.getAttribute("alt").endsWith("logo")) continue;
 
         // Otherwise, wrap the image in a figure and caption it
         const figure = document.createElement("figure");
