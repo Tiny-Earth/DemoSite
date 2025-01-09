@@ -40,8 +40,8 @@ Surprisingly, given its long history, there is not a consistent definition of ac
     !!! details "Click to show published examples"
         - “...instructional activities involving students in doing things and thinking about what they are doing.” (Bonwell & Eison, 1991)
         - “Active learning simply means getting involved with the information presented - really thinking about it (analyzing, synthesizing, evaluating) rather than just passively receiving it and memorizing it.” (King, 1993)
-        - “Active learning implies that students are engaged in their own learning. Active teaching strategies have students do something other than take notes or follow directions, placing the responsibility for learning squarely on their shoulders. As they participate in activities that involve group learning, problem solving, or inquiry-based learning, students construct new knowledge and build new scientific skills.” (Handelsman et al., 2007) 
-        - “Active learning engages students in the process of learning through activities and/or discussions in class, as opposed to passively listening to an expert.” (Freeman et al. 2014)
+        - “Active learning implies that students are engaged in their own learning. Active teaching strategies have students do something other than take notes or follow directions, placing the responsibility for learning squarely on their shoulders. As they participate in activities that involve group learning, problem solving, or inquiry-based learning, students construct new knowledge and build new scientific skills.” [handelsman_scientific_2007](@cite) 
+        - “Active learning engages students in the process of learning through activities and/or discussions in class, as opposed to passively listening to an expert.” [freeman_active_2014](@cite)
 
     How were the published definitions similar to or different from your definition?
 
@@ -124,7 +124,7 @@ In scientific teaching, we use the term **“active learning experiences”** as
 
 ### Formative Assessment
 
-> Assessment is automatically active because the students must do something to assess themselves or be assessed (Handelsman et al., 2007).
+> Assessment is automatically active because the students must do something to assess themselves or be assessed [handelsman_scientific_2007](@cite).
 
 Ongoing feedback is one of the most reliable ways to foster learning gains (Black & Wiliam, 1998). **Formative assessment** is defined as the suite of ongoing activities that enable students and instructors to monitor progress toward learning objectives, providing a mechanism for continuous improvement. For example, formative assessment can take place during discussions of different ideas during a group activity, or when students answer a polling question, discuss their answers, and then explain their reasoning back to the whole class. In contrast, **summative assessment** involves the evaluations done at the end of a learning experience, such as an exam or lab report. We will discuss summative assessments separately in the *Summative Assessment* module.
 
@@ -150,11 +150,11 @@ For example, when asked to interpret a graph as part of a learning activity, stu
 
 Failure rates also illuminate a stark contrast between courses taught with an active vs. traditional  (passive) approach. In a meta-analysis of 200 published papers comparing student outcomes in matched courses, Freeman et al. (2014) found that students in active STEM courses had a 10% lower failure rate than those in passive courses.
 
-**Active learning is an equitable practice.** The positive benefits of active learning disproportionately affect STEM students from historically excluded groups, closing the gap between majority and minority students. A meta-analysis of 41 published papers showed that active courses led to a 33% reduction in exam score gaps between majority and minority students, and a 45% reduction in the gap for failure rates (Theobald et al., 2020).
+**Active learning is an equitable practice.** The positive benefits of active learning disproportionately affect STEM students from historically excluded groups, closing the gap between majority and minority students. A meta-analysis of 41 published papers showed that active courses led to a 33% reduction in exam score gaps between majority and minority students, and a 45% reduction in the gap for failure rates [theobald_active_2020](@cite).
 
 **Active learning leverages how learning works.** Active learning taps into metacognition, which engages students in reflecting on their learning and encouraging them to adjust their approach if needed. Active learning helps students connect new information to their existing knowledge and experiences, making it more meaningful and memorable. It fosters a growth mindset and makes space to evaluate options and make informed decisions. [TODO refs]
 
-**Active learning models the facets of science.** Active learning allows for opportunities to practice the facets of science, making space to troubleshoot, evaluate options, and make informed decisions based on evidence and data. Activities that reflect scientific ways of thinking fit well into active learning formats, such as generating hypotheses, designing experiments, and analyzing data (Evans et al., 2021; Hanauer et al., 2017; Jordan et al., 2014; Lopatto et al., 2008; Olson et al., 2019; Shaffer et al., 2014; Waddell et al., 2021).
+**Active learning models the facets of science.** Active learning allows for opportunities to practice the facets of science, making space to troubleshoot, evaluate options, and make informed decisions based on evidence and data. Activities that reflect scientific ways of thinking fit well into active learning formats, such as generating hypotheses, designing experiments, and analyzing data [evans_functional_2021, hanauer_inclusive_2017, jordan_broadly_2014, lopatto_genomics_2008, olson_expression-based_2019, shaffer_course-based_2014, waddell_flying_2021](@cite).
 
 !!! tip ""
 
