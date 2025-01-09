@@ -28,7 +28,7 @@ The goals of scientific teaching are to:
 - Infuse scientific thinking into teaching and learning.
 - Increase diversity in STEM.
 
-Embedded in this undertaking is a challenge to all scientists to bring to teaching the critical thinking, rigor, creativity, and spirit of experimentation that defines research (Handelsman et al., 2004).
+Embedded in this undertaking is a challenge to all scientists to bring to teaching the critical thinking, rigor, creativity, and spirit of experimentation that defines research [handelsman_scientific_2004](@cite).
 
 Scientific teaching also posits that teaching science should capture the spirit of discovery in the classroom in ways that are accessible to all students. Teaching scientifically supports student learning, brings joy to teaching, and leads to increased diversity in STEM.
 
@@ -40,7 +40,7 @@ Effective science education is equitable science education: Scientific teaching 
 
 > __*Effective science education is equitable science education.*__
 
-Yet inequities plague higher education, quelling STEM workforce diversity. Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Bensimon, 2005, p. 99). The inequities in college science education continue to deny opportunities to historically excluded communities (HECs): groups and individuals who have traditionally been underrepresented and denied full rights, privileges, and participantion in STEM education. HECs include but are not limited to women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students (Asai, 2020).
+Yet inequities plague higher education, quelling STEM workforce diversity. Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Bensimon, 2005, p. 99). The inequities in college science education continue to deny opportunities to historically excluded communities (HECs): groups and individuals who have traditionally been underrepresented and denied full rights, privileges, and participantion in STEM education. HECs include but are not limited to women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students [Asai2020-bb](@cite).
 
 To achieve an equitable STEM workforce, we must address the structural, individual, intentional, and unintentional biases that:
 - Discourage HEC students from pursuing STEM
@@ -55,7 +55,7 @@ For decades, numerous reports have called for science education reform, citing o
 - Bio2010 (National Research Council, 2003) recommended that science curriculum should reflect the nature of science as a dynamic, interdisciplinary, and rapidly changing frontier, rather than a static body of facts.
 - Vision and Change (AAAS 2008; 2011) furthered the Bio2010 recommendations by enumerating key biology concepts and science skills, encouraging teaching practices that focused on these concepts and skills, and calling for more research in STEM higher education.
 - Engage to Excel (PCAST, 2012) illuminated national STEM workforce shortages, including racial and gender disparities. The report purported that addressing these weaknesses required improving undergraduate STEM education. The report recommended widespread adoption of active learning strategies and undergraduate research experiences, citing dozens of studies demonstrating their effectiveness.
-- Indicators for Monitoring Undergraduate STEM Education, a National Academies report, reinforced goals for improving the quality and impact of undergraduate STEM education (Dibner et al., 2018) by engaging students in evidence-based educational practices. They broadened the call to strive for inclusion by providing equitable access to STEM opportunities.
+- Indicators for Monitoring Undergraduate STEM Education, a National Academies report, reinforced goals for improving the quality and impact of undergraduate STEM education [dibner2018indicators](@cite) by engaging students in evidence-based educational practices. They broadened the call to strive for inclusion by providing equitable access to STEM opportunities.
 - Levers for Change (AAAS, 2019) noted that the benefits of active learning extended beyond knowledge and skills to include “attitudes, sense of belonging, and persistence in STEM” and again pleaded for widespread adoption of evidence-based strategies to support students.
 - The Federal Strategic Plan for Advancing STEM Education and Cultivating Talent (CoSTEM, 2024) proposed organizing a plan for coordinating federal agencies across give areas: STEM engagement, teaching and learning, workforce development, research and innovation, and environments. The report called out course-based research experiences as an effective tool for providing students with access and opportunity to STEM research.
 
@@ -64,11 +64,11 @@ Despite these findings, 70% of instructors have reported extensive use of lectur
 ### STEM has an Equity Problem
 
 The problem of not using evidence-based practices is compounded when we ignore the role of systemic inequities in US higher education, where underrepresentation in STEM is prevalent.
-More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields (Thiry et al., 2019; Handelsman et al., 2022).
+More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields [thiry_talking_2019, handelsman_achieving_2022](@cite).
 
 Although a disheartening 42% of white students leave STEM majors, the problem is much worse for students of color: 58% of Latine students and 66% of Black students leave STEM (Riegle-Crumb et al., 2019).
 
-The differential pattern of exclusion from STEM affects students not only according to race and ethnicity; talented college students from HECs also leave at higher rates (Thiry et al., 2019).
+The differential pattern of exclusion from STEM affects students not only according to race and ethnicity; talented college students from HECs also leave at higher rates [thiry_talking_2019](@cite).
 
 Most of those who leave a STEM major have the interest, confidence, and aptitude to be successful in STEM, but early classroom experiences can dampen their interest and actively exclude them from persisting (Thiry et al., 2019; Estrada et al., 2019). Their departures after gateway STEM courses represent a major talent drain from the system. To achieve an equitable educational enterprise, we must address the structural, individual, intentional, and unintentional biases that discourage HEC students from pursuing STEM.
 
