@@ -252,7 +252,7 @@ As we saw in the Course Design module, incorporating Universal Design for Learni
 
 ### Equitable Summative Assessments Reduce Stereotype Threat
 
-As we saw in the *Inclusive Learning* module, stereotype threat is a psychological phenomenon that refers to the feeling of anxiety or self-doubt that individuals experience when they are in a situation where they are at risk of being judged or evaluated based on a negative stereotype about their group (Steele et al., 2002). This can lead to a decrease in performance and motivation, as individuals may feel like they are being held to a lower standard or that they are being judged based on their group membership rather than their individual abilities.
+As we saw in the *Inclusive Learning* module, stereotype threat is a psychological phenomenon that refers to the feeling of anxiety or self-doubt that individuals experience when they are in a situation where they are at risk of being judged or evaluated based on a negative stereotype about their group [Steele2002-pt](@cite). This can lead to a decrease in performance and motivation, as individuals may feel like they are being held to a lower standard or that they are being judged based on their group membership rather than their individual abilities.
 
 Students deserve the opportunity to engage with an assessment to the best of their ability without being impeded by stereotype threats, biases, or assumptions. To achieve this, it is therefore crucial that summative assessments are designed and conducted in a way that minimizes the activation of stereotype threat by following these practices:
 
@@ -261,7 +261,7 @@ Students deserve the opportunity to engage with an assessment to the best of the
 - Teach stress-reduction techniques, such as deep breathing or mindfulness exercises, before exams.
 - Write inclusive test questions, and include diverse and inclusive examples and scenarios.
 - Ensure that test materials, such as images or scenarios, do not perpetuate negative stereotypes or biases.
-- Solicit demographic information after exams, not before (Kumar, 2010).
+- Solicit demographic information after exams, not before [Kumar2010-mp](@cite).
 
 !!! tip ""
 
