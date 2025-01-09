@@ -23,19 +23,19 @@ There is no shortage of inclusive teaching methods. In fact, the number of choic
 
 ## Why Inclusive Learning?
 
-Diversity in STEM starts with inclusive learning environments. Recall from the previous module that a prevailing reason students leave science majors is not because they are incapable, but because science is too often taught in a way that doesn’t inspire them or instill a sense of belonging. Consequently, more than half of the 600,000 US students who declare STEM majors change to a different major before graduating (Thiry et al., 2019), with students from underrepresented backgrounds switching out of STEM at disproportionate rates (Riegle-Crumb, et al, 2019).
+Diversity in STEM starts with inclusive learning environments. Recall from the previous module that a prevailing reason students leave science majors is not because they are incapable, but because science is too often taught in a way that doesn’t inspire them or instill a sense of belonging. Consequently, more than half of the 600,000 US students who declare STEM majors change to a different major before graduating [thiry_talking_2019](@cite), with students from underrepresented backgrounds switching out of STEM at disproportionate rates (Riegle-Crumb, et al, 2019).
 
 Reversing STEM attrition requires us to reimagine how the various components of a classroom work together to create inclusive learning environments.
 
 ## A Framework for Inclusive Learning
 
-The Five Dimensions of Inclusive Teaching (Bell, et al. 2016) provides a framework for understanding how instructors, students, curriculum, and pedagogy collectively influence the classroom environment.
+The Five Dimensions of Inclusive Teaching [bell2016design](@cite) provides a framework for understanding how instructors, students, curriculum, and pedagogy collectively influence the classroom environment.
 
 At the center of the framework is course climate, which encompasses the atmosphere and environment in which students learn. It is influenced by the other four dimensions: instructors (who we are), students (who we teach), curriculum (what we teach), and pedagogy (how we teach).
 
 ![Illustration of the five dimensions of inclusive teaching: Instructors, Pedagogy, Students, Curriculum, and Climate. Each dimension connects to the others, with Climate playing a central, moderating role.](assets/five-dimensions-of-inclusive-teaching.svg)
 
-Figure adapted from (Bell et al., 2016;Marchesani and Adams, 1992).
+Figure adapted from [bell2016design, marchesani1992dynamics](@cite).
 
 !!! tip ""
 
@@ -83,7 +83,7 @@ Part of scientific identity includes seeing one’s self and perspectives repres
 
 ### The Pedagogy Dimension
 
-Pedagogy involves how a course is designed and taught. It also defines how students interact with the content and each other. Once again, the choices we make determine how inclusive the course feels. In the Scientific Teaching module, we demonstrated how poor instruction leads to a pattern of exclusion from STEM that differentially affects students. In contrast, pedagogies that promote a sense of belonging lead to increased persistence in STEM (Estrada et al., 2011), especially for HEC students (Evans et al., 2021; Hurtado et al., 2009; Olson et al., 2019; Rodenbusch et al., 2016; Shuster et al., 2019; Waddell et al., 2021).
+Pedagogy involves how a course is designed and taught. It also defines how students interact with the content and each other. Once again, the choices we make determine how inclusive the course feels. In the Scientific Teaching module, we demonstrated how poor instruction leads to a pattern of exclusion from STEM that differentially affects students. In contrast, pedagogies that promote a sense of belonging lead to increased persistence in STEM (Estrada et al., 2011), especially for HEC students [evans_functional_2021, hurtado_diversifying_2009, olson_expression-based_2019, rodenbusch_early_2016, shuster_implementing_2019, waddell_flying_2021](@cite).
 
 ### Inclusive Learning in Practice
 
@@ -96,18 +96,18 @@ Let’s examine how the instructor, student, curriculum, and pedagogy dimensions
 Interventions can be incorporated as individual or repeated activities, such as:
 
 - Increase **instructor immediacy and presence** by making eye contact, engaging in positive body movements such as nods and smiles, communicating goals, setting guidelines for student interactions, and encouraging student participation (Shea et al., 2006; Baker, 2010; Andersen et al., 1981; Arbaugh & Hwang, 2006).
-- Use **active learning experiences**, in which students actively engage with content and sometimes each other (Freeman et al., 2014). You’ll find many examples in the Learning Experiences module.
+- Use **active learning experiences**, in which students actively engage with content and sometimes each other [freeman_active_2014](@cite). You’ll find many examples in the Learning Experiences module.
 - Do regular **formative assessments**, in which students have the opportunity to regularly practice and receive feedback (Black and Wiliam, 1998). More in Learning Experiences.
 - Encourage **microaffirmations**, which are statements that affirm a student’s capabilities (Estrada et al., 2019)
-- Leverage activities that **increase resilience** by reframing social adversity as common and transient (Walton and Cohen, 2011)
-- Incorporate interventions that make explicit the **utility value** of a course or its parts (Harackiewicz et al., 2016; Asher et al., 2023).
-- Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance (Steele et al., 2002).
+- Leverage activities that **increase resilience** by reframing social adversity as common and transient [walton_brief_2011](@cite)
+- Incorporate interventions that make explicit the **utility value** of a course or its parts [harackiewicz_closing_2016, asher2023utility](@cite).
+- Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance [Steele2002-pt](@cite).
 
 Instructors can also modify overall course structure or infuse practices into an entire course to accomplish an inclusive learning environment. Some examples:
 
 - Create a culture where **failure is a productive and normal part of science**, rather than a judgement on students' identity (Petroski 2006; Simpson and Maltese, 2017; Lopatto et al., 2020; Gin, et al., 2018; Good et al., 2012; Koch et al., 2008; Cacciotti, 2015).
-- Use **high-structure course design** to elucidate what is expected of students and create predictable patterns (Freeman et al., 2011; Theobald et al., 2020). More on this in Course Structure.
-- Teach a **course-based undergraduate research experience (CURE)**, in which students engage in research while enrolled in a course (Aikens et al., 2017; Dolan and Weaver, 2021; Hurtado et al., 2009). More on this in Learning Experiences.
+- Use **high-structure course design** to elucidate what is expected of students and create predictable patterns [freeman_increased_2011, theobald_active_2020](@cite). More on this in Course Structure.
+- Teach a **course-based undergraduate research experience (CURE)**, in which students engage in research while enrolled in a course [aikens_race_2017, dolan_guide_2021, hurtado_diversifying_2009](@cite). More on this in Learning Experiences.
 - Leverage **universal design for learning** principles, which incorporate accessibility considerations into course design that provide equal access and opportunities for everyone, regardless of their abilities (Burgstahler & Cory, 2008).
 
 !!! tip ""
@@ -192,7 +192,7 @@ Identity comprises the social, emotional, and professional attributes of an indi
 ### Mitigate Biases and Assumptions
 Identities aren’t the only thing that influence outcomes in STEM. Biases and assumptions matter, too. For example, biases and assumptions affect how we rate people, which can have consequences for hiring decisions and advancement.
 
-Let’s examine hiring studies as one example of bias affecting outcomes. In one study (Moss-Racusin et al., 2012) 127 biology, chemistry, and physics faculty at six top US research universities received a student resume for a lab manager position. Each resume was randomly assigned a gendered name: “Jennifer” (female) or “John” (male). Otherwise, the applications were identical, and each evaluator saw only one version. Faculty then evaluated the student’s competence and hireability and proposed a salary.
+Let’s examine hiring studies as one example of bias affecting outcomes. In one study [Moss-Racusin2012-cm](@cite) 127 biology, chemistry, and physics faculty at six top US research universities received a student resume for a lab manager position. Each resume was randomly assigned a gendered name: “Jennifer” (female) or “John” (male). Otherwise, the applications were identical, and each evaluator saw only one version. Faculty then evaluated the student’s competence and hireability and proposed a salary.
 
 What results would you predict? Click here to find out what happened!
 
@@ -202,7 +202,7 @@ What results would you predict? Click here to find out what happened!
 
 Dozens of studies have compared hiring decisions with the same setup, all yielding the same result: Evaluators are substantially more likely to hire and pay a higher salary if an applicant has a man’s name. **These results have not changed for 50 years.**
 
-In fact, we hold biases about everything imaginable—not just hiring. For a more complete list of the HEC groups affected by bias and assumptions in STEM higher education, check out the supplementary materials for Achieving STEM Diversity: Fix the Classrooms (Handelsman et al., 2022). 
+In fact, we hold biases about everything imaginable—not just hiring. For a more complete list of the HEC groups affected by bias and assumptions in STEM higher education, check out the supplementary materials for Achieving STEM Diversity: Fix the Classrooms [handelsman_achieving_2022](@cite). 
 
 Bias is not inherently bad and is part of human nature. But when bias leads to recurring, systemic inequalities that cause negative socioeconomic impacts and structural inequities, we need to pay attention and effect change. 
 
