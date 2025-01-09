@@ -162,10 +162,10 @@ The level of course structure lies on a continuum from low to high. High-structu
 
 Increasing a course's structure has many implications for student learning and their educational experience:
 
-- Student failure rates were lower in a moderately structured course design and were dramatically lower in a highly structured course design (Freeman et al., 2011)
-- A "moderate-structure" intervention increased course performance for all student populations, but worked disproportionately well for black students and first-generation students. Students also consistently reported completing the assigned readings more frequently, spending more time studying for class, and feeling an increased sense of community (Eddy & Hogan, 2014)
+- Student failure rates were lower in a moderately structured course design and were dramatically lower in a highly structured course design [freeman_increased_2011](@cite)
+- A "moderate-structure" intervention increased course performance for all student populations, but worked disproportionately well for black students and first-generation students. Students also consistently reported completing the assigned readings more frequently, spending more time studying for class, and feeling an increased sense of community [eddy_getting_2014](@cite)
 - Implementing a hybrid course format with high structure improved exam performance for traditionally underrepresented students (Gavassa et al., 2019)
-- A highly-structured course design improved the performance of all students in a college-level introductory biology class and reduced the achievement gap between disadvantaged and nondisadvantaged students (Haak et al., 2011)
+- A highly-structured course design improved the performance of all students in a college-level introductory biology class and reduced the achievement gap between disadvantaged and nondisadvantaged students [haak_increased_2011](@cite)
 
 ### Show Me the Data!
 
