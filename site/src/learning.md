@@ -41,7 +41,7 @@ Instead, reframe like this:
 - The first week of class will provide background knowledge and resources for everyone.
 - The formative assessments will give students the tools they need to study in this course.
 
-Many instructors approach learning with a model of student deficit in which students have “deficiencies” and learning is geared toward fixing them (Griffin, Murray, Care, Thomas & Perri, 2010). In contrast, a model of learning-environment deficit strives to change the classroom and use supportive strategies that benefit all students (Handelsman et al., 2022). Emphasizing what students will learn, rather than what content will be covered, requires instructors to have a growth mindset that focuses on improving the learning environment.
+Many instructors approach learning with a model of student deficit in which students have “deficiencies” and learning is geared toward fixing them (Griffin, Murray, Care, Thomas & Perri, 2010). In contrast, a model of learning-environment deficit strives to change the classroom and use supportive strategies that benefit all students [handelsman_achieving_2022](@cite). Emphasizing what students will learn, rather than what content will be covered, requires instructors to have a growth mindset that focuses on improving the learning environment.
 
 ```@raw html
 <figure>
