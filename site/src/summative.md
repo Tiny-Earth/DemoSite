@@ -17,7 +17,7 @@
 
 Summative assessments are evaluations conducted at the end of a learning period to determine a student’s overall understanding and development of expertise. As seen in the backward design process, summative assessments provide evidence about the extent to which students achieved the learning objectives (Wiggins & McTighe, 2005; Wiggins & McTighe, 2011).
 
-Unlike formative assessments, which are ongoing and provide feedback during the learning process, summative assessments are typically administered after a unit has been completed to provide a summary of a student’s learning progress and achievement (Kibble, 2017). Formative assessments are comprehensive and assess a broad range of knowledge, skills, and competencies related to the learning objectives. Often, they are high-stakes, meaning formative assessments carry significant weight in determining students’ grades or academic progress.
+Unlike formative assessments, which are ongoing and provide feedback during the learning process, summative assessments are typically administered after a unit has been completed to provide a summary of a student’s learning progress and achievement (Kibble, 2017). Summative assessments are comprehensive and assess a broad range of knowledge, skills, and competencies related to the learning objectives. Often, they are high-stakes, meaning formative assessments carry significant weight in determining students’ grades or academic progress.
 
 Examples of summative assessments include:
 
