@@ -1,6 +1,6 @@
 # Summative Assessment
 
-**Estimated time to complete:** 50 minutes
+**Estimated time to complete:** 100 minutes
 
 ## Module Learning Objectives
 
@@ -164,7 +164,7 @@ Rubrics also provide a positive framework for student expectations, outlining cl
 
 A rubric typically consists of a grid or list that outlines the specific criteria for success, along with descriptions of different levels of performance for each criterion (e.g., developing, proficient, and excellent).
 
-**Rubrics can be analytic or holistic.** Analytic rubrics provide a different score for each criterion, such as overall ideas and conceptual understanding, organization, use of evidence in arguments, grammar and spelling, and format. In contrast, holistic rubrics provide a single score that represents the grader’s overall assessment of the work and how its components hang together (Bean, 2011).
+**Rubrics can be analytic or holistic.** Analytic rubrics provide a different score for each criterion, such as overall ideas and conceptual understanding, organization, use of evidence in arguments, grammar and spelling, and format. In contrast, holistic rubrics provide a single score that represents the grader’s overall assessment of the work and how its components hang together (Bean, 2011). Analytic rubrics are more common in STEM courses, though holistic rubrics are not unheard of.
 
 **Rubrics can be generic or task-specific.** A generic rubric would apply to multiple assignments, whereas a task-specific rubric would call out specific criteria for one assignment (Bean, 2011). For example, a generic rubric could be used to assess all written assignments during a semester, whereas a task-specific rubric would be tailored for each lab report.
 
@@ -183,13 +183,9 @@ And to write a rubric, once again we revisit our backward design principles:
 
     Which example rubric resonates with your experiences as a student? Why?
 
-    Which example rubric looks more learner-centered? Why?
-    
-    Could the context of the course and the sequencing of its activities make either example rubric more or less learner-centered or effective? How so?
-
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    Which example rubric looks more like how you communicate clear and specific expectations for student performance in your course? Why?
+    Which example rubric would allow you to communicate clear and specific expectations for student performance in your course? How so?
 
     How else do you communicate clear and specific expectations for student performance in your course?
 
@@ -209,11 +205,11 @@ And to write a rubric, once again we revisit our backward design principles:
 
     What advice would you provide students whose work *does not meet* the criteria to help them move towards *fully meets* the criteria?
 
-    And what would you say to students to convey why the criteria matters?
+    And what would you say to students to convey why the criteria matters towards the goals of the course and beyond?
 
     Then, repeat the above questions, choosing a second criteria you would assess this student work on.
 
-    Finally, how could you present this information to students in an effective, equitable, learner-centered way? Think about how you would design a holistic or analytic rubric around information like this, then briefly describe your design.
+    Finally, how could you present this information to students in an effective, equitable, learner-centered way? Think about how you would design a rubric around information like this, then briefly describe your design.
 
 ### Example of an Inclusive Assessment Tool: Exams without Time Limits
 

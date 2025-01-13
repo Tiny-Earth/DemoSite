@@ -1,6 +1,6 @@
 # Active Learning Experiences
 
-**Estimated time to complete:** 60 minutes
+**Estimated time to complete:** 100 minutes
 
 !!! compat ""
 
