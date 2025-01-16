@@ -24,12 +24,12 @@ The goal is to continue to create a cohesive course that brings science to life 
 
 ## Leaving Yourself a Trail of Breadcrumbs
 
-Below is a summary of the main considerations for scientific teaching to support your ongoing growth and iteration of the course over time. As you complete the STC, make note of which of the following next steps you want to complete so you have a trail of “bread crumbs” to guide your way to when it’s time to return to your scientific teaching path.
+Below is a summary of the main considerations for scientific teaching to support your ongoing growth and iteration of the course over time. As you review what you've learned from the STC, identify which steps you will take next. This will help you create a “breadcrumb” trail to guide you on your path to scientific teaching.
 
 ### For You as the Instructor
 
 - What are your next steps to build out your course? 
-    - Finish and align learning objectives, activities, and assessments 
+    - Finish and align learning objectives, assessments, and activities
     - Create detailed instructional materials to support them
     - Work on inclusive learning environment
     - Work on overall course structure
@@ -58,4 +58,4 @@ What do you want to know to guide future iterations and ongoing growth?
 
 Science is essential for understanding the world around us. Scientists play a critical role in discovering new knowledge and addressing issues related to the environment, public health, and so much more. A diversity of perspectives will be needed to not only find solutions to emerging problems, but also to identify which questions are important. The only way to enlist those diverse perspectives is to stop gatekeeping scientific opportunities from those who have historically been excluded from STEM and instead open the gates.
 
-You have a powerful tool at your fingertips: your classroom. The learning experience in that classroom is in your charge, lending you both opportunity and responsibility to create learning experiences that support students in understanding the world through a scientific lens and to encourage them to apply scientific ways of thinking to the world around them. By engaging in a lifelong journey of discovery through scientific teaching, you and your colleagues can inspire students to become the scientists we need.
+You have a powerful tool at your fingertips: your classroom. You have a responsibility for shaping the learning experience in your classroom, giving you both the opportunity and duty to help students understand the world through science and apply scientific thinking to it. By engaging in a lifelong journey of discovery through scientific teaching, you and your colleagues can inspire students to become the scientists we need.
