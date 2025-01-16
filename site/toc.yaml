@@ -1,4 +1,5 @@
-- index.md
+- Frontmatter:
+  - index.md
 - Part One:
   - intro.md
   - inclusive.md
@@ -11,8 +12,8 @@
 - Part Three:
   - revisited.md
   - transformation.md
+  - post.md
   - survey.md
-- post.md
 - Appendix:
   # - resources.md
   - refs.md

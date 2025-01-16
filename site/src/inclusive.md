@@ -85,7 +85,7 @@ Part of scientific identity includes seeing one’s self and perspectives repres
 
 Pedagogy involves how a course is designed and taught. It also defines how students interact with the content and each other. Once again, the choices we make determine how inclusive the course feels. In the Scientific Teaching module, we demonstrated how poor instruction leads to a pattern of exclusion from STEM that differentially affects students. In contrast, pedagogies that promote a sense of belonging lead to increased persistence in STEM (Estrada et al., 2011), especially for HEC students [evans_functional_2021, hurtado_diversifying_2009, olson_expression-based_2019, rodenbusch_early_2016, shuster_implementing_2019, waddell_flying_2021](@cite).
 
-### Inclusive Learning in Practice
+## Inclusive Learning in Practice
 
 Let’s examine how the instructor, student, curriculum, and pedagogy dimensions work together to create a course climate that is based on inclusive learning. Below is a summary of several evidence-based practices based on the five dimensions of inclusive teaching.
 
