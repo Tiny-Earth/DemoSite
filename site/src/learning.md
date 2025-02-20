@@ -15,7 +15,7 @@
 
 **Learners** come into every learning experience with prior knowledge, mindsets, and beliefs. They have reasons for enrolling in a course and motivations for engaging with the material. Each learner’s brain contains approximately 86 billion neurons. Each neuron connects to many other neurons, creating a vast and unique network of 100 trillion neural connections within each brain [ref].
 
-Each course brings a unique mixture of course content, skills, and methods. The course **learning objectives** help students understand what is expected of them so they can build on what they already know and emphasize learning new ideas or difficult approaches (Wiggins & McTighe, 2005; Wiggins & McTighe, 2011).
+Each course brings a unique mixture of course content, skills, and methods. The course **learning objectives** help students understand what is expected of them so they can build on what they already know and emphasize learning new ideas or difficult approaches [wiggins2005understanding, wiggins2011understanding](@cite).
 
 The **learning environment** affects the extent to which students feel a sense of belonging and agency to engage in learning. It is influenced by the instructor’s actions and statements, the instructional choices about which problems or examples matter, as well as cultural factors in society at large [ref].
 
@@ -41,7 +41,7 @@ Instead, reframe like this:
 - The first week of class will provide background knowledge and resources for everyone.
 - The formative assessments will give students the tools they need to study in this course.
 
-Many instructors approach learning with a model of student deficit in which students have “deficiencies” and learning is geared toward fixing them (Griffin, Murray, Care, Thomas & Perri, 2010). In contrast, a model of learning-environment deficit strives to change the classroom and use supportive strategies that benefit all students [handelsman_achieving_2022](@cite). Emphasizing what students will learn, rather than what content will be covered, requires instructors to have a growth mindset that focuses on improving the learning environment.
+Many instructors approach learning with a model of student deficit in which students have “deficiencies” and learning is geared toward fixing them [griffin2010developmental](@cite). In contrast, a model of learning-environment deficit strives to change the classroom and use supportive strategies that benefit all students [handelsman_achieving_2022](@cite). Emphasizing what students will learn, rather than what content will be covered, requires instructors to have a growth mindset that focuses on improving the learning environment.
 
 ```@raw html
 <figure>
@@ -78,7 +78,7 @@ The theory of **constructivism** explains how people construct their own underst
 ![Illustration of a framework for how learning works. Five stages iterate and lead into one another. 1. Activate prior knowledge: Everyone has views about how the world works. This prior knowledge needs to be activated for learning. 2. Recognize dissonance: New information may challenges these views, causing dissonance that needs to be reconciled and explained. 3. Construct new knowledge: During the reconciliation, new neural networks form, leading to new knowledge, skills, and views. 4. Practice and apply knowledge: Application, targeted practice, and assessment with feedback reinforce the new networks and views. 5. Reflect and evaluate: Awareness of one's knowledge gaps and reflection guide future learning.](assets/How-We-Learn.png)
 
 
-Many things contribute to learning, including one’s prior experiences, stress, situational factors, and motivation. Each of these can create different conditions that either favor learning in general or favor learning a particular aspect of a situation (for example, a familiar smell from childhood can bring back specific memories) (Gold and Korol, 2017). Significant learning experiences commonly involve an important event or relationship to real events, a level of interest or value in the experience, and an opportunity to apply and integrate new knowledge (Fink, 2013).
+Many things contribute to learning, including one’s prior experiences, stress, situational factors, and motivation. Each of these can create different conditions that either favor learning in general or favor learning a particular aspect of a situation (for example, a familiar smell from childhood can bring back specific memories) (Gold and Korol, 2017). Significant learning experiences commonly involve an important event or relationship to real events, a level of interest or value in the experience, and an opportunity to apply and integrate new knowledge [fink2006creating](@cite).
 
 Neurons communicate with each other to drive everything we do, including how we learn. Learning requires adapting existing neural processes to orchestrate new pathways and new behaviors. Constructing knowledge involves making new neuronal connections and/or enhancing connections that exist.
 
@@ -117,7 +117,7 @@ An expert not only understands many concepts, but can relate them to each other,
 
 ### Seven Principles for Learning
 
-This brings us to a set of research-based principles about learning (Ambrose et al., 2010):
+This brings us to a set of research-based principles about learning [ambrose2010learning](@cite):
 
 1. Prior knowledge can help or hinder learning.
 2. How students organize knowledge influences how they learn and apply what they know.
