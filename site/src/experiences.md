@@ -53,7 +53,7 @@ While active learning is a broad concept that encompasses a variety of technique
 
 ### Multiple Ways to Be Active: The ICAP Model
 
-The ICAP model provides categories to understand active learning better. It classifies student engagement into four modes: **interactive, constructive, active, and passive** (Chi and Wylie, 2014):
+The ICAP model provides categories to understand active learning better. It classifies student engagement into four modes: **interactive, constructive, active, and passive** [chi2014icap](@cite):
 
 ```@raw html
 <figure>
@@ -146,7 +146,7 @@ For example, when asked to interpret a graph as part of a learning activity, stu
 
 ## Why Active Learning Experiences?
 
-**Active learning experiences lead to better learning outcomes.** Two decades of studies have shown that active-learning environments lead to better outcomes for STEM students, with additional positive benefits for students from historically excluded communities (HEC). For example, a seminal metastudy by Freeman and colleagues (2014) synthesized the findings of over 200 active-learning studies in STEM and found that students in active courses consistently performed half a standard deviation higher than those in passive classes. Likewise, a survey of nearly 1,000 students who experienced active learning more often reported higher learning gains and improvements in collaborative skills. (Reeves et al., 2024). Another study found that polling questions that challenged students to think critically and solve problems collaboratively led to improved learning gains—and more questions correlated with higher gains (Smith et al., 2009, 2011).
+**Active learning experiences lead to better learning outcomes.** Two decades of studies have shown that active-learning environments lead to better outcomes for STEM students, with additional positive benefits for students from historically excluded communities (HEC). For example, a seminal metastudy by Freeman and colleagues (2014) synthesized the findings of over 200 active-learning studies in STEM and found that students in active courses consistently performed half a standard deviation higher than those in passive classes. Likewise, a survey of nearly 1,000 students who experienced active learning more often reported higher learning gains and improvements in collaborative skills. (Reeves et al., 2024). Another study found that polling questions that challenged students to think critically and solve problems collaboratively led to improved learning gains—and more questions correlated with higher gains [smith2009peer, smith2011combining](@cite).
 
 Failure rates also illuminate a stark contrast between courses taught with an active vs. traditional  (passive) approach. In a meta-analysis of 200 published papers comparing student outcomes in matched courses, [freeman_active_2014](@cite) found that students in active STEM courses had a 10% lower failure rate than those in passive courses.
 
@@ -236,7 +236,7 @@ How you make these design decisions will depend on your own design context and c
 
 ### Beyond Think-Pair-Share
 
-Review the following list of active learning strategies, which has been compiled from multiple sources (Tanner 2013, [TODO other refs]. Consider how each technique actively engages students, provides feedback to themselves and others, and could be used in your classroom.
+Review the following list of active learning strategies, which has been compiled from multiple sources [tanner2013structure](@cite), [TODO other refs]. Consider how each technique actively engages students, provides feedback to themselves and others, and could be used in your classroom.
 
 - **Case-based learning:** Students solve an open-ended, real-world situation that requires critical thinking and problem-solving. They make decisions based on the case description and their prior knowledge, thinking beyond the context of the case and consider the broader impacts of their decisions.
 - **Concept mapping:** Starting with a central idea or concept, students generate related ideas, words, and phrases. They use arrows with short descriptions to connect concepts and create a visual web of relationships, then explain it to each other or the instructor.
