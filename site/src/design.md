@@ -21,7 +21,7 @@ Course design is an intentional, reflective process of developing effective lear
 
 ## Why Course Design?
 
-The aim of course design is to create directed, scaffolded learning experiences in which students engage repeatedly with the course material, each other, and the instructional team (Fink, 2013; Freeman et al., 2011; Wiggins & McTighe, 2005; Wiggins & McTighe, 2011).
+The aim of course design is to create directed, scaffolded learning experiences in which students engage repeatedly with the course material, each other, and the instructional team [fink2006creating, freeman_increased_2011, wiggins2005understanding, wiggins2011understanding](@cite).
 
 Scientific teachers are designers: You select scientific content with purpose, organize it in a way that scaffolds learning, and evaluate how well it worked. And like in any type of design—from technology, to paintings, to skyscrapers, and yes, to science courses—you make decisions that influence outcomes.
 
@@ -83,7 +83,7 @@ Effective design principles incorporate balance and alignment, while focusing on
 
 ### Understanding by Design® and Backward Design
 
-**Understanding by design®** is a long-standing, intentional design framework that focuses on student learning and understanding (Wiggins & McTighe, 2005; Wiggins & McTighe, 2011). It asks instructors to define what learning and understanding mean for their course context (e.g, student preparation, course level, and content) and then design curriculum “backward” from there.
+**Understanding by design®** is a long-standing, intentional design framework that focuses on student learning and understanding [wiggins2005understanding, wiggins2011understanding](@cite). It asks instructors to define what learning and understanding mean for their course context (e.g, student preparation, course level, and content) and then design curriculum “backward” from there.
 
 A three-step process known as **backward design** supports Understanding by Design. It is called “backward” because it starts with the end goals in mind and then designs learning experiences that guide students toward those goals. In contrast, a “forward” approach focuses on covering content, delivering instruction, and then developing assessments based on what has been taught. Because learning outcomes come last, the “forward” approach may lead to weak alignment between learning goals and assessments, leaving students to guess what is important and where to focus their study efforts.
 
@@ -286,12 +286,12 @@ In designing learning objectives, select action verbs that communicate the desir
     Above, we asked you to imagine the third week/day for your course and some learning objectives for that moment in time.
     
     Select one of those objectives. Does it communicate the desired cognitive level and incorporate one or more facets of science? How would you update it, if needed?
-
+s
 ### Step 2. Determine acceptable evidence.
 
 Once you have learning objectives that are aligned to learning goals, the next step is to determine what evidence will acceptably demonstrate that students are progressing toward—and eventually succeeding in accomplishing—the desired outcomes. This requires that we design assessments that are aligned to the learning objectives.
 
-Why is this such a critical step? Because assessment drives learning. When students have opportunities to practice the material they are learning, they are better able to diagnose their understanding and can change their study strategies, if necessary. These strategies are effective in improving learning gains (Hartwig and Dunlosky, 2012; Sebesta and Speth, 2017). Misalignment between learning objectives and assessments can negatively impact student performance (O'Neill, et al., 2010). This creates uncertainty for students about where to focus their study efforts, which is the opposite of an inclusive learning environment.
+Why is this such a critical step? Because assessment drives learning. When students have opportunities to practice the material they are learning, they are better able to diagnose their understanding and can change their study strategies, if necessary. These strategies are effective in improving learning gains [hartwig2012study, sebesta2017should](@cite). Misalignment between learning objectives and assessments can negatively impact student performance (O'Neill, et al., 2010). This creates uncertainty for students about where to focus their study efforts, which is the opposite of an inclusive learning environment.
 
 Imagine studying for an exam by solving problems and designing potential experiments, only to find that the exam is all memorization. A student may rightfully feel frustrated, thinking they "wasted time" studying the wrong material.
 
