@@ -23,7 +23,7 @@ There is no shortage of inclusive teaching methods. In fact, the number of choic
 
 ## Why Inclusive Learning?
 
-Diversity in STEM starts with inclusive learning environments. Recall from the previous module that a prevailing reason students leave science majors is not because they are incapable, but because science is too often taught in a way that doesn’t inspire them or instill a sense of belonging. Consequently, more than half of the 600,000 US students who declare STEM majors change to a different major before graduating [thiry_talking_2019](@cite), with students from underrepresented backgrounds switching out of STEM at disproportionate rates (Riegle-Crumb, et al, 2019).
+Diversity in STEM starts with inclusive learning environments. Recall from the previous module that a prevailing reason students leave science majors is not because they are incapable, but because science is too often taught in a way that doesn’t inspire them or instill a sense of belonging. Consequently, more than half of the 600,000 US students who declare STEM majors change to a different major before graduating [thiry_talking_2019](@cite), with students from underrepresented backgrounds switching out of STEM at disproportionate rates [riegle2019does](@cite).
 
 Reversing STEM attrition requires us to reimagine how the various components of a classroom work together to create inclusive learning environments.
 
@@ -63,7 +63,7 @@ Like instructors, students come to our courses with a composite of many identiti
 
 ### The Connection between Identity and Belonging
 
-The Tripartite Integration Model of Social Influence (TIMSI) explains the psychological mechanisms underlying belonging in STEM (Estrada et al., 2011). The TIMSI describes three orientations that contribute to student persistence in STEM:
+The Tripartite Integration Model of Social Influence (TIMSI) explains the psychological mechanisms underlying belonging in STEM [estrada2011toward](@cite). The TIMSI describes three orientations that contribute to student persistence in STEM:
 
 - **Scientific self-efficacy:** Students feel capable of performing the actions needed to be successful in science.
 - **Scientific identity:** Students perceive science as part of who they are and feel a sense of belonging within a scientific community.
@@ -75,15 +75,15 @@ Curriculum is arguably the most visible component of a course and has an importa
 
 ### Science Content
 
-Many studies demonstrate that active participation in science leads to an improved sense of belonging and retention in STEM (e.g., Estrada et al., 2011; Evans et al., 2021; Hanauer et al., 2017; Jordan et al., 2014; Lopatto et al., 2008; Olson et al., 2019; Shaffer et al., 2014; Waddell et al., 2021). This active participation requires that students engage with the six facets of science (described in the previous module). Our role as instructors is to establish which facets are most relevant for a specific course and work to bring them to life. The Scientific Teaching Course provides tools for this purpose in the following modules about course design and learning experiences.
+Many studies demonstrate that active participation in science leads to an improved sense of belonging and retention in STEM [estrada2011toward, evans_functional_2021, hanauer_inclusive_2017, jordan_broadly_2014, lopatto_genomics_2008, olson_expression-based_2019, shaffer_course-based_2014, waddell_flying_2021](@cite). This active participation requires that students engage with the six facets of science (described in the previous module). Our role as instructors is to establish which facets are most relevant for a specific course and work to bring them to life. The Scientific Teaching Course provides tools for this purpose in the following modules about course design and learning experiences.
 
 ### Diverse Perspectives and Representations
 
-Part of scientific identity includes seeing one’s self and perspectives represented positively through the research questions asked, the outcomes discovered, and the individuals represented as scientists. Instructors decide whose voices are represented—which are all powerful ways to influence belonging in STEM. Strategies can be relatively simple, such as recognizing scientists from a variety of identities and backgrounds (Schinske et al., 2017), or complex, such as decolonizing the curriculum, which involves reimagining content and approaches that have historically prioritized Western, white, male-centric knowledge (Gichuru, 2024 ). 
+Part of scientific identity includes seeing one’s self and perspectives represented positively through the research questions asked, the outcomes discovered, and the individuals represented as scientists. Instructors decide whose voices are represented—which are all powerful ways to influence belonging in STEM. Strategies can be relatively simple, such as recognizing scientists from a variety of identities and backgrounds [schinske2014teaching](@cite), or complex, such as decolonizing the curriculum, which involves reimagining content and approaches that have historically prioritized Western, white, male-centric knowledge [gichuru2024enhancing](@cite). 
 
 ### The Pedagogy Dimension
 
-Pedagogy involves how a course is designed and taught. It also defines how students interact with the content and each other. Once again, the choices we make determine how inclusive the course feels. In the Scientific Teaching module, we demonstrated how poor instruction leads to a pattern of exclusion from STEM that differentially affects students. In contrast, pedagogies that promote a sense of belonging lead to increased persistence in STEM (Estrada et al., 2011), especially for HEC students [evans_functional_2021, hurtado_diversifying_2009, olson_expression-based_2019, rodenbusch_early_2016, shuster_implementing_2019, waddell_flying_2021](@cite).
+Pedagogy involves how a course is designed and taught. It also defines how students interact with the content and each other. Once again, the choices we make determine how inclusive the course feels. In the Scientific Teaching module, we demonstrated how poor instruction leads to a pattern of exclusion from STEM that differentially affects students. In contrast, pedagogies that promote a sense of belonging lead to increased persistence in STEM [estrada2011toward](@cite), especially for HEC students [evans_functional_2021, hurtado_diversifying_2009, olson_expression-based_2019, rodenbusch_early_2016, shuster_implementing_2019, waddell_flying_2021](@cite).
 
 ## Inclusive Learning in Practice
 
@@ -95,7 +95,7 @@ Let’s examine how the instructor, student, curriculum, and pedagogy dimensions
 
 Interventions can be incorporated as individual or repeated activities, such as:
 
-- Increase **instructor immediacy and presence** by making eye contact, engaging in positive body movements such as nods and smiles, communicating goals, setting guidelines for student interactions, and encouraging student participation (Shea et al., 2006; Baker, 2010; Andersen et al., 1981; Arbaugh & Hwang, 2006).
+- Increase **instructor immediacy and presence** by making eye contact, engaging in positive body movements such as nods and smiles, communicating goals, setting guidelines for student interactions, and encouraging student participation [shea2006study, baker2010impact, andersen1981three, arbaugh2006does](@cite).
 - Use **active learning experiences**, in which students actively engage with content and sometimes each other [freeman_active_2014](@cite). You’ll find many examples in the Learning Experiences module.
 - Do regular **formative assessments**, in which students have the opportunity to regularly practice and receive feedback (Black and Wiliam, 1998). More in Learning Experiences.
 - Encourage **microaffirmations**, which are statements that affirm a student’s capabilities (Estrada et al., 2019)
@@ -105,10 +105,10 @@ Interventions can be incorporated as individual or repeated activities, such as:
 
 Instructors can also modify overall course structure or infuse practices into an entire course to accomplish an inclusive learning environment. Some examples:
 
-- Create a culture where **failure is a productive and normal part of science**, rather than a judgement on students' identity (Petroski 2006; Simpson and Maltese, 2017; Lopatto et al., 2020; Gin, et al., 2018; Good et al., 2012; Koch et al., 2008; Cacciotti, 2015).
+- Create a culture where **failure is a productive and normal part of science**, rather than a judgement on students' identity [petroski2013success, simpson_failure_2017, lopatto2020facilitating, gin2018students, good2012women, koch2008women, cacciotti2015fear](@cite).
 - Use **high-structure course design** to elucidate what is expected of students and create predictable patterns [freeman_increased_2011, theobald_active_2020](@cite). More on this in Course Structure.
 - Teach a **course-based undergraduate research experience (CURE)**, in which students engage in research while enrolled in a course [aikens_race_2017, dolan_guide_2021, hurtado_diversifying_2009](@cite). More on this in Learning Experiences.
-- Leverage **universal design for learning** principles, which incorporate accessibility considerations into course design that provide equal access and opportunities for everyone, regardless of their abilities (Burgstahler & Cory, 2008).
+- Leverage **universal design for learning** principles, which incorporate accessibility considerations into course design that provide equal access and opportunities for everyone, regardless of their abilities [burgstahler2013universal](@cite).
 
 !!! tip ""
 
@@ -124,7 +124,7 @@ Instructors can also modify overall course structure or infuse practices into an
 
 Identity comprises the social, emotional, and professional attributes of an individual (Rus et al., 2013; Peterson et al., 1999). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate.
 
-**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group (Tajfel, 1981. p. 255). It can change over time and between contexts (Gee, 2000). Moreover, we are each of us complex persons with multiple social identities that intersect, add up, and produce unique experiences–both for ourselves and how we are viewed by others (Crenshaw, 1989; Gordon, 1997). And while much social science in recent decades has worked toward identifying current and historical discrimination against members of protected social groups, it is important to also recognize the unique joys, places, desires, values, traditions, stories, practices, hardships, and acts of resistance that contribute to what it means to “belong” in one’s social groups (Tuck, 2009). 
+**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group (Tajfel, 1981. p. 255). It can change over time and between contexts (Gee, 2000). Moreover, we are each of us complex persons with multiple social identities that intersect, add up, and produce unique experiences–both for ourselves and how we are viewed by others [crenshaw2013demarginalizing, gordon2008ghostly](@cite). And while much social science in recent decades has worked toward identifying current and historical discrimination against members of protected social groups, it is important to also recognize the unique joys, places, desires, values, traditions, stories, practices, hardships, and acts of resistance that contribute to what it means to “belong” in one’s social groups [tuck2009suspending](@cite). 
 
 **Emotional identity** characterizes how a person responds to their own emotions and the emotions of others. It is informed by experiences, power dynamics, and agency.
 
