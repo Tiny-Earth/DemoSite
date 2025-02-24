@@ -23,11 +23,11 @@ Instructors who adopt scientific teaching may be content to know that their teac
 
 ### Stages of Change
 
-Institutional change has been compared with human behavioral change (Prochaska and DiClemente 1983, Prochaska et al. 2001). Physicians have delineated the “five stages of change” in human behaviors that patients move through on their way to change health-related behaviors involved in smoking, eating, or exercising. The five stages are described in Figure 6.1. 
+Institutional change has been compared with human behavioral change [prochaska1983stages, prochaska2001transtheoretical](@cite). Physicians have delineated the “five stages of change” in human behaviors that patients move through on their way to change health-related behaviors involved in smoking, eating, or exercising. The five stages are described in Figure 6.1. 
 
 ![The Stages of Change Model: Precontemplation, Contemplation, Preparation, Action, and Maintenance](assets/The_Stages_of_Change_Model.png)
 
-Figure adpated from (Carnes et al. 2005).
+Figure adpated from [carnes2005diversity](@cite).
 
 Every campus and the individuals on it are at different stages in this process of change. Some may be in the precontemplation stage, still believing that the way we teach is just fine, (“After all, I learned a lot, didn’t I?”). These colleagues will need to be convinced with different tactics and information than those colleagues in contemplation (“I guess I don’t know whether my teaching methods are effective”) or preparation (“I want to make changes, but I’m not sure how to implement active learning”) stages.
 
@@ -55,7 +55,7 @@ Deans can advertise their decisions to allocate resources based, in part, on tea
 
 ### Professor-to-Professor Dissemination
 
-Most instructors who engage in education reform are eager to share their newfound knowledge with colleagues. Many are dismayed to find that their colleagues look askance at the new teaching methods and are dismissive in conversations about teaching. Changing faculty behavior is never easy. It can feel Sisyphean—endlessly repetitive, unrewarded, and defeating. But a few strategies have been found more effective than simply telling colleagues about new techniques, which is bound to fail. One of the most effective is team teaching. When colleagues see active learning in action, they can’t deny its power. Students will aid the case because once they become used to active engagement, they will complain about instructors who force them back into the passive mode. Another way to engage colleagues, letting the methods speak for themselves, is to invite peer review. Most colleagues are flattered by being asked to review another’s teaching and everyone benefits: the instructor being reviewed will often gain useful insights, the reviewer will see active learning in action, and the two instructors will begin a dialogue about teaching. Finally, department chairs can invite their faculty to read a book or article about teaching, such as *Leaving the Lectern* (McManus 2005) and discuss it at a faculty meeting or faculty retreat.
+Most instructors who engage in education reform are eager to share their newfound knowledge with colleagues. Many are dismayed to find that their colleagues look askance at the new teaching methods and are dismissive in conversations about teaching. Changing faculty behavior is never easy. It can feel Sisyphean—endlessly repetitive, unrewarded, and defeating. But a few strategies have been found more effective than simply telling colleagues about new techniques, which is bound to fail. One of the most effective is team teaching. When colleagues see active learning in action, they can’t deny its power. Students will aid the case because once they become used to active engagement, they will complain about instructors who force them back into the passive mode. Another way to engage colleagues, letting the methods speak for themselves, is to invite peer review. Most colleagues are flattered by being asked to review another’s teaching and everyone benefits: the instructor being reviewed will often gain useful insights, the reviewer will see active learning in action, and the two instructors will begin a dialogue about teaching. Finally, department chairs can invite their faculty to read a book or article about teaching, such as *Leaving the Lectern* [mcmanus2005leaving](@cite) and discuss it at a faculty meeting or faculty retreat.
 
 ### Campus Teaching Events
 
