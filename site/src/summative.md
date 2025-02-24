@@ -15,9 +15,9 @@
 
 ## Summative Assessment Defined
 
-Summative assessments are evaluations conducted at the end of a learning period to determine a student’s overall understanding and development of expertise. As seen in the backward design process, summative assessments provide evidence about the extent to which students achieved the learning objectives (Wiggins & McTighe, 2005; Wiggins & McTighe, 2011).
+Summative assessments are evaluations conducted at the end of a learning period to determine a student’s overall understanding and development of expertise. As seen in the backward design process, summative assessments provide evidence about the extent to which students achieved the learning objectives [wiggins2005understanding, wiggins2011understanding](@cite).
 
-Unlike formative assessments, which are ongoing and provide feedback during the learning process, summative assessments are typically administered after a unit has been completed to provide a summary of a student’s learning progress and achievement (Kibble, 2017). Summative assessments are comprehensive and assess a broad range of knowledge, skills, and competencies related to the learning objectives. Often, they are high-stakes, meaning formative assessments carry significant weight in determining students’ grades or academic progress.
+Unlike formative assessments, which are ongoing and provide feedback during the learning process, summative assessments are typically administered after a unit has been completed to provide a summary of a student’s learning progress and achievement [kibble2017best](@cite). Summative assessments are comprehensive and assess a broad range of knowledge, skills, and competencies related to the learning objectives. Often, they are high-stakes, meaning formative assessments carry significant weight in determining students’ grades or academic progress.
 
 Examples of summative assessments include:
 
@@ -33,7 +33,7 @@ Summative assessments play a role beyond merely assigning grades to students. Th
 
 For the learners, summative assessments serve as pivotal milestones in a course’s trajectory, marking significant targets for students to strive toward. Summative assessments also hold students accountable for their learning and represent indicators of their increasing expertise and competence in the subject matter as they move toward understanding. Assessment drives learning; students tend to focus on what will be assessed.
 
-For instructors, summative assessments provide essential data to gauge the extent to which students have met predefined objectives, as well as identifying areas where additional support may be required. As a scientific instructor, collecting and analyzing this data is crucial in refining your teaching practice (Ebert-May, Batzli, & Lim, 2003) and is aligned with calls to teach science the same way it is practiced (AAAS, 1990; Annenberg/CPB, 1997; NRC, 1997, 1999; Bransford et al., 1999; Pellegrino et al. 2001; Cech, 2003).
+For instructors, summative assessments provide essential data to gauge the extent to which students have met predefined objectives, as well as identifying areas where additional support may be required. As a scientific instructor, collecting and analyzing this data is crucial in refining your teaching practice [ebert2003disciplinary](@cite) and is aligned with calls to teach science the same way it is practiced (AAAS, 1990; Annenberg/CPB, 1997; NRC, 1997, 1999; Bransford et al., 1999; Pellegrino et al. 2001; Cech, 2003).
 
 Like a scientist uses data to evaluate their hypotheses, a scientific instructor uses assessment data to evaluate their instructional practice. And given the importance of engaging students in scientific practices to equip them for future careers in science, summative assessments need to extend beyond evaluation of content knowledge and assess competencies expected for aspiring scientists.
 
@@ -164,11 +164,11 @@ Rubrics also provide a positive framework for student expectations, outlining cl
 
 A rubric typically consists of a grid or list that outlines the specific criteria for success, along with descriptions of different levels of performance for each criterion (e.g., developing, proficient, and excellent).
 
-**Rubrics can be analytic or holistic.** Analytic rubrics provide a different score for each criterion, such as overall ideas and conceptual understanding, organization, use of evidence in arguments, grammar and spelling, and format. In contrast, holistic rubrics provide a single score that represents the grader’s overall assessment of the work and how its components hang together (Bean, 2011). Analytic rubrics are more common in STEM courses, though holistic rubrics are not unheard of.
+**Rubrics can be analytic or holistic.** Analytic rubrics provide a different score for each criterion, such as overall ideas and conceptual understanding, organization, use of evidence in arguments, grammar and spelling, and format. In contrast, holistic rubrics provide a single score that represents the grader’s overall assessment of the work and how its components hang together [bean2021engaging](@cite). Analytic rubrics are more common in STEM courses, though holistic rubrics are not unheard of.
 
-**Rubrics can be generic or task-specific.** A generic rubric would apply to multiple assignments, whereas a task-specific rubric would call out specific criteria for one assignment (Bean, 2011). For example, a generic rubric could be used to assess all written assignments during a semester, whereas a task-specific rubric would be tailored for each lab report.
+**Rubrics can be generic or task-specific.** A generic rubric would apply to multiple assignments, whereas a task-specific rubric would call out specific criteria for one assignment [bean2021engaging](@cite). For example, a generic rubric could be used to assess all written assignments during a semester, whereas a task-specific rubric would be tailored for each lab report.
 
-**Rubrics use a range of descriptors for performance levels** (Bean, 2011). Terms indicating understanding or achievement of learning objectives might include “exceeds”, “fully”, or “meets criteria”. Terms such as “usually” and “sometimes” specify mid-range competency and may indicate that students need more practice with the concepts or skills, or that they need to improve communication of their understanding. Terms like “never”, “rarely”, or “minimally” convey that the criteria are not being met and more work would need to be done to further understanding or demonstrate proficiency.
+**Rubrics use a range of descriptors for performance levels** [bean2021engaging](@cite). Terms indicating understanding or achievement of learning objectives might include “exceeds”, “fully”, or “meets criteria”. Terms such as “usually” and “sometimes” specify mid-range competency and may indicate that students need more practice with the concepts or skills, or that they need to improve communication of their understanding. Terms like “never”, “rarely”, or “minimally” convey that the criteria are not being met and more work would need to be done to further understanding or demonstrate proficiency.
 
 And to write a rubric, once again we revisit our backward design principles:
 
@@ -213,15 +213,15 @@ And to write a rubric, once again we revisit our backward design principles:
 
 ### Example of an Inclusive Assessment Tool: Exams without Time Limits
 
-Timed tests are a staple in educational settings, but what does the literature have to say about it? Time-limited tests are less valid, reliable, inclusive, and equitable than tests in which there is no time limit or a time limit that’s so generous that all students can complete all items (Gernsbacher et al., 2020).
+Timed tests are a staple in educational settings, but what does the literature have to say about it? Time-limited tests are less valid, reliable, inclusive, and equitable than tests in which there is no time limit or a time limit that’s so generous that all students can complete all items [gernsbacher2020four](@cite).
 
 Test-taking pace is not a valid measure of student understanding. Students who need additional test-taking times are literally excluded from the test-taking classroom. Timed tests restrict students who have anxiety, are learning English, from underrepresented backgrounds, older than average, and students with disabilities who face barriers obtaining accommodations.
 
-Research shows that most students who do receive additional time on tests do not use all of it (Cahalan-Laitusis, King, Cline, & Bridgeman, 2006; Holmes & Silvestri, 2019; Spenceley & Wheeler, 2016). Gernsbacher speculates that these students are actually requesting to not experience the anxiety and pressure of running out of time (2015). When time limits are removed from exams, numerous studies have shown that student performance improves across student groups including those who are learning English, from underrepresented backgrounds, older than average, and females (De Paola & Gioia, 2015; Foos & Boone, 2008; Mullane & McKelvie, 2001). Consider administering untimed asynchronous tests such as take-home exams or untimed online exams and designing test questions that aren’t easily searchable.
+Research shows that most students who do receive additional time on tests do not use all of it [cahalan2006observational, holmes2019extra, spenceley2016use](@cite). Gernsbacher speculates that these students are actually requesting to not experience the anxiety and pressure of running out of time (2015). When time limits are removed from exams, numerous studies have shown that student performance improves across student groups including those who are learning English, from underrepresented backgrounds, older than average, and females [de2016performs, foos2008adult, mullane2000effects](@cite). Consider administering untimed asynchronous tests such as take-home exams or untimed online exams and designing test questions that aren’t easily searchable.
 
 ![Mean scores with standard deviation for older and younger participants in timed and not timed conditions for five different tests. Their study showed that young adults score higher than older adults under standard timed test conditions, but older adults perform as well as young adults when time limits are removed.](assets/Summative Assessment Timed Tests Graph.png)
 
-Figure based on (Foos & Boone, 2008).
+Figure based on [foos2008adult](@cite).
 
 ### Equitable Summative Assessments Leverage Universal Design for Learning
 
@@ -274,13 +274,13 @@ Traditional grading is the practice of assigning numerical points to one-time as
 Incorporating more equitable grading practices promotes a more just and inclusive educational environment that supports the success of all students. Below are some equitable grading practices you can implement in your course.
 
 
-In providing feedback (Hope, 2020):
+In providing feedback [hope2020only](@cite):
 
 - Ensure it is constructive, focusing on strengths and areas for improvement. Specific and actionable feedback can help students understand their performance and make meaningful progress towards developing expertise
 - Locate it separately from the grade or points
 - Make sure it is timely so that students are not waiting or guessing
 
-Ensure your grading policy is transparent (Garcia et al., 2023):
+Ensure your grading policy is transparent [garcia2023equitable](@cite):
 
 - Communicate the criteria and standards used to evaluate performance
 - Communicate how grades are assigned
