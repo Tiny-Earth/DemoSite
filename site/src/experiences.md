@@ -15,17 +15,15 @@
 
 ![Illustration of Active Learning Experiences. Three circles overlap: Active Learning, Formative Assessment, and Inclusive Learning. Where they overlap is Learning Experiences.](assets/LE23.png)
 
-Active learning experiences encompass:
+Active learning experiences manifest curricular intentions while bringing the facets of science to life. They encompass:
 
 - All the opportunities students have to engage in learning science.
 - The factors that influence those opportunities.
 - Active learning experiences leverage what we know about how learning works to appropriately scaffold learning.
 
-Put another way, active learning experiences $=$ active learning $+$ formative assessment $+$ inclusive learning. And in this course, we use the term “learning experiences” to convey an emphasis on the student and the active engagement required for learning, rather than the more instructor-centered alternative, which focuses on covering the content. A learner- and learning-centered mindset also considers how inclusive an experience is.
+Active learning experiences include any in-class interactions (such as questions, groupwork, quizzes, exams, experiments for field work) and out-of-class assignments (such as pre-class readings or post-class homework).
 
-> __*Active learning experiences $=$ active learning $+$ formative assessment $+$ inclusive learning*__
-
-Active learning experiences manifest curricular intentions and bring science to life. They feature all the activities—active learning plus assessment opportunities—that occur during a course, plus the inclusive learning considerations that support them. Active learning experiences range from assignments to assessments, experiments to exams, interactions to inquiries, questions to quizzes. They include activities during a prescribed classroom period (such as a lecture, lab, or field work) and outside the classroom (such as a pre-class reading/quiz in a learning management system or a post-class homework assignment).
+Active learning experiences leverage what we know about how learning works to appropriately scaffold learning. We use the term “active learning experiences” to convey an emphasis on the student and the active engagement required for learning, rather than the more instructor-centered alternative, which focuses on covering the content. A learner- and learning-centered mindset also considers how inclusive an experience is. In the next section, we will explore what we mean by active learning in our active learning experiences. 
 
 ### Active Learning
 
@@ -45,11 +43,11 @@ Surprisingly, given its long history, there is not a consistent definition of ac
 
     How were the published definitions similar to or different from your definition?
 
-    Were the differences surprising or enlightening?
+    Were the differences between published active learning definitions surprising or enlightening?
 
     Rethink your working definition of active learning to include any new insights or nuances that you have gained.
 
-While active learning is a broad concept that encompasses a variety of techniques, a common feature of any definition is that students are cognitively engaged in something. The key is to engage students so that they are constructing knowledge.
+While active learning is a broad concept that encompasses a variety of techniques, a common feature of any definition is that students are cognitively engaged in something. The key is to actively involve students in the learning process so they can construct their own knowledge.
 
 ### Multiple Ways to Be Active: The ICAP Model
 
@@ -130,7 +128,7 @@ Ongoing feedback is one of the most reliable ways to foster learning gains (Blac
 
 Formative assessment builds on active learning and connects directly to learning principles: as students apply new knowledge and practice new skills, they have the opportunity to think critically about their progress toward understanding and competency. In other words, formative assessment encourages students to think metacognitively.
 
-Formative assessment provides a unique opportunity for feedback, which can take various forms. This may include self-assessment using a rubric, peer review with guidelines for constructive feedback, or instructor-led commentary. Importantly, formative assessment is often not tied to performance, which allows students to focus on the process of learning rather than whether their answer is correct.
+Formative assessment provides a unique opportunity for feedback, which can take various forms. This may include self-assessment using a rubric, peer review with guidelines for constructive feedback, or instructor-led commentary. Importantly, formative assessment is often not tied to grades, which allows students to focus on the process of learning rather than whether their answer is correct.
 
 **The relationship between active learning and formative assessment is nearly inseparable.** The act of performing a task provides feedback to the individual, enabling them to gauge their progress.
 
@@ -146,9 +144,9 @@ For example, when asked to interpret a graph as part of a learning activity, stu
 
 ## Why Active Learning Experiences?
 
-**Active learning experiences lead to better learning outcomes.** Two decades of studies have shown that active-learning environments lead to better outcomes for STEM students, with additional positive benefits for students from historically excluded communities (HEC). For example, a seminal metastudy by Freeman and colleagues (2014) synthesized the findings of over 200 active-learning studies in STEM and found that students in active courses consistently performed half a standard deviation higher than those in passive classes. Likewise, a survey of nearly 1,000 students who experienced active learning more often reported higher learning gains and improvements in collaborative skills. (Reeves et al., 2024). Another study found that polling questions that challenged students to think critically and solve problems collaboratively led to improved learning gains—and more questions correlated with higher gains [smith2009peer, smith2011combining](@cite).
+**Active learning experiences lead to better learning outcomes.** Two decades of studies have shown that active-learning environments lead to better outcomes for STEM students, with additional positive benefits for students from historically excluded communities (HEC). For example, a meta-analysis of 200 published papers comparing student outcomes in matched courses found that students in active courses consistently performed half a standard deviation higher than those in passive classes [freeman_active_2014](@cite). Likewise, a survey of nearly 1,000 students who experienced active learning more often reported higher learning gains and improvements in collaborative skills. (Reeves et al., 2024). Another study found that polling questions that challenged students to think critically and solve problems collaboratively led to improved learning gains—and more questions correlated with higher gains [smith2009peer, smith2011combining](@cite).
 
-Failure rates also illuminate a stark contrast between courses taught with an active vs. traditional  (passive) approach. In a meta-analysis of 200 published papers comparing student outcomes in matched courses, [freeman_active_2014](@cite) found that students in active STEM courses had a 10% lower failure rate than those in passive courses.
+Failure rates also illuminate a stark contrast between courses taught with an active vs. traditional  (passive) approach. The same Freeman (2014) paper discovered that students in active STEM courses boasted a 10% lower failure rate than those in passive courses.
 
 **Active learning is an equitable practice.** The positive benefits of active learning disproportionately affect STEM students from historically excluded groups, closing the gap between majority and minority students. A meta-analysis of 41 published papers showed that active courses led to a 33% reduction in exam score gaps between majority and minority students, and a 45% reduction in the gap for failure rates [theobald_active_2020](@cite).
 
@@ -176,11 +174,7 @@ To summarize, above we identified that effective active learning experiences are
 
 ## Active Learning Experiences in Practice
 
-Active learning experiences bring together active learning, formative assessment, and inclusive learning. They also leverage the facets of science and how learning works.
-
 Let’s look at a detailed example of how a common instructional strategy can leverage the learning experiences framework: think-pair-share. Then, you will think through a different instructional strategy in a similar way on your own.
-
-### Example of an Active Learning Experience: Think-Pair-Share
 
 Think-pair-share is a flexible activity that can be adapted to almost any teaching situation. It has three steps:
 
@@ -192,9 +186,9 @@ Think-pair-share is a flexible activity that can be adapted to almost any teachi
 
 A think-pair-share is an active-learning strategy because students are actively engaged in various cognitive processes and collaborative learning. It also maps onto how learning works:
 
-- **Activate prior knowledge:** During the “think” phase, students reflect on their prior knowledge and experiences. This activates their existing knowledge and helps them to make connections to what they already know. Even if their prior knowledge is incomplete or inaccurate, students can identify and question their own understanding.
-- **Recognize dissonance:** As students share their thoughts with their partner, they may encounter conflicting ideas that challenge their existing understanding. Peer-to-peer dialogue allows students to discuss and reconcile any differences in their understanding.
-- **Construct new knowledge:** Throughout the think-pair-share activity, students are integrating new information with their existing knowledge, forming new connections between ideas, and developing a deeper understanding of the topic. Knowledge construction is reinforced through the social interaction and feedback provided by their partner.
+- **Activate prior knowledge:** During the “think” phase, students reflect on their prior knowledge and experiences. The act of writing helps people clarify their thoughts, which activates existing knowledge and helps them to make connections to what they already know. Even if their prior knowledge is incomplete or inaccurate, students can identify and question their own understanding. Moreover, as you circulate through the classroom, you can see who is engaged, and then talk to those who aren't writing to help them in their thinking.
+- **Recognize dissonance:** As students share their thoughts with their partner, they may encounter conflicting ideas that challenge their existing understanding. Peer-to-peer dialogue allows students to discuss and reconcile any differences in their understanding. The dissonance may lead to questions and motivation to figure out answers.
+- **Construct new knowledge:** Throughout a think-pair-share activity, students integrate new information with their existing knowledge, forming new connections between ideas, and developing a deeper understanding of the topic. Knowledge construction is reinforced through the social interaction and feedback provided by their partner. Here, the knowledge is new to the students; rather than referring to a new scientific discovery, the word "new" refers to the facts, understandings, and conenctions that the student makes.
 - **Practice and apply knowledge:** Throughout the think-pair-share activity, students are sharing their thoughts and ideas, engaging in a collaborative conversation, receiving feedback, and responding to questions.
 
 ### How does a Think-Pair-Share leverage formative assessment?
@@ -293,7 +287,7 @@ To encourage students to think and act like scientists, active learning experien
             <th scope="row">Scientific practices</th>
             <td><ol>
                 <li>Wolves hunt deer, deer eat vegetation, and vegetation holds river banks in place. When wolves are removed from an ecosystem, rivers are more likely to change their course and flood.</li>
-                <li>The LCMS showed that the secondary metabolite produced was a biopolymer.</li>
+                <li>The chromatography results showed that the secondary metabolite produced was a biopolymer.</li>
                 <li>The difference between the bedrock in northern Wisconsin and southwestern Wisconsin is due to glaciation.</li>
                 <li>In temperate climates, influenza-like illnesses (ILI) tend to increase during the winter months due to people being in close proximity while indoors and less humidity.</li>
             </ol></td>
