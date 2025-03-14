@@ -367,23 +367,23 @@ Backward design is an iterative process. Keep checking how the objectives, asses
 
         As we (the authors) reflected on our own course design decisions throughout our own histories as teachers, we came to the following list of commitments that shape our work.
 
-        What from our list resonates with your own experiences? What other commitments does this bring to mind that are relevant to, inspire, or inform how you carry out your own teaching?
+        What from our list resonates with your own experiences? What other commitments does this bring to mind that are relevant to, inspire, or inform how you carry out your own teaching? Commitment to:
 
-        - Commitment to our students as individuals, whole persons, and fellow humans
-        - Commitment to increasing diversity in STEM
-        - Commitment to the purposes of education
-        - Commitment to advancing discovery and the purposes of science
-        - Commitment to inclusive learning environments
-        - Commitment to growth mindset
-        - Commitment to our college programs
-        - Commitment to creating and iterating quality curriculum
-        - Commitment to achieving our learning objectives
-        - Commitment to the hallmarks of a CURE
-        - Commitment to our careers
-        - Commitment to wellbeing in work and life
-        - Commitment to our personal and professional identities
-        - Commitment to our values, beliefs, and principles
-        - Special commitments in concerning times: various commitments that arose from specific needs and conversations at a specific moment in time, e.g., COVID-19, social unrest, wars at home and abroad, Title IX cases, and advancements in artificial intelligence
+        - Our students as individuals, whole persons, and fellow humans
+        - Increasing diversity in STEM
+        - The purposes of education
+        - Advancing discovery and the purposes of science
+        - Inclusive learning environments
+        - Growth mindset
+        - Our college programs
+        - Creating and iterating quality curriculum
+        - Achieving our learning objectives
+        - Yhe hallmarks of a CURE
+        - Our careers
+        - Wellbeing in work and life
+        - Our personal and professional identities
+        - Our values, beliefs, and principles
+        - Special commitments in concerning times: various commitments that arose from specific needs and conversations at a specific moment in time, e.g., COVID-19 pandemic, rise of authoritarianism, social unrest, wars at home and abroad, Title IX cases, and advancements in artificial intelligence
 
 ### Step 5. Incorporate equity and access.
 
