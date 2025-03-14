@@ -1,6 +1,6 @@
 # Course Structure
 
-**Estimated time to complete:** 25 minutes
+**Estimated time to complete:** 45 minutes
 
 ## Module Learning Objectives
 
@@ -11,13 +11,13 @@
     - Describe the idea of course structure and consider how to apply it to your own course.
     - Explain how high-structure course design can support an inclusive learning environment.
     - Practice creating a course map.
-    - Create welcome materials for a learner-centered syllabus.
+    - Create welcome materials for course using a learner-centered syllabus.
 
 ## Course Structure Defined
 
-Course structure refers to the organizational system of a course, including the schedule, welcome materials, format, content, communication modes and overall themes. A well-structured course communicates all of these components to students and ensures they have access to each component.
+Course structure refers to the organizational system of a course, including how course content, learning experiences, and assessments are integrated and sequenced in the overall course schedule. How a course is structured can contribute to making the course inclusive for diverse students.  
 
-How the course is structured can contribute to making the course inclusive for diverse students. As we structure our courses and plan out the details of our course design, it is also important to consider how we communicate our course design with students through the syllabus and welcome materials.
+As we structure our courses, it is also important to consider how we communicate this course design and other important elements about our course with students through the syllabus and welcome materials. This ensures our course design is transparent and that all students have access to each component.
 
 !!! tip ""
 
@@ -86,7 +86,7 @@ How the course is structured can contribute to making the course inclusive for d
 
 ### High-structure Course Design
 
-The level of course structure lies on a continuum from low to high. High-structure courses embed multiple opportunities for engagement and frequent assessments, in contrast to low-structure courses that offer fewer [beck2020designing, freeman_increased_2011](@cite). Low-structure courses assume that students know how to efficiently work with course materials in and outside of class. However, many students have not developed effective study strategies or time management skills [hartwig2012study](@cite). High-structure courses scaffold student learning with increased engagement and practice. Therefore, they decode the learning process through clear and accessible learning goals and expectations which can be especially helpful for students from HECs [eddy_getting_2014, beck2020designing](@cite). Low structure only benefits students who know how to decode the system. High structure benefits all students [beck2020designing](@cite).
+The level of course structure lies on a continuum from low to high. High-structure courses embed multiple opportunities for engagement and frequent assessments, in contrast to low-structure courses that offer fewer [beck2020designing, freeman_increased_2011](@cite). Low-structure courses assume that students know how to effectively learn and practice with course materials on their own outside of class. However, many students have not developed effective study strategies or time management skills [hartwig2012study](@cite). High-structure courses scaffold student learning with increased engagement and practice. Therefore, they decode the learning process through clear and accessible learning goals and expectations which can be especially helpful for students from HECs [eddy_getting_2014, beck2020designing](@cite). Low structure only benefits students who know how to decode the system. High structure benefits all students [beck2020designing](@cite).
 
 ```@raw html
 <figure>
@@ -142,21 +142,21 @@ The level of course structure lies on a continuum from low to high. High-structu
         > ## Prof. Garcia
         > ### Welcome!
         >
-        > There is no homework in this class; practice problems can be found at the end of each textbook chapter. Your grade will be determined by two mid-term exams and a final exam. There are no makeups for exams, unless there is a valid university-approved
+        > There is no homework in this class; practice problems can be found at the end of each textbook chapter. Your grade will be determined by two mid-term exams and a final exam. There are no makeups for exams without valid, university-approved documentation.
 
 !!! tip ""
 
-    #### Two Course Structures
+    #### Two Course Maps
 
-    Examine [these example course structures](assets/course-structures.html) that describe one week of two different courses, Course 1 and Course 2.
+    Examine [these example course maps](assets/course-structures.html) that describe the structure of a week from two different courses, Course 1 and Course 2.
 
-    Which example course structure resonates with your experiences as a student? Why?
+    Which example course map resonates with your experiences as a student? Why?
 
-    Which example course structure looks more learner-centered? Why?
+    Which example course map looks more learner-centered (i.e., focused primarily on what students learn and do)? Why?
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    Which example course structure looks more like yours? Why?
+    Which example course map looks more like yours? Why?
 
 ## Why Course Structure?
 
@@ -164,12 +164,12 @@ Increasing a course's structure has many implications for student learning and t
 
 - Student failure rates were lower in a moderately structured course design and were dramatically lower in a highly structured course design [freeman_increased_2011](@cite)
 - A "moderate-structure" intervention increased course performance for all student populations, but worked disproportionately well for black students and first-generation students. Students also consistently reported completing the assigned readings more frequently, spending more time studying for class, and feeling an increased sense of community [eddy_getting_2014](@cite)
-- Implementing a hybrid course format with high structure improved exam performance for traditionally underrepresented students (Gavassa et al., 2019)
-- A highly-structured course design improved the performance of all students in a college-level introductory biology class and reduced the achievement gap between disadvantaged and nondisadvantaged students [haak_increased_2011](@cite)
+- Implementing a hybrid course format (i.e., that combines virtual and in-person elements) with high structure improved exam performance for students from HECs (Gavassa et al., 2019)
+- A highly-structured course design improved the performance of all students in a college-level introductory biology class and reduced the achievement gap between students from HECs and historically included communities (HICs) [haak_increased_2011](@cite)
 
 ### Show Me the Data!
 
-Freeman and colleagues measured failure rates in a major's introductory biology course, while varying the structure of the course. One instructor taught the course in six iterations using a low-structure, moderate-structure, or high-structure course design (2011). The difference between the proportion of students predicted to fail and the actual proportion failing decreased with increasing structure.
+Freeman and colleagues measured failure rates in introductory biology across varying degrees of course structure. One instructor taught the course in six iterations using a low-structure, moderate-structure, or high-structure course design (2011). The difference between the proportion of students predicted to fail and the actual proportion failing decreased with increasing structure.
 
 ![The change in the proportion of students failing decreases as course structure increases (n=2267, ∗p=0.06, ∗∗p=0.0004)](assets/increasing_structure_graphs.png)
 
@@ -179,7 +179,9 @@ Two frameworks help bring all the pieces of scientific teaching together into a 
 
 ### Course Map
 
-Course maps are templates that can be used for designing a course. They serve as a guide for enacting backward design and hold us accountable to create transparent, inclusive learning experiences in STEM. They can be full of information or light on detail—whatever makes sense for your teaching in your context. By applying high-structure course design principles, a course map can make learning expectations transparent and therefore the learning environment inclusive. A few examples were provided at the start of this module.
+Course maps are design tools that outline the structure of a course. They serve as a guide for instructors to enact backward design and hold us accountable to create transparent, inclusive learning experiences in STEM. Course maps can be full of information or light on detail - whatever makes sense for teaching in your context. They provide a clear framework for learning objectives, assessments, and activities within each week of a course, allowing you to consider how learning experiences are scaffolded within and across weeks, and to consider alignment between overall course learning goals and objectives for each class session or week.
+
+By applying high-structure course design principles, a course map can make learning expectations transparent and therefore the learning environment inclusive. A few examples were provided at the start of this module.
 
 ### Learner-centered Syllabus
 
@@ -198,29 +200,9 @@ A learner-centered syllabus focuses on the learner and the learning by:
 
 In short, the learner-centered syllabus "becomes an invitation to share responsibility for successful learning" (O'Brien et al., 2008, p. 22). In contrast, a conventional syllabus focuses on covering the content and perhaps includes a weekly schedule of topics, assignment due dates, exams, and grading policies.
 
-In his book, "What the Best College Teachers Do," Ken Bain (2004) describes three parts of what he calls "the promising syllabus":
-
-1. **Highlight the promises or opportunities.**
-
-    - What kinds of questions will the course help students answer?
-    - What kind of intellectual, physical, emotional, or social abilities will it help them develop?
-    - Why is the course relevant?
-    - How does the course connect with the facets of science?
-
-2. **Explain what students will do to meet those promises.**
-
-    - What learning activities (e.g., activities, assignments, readings) will be used in the course?
-    - How will students learn from the course resources, the instructional team, and each other?
-    - Where will students have agency and choice in their education?
-
-3. **Discuss how students will engage in the learning process.**
-
-    - How will students be welcomed to the course?
-    - How will students gauge progress toward understanding? How will the instructor?
-    - How will learning be evaluated?
-    - How will all students feel included in the learning process and welcome as scientists?
-
 ## Course Structure in Practice
+
+### Course Maps
 
 To help you structure your course in practice, several course maps exist. For example, [we have provided our own recommended course map that aligns with this course's content](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub).
 
@@ -268,13 +250,37 @@ Some general tips for working with a course map:
 
     With that in mind, consider the sequence of events around the activity you designed for that objective. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
 
-    Finally, with [our course planning tool](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub) as a guide, how could you present the information in your answers above to students in an effective, equitable, learner-centered way?
+    Try using [our course planning tool](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub) as a guide to building your own course map. 
 
 ### Learner-Centered Syllabus
 
-Some course planning tools focus on designing learner-centered syllabi for your courses. For example, [we have provided our own recommended learner-centered syllabus guide that aligns with this course's content](https://docs.google.com/document/d/e/2PACX-1vSSUHVaisNabRd5xHegugbp__iU9KHfBuYezJcb6td0ZOixXMSCtOMu4SNVCWxOeuyt2RKPD7KgdX-F/pub). This tool is structured as a questionnaire to help you start imagining and building out learner-centered syllabi.
+In his book, "What the Best College Teachers Do," Ken Bain (2004) describes three parts of what he calls "the promising syllabus":
 
-Keep in mind, not all teachers are able to modify the syllabi for their courses, which may be standardized across a department, district, or so on. In any case, however, teachers *welcome* their students to their courses.
+1. **Highlight the promises or opportunities.**
+
+    - What kinds of questions will the course help students answer?
+    - What kind of intellectual, physical, emotional, or social abilities will it help them develop?
+    - Why is the course relevant?
+    - How does the course connect with the facets of science?
+
+2. **Explain what students will do to meet those promises.**
+
+    - What learning activities (e.g., activities, assignments, readings) will be used in the course?
+    - How will students learn from the course resources, the instructional team, and each other?
+    - Where will students have agency and choice in their education?
+
+3. **Discuss how students will engage in the learning process.**
+
+    - How will students be welcomed to the course?
+    - How will students gauge progress toward understanding the facets? How will the instructor?
+    - How will learning be evaluated?
+    - How will all students feel included in the learning process and welcome as scientists?
+
+A learner-centered syllabus presents the course structure and other aspects of course design to students in a way that is focused on their learning, sucess, and belonging. It also provides an opportunity to highlight the six facets of science at the start of the learning experience.
+
+Some course planning tools focus on designing a learner-centered syllabus for your courses. For example, [we have provided our own recommended learner-centered syllabus guide that aligns with this course's content](https://docs.google.com/document/d/e/2PACX-1vSSUHVaisNabRd5xHegugbp__iU9KHfBuYezJcb6td0ZOixXMSCtOMu4SNVCWxOeuyt2RKPD7KgdX-F/pub). This tool is structured as a questionnaire to help you start imagining and building out learner-centered syllabi.
+
+Keep in mind, not all teachers are able to modify the course syllabus, which may be standardized across a department, district, or so on. In any case, however, teachers *welcome* their students to their courses.
 
 So, in this course when we refer to a "syllabus," we equally mean *any* of the materials you provide students that introduce them to your course, such as:
 
@@ -285,7 +291,7 @@ So, in this course when we refer to a "syllabus," we equally mean *any* of the m
 - The homepage or first module on the course LMS
 - And many more!
 
-And so, we encourage all teachers, even those who have control of their syllabi, to imagine all the ways they welcome students to their courses and provide students a roadmap for success.
+And so, we encourage all teachers, even those who do not have control to change their syllabus, to imagine all the ways they welcome students to their courses and provide students a roadmap for success.
 
 !!! tip ""
 
