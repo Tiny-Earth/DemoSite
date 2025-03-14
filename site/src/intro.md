@@ -19,7 +19,7 @@ Scientific teaching is both the *teaching of science* and the *science of teachi
 - Engages students in authentic practices of science
 - Approaches their teaching with the spirit of scientific research
 
-Scientific teaching combines intentional instructional decisions with iterative improvements to create inclusive learning experiences, which, in turn, support students learning science.
+Scientific teaching combines intentional instructional decisions with iterative, evidence-based improvements to create inclusive learning experiences, which, in turn, support students learning science. 
 
 ### Goals of Scientific Teaching
 
@@ -28,19 +28,19 @@ The goals of scientific teaching are to:
 - Infuse scientific thinking into teaching and learning.
 - Increase diversity in STEM.
 
-Embedded in this undertaking is a challenge to all scientists to bring to teaching the critical thinking, rigor, creativity, and spirit of experimentation that defines research [handelsman_scientific_2004](@cite).
+Embedded in this undertaking is a challenge to all scientists to bring to teaching the critical thinking, rigor, creativity, and spirit of experimentation that defines research [handelsman_scientific_2004](@cite). This includes drawing on the research about effective teaching and learning to shape our approaches.
 
-Scientific teaching also posits that teaching science should capture the spirit of discovery in the classroom in ways that are accessible to all students. Teaching scientifically supports student learning, brings joy to teaching, and leads to increased diversity in STEM.
+Scientific teaching also posits that teaching science should capture the spirit of discovery in the classroom in ways that include  all students. Teaching scientifically can open pathways for all students to engage in science and bring joy to teaching.
 
 ## Why Scientific Teaching?
 
 ### Effective Science Education
 
-Effective science education is equitable science education: Scientific teaching is needed to create a diverse and creative workforce equipped to address emerging global and local problems. Increasing diversity in STEM requires drawing from historically excluded groups. The future workforce should match the demographics of the world’s citizens, take advantage of underutilized talent in all demographic groups, and make STEM careers readily available to people of all backgrounds.
+Effective science education is equitable science education: Scientific teaching is needed to create a diverse and creative workforce equipped to address emerging global and local problems. Increasing diversity in STEM requires drawing from historically excluded groups. The future workforce should match the demographics of the world’s citizens and take advantage of underutilized talent in all demographic groups.
 
 > __*Effective science education is equitable science education.*__
 
-Yet inequities plague higher education, quelling STEM workforce diversity. Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Bensimon, 2005, p. 99). The inequities in college science education continue to deny opportunities to historically excluded communities (HECs): groups and individuals who have traditionally been underrepresented and denied full rights, privileges, and participantion in STEM education. HECs include but are not limited to women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students [Asai2020-bb](@cite).
+Yet inequities plague higher education, quelling STEM workforce diversity. Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Bensimon, 2005, p. 99). The inequities in college science education continue to deny opportunities to historically excluded communities (HECs): groups and individuals who have traditionally been underrepresented and denied full rights, privileges, and participantion in STEM education. HECs include but are not limited to women, people of color, people with disabilities, caregivers, LGBTQIA+ students, first-generation students, and low-income students [Asai2020-bb](@cite).
 
 To achieve an equitable STEM workforce, we must address the structural, individual, intentional, and unintentional biases that:
 - Discourage HEC students from pursuing STEM
