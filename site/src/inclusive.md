@@ -23,17 +23,17 @@ There is no shortage of inclusive teaching methods. In fact, the number of choic
 
 ## Why Inclusive Learning?
 
-Diversity in STEM starts with inclusive learning environments. Recall from the previous module that a prevailing reason students leave science majors is not because they are incapable, but because science is too often taught in a way that doesn’t inspire them or instill a sense of belonging. Consequently, more than half of the 600,000 US students who declare STEM majors change to a different major before graduating [thiry_talking_2019](@cite), with students from underrepresented backgrounds switching out of STEM at disproportionate rates [riegle2019does](@cite).
+Diversity in STEM requires inclusive learning environments. Recall from the previous module that a prevailing reason students leave science majors is not because they are incapable, but because science is too often taught in a way that doesn’t inspire them or instill a sense of belonging. Consequently, more than half of the 600,000 US students who declare STEM majors change to a different major before graduating [thiry_talking_2019](@cite), with students from underrepresented backgrounds switching out of STEM at disproportionate rates [riegle2019does](@cite).
 
 Reversing STEM attrition requires us to reimagine how the various components of a classroom work together to create inclusive learning environments.
 
 ## A Framework for Inclusive Learning
 
-The Five Dimensions of Inclusive Teaching [bell2016design](@cite) provides a framework for understanding how instructors, students, curriculum, and pedagogy collectively influence the classroom environment.
+The Five Dimensions of Inclusive Teaching [bell2016design](@cite) provides a framework for understanding how instructors, students, curriculum, and pedagogy collectively influence our teaching, students’ learning, and the classroom environment.
 
 At the center of the framework is course climate, which encompasses the atmosphere and environment in which students learn. It is influenced by the other four dimensions: instructors (who we are), students (who we teach), curriculum (what we teach), and pedagogy (how we teach).
 
-![Illustration of the five dimensions of inclusive teaching: Instructors, Pedagogy, Students, Curriculum, and Climate. Each dimension connects to the others, with Climate playing a central, moderating role.](assets/five-dimensions-of-inclusive-teaching.svg)
+![Illustration of the five dimensions of inclusive teaching: Instructors, Pedagogy, Students, Curriculum, and Climate. Each dimension connects to the others and moderates Climate.](assets/five-dimensions-of-inclusive-teaching.svg)
 
 Figure adapted from [bell2016design, marchesani1992dynamics](@cite).
 
@@ -43,13 +43,13 @@ Figure adapted from [bell2016design, marchesani1992dynamics](@cite).
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    Which dimension(s) do you tend to think about most in your teaching? 
+    What is your understanding of the term “climate dimension”? 
 
     Which dimension(s) may require more attention for you to consider?
 
 ### The Climate Dimension
 
-Course climate is the manifestation of all the decisions that influence the learning environment. As instructors, our role is to examine how we set up and sustain learning experiences to be inclusive (Dewsbury & Brame, 2019; Bell et al., 2016). An inclusive course climate is one where all students feel welcomed, valued, and supported in their learning, regardless of backgrounds and identities (Brame, 2019). 
+Course climate encompasses the intellectual, social, emotional, and physical environment in a class (Ambrose et al., 2010). It is shaped by a combination of instructor decisions,  student interactions, and broader influences. As instructors, we play a key role in shaping this climate by designing and sustaining learning experiences to be welcoming and inclusive (Dewsbury & Brame, 2019; Bell et al., 2016). An inclusive course climate ensures that all students, regardless of background or identity, feel valued and supposed in their learning (Brame, 2019). As instructors, our role is to examine how we set up and sustain an inclusive course climate (Dewsbury & Brame, 2019; Bell et al., 2016).  
 
 ### The Instructor Dimension
 
@@ -59,7 +59,7 @@ In aggregate, our identities, biases, and assumptions affect the pedagogical cho
 
 ### The Student Dimension
 
-Like instructors, students come to our courses with a composite of many identities and biases. Students interact with their instructors, with each other, and with  content in the context of a course’s climate. Students’ identities and their interactions influence the extent to which they feel a sense of belonging and the likelihood that they will learn the material and eventually persist in STEM. 
+Like instructors, students come to our courses with a composite of many identities and biases. Students interact with their instructors, with each other, and with  content in the context of a course’s climate. Students’ identities and their interactions influence the extent to which they feel a sense of belonging, which affects learning outcomes and persistence in STEM. 
 
 ### The Connection between Identity and Belonging
 
@@ -71,7 +71,7 @@ The Tripartite Integration Model of Social Influence (TIMSI) explains the psycho
 
 ### The Curriculum Dimension
 
-Curriculum is arguably the most visible component of a course and has an important influence on the course climate. Thus, we should carefully consider our decisions regarding which content is included or excluded. 
+Curriculum is arguably the most visible component of a course and has an important influence on the course climate. Curriculum can be a lesson plan, the overall plan within a course, across a major. Thus, we should carefully consider our decisions regarding which content is included or excluded. 
 
 ### Science Content
 
@@ -95,9 +95,9 @@ Let’s examine how the instructor, student, curriculum, and pedagogy dimensions
 
 Interventions can be incorporated as individual or repeated activities, such as:
 
-- Increase **instructor immediacy and presence** by making eye contact, engaging in positive body movements such as nods and smiles, communicating goals, setting guidelines for student interactions, and encouraging student participation [shea2006study, baker2010impact, andersen1981three, arbaugh2006does](@cite).
-- Use **active learning experiences**, in which students actively engage with content and sometimes each other [freeman_active_2014](@cite). You’ll find many examples in the Learning Experiences module.
-- Do regular **formative assessments**, in which students have the opportunity to regularly practice and receive feedback (Black and Wiliam, 1998). More in Learning Experiences.
+- Increase **instructor presence and connection to students** by making eye contact, engaging in positive body movements such as nods and smiles, communicating goals, setting guidelines for student interactions, and encouraging student participation [shea2006study, baker2010impact, andersen1981three, arbaugh2006does](@cite).
+- Use **active learning experiences**, in which students actively engage with content and sometimes each other [freeman_active_2014](@cite). You’ll find more examples in the Learning Experiences module.
+- Do regular **formative assessments**, in which students have the opportunity to regularly practice and receive feedback (Black and Wiliam, 1998). You’ll find more examples in the Learning Experiences module.
 - Encourage **microaffirmations**, which are statements that affirm a student’s capabilities (Estrada et al., 2019)
 - Leverage activities that **increase resilience** by reframing social adversity as common and transient [walton_brief_2011](@cite)
 - Incorporate interventions that make explicit the **utility value** of a course or its parts [harackiewicz_closing_2016, asher2023utility](@cite).
@@ -106,8 +106,8 @@ Interventions can be incorporated as individual or repeated activities, such as:
 Instructors can also modify overall course structure or infuse practices into an entire course to accomplish an inclusive learning environment. Some examples:
 
 - Create a culture where **failure is a productive and normal part of science**, rather than a judgement on students' identity [petroski2013success, simpson_failure_2017, lopatto2020facilitating, gin2018students, good2012women, koch2008women, cacciotti2015fear](@cite).
-- Use **high-structure course design** to elucidate what is expected of students and create predictable patterns [freeman_increased_2011, theobald_active_2020](@cite). More on this in Course Structure.
-- Teach a **course-based undergraduate research experience (CURE)**, in which students engage in research while enrolled in a course [aikens_race_2017, dolan_guide_2021, hurtado_diversifying_2009](@cite). More on this in Learning Experiences.
+- Use **high-structure course design** to elucidate what is expected of students and create predictable patterns [freeman_increased_2011, theobald_active_2020](@cite). You’ll find more on this in the Course Structure module.
+- Teach a **course-based undergraduate research experience (CURE)**, in which students engage in research while enrolled in a course [aikens_race_2017, dolan_guide_2021, hurtado_diversifying_2009](@cite). 
 - Leverage **universal design for learning** principles, which incorporate accessibility considerations into course design that provide equal access and opportunities for everyone, regardless of their abilities [burgstahler2013universal](@cite).
 
 !!! tip ""
@@ -124,7 +124,7 @@ Instructors can also modify overall course structure or infuse practices into an
 
 Identity comprises the social, emotional, and professional attributes of an individual (Rus et al., 2013; Peterson et al., 1999). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate.
 
-**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group (Tajfel, 1981. p. 255). It can change over time and between contexts (Gee, 2000). Moreover, we are each of us complex persons with multiple social identities that intersect, add up, and produce unique experiences–both for ourselves and how we are viewed by others [crenshaw2013demarginalizing, gordon2008ghostly](@cite). And while much social science in recent decades has worked toward identifying current and historical discrimination against members of protected social groups, it is important to also recognize the unique joys, places, desires, values, traditions, stories, practices, hardships, and acts of resistance that contribute to what it means to “belong” in one’s social groups [tuck2009suspending](@cite). 
+**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group by society (Tajfel, 1981. p. 255). It can change over time and between contexts (Gee, 2000). Moreover, we are each of us complex persons with multiple social identities that intersect, add up, and produce unique experiences–both for ourselves and how we are viewed by others [crenshaw2013demarginalizing, gordon2008ghostly](@cite). Although social science research has highlighted discrimination against protected social groups, it is also important to recognize the unique joys, values, and experiences that shape what it means to "belong" in a group [tuck2009suspending](@cite). 
 
 **Emotional identity** characterizes how a person responds to their own emotions and the emotions of others. It is informed by experiences, power dynamics, and agency.
 
@@ -187,7 +187,19 @@ Identity comprises the social, emotional, and professional attributes of an indi
     - Hobbies or interests
     - Financial situation
 
-    Do you tell your students these attributes? Why or why not?
+Do you tell your students these attributes? Why or why not?
+
+    What is one way that those attributes could affect your teaching or your interactions with students?
+
+    #### Reflection: Your Students’ Identities 
+
+    We considered our own identities, but it is also important to be aware of who is in our classes. 
+
+    What do you know about your students’ identities and what is important to them? 
+
+    How do their identities and background impact how they experience interactions or activities in class with you and with their peers? 
+
+     How do their identities shape how they decide what is relevant or important?
 
 ### Mitigate Biases and Assumptions
 Identities aren’t the only thing that influence outcomes in STEM. Biases and assumptions matter, too. For example, biases and assumptions affect how we rate people, which can have consequences for hiring decisions and advancement.
@@ -202,7 +214,7 @@ What results would you predict? Click here to find out what happened!
 
 Dozens of studies have compared hiring decisions with the same setup, all yielding the same result: Evaluators are substantially more likely to hire and pay a higher salary if an applicant has a man’s name. **These results have not changed for 50 years.**
 
-In fact, we hold biases about everything imaginable—not just hiring. For a more complete list of the HEC groups affected by bias and assumptions in STEM higher education, check out the supplementary materials for Achieving STEM Diversity: Fix the Classrooms [handelsman_achieving_2022](@cite). 
+In fact, we hold biases about everything imaginable—not just hiring. For a more complete list of the HEC groups affected by bias and assumptions in STEM higher education, check out the supplementary materials for Achieving STEM Diversity: Fix the Classrooms [handelsman_achieving_2022](@cite). An example in a classroom context could look like instructors calling on students they expect will have the right answer or whose name they can pronounce. 
 
 Bias is not inherently bad and is part of human nature. But when bias leads to recurring, systemic inequalities that cause negative socioeconomic impacts and structural inequities, we need to pay attention and effect change. 
 
