@@ -9,7 +9,7 @@
     By the end of this module, you will be able to...
 
     - Describe the idea of backward design and consider how to apply it to your own course.
-    - Explain how backward design can support an inclusive learning environment.
+    - Explain how backward design can support an inclusive learning experience.
     - Practice applying backward design to your course by drafting a course map.
     - Practice writing learning goals and objectives for your course that incorporate the six facets of science and inclusive learning.
     - Evaluate the level of cognitive engagement (Bloom’s level) for learning objectives.
@@ -21,7 +21,7 @@ Course design is an intentional, reflective process of developing effective lear
 
 ## Why Course Design?
 
-The aim of course design is to create directed, scaffolded learning experiences in which students engage repeatedly with the course material, each other, and the instructional team [fink2006creating, freeman_increased_2011, wiggins2005understanding, wiggins2011understanding](@cite).
+The aim of course design is to create directed, scaffolded learning experiences in which students engage repeatedly with the course material, each other, and the instructional team [fink2006creating, freeman_increased_2011, wiggins2005understanding, wiggins2011understanding](@cite). As scientific teachers, we approach course design by drawing on our disciplinary expertise and experiences, as well as research-based practices for effective teaching and inclusive learning.
 
 Scientific teachers are designers: You select scientific content with purpose, organize it in a way that scaffolds learning, and evaluate how well it worked. And like in any type of design—from technology, to paintings, to skyscrapers, and yes, to science courses—you make decisions that influence outcomes.
 
@@ -37,7 +37,7 @@ Only you can know what your own commitments are, and only you can know the ways 
 - Inform how you engage with your students
 - Define how you want students to engage with the content and each other
 
-This module asks you to reflect on your commitments and apply a course design framework called “backward design”. Other modules provide suggestions for activities, assessments, and other considerations to fill out the course learning experiences.
+This module asks you to reflect on your commitments and apply a course design framework called “backward design”. Other modules provide suggestions for activities, assessments, and other considerations that influence the learning experiences within the course.
 
 ### Effective Design of STEM Courses
 
@@ -55,7 +55,7 @@ Effective design principles incorporate balance and alignment, while focusing on
 
     - Emphasize learning the facets of science
     - Clarify what is expected of students
-    - Remove barriers that could preclude some students from accessing resources
+    - Remove barriers that could preclude some students from accessing resources and learning
 
     !!! details "Click here to show Vignette #1"
 
@@ -63,7 +63,7 @@ Effective design principles incorporate balance and alignment, while focusing on
 
     !!! details "Click here to show Vignette #2"
 
-        Students in my chemistry course know what is expected of them. The learning objectives are transparent, and we do a variety of student-centered activities in class that help them practice skills related to the objectives. We ask and answer scientific questions with relevance to their lives, and I highlight the work of diverse scientists whenever possible. We connect the science to historical legacies of exclusion and privilege in science. Everything for class is on our learning management system, which ensures students can find materials even if they miss class. I have built a lot of structure in my course such as pre-class readings with quizzes and post-class reflection assignments to help students monitor and progress their learning. I use frequent low-stakes assessments with timely feedback, and I make sure to tell them it's ok to make mistakes. I encourage students to ask questions and to work together to generate their own understanding. I really love talking with my students. They bring so much curiosity and enthusiasm to the class.
+        In my chemistry course, the learning objectives are transparent, and we do a variety of student-centered activities in class that help them practice skills related to the objectives. We ask and answer scientific questions with relevance to their lives, and I highlight the work of diverse scientists whenever possible. We connect the science to historical legacies of exclusion and privilege in science. Everything for class is on our learning management system, which ensures students can find materials even if they miss class. I have built a lot of structure in my course such as pre-class readings with quizzes and post-class reflection assignments to help students monitor and progress their learning. I use frequent low-stakes assessments with timely feedback, and I make sure to tell them it's ok to make mistakes. I encourage students to ask questions and to work together to generate their own understanding. I really love talking with my students. They bring so much curiosity and enthusiasm to the class.
 
 !!! tip ""
 
@@ -101,13 +101,15 @@ The process of backward design is meant to be flexible and iterative, not prescr
 
   *Action: Design inclusive learning experiences that support learners in understanding the facets of science.*
 
+Backward design is a process that enables us to approach our teaching scientifically. Similar to how we design a research study with identifying a hypothesis and then determining the steps to test it, in backward design we plan our desired results, then intentionally plan the approach we will use to achieve them. It is most successful when we evaluate the extent to which our plan accomplished what was intended. 
+
 ## Course Design in Practice
 
 ### Step 1: Identify desired results.
 
 Learning goals and objectives are two key components of instructional design that guide the development of curriculum and assessments.
 
-**Learning goals** emphasize enduring understanding. These are broad descriptions of what students will understand and learn as a result of engaging with the curriculum. They describe the overall purpose of an instructional unit with respect to the facets of science, inclusive learning expectations, or any other aspiration for the curriculum. Learning goals are often linked to the even broader goals of an academic program.
+**Learning goals** are broad descriptions of what students will understand and learn as a result of engaging with the curriculum. They describe the overall purpose of an instructional unit with respect to the facets of science, inclusive learning expectations, or any other aspiration for the curriculum. Learning goals are often linked to the even broader goals of an academic program.
 
 For example:
 
@@ -184,6 +186,7 @@ For example:
 > - Students will understand the water cycle as a complex process that involves the continuous movement and transformation of water through the environment.
 > - Students will recognize the importance of the water cycle in sustaining life on earth and the implications of human activity on this process.
 > - Students will develop critical thinking skills to analyze and evaluate the impact of changes in the water cycle on ecosystems and human societies.
+> - Students will understand how individuals from different backgrounds contribute to soling water-related challenges in various careers.
 
 !!! tip ""
 
@@ -215,7 +218,7 @@ For example:
 
 Learning objectives are more measurable than learning goals and describe specific outcomes at the topic level.
 
-A general suggestion is to have two to five learning objectives per topic, depending on its complexity. Although learning objectives are often content-focused, they can also include gaining competence in a new skill or developing a certain type of knowledge or expertise. Learning objectives should be designed to be achievable and realistic, but also challenging enough to promote growth and progress.
+A general suggestion is to have two to five learning objectives per topic, depending on its complexity. Although learning objectives are often content-focused, they can also include gaining competence in a new skill, or shifting beliefs, attitudes, or perspectives. Learning objectives should be designed to be achievable and realistic, but also challenging enough to promote growth and progress.
 
 To write an effective learning objective, we suggest the following:
 
@@ -224,6 +227,7 @@ To write an effective learning objective, we suggest the following:
 - **Be concrete.** The objective should be written in a way that allows the student's progress or achievement to be measured directly. Use language that makes clear how knowledge is being assessed.
 - **Be realistic.** The objective should be achievable within the context of the course unit and based on a reasonable level of prior knowledge or skill.
 - **Align with learning goals.** The objective should align with a larger learning goal.
+- **Be authentic.** The skills or ways of thinking should reflect what matters in the discipline and promote the  facets of science.
 
 ### Bloom's Taxonomy
 
@@ -240,7 +244,8 @@ Bloom’s Taxonomy categorizes several domains of educational goals based on the
 
 ![Example learning objectives across all six levels of Bloom’s Taxonomy using multiple STEM topics. Examples are shown in order from Higher-Order Cognitive Skills (HOCS) to Lower-Order Cognitive Skills (LOCS). Level 6, Create: Design a mathematical model to represent the growth of a population using exponential functions. Level 5, Evaluate: Critique the effectiveness of renewable energy sources in reducing greenhouse gas emissions. Level 4, Analyze: Compare and contrast the properties of ionic and covalent bonds. Level 3, Apply: Demonstrate how to assemble a simple circuit using a battery, wires, and a light bulb. Level 2, Comprehend: Explain the relationship between force, mass, and acceleration using Newton's second law of motion. Level 1, Remember: List the names and functions of primary organelles in a eukaryotic cell.](assets/Blooms_multiple-topics.png) 
 
-In designing learning objectives, select action verbs that communicate the desired cognitive level. Importantly, students do not necessarily have to complete LOCs before moving to HOCs. In fact, asking questions, making assessments, or proposing hypotheses can encourage a growth mindset and readiness to learn the facts or concepts.
+In designing learning objectives, select action verbs that communicate the desired cognitive level. Importantly, students do not necessarily have to complete LOCs before moving to HOCs. In fact, asking questions, making assessments, or proposing hypotheses can encourage a growth mindset and readiness to learn the facts or concepts. For example, sometimes it makes more sense to ask a question or propose a hypothesis before learning the content, which can also activate prior knowledge and metacognition. Including HOCs is also valuable in helping students emulate how scientists think. Scientists don't only remember and understand, after all. 
+
 
 !!! note ""
 
@@ -249,7 +254,7 @@ In designing learning objectives, select action verbs that communicate the desir
     For each assessment prompt below, identify whether it targets a lower-order cognitive skill (LOCS) or higher-order cognitive skill (HOCS):
 
     - Design an experiment to test one of Newton's laws of motion, including the necessary equipment, data collection methods, and analysis.
-    - Use Figure 3 in the textbook to draw your own model that demonstrates one or more of Newton's laws of motion, including the necessary variables and assumptions.
+    - Draw your own model that demonstrates one or more of Newton's laws of motion, including the necessary variables and assumptions.
     - Define Isaac Newton's three laws of motion, including examples of each.
     - Critique the validity of an experiment or study that uses Newton's laws of motion to explain a physical phenomenon, including its limitations and potential sources of error.
     - Explain the difference between mass and weight.
@@ -261,10 +266,11 @@ In designing learning objectives, select action verbs that communicate the desir
 
         - Define Isaac Newton's three laws of motion, including examples of each.
         - Explain the difference between mass and weight.
-        - Use Figure 3 in the textbook to draw your own model that demonstrates one or more of Newton's laws of motion, including the necessary variables and assumptions.
 
         HOCS:
 
+
+        - Draw your own model that demonstrates one or more of Newton's laws of motion, including the necessary variables and assumptions.
         - Design an experiment to test one of Newton's laws of motion, including the necessary equipment, data collection methods, and analysis.
         - Critique the validity of an experiment or study that uses Newton's laws of motion to explain a physical phenomenon, including its limitations and potential sources of error.
         - Considering the forces acting on an object in motion (direction and magnitude), predict the resultant motion of the object using Newton's laws.
@@ -286,7 +292,15 @@ In designing learning objectives, select action verbs that communicate the desir
     Above, we asked you to imagine the third week/day for your course and some learning objectives for that moment in time.
     
     Select one of those objectives. Does it communicate the desired cognitive level and incorporate one or more facets of science? How would you update it, if needed?
-s
+
+    Bloom's Taxonomy also includes an affective domain, which includes five levels: receiving, responding, valuing, organization, and characterization. 
+
+    #### Affective Domain: Now You Try!
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
+
+    For the course you thought about (above), did you have any affective learning objectives? If not, write one or two learning objectives based on the affective domain.
+    
 ### Step 2. Determine acceptable evidence.
 
 Once you have learning objectives that are aligned to learning goals, the next step is to determine what evidence will acceptably demonstrate that students are progressing toward—and eventually succeeding in accomplishing—the desired outcomes. This requires that we design assessments that are aligned to the learning objectives.
@@ -371,6 +385,7 @@ Backward design is an iterative process. Keep checking how the objectives, asses
 
         - Our students as individuals, whole persons, and fellow humans
         - Increasing diversity in STEM
+        - Increasing equity in STEM education
         - The purposes of education
         - Advancing discovery and the purposes of science
         - Inclusive learning environments
