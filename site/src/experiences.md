@@ -182,7 +182,7 @@ Think-pair-share is a flexible activity that can be adapted to almost any teachi
 2. discuss their ideas and answers in pairs, and then
 3. share (or write) their answers with the rest of the class or the instructor.
 
-### How does a Think-Pair-Share encompass active learning?
+### How does a think-pair-share encompass active learning?
 
 A think-pair-share is an active-learning strategy because students are actively engaged in various cognitive processes and collaborative learning. It also maps onto how learning works:
 
@@ -191,15 +191,15 @@ A think-pair-share is an active-learning strategy because students are actively 
 - **Construct new knowledge:** Throughout a think-pair-share activity, students integrate new information with their existing knowledge, forming new connections between ideas, and developing a deeper understanding of the topic. Knowledge construction is reinforced through the social interaction and feedback provided by their partner. Here, the knowledge is new to the students; rather than referring to a new scientific discovery, the word "new" refers to the facts, understandings, and conenctions that the student makes.
 - **Practice and apply knowledge:** Throughout the think-pair-share activity, students are sharing their thoughts and ideas, engaging in a collaborative conversation, receiving feedback, and responding to questions.
 
-### How does a Think-Pair-Share leverage formative assessment?
+### How does a think-pair-share leverage formative assessment?
 
 The first step (thinking) gives students time to evaluate their understanding of the topic and therefore requires them to be metacognitive: What do I already know? How do the pieces fit together?
 
 The later steps (pairing and sharing) require students to compare and contrast their ideas with other students’ and evaluate whether they need to adjust their ideas to be more complete or accurate.
 
-From the instructor perspective, consider how think-pair-share acts as a window into the students’ thinking that helps you understand whether they understand the material. The student responses, performance, and engagement become valuable indicators for assessing progress toward the learning objectives.
+From the instructor perspective, consider how think-pair-share acts as a window into the students’ thinking that helps you understand whether they understand the material. How well do student responses align with what you expected/hoped they would think? What questions do their responses reveal? The student responses, performance, and engagement become valuable indicators for assessing progress toward the learning objectives.
 
-### How does a Think-Pair-Share foster inclusive learning?
+### How does a think-pair-share foster inclusive learning?
 
 The structure of a think-pair-share ticks several inclusive learning boxes. Because everyone processes information at different speeds, posing a problem as a think-pair-share allows students the necessary time to reflect, formulate their thoughts, and even write out their answers. Moreover, sharing with the whole class can be overwhelming for some students. With a partner, they practice explaining their thinking, which prepares them for sharing responses with the class. And the best part? Everyone’s voice gets heard (even if only in a pair), and everyone hears different perspectives.
 
@@ -211,13 +211,19 @@ A think-pair-share also fosters a growth mindset. It breaks down complicated pro
 - Survey the class early in the term to find out who is willing to share their thoughts with the class and who prefers not to (Cooper et al. 2021).
 - Randomize the list of students to call on to prevent biasing responses to those who are fast at processing information or confident speaking in large groups—and to whom other students may defer even if they are incorrect (Theobald et al. 2017).
 
-### How does a Think-Pair-Share encourage scientific thinking?
+### How does a think-pair-share encourage scientific thinking?
 
 A think-pair-share activity can break down the facets of science into smaller parts, giving students the opportunity to practice various important skills in their STEM discipline. For example, in a math or computer science class, students might practice summarizing data, debug a few lines of data, or apply mathematical formulas. In a chemistry course, they might examine the limitations of data, select appropriate reagents for an experiment, or troubleshoot experimental hurdles. In an engineering course, students could determine what information is relevant and propose which computer program or device could solve the problem. In a biology class, they might critique experimental designs, identify appropriate controls and treatments, draw conclusions based on evidence, or ask questions about the natural world, public health, or whatever content is relevant to that course.
 
-### What are considerations for designing a Think-Pair-Share?
+### What are considerations for designing a think-pair-share?
 
 Creating a Think-Pair-Share requires thinking like a designer, so leverage backward design and start with learning objectives. Then move on to design considerations about inclusion, accessibility, and the practicalities of classroom management, such as:
+
+Start by leveraging backward design and considering your learning goals and objectives. 
+- Which Learning objective(s) does your think pair share align with?
+- What prior knowledge are you assuming or expecting students to draw on?
+
+Then, move on to design considerations related to activity structure, inclusion, and evaluation, such as:
 
 - Does every student need to share their response, or will a few sample responses be sufficient?
 - When will the sharing happen? Immediately following the think-pair? At the end of class? After class?
@@ -270,7 +276,7 @@ Any active learning technique can serve as a formative assessment for students, 
 
 ### STEM Examples of Active Learning Experiences
 
-To encourage students to think and act like scientists, active learning experiences should leverage the six facets of science. This can be achieved by incorporating elements of these facets into existing activities. Below are some examples for each facet of science.
+To encourage students to think and act like scientists, active learning experiences should leverage the six facets of science. This can be achieved by incorporating elements of these facets into existing activities. Below are some examples for each facet of science. In the table below, the passive examples illustrate what an instructor would say (for example, in a lecture), and the active examples show what students would do to actively engage in the same content as they practice the facets of science.
 
 ```@raw html
 <figure>
@@ -389,8 +395,7 @@ To encourage students to think and act like scientists, active learning experien
 
 ## Summary of Active Learning Experiences
 
-- Active learning experiences are student-centered, provide feedback, and allow for real-time adjustments.
-- While there is no all-encompassing definition, active learning generally involves students engaging in activities that promote cognitive engagement.
+- Active learning experiences engage students in learner-focused, cognitive tasks that allow for real-time feedback and adjustments.
 - Active learning approaches lead to improved student learning, collaborative skills, and persistence in science.
 - When students engage in cognitively demanding activities that incorporate science practices, they are more likely to deepen their understanding of both the concepts and the practices.
 
