@@ -12,7 +12,7 @@
     - Explain how backward design can support an inclusive learning experience.
     - Practice applying backward design to your course by drafting a course map.
     - Practice writing learning goals and objectives for your course that incorporate the six facets of science and inclusive learning.
-    - Evaluate the level of cognitive engagement (Bloom’s level) for learning objectives.
+    - Evaluate the level of engagement (Bloom’s level) for learning objectives.
     - Evaluate the extent to which learning goals and objectives support inclusive learning.
 
 ## Course Design Defined
@@ -21,23 +21,18 @@ Course design is an intentional, reflective process of developing effective lear
 
 ## Why Course Design?
 
-The aim of course design is to create directed, scaffolded learning experiences in which students engage repeatedly with the course material, each other, and the instructional team [fink2006creating, freeman_increased_2011, wiggins2005understanding, wiggins2011understanding](@cite). As scientific teachers, we approach course design by drawing on our disciplinary expertise and experiences, as well as research-based practices for effective teaching and inclusive learning.
+The aim of course design is to create directed, scaffolded learning experiences in which students engage repeatedly with the course material, each other, and the instructional team [fink2006creating, freeman_increased_2011, wiggins2005understanding, wiggins2011understanding](@cite). 
 
-Scientific teachers are designers: You select scientific content with purpose, organize it in a way that scaffolds learning, and evaluate how well it worked. And like in any type of design—from technology, to paintings, to skyscrapers, and yes, to science courses—you make decisions that influence outcomes.
+Scientific teachers are designers: You select scientific content with purpose, organize it in a way that scaffolds learning, and evaluate how well it worked. You make decisions - before, during, and after the term - that help you achieve your aims and support student learning. As a teacher, scientist, and designer, you hold a number of commitments that inspire and inform how you carry out your course [flanagan2005values, flanagan2014values, belman2009instructional](@cite). 
 
-Your decisions help you achieve your aims and support student learning, within your constraints. You make decisions about your teaching before the semester begins, while teaching a unit, and after each term ends. From designing new courses to overhauling an old design you inherited to continuously improving your teaching, as a scientific teacher you are as much a designer as you are a scientist and an educator.
-
-In all three of these roles—teacher, scientist, designer—you hold a number of commitments that inspire and inform how you carry out your course [flanagan2005values, flanagan2014values, belman2009instructional](@cite). As an instructor, you are likely committed to engaging students in meeting the learning objectives of your courses. As a scientist, you may be committed to a certain level of rigor and experimentation in your work. As a scientific teacher you may be committed to having your students experience scientific discoveries through those lenses. And as a designer, you plan, you adapt, you iterate.
-
-Only you can know what your own commitments are, and only you can know the ways they:
-
+As scientific teachers, you:
 - Shape what you aspire to achieve in your work as a scientific teacher
 - Motivate you to pursue your own degree of quality
 - Guide you to explore and weigh between design alternatives
 - Inform how you engage with your students
 - Define how you want students to engage with the content and each other
 
-This module asks you to reflect on your commitments and apply a course design framework called “backward design”. Other modules provide suggestions for activities, assessments, and other considerations that influence the learning experiences within the course.
+In this module, you will reflect on your commitments while you apply a course design framework called “backward design”. Other modules provide suggestions for activities, assessments, and other considerations as you plan your course learning experiences.
 
 ### Effective Design of STEM Courses
 
@@ -229,7 +224,7 @@ To write an effective learning objective, we suggest the following:
 - **Align with learning goals.** The objective should align with a larger learning goal.
 - **Be authentic.** The skills or ways of thinking should reflect what matters in the discipline and promote the  facets of science.
 
-### Bloom's Taxonomy
+### Bloom's Taxonomy (Cognitive Domain)
 
 Bloom’s Taxonomy categorizes several domains of educational goals based on the level of complexity and specificity (Bloom, 1956; Anderson and Krathwohl, 2001) and can be helpful in writing learning objectives. The taxonomy of the cognitive domain consists of six levels ranging from lower-order cognitive skills (LOCS) to higher-order cognitive skills (HOCS):
 
@@ -293,13 +288,15 @@ In designing learning objectives, select action verbs that communicate the desir
     
     Select one of those objectives. Does it communicate the desired cognitive level and incorporate one or more facets of science? How would you update it, if needed?
 
-    Bloom's Taxonomy also includes an affective domain, which includes five levels: receiving, responding, valuing, organization, and characterization. 
+### Bloom's Taxonomy (Affective Domain)
+
+    Bloom's Taxonomy also includes an affective domain, which encompasses how we process things emotionally when learning. The domain includes outcomes related to beliefs, attitudes, motivations, feelings, and behaviors.
 
     #### Affective Domain: Now You Try!
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    For the course you thought about (above), did you have any affective learning objectives? If not, write one or two learning objectives based on the affective domain.
+    For the course you thought about (above), did you include any affective learning objectives? If not, write one or two learning objectives based on the affective domain.
     
 ### Step 2. Determine acceptable evidence.
 
@@ -311,7 +308,7 @@ Imagine studying for an exam by solving problems and designing potential experim
 
 Now imagine the opposite scenario, where a student presumes the exam will have lower-order cognitive questions, but the exam has mostly higher-order cognitive questions. The student is unlikely to perform well and will be frustrated that the course materials did not adequately prepare them for the exam.
 
-In both cases, the students’ study strategies are misaligned with the objectives of the exam. When students have the chance to practice the skills they are expected to learn, and those are the skills on which they are tested, it creates a less frustrating and more equitable learning environment for everyone.
+In both cases, the students’ study strategies are misaligned with the objectives of the exam. Instead, when students have the chance to practice the skills they are expected to learn, and those are the skills on which they are tested, it creates a less frustrating and more equitable learning environment for everyone. It also makes it easier on the instructor to interpret data from the assessment and determine whether to modify their teaching to address where students are struggling.
 
 !!! tip ""
 
@@ -375,7 +372,7 @@ Backward design is an iterative process. Keep checking how the objectives, asses
 
     Consider why you made each decision.
 
-    What does it illuminate about the commitments you already bring to your teaching and to your science? List a few commitments that illuminate this way, then compare to our list of commitments below.
+    What does your decision illuminate about the commitments you already bring to your teaching and to your science? List a few commitments that illuminate your decisions, then compare to our list of commitments below.
 
     !!! details "Click to show the commitments of the authors of the Scientific Teaching Course"
 
@@ -383,21 +380,15 @@ Backward design is an iterative process. Keep checking how the objectives, asses
 
         What from our list resonates with your own experiences? What other commitments does this bring to mind that are relevant to, inspire, or inform how you carry out your own teaching? Commitment to:
 
-        - Our students as individuals, whole persons, and fellow humans
-        - Increasing diversity in STEM
-        - Increasing equity in STEM education
-        - The purposes of education
-        - Advancing discovery and the purposes of science
-        - Inclusive learning environments
-        - Growth mindset
-        - Our college programs
-        - Creating and iterating quality curriculum
-        - Achieving our learning objectives
-        - Yhe hallmarks of a CURE
-        - Our careers
-        - Wellbeing in work and life
-        - Our personal and professional identities
-        - Our values, beliefs, and principles
+        - Support our students as individuals, whole persons, and scientists
+        - Increase diversity and equity in STEM and education
+        - Advance discovery
+        - Create opportunities for students to engage in scientific thinking and practices
+        - Build inclusive learning environments
+        - Foster growth mindsets
+        - Generate and iterate quality curriculum
+        - Set relevant learning objectives and assess fairly
+        - Uphold our identities, values, beliefs, and principles
         - Special commitments in concerning times: various commitments that arose from specific needs and conversations at a specific moment in time, e.g., COVID-19 pandemic, rise of authoritarianism, social unrest, wars at home and abroad, Title IX cases, and advancements in artificial intelligence
 
 ### Step 5. Incorporate equity and access.
@@ -414,12 +405,19 @@ Students with disabilities face many challenges when seeking accommodations in h
 - **Digital accessibility:** Design digital content and technologies that are compatible with assistive technologies, such as screen readers and text-to-speech software.
 - **Social accessibility:** Use inclusive language, accommodate different communication styles.
 
+    Future modules will provide several actionable examples to leverage UDL through engagement and expression.  
+
+ #### Reflection: Universal Design for Learning
+
+    Reflect on what in your course might pose a barrier for students with respect to UDL. What could you do to flatten that barrier?
+    
 ## Summary of Course Design
 
 - Backward design is an approach to course or curriculum design that involves starting with the end goals or objectives and then designing assessments and activities that align with those goals.
 - Learning goals and learning objectives are the desired results—statements that explain what learners are expected to achieve—but they differ in their level of specificity and scope. Both are informed by enduring understanding and the future ability to use the knowledge.
 - Bloom's Taxonomy is a framework for categorizing educational goals and objectives into a hierarchy of six levels, ranging from simple recall of facts to complex, analytical thinking. By using Bloom's Taxonomy to guide learning objectives, educators can design learning experiences that promote deeper understanding and critical thinking.
 - Learning objectives, assessments, and learning experiences communicate what is important and valued. Their alignment with each other leads to an inclusive learning environment.
+- Course design makes our teaching scientific by leveraging same intentionality and rigor that we apply to our research.
 
 !!! tip ""
 
