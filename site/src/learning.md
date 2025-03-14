@@ -7,7 +7,7 @@
 !!! compat "" 
     By the end of this module, you will be able to...
     - Define learning and the factors that influence it.
-    - Explain the role of prior knowledge and scaffolding in learning.
+    - Explain the roles of prior knowledge and conceptual frameworks.
 
 ## Learning Defined
 
@@ -15,7 +15,7 @@
 
 **Learners** come into every learning experience with prior knowledge, mindsets, and beliefs. They have reasons for enrolling in a course and motivations for engaging with the material. Each learner’s brain contains approximately 86 billion neurons. Each neuron connects to many other neurons, creating a vast and unique network of 100 trillion neural connections within each brain [ref].
 
-Each course brings a unique mixture of course content, skills, and methods. The course **learning objectives** help students understand what is expected of them so they can build on what they already know and emphasize learning new ideas or difficult approaches [wiggins2005understanding, wiggins2011understanding](@cite).
+Each course brings a unique mixture of course content, skills, and methods. The course **learning objectives** help students understand what is expected of them so they can build on what they already know and emphasize learning new ideas or difficult approaches to learning [wiggins2005understanding, wiggins2011understanding](@cite).
 
 The **learning environment** affects the extent to which students feel a sense of belonging and agency to engage in learning. It is influenced by the instructor’s actions and statements, the instructional choices about which problems or examples matter, as well as cultural factors in society at large [ref].
 
@@ -90,6 +90,8 @@ The strength of a memory represents how associated the memory is with related kn
 
 An expert not only understands many concepts, but can relate them to each other, transfer principles across concepts, and easily add new knowledge to their framework. Novice are still acquiring and connecting information, and as a result, need guidance and practice in constructing their own frameworks. Experts have a conceptual framework that they use to identify concepts or patterns in various contexts so that they can transfer/apply their understanding to solve problems in novel contexts.
 
+An important thing for all (instructors and students) to remember is that everyone has been a novice at some point for something (for example, think about the first time you learned how to drive a car). Being a novice is an opportunity to grow, learn, and explore new ideas as part of this process of building a framework for conceptualizing knowledge. The principles in this course will help you think about how to design your course to help your students transition from novice towards expert.
+
 ```@raw html
 <figure>
     <figcaption>
@@ -129,7 +131,7 @@ This brings us to a set of research-based principles about learning [ambrose2010
 
 ## Learning in Practice
 
-The following modules will provide opportunities to effectively scaffold learning through your course design.
+The upcoming modules will provide opportunities to effectively scaffold learning through your course design.
 
 ## Summary of Learning
 
