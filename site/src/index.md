@@ -2,9 +2,11 @@
 
 ## Welcome to the *Scientific Teaching Course*
 
-The *Scientific Teaching Course* is an interactive digital toolbox and workbook for college educators to engage with the most recent evidence-based practices around teaching and learning in STEM.
+The *Scientific Teaching Course* is an interactive digital toolbox and workbook for college educators to engage with the most recent evidence-based practices around teaching and learning in STEM. 
 
 The first section provides an overview of scientific teaching, foundational information about how learning and inclusive learning work, and a call to action. The middle section builds on that foundation, providing opportunities to engage with the content, practice with the tools, self-assess, reflect, and apply to your own teaching. The final section provides tools to help you synthesize what you learned and identify areas for further development. Feel free to skim the materials and take what you need in real time, or go through the modules in detail and practice each step along the way. What you take away from the course will be influenced by much you engage with the content and apply the tools available.
+
+Concepts in the STC apply regardless of your course format: lecture or lab; virtual, hybrid, or in-person; large or small class size.
 
 ## Format of the Course
 
