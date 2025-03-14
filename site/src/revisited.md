@@ -22,37 +22,40 @@ The previous modules provided the foundations of knowledge, skills, tools, and m
 
 The goal is to continue to create a cohesive course that brings science to life and can be accessed equitably by your students. Over time, we also hope that you continue to enlist your scientific mindset to collect information to improve the course, and that your own skills and mindsets continue to evolve.
 
-## Leaving Yourself a Trail of Breadcrumbs
+## Making a Plan
 
-Below is a summary of the main considerations for scientific teaching to support your ongoing growth and iteration of the course over time. As you review what you've learned from the STC, identify which steps you will take next. This will help you create a “breadcrumb” trail to guide you on your path to scientific teaching.
+Below is a summary of the main considerations for scientific teaching to support your ongoing growth and iteration of the course over time. As you review what you've learned from the STC, identify which steps you will take next. This will help you create a plan to guide you on your path to scientific teaching.
 
-### For You as the Instructor
-
-- What are your next steps to build out your course? 
-    - Finish and align learning objectives, assessments, and activities
-    - Create detailed instructional materials to support them
-    - Work on inclusive learning environment
-    - Work on overall course structure
-    - Establish a learner-centered syllabus / inclusive welcome materials
-    - Other: _____
-- When and how will you practice teaching with these new tools?
-
-### For Designing the Course or Instructional Materials
+### Designing the Course or Instructional Materials
+As you review your course design, reflect on the below concepts and make adjustments as needed. 
 
 - **Alignment:** How do the activities and assessments reinforce each other and help students progress toward the learning goals?
-- **Learning goals:** How do the learning goals and objectives represent the six facets of science?
+
+- **Facets of science:** How do the learning goals and active learning experiences represent the six facets of science?
+- **Learning objectives:** How clearly do the objectives define what students will learn and be able to do? 
 - **Active learning:** How do the learning activities leverage evidence-based practices?
 - **How learning works:** How are the activities scaffolded to promote learning, metacognition, and regular low-stakes feedback?
 - **Inclusive learning:** How are the learning activities and the content relevant, accessible, and equitable? How are instructor and student identities accounted for?
 
 ### Ongoing Iteration
-
-What do you want to know to guide future iterations and ongoing growth?
+Consider how you will continue to develop yourself and your course to align with scientific teaching approaches. Think about what you want to know to guide future iterations and ongoing growth.
 
 - **Self reflection:** What worked, what didn’t, and why? How do you know? What would you keep or change next time? How will you continue to grow and learn?
 - **Peer-informed improvements:** How could a colleague provide feedback on course design, your teaching, or the student experience?
 - **Data-informed improvements:** What artifacts or assessments provide data about the extent to which learning objectives were met?
 - **Student input:** How could students provide feedback about their experiences with the content, experiences, and learning environment?
+- **Reflect on research:** How could you continue learning from new evidence on teaching and learning?
+
+### Make a Checklist
+Map out all the steps remaining to build out your course and note what remains to be done: 
+- Finish and align learning objectives, assessments, and activities
+- Create detailed instructional materials to support them
+- Work on inclusive learning environment
+- Work on overall course structure
+- Establish a learner-centered syllabus / inclusive welcome materials
+- Identify when and how will you practice teaching with these new tools
+- Other: _____
+
 
 ## Call to Action 
 
