@@ -378,7 +378,9 @@ Backward design is an iterative process. Keep checking how the objectives, asses
 
         As we (the authors) reflected on our own course design decisions throughout our own histories as teachers, we came to the following list of commitments that shape our work.
 
-        What from our list resonates with your own experiences? What other commitments does this bring to mind that are relevant to, inspire, or inform how you carry out your own teaching? Commitment to:
+        What from our list resonates with your own experiences? What other commitments does this bring to mind that are relevant to, inspire, or inform how you carry out your own teaching?
+        
+        We value our commitments to:
 
         - Support our students as individuals, whole persons, and scientists
         - Increase diversity and equity in STEM and education
