@@ -148,7 +148,7 @@ The level of course structure lies on a continuum from low to high. High-structu
 
     #### Two Course Maps
 
-    Examine [these example course maps](assets/course-structures.html) that describe the structure of a week from two different courses, Course 1 and Course 2.
+    Examine [these example course maps](assets/course-maps.html) that describe the structure of a week from two different courses, Course 1 and Course 2.
 
     Which example course map resonates with your experiences as a student? Why?
 
