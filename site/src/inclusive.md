@@ -61,7 +61,7 @@ In aggregate, our identities, biases, and assumptions affect the pedagogical cho
 
 Like instructors, students come to our courses with a composite of many identities and biases. Students interact with their instructors, with each other, and with  content in the context of a course’s climate. Students’ identities and their interactions influence the extent to which they feel a sense of belonging, which affects learning outcomes and persistence in STEM. 
 
-### The Connection between Identity and Belonging
+#### The Connection between Identity and Belonging
 
 The Tripartite Integration Model of Social Influence (TIMSI) explains the psychological mechanisms underlying belonging in STEM [estrada2011toward](@cite). The TIMSI describes three orientations that contribute to student persistence in STEM:
 
@@ -73,11 +73,11 @@ The Tripartite Integration Model of Social Influence (TIMSI) explains the psycho
 
 Curriculum is arguably the most visible component of a course and has an important influence on the course climate. Curriculum can be a lesson plan, the overall plan within a course, across a major. Thus, we should carefully consider our decisions regarding which content is included or excluded. 
 
-### Science Content
+#### Science Content
 
 Many studies demonstrate that active participation in science leads to an improved sense of belonging and retention in STEM [estrada2011toward, evans_functional_2021, hanauer_inclusive_2017, jordan_broadly_2014, lopatto_genomics_2008, olson_expression-based_2019, shaffer_course-based_2014, waddell_flying_2021](@cite). This active participation requires that students engage with the six facets of science (described in the previous module). Our role as instructors is to establish which facets are most relevant for a specific course and work to bring them to life. The Scientific Teaching Course provides tools for this purpose in the following modules about course design and learning experiences.
 
-### Diverse Perspectives and Representations
+#### Diverse Perspectives and Representations
 
 Part of scientific identity includes seeing one’s self and perspectives represented positively through the research questions asked, the outcomes discovered, and the individuals represented as scientists. Instructors decide whose voices are represented—which are all powerful ways to influence belonging in STEM. Strategies can be relatively simple, such as recognizing scientists from a variety of identities and backgrounds [schinske2014teaching](@cite), or complex, such as decolonizing the curriculum, which involves reimagining content and approaches that have historically prioritized Western, white, male-centric knowledge [gichuru2024enhancing](@cite). 
 
