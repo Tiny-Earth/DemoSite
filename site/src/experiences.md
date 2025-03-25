@@ -184,12 +184,42 @@ Think-pair-share is a flexible activity that can be adapted to almost any teachi
 
 ### How does a think-pair-share encompass active learning?
 
-A think-pair-share is an active-learning strategy because students are actively engaged in various cognitive processes and collaborative learning. It also maps onto how learning works:
 
-- **Activate prior knowledge:** During the “think” phase, students reflect on their prior knowledge and experiences. The act of writing helps people clarify their thoughts, which activates existing knowledge and helps them to make connections to what they already know. Even if their prior knowledge is incomplete or inaccurate, students can identify and question their own understanding. Moreover, as you circulate through the classroom, you can see who is engaged, and then talk to those who aren't writing to help them in their thinking.
-- **Recognize dissonance:** As students share their thoughts with their partner, they may encounter conflicting ideas that challenge their existing understanding. Peer-to-peer dialogue allows students to discuss and reconcile any differences in their understanding. The dissonance may lead to questions and motivation to figure out answers.
-- **Construct new knowledge:** Throughout a think-pair-share activity, students integrate new information with their existing knowledge, forming new connections between ideas, and developing a deeper understanding of the topic. Knowledge construction is reinforced through the social interaction and feedback provided by their partner. Here, the knowledge is new to the students; rather than referring to a new scientific discovery, the word "new" refers to the facts, understandings, and conenctions that the student makes.
-- **Practice and apply knowledge:** Throughout the think-pair-share activity, students are sharing their thoughts and ideas, engaging in a collaborative conversation, receiving feedback, and responding to questions.
+A think-pair-share engages students in a cognitive task that requires them to call on prior knowledge and evaluate what they know as they first share with another and then with the whole class. This allows time for individual reflection and everyone's voice to be heard before the final whole class interaction. We will explore how a Think-Pair-Share embodies the three components of an active learning activity in Table 2, below.
+
+```@raw html
+<figure>
+    <figcaption>
+        <p><strong id="table2-label">Table 2. Think-Pair-Share Exploration</strong></p>
+    </figcaption>
+    <table aria-labelledby="table2-label">
+        <tr>
+            <td></td>
+            <th scope="col">Think</th>
+            <th scope="col">Pair</th>
+            <th scope="col">Share</th>
+        </tr>
+        <tr>
+            <th scope="row">Active Learning</th>
+            <td>Students reflect on their prior knowledge and experiences which activates their existing knowledge and helps them to make connections to what they already know. Even if their prior knowledge is incomplete or inaccurate, students can identify and question their own understanding.</td>
+            <td>While sharing thoughts with their partner, students may encounter conflicting ideas that challenge their existing understanding. Peer-to-peer dialogue allows students to discuss and reconcile any differences in their understanding.</td>
+            <td>When sharing with the whole class, students are exposed to a broader set of ideas that may reinforce their corrent prior knowledge or allow them so see that others may share their inaccurate preconceptions. Throughout the activity, students integrate new information with their existing knowledge, form new connections between ideas, and develop a deeper understanding of the topic. Knowledge construction is reinforced through the social interaction and feedback provided by their partner. </td>
+        </tr>
+        <tr>
+            <th scope="row">Formative Assessment</th>
+            <td>As students bring their prior knowledge to bear on the topic, they evaluate their understanding and practice metacognition: What do I already know? How do the pieces fit together?</td>
+            <td>Students compare and contrast their ideas with another student which allows them to evaluate whether they need to adjust their ideas to be more complete or accurate. </td>
+            <td>Students are exposed to a broader set of ideas against which to compare and contrast their own. For the instructor, this provides a window into the students’ thinking that reveals whether they understand the material. As such, student responses, performance, and engagement become valuable indicators for assessing progress toward the learning objectives.</td>
+        </tr>
+        <tr>
+            <th scope="row">Inclusive Learning</th>
+            <td>Since people process information at different speeds, the think stage allows students the necessary time to reflect, formulate their thoughts, and even write out their answers.</td>
+            <td>Sharing with the whole class can be overwhelming for some students. With a partner, they practice explaining their thinking, which prepares them for sharing responses with the class. And the best part? Everyone’s voice gets heard even if only in a pair.</td>
+            <td>Ultimately, hearing from a subset of the whole class, expands the diversity of perspectives to which a student is exposed.  On the whole, Think-Pair-Share activities foster a growth mindset by breaking down complicated processes into bite-sized, achievable steps, providing time to practice new skills and work with new information. It allows for mistakes and misconceptions to emerge, with time to safely deliberate and decide whether to adjust ideas or tactics.</td>
+        </tr>
+    </table>
+</figure>
+```
 
 ### How does a think-pair-share leverage formative assessment?
 
@@ -281,9 +311,9 @@ To encourage students to think and act like scientists, active learning experien
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table2-label">Table 2. Passive vs. Active Facets of Science</strong></p>
+        <p><strong id="table3-label">Table 3. Passive vs. Active Facets of Science</strong></p>
     </figcaption>
-    <table aria-labelledby="table2-label">
+    <table aria-labelledby="table3-label">
         <tr>
             <th scope="col">Facet of science</th>
             <th scope="col">Passive class</th>
