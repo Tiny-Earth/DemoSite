@@ -107,53 +107,59 @@ By using a variety of assessment methods, instructors can gain a more comprehens
         <p><strong id="table1-label">Table 1. How/Why to Use Common Summative Assessment Techniques</strong><br><span id="table1-summary"><!-- TODO: Description here. --></span></p>
     </figcaption>
     <table aria-labelledby="table1-label" aria-describedby="table1-summary">
-        <tr>
-            <th scope="row">Tests (e.g., quizzes and exams)</th>
-            <td>
-                <ul>
-                    <li>Assesses knowledge and understanding at a variety of knowledge levels depending on the question types</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <th scope="row">Research papers, essays, lab reports</th>
-            <td>
-                <ul>
-                    <li>Assesses research skills, critical thinking, and writing abilities</li>
-                    <li>Encourages independent inquiry and in-depth exploration of a topic</li>
-                    <li>Allows for creativity and originality</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <th scope="row">Projects</th>
-            <td>
-                <ul>
-                    <li>Assesses ability to apply knowledge and skills to produce a high-quality and comprehensive product</li>
-                    <li>Allows for creative and collaborative assessment</li>
-                    <li>Provides opportunities to relate the course to real-world contexts</li>
-                    <li>Encourages independent exploration and critical thinking</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <th scope="row">Presentations</th>
-            <td>
-                <ul>
-                    <li>Assesses ability to communicate effectively and engage an audience</li>
-                    <li>Encourages public speaking and presentation skills</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <th scope="row">Performance assessments</th>
-            <td>
-                <ul>
-                    <li>Assesses practical skills and abilities in a real-world context</li>
-                    <li>Can be tailored to assess specific skills or competencies</li>
-                </ul>
-            </td>
-        </tr>
+        <colgroup>
+            <col span="1" style="width:10%" />
+            <col span="1" />
+        </colgroup>
+        <tbody>
+            <tr>
+                <th scope="row">Tests (e.g., quizzes and exams)</th>
+                <td>
+                    <ul>
+                        <li>Assesses knowledge and understanding at a variety of knowledge levels depending on the question types</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">Research papers, essays, lab reports</th>
+                <td>
+                    <ul>
+                        <li>Assesses research skills, critical thinking, and writing abilities</li>
+                        <li>Encourages independent inquiry and in-depth exploration of a topic</li>
+                        <li>Allows for creativity and originality</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">Projects</th>
+                <td>
+                    <ul>
+                        <li>Assesses ability to apply knowledge and skills to produce a high-quality and comprehensive product</li>
+                        <li>Allows for creative and collaborative assessment</li>
+                        <li>Provides opportunities to relate the course to real-world contexts</li>
+                        <li>Encourages independent exploration and critical thinking</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">Presentations</th>
+                <td>
+                    <ul>
+                        <li>Assesses ability to communicate effectively and engage an audience</li>
+                        <li>Encourages public speaking and presentation skills</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">Performance assessments</th>
+                <td>
+                    <ul>
+                        <li>Assesses practical skills and abilities in a real-world context</li>
+                        <li>Can be tailored to assess specific skills or competencies</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </figure>
 ```

@@ -88,6 +88,11 @@ img {
   border-radius: 4px;
 }
 
+figure, .content figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 /* Custom Admonitions */
 .admonition.is-warning > .admonition-header:empty::before {content: "\f568"}
 .admonition.is-warning > .admonition-header:empty::after {content: "Under Construction -- Feedback Wanted!"}
@@ -123,7 +128,8 @@ th[scope=col] {
 th[scope=row] {
   border: 0 !important;
   border-right: 6px solid gold !important;
-  text-align: right !important;
+  text-align: left !important;
+  writing-mode: vertical-rl;
 }
 
 tr > *:nth-last-child(2)~* {

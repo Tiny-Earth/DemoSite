@@ -402,21 +402,28 @@ Alignment helps to promote consistency and transparency, providing students with
         <p><strong id="table2-label">Table 2. Practice vs. Test Matrix</strong><br><span id="table2-summary"><!-- TODO: Description here. --></span></p>
     </figcaption>
     <table aria-labelledby="table2-label" aria-describedby="table2-summary">
-        <tr>
-            <td></td>
-            <th scope="col">LOCS Test</th>
-            <th scope="col">HOCS Test</th>
-        </tr>
-        <tr>
-            <th scope="row">LOCS Practice</th>
-            <td>Boredom</td>
-            <td>Frustration</td>
-        </tr>
-        <tr>
-            <th scope="row">HOCS Practice</th>
-            <td>Frustration</td>
-            <td>Excitement, Learning</td>
-        </tr>
+        <colgroup>
+            <col span="1" style="width:10%" />
+            <col span="1" />
+            <col span="1" />
+        </colgroup>
+        <tbody>
+            <tr>
+                <td></td>
+                <th scope="col">LOCS Test</th>
+                <th scope="col">HOCS Test</th>
+            </tr>
+            <tr>
+                <th scope="row">LOCS Practice</th>
+                <td>Boredom</td>
+                <td>Frustration</td>
+            </tr>
+            <tr>
+                <th scope="row">HOCS Practice</th>
+                <td>Frustration</td>
+                <td>Excitement, Learning</td>
+            </tr>
+        </tbody>
     </table>
 </figure>
 ```

@@ -59,22 +59,28 @@ The ICAP model provides categories to understand active learning better. It clas
         <p><strong id="table1-label">Table 1. ICAP Model</strong></p>
     </figcaption>
     <table aria-labelledby="table1-label">
-        <tr>
-            <th scope="row">Interactive</th>
-            <td>Learners engage in social discourse and co-construct knowledge</td>
-        </tr>
-        <tr>
-            <th scope="row">Constructive</th>
-            <td>Learners generate their own understanding of the material</td>
-        </tr>
-        <tr>
-            <th scope="row">Active</th>
-            <td>Learners participate in some form of hands-on activity or engage in a task</td>
-        </tr>
-        <tr>
-            <th scope="row">Passive</th>
-            <td>Learners receive information without actively participating in the learning process</td>
-        </tr>
+        <colgroup>
+            <col span="1" style="width:10%" />
+            <col span="1" />
+        </colgroup>
+        <tbody>
+            <tr>
+                <th scope="row">Interactive</th>
+                <td>Learners engage in social discourse and co-construct knowledge</td>
+            </tr>
+            <tr>
+                <th scope="row">Constructive</th>
+                <td>Learners generate their own understanding of the material</td>
+            </tr>
+            <tr>
+                <th scope="row">Active</th>
+                <td>Learners participate in some form of hands-on activity or engage in a task</td>
+            </tr>
+            <tr>
+                <th scope="row">Passive</th>
+                <td>Learners receive information without actively participating in the learning process</td>
+            </tr>
+        </tbody>
     </table>
 </figure>
 ```
@@ -193,30 +199,38 @@ A think-pair-share engages students in a cognitive task that requires them to ca
         <p><strong id="table2-label">Table 2. Think-Pair-Share Exploration</strong></p>
     </figcaption>
     <table aria-labelledby="table2-label">
-        <tr>
-            <td></td>
-            <th scope="col">Think</th>
-            <th scope="col">Pair</th>
-            <th scope="col">Share</th>
-        </tr>
-        <tr>
-            <th scope="row">Active Learning</th>
-            <td>Students reflect on their prior knowledge and experiences which activates their existing knowledge and helps them to make connections to what they already know. Even if their prior knowledge is incomplete or inaccurate, students can identify and question their own understanding.</td>
-            <td>While sharing thoughts with their partner, students may encounter conflicting ideas that challenge their existing understanding. Peer-to-peer dialogue allows students to discuss and reconcile any differences in their understanding.</td>
-            <td>When sharing with the whole class, students are exposed to a broader set of ideas that may reinforce their corrent prior knowledge or allow them so see that others may share their inaccurate preconceptions. Throughout the activity, students integrate new information with their existing knowledge, form new connections between ideas, and develop a deeper understanding of the topic. Knowledge construction is reinforced through the social interaction and feedback provided by their partner. </td>
-        </tr>
-        <tr>
-            <th scope="row">Formative Assessment</th>
-            <td>As students bring their prior knowledge to bear on the topic, they evaluate their understanding and practice metacognition: What do I already know? How do the pieces fit together?</td>
-            <td>Students compare and contrast their ideas with another student which allows them to evaluate whether they need to adjust their ideas to be more complete or accurate. </td>
-            <td>Students are exposed to a broader set of ideas against which to compare and contrast their own. For the instructor, this provides a window into the students’ thinking that reveals whether they understand the material. As such, student responses, performance, and engagement become valuable indicators for assessing progress toward the learning objectives.</td>
-        </tr>
-        <tr>
-            <th scope="row">Inclusive Learning</th>
-            <td>Since people process information at different speeds, the think stage allows students the necessary time to reflect, formulate their thoughts, and even write out their answers.</td>
-            <td>Sharing with the whole class can be overwhelming for some students. With a partner, they practice explaining their thinking, which prepares them for sharing responses with the class. And the best part? Everyone’s voice gets heard even if only in a pair.</td>
-            <td>Ultimately, hearing from a subset of the whole class, expands the diversity of perspectives to which a student is exposed.  On the whole, Think-Pair-Share activities foster a growth mindset by breaking down complicated processes into bite-sized, achievable steps, providing time to practice new skills and work with new information. It allows for mistakes and misconceptions to emerge, with time to safely deliberate and decide whether to adjust ideas or tactics.</td>
-        </tr>
+        <colgroup>
+            <col span="1" style="width:10%" />
+            <col span="1" />
+            <col span="1" />
+            <col span="1" />
+        </colgroup>
+        <tbody>
+            <tr>
+                <td></td>
+                <th scope="col">Think</th>
+                <th scope="col">Pair</th>
+                <th scope="col">Share</th>
+            </tr>
+            <tr>
+                <th scope="row">Active Learning</th>
+                <td>Students reflect on their prior knowledge and experiences which activates their existing knowledge and helps them to make connections to what they already know. Even if their prior knowledge is incomplete or inaccurate, students can identify and question their own understanding.</td>
+                <td>While sharing thoughts with their partner, students may encounter conflicting ideas that challenge their existing understanding. Peer-to-peer dialogue allows students to discuss and reconcile any differences in their understanding.</td>
+                <td>When sharing with the whole class, students are exposed to a broader set of ideas that may reinforce their corrent prior knowledge or allow them so see that others may share their inaccurate preconceptions. Throughout the activity, students integrate new information with their existing knowledge, form new connections between ideas, and develop a deeper understanding of the topic. Knowledge construction is reinforced through the social interaction and feedback provided by their partner. </td>
+            </tr>
+            <tr>
+                <th scope="row">Formative Assessment</th>
+                <td>As students bring their prior knowledge to bear on the topic, they evaluate their understanding and practice metacognition: What do I already know? How do the pieces fit together?</td>
+                <td>Students compare and contrast their ideas with another student which allows them to evaluate whether they need to adjust their ideas to be more complete or accurate. </td>
+                <td>Students are exposed to a broader set of ideas against which to compare and contrast their own. For the instructor, this provides a window into the students’ thinking that reveals whether they understand the material. As such, student responses, performance, and engagement become valuable indicators for assessing progress toward the learning objectives.</td>
+            </tr>
+            <tr>
+                <th scope="row">Inclusive Learning</th>
+                <td>Since people process information at different speeds, the think stage allows students the necessary time to reflect, formulate their thoughts, and even write out their answers.</td>
+                <td>Sharing with the whole class can be overwhelming for some students. With a partner, they practice explaining their thinking, which prepares them for sharing responses with the class. And the best part? Everyone’s voice gets heard even if only in a pair.</td>
+                <td>Ultimately, hearing from a subset of the whole class, expands the diversity of perspectives to which a student is exposed.  On the whole, Think-Pair-Share activities foster a growth mindset by breaking down complicated processes into bite-sized, achievable steps, providing time to practice new skills and work with new information. It allows for mistakes and misconceptions to emerge, with time to safely deliberate and decide whether to adjust ideas or tactics.</td>
+            </tr>
+        </tbody>
     </table>
 </figure>
 ```
@@ -314,103 +328,110 @@ To encourage students to think and act like scientists, active learning experien
         <p><strong id="table3-label">Table 3. Passive vs. Active Facets of Science</strong></p>
     </figcaption>
     <table aria-labelledby="table3-label">
-        <tr>
-            <td></td>
-            <th scope="col">Passive class</th>
-            <th scope="col">Active class</th>
-        </tr>
-        <tr>
-            <th scope="row">Scientific practices</th>
-            <td><ol>
-                <li>Wolves hunt deer, deer eat vegetation, and vegetation holds river banks in place. When wolves are removed from an ecosystem, rivers are more likely to change their course and flood.</li>
-                <li>The chromatography results showed that the secondary metabolite produced was a biopolymer.</li>
-                <li>The difference between the bedrock in northern Wisconsin and southwestern Wisconsin is due to glaciation.</li>
-                <li>In temperate climates, influenza-like illnesses (ILI) tend to increase during the winter months due to people being in close proximity while indoors and less humidity.</li>
-                <li>The ideal gas law holds that $PV = nRT$.</li>
-            </ol></td>
-            <td><ol>
-                <li>Generate a hypothesis about the relationship between the presence of wolves, deer, vegetation, and the course of a river.</li>
-                <li>Design an experiment to determine the molecular structure of a secondary metabolite using LCMS.</li>
-                <li>Compare and contrast the difference in geological landscapes between northern and southwestern Wisconsin.</li>
-                <li>Summarize the seasonal county data regarding influenza-like illnesses (ILI) for the past ten years. What trends are evident with respect to race, gender, and socioeconomic status?</li>
-                <li>Design an experiment in which you test the relationships in the ideal gas law. In each step, what variable(s) do you change? Which do you keep constant? What result do you expect?</li>
-            </ol></td>
-        </tr>
-        <tr>
-            <th scope="row">Iteration</th>
-            <td><ol>
-                <li>You must do at least three replicates of your experiments.</li>
-                <li>Scientists must be careful and precise.</li>
-                <li>A false positive band means the wrong primers were used or the master mix was contaminated.</li>
-                <li>In each of the following ideal gas law equations, solve for the unknown.</li>
-            </ol></td>
-            <td><ol>
-                <li>Were the differences in your treatments statistically significant? Were the differences due to lack of iteration or no difference between samples?</li>
-                <li>What would it take to check if the results are real or due to experimental error?</li>
-                <li>What factors might have contributed to the false positive band from this PCR and gel electrophoresis?</li>
-                <li>Here are experimental data about how pressure changes with respect to volume as water heats up. How can you use the standard error to evaluate the precision of the experiments?</li>
-            </ol></td>
-        </tr>
-        <tr>
-            <th scope="row">Discovery</th>
-            <td><ol>
-                <li>In oligotrphic (nutrient-poor) lakes, the Secchi depth is high and algae content is low. In eutrophic (nutrient-rich) lakes, it is the opposite.</li>
-                <li>Squirrels are ubiquitous in temperate climates. Nesting and feeding behaviors change seasonally.</li>
-                <li>Cheek and skin cells have the same organelles, but cheek cells have less rigid membranes and therefore can appear more misshapen and are easier to stain.</li>
-                <li>The Ho-Chunk people moved around with the seasons to find food and other resources, such as berries, buffalo, and beaver. White settlers from European decent relied on agricultural practices that stay in one location.</li>
-            </ol></td>
-            <td><ol>
-                <li>Test the pH, Secchi depth, and algae content of lake water at 2 locations. Compare and contrast.</li>
-                <li>Track squirrels at one location daily for 1 month. Write a report on their nesting and feeding habits.</li>
-                <li>Stain your own cheek and skin cells. View under the microscope. Compare and contrast the main cell structures.</li>
-                <li>Examine differences in land uses between the Indigenous people of this area with the current uses.</li>
-            </ol></td>
-        </tr>
-        <tr>
-            <th scope="row">Ownership</th>
-            <td><ol>
-                <li>Sustainable soil practices include rotating crops, not tilling, and planting strips of native prairie plants with deep roots.</li>
-                <li>Nutrition information labels provide information about caloric content, serving size, ingredients, and nutrient composition.</li>
-                <li>The names of more than 400 stars have been formally approved in modern times. However, most of those names have been used for centuries.</li>
-                <li>The pressure in steam engines used to power trains. However, that mode of transportation generated a lot of pollution, because burning coal was used to generate heat.</li>
-            </ol></td>
-            <td><ol>
-                <li>Propose three sustainable agricultural practices that would improve the health of the soil in your backyard or a neighborhood park/community garden.</li>
-                <li>Select a topic for your term paper that proposes how you could improve your own health based on the information you learned in this class. Include metrics to gauge progress.</li>
-                <li>Select an unnamed star. Give it a name based on its qualities and write a blog post about it. Upload the name to the NameAStar.com database.</li>
-                <li>Use the ideal gas law to design a power plant. How would you generate pressure sustainably? What sustainably materials could you use to sustain the high pressures you are creating?</li>
-            </ol></td>
-        </tr>
-        <tr>
-            <th scope="row">Authenticity</th>
-            <td><ol>
-                <li>The BLAST analysis showed a 95% confidence that this organism is a pseudomonad.</li>
-                <li>Complementary base pairing is the key to the mechanism for DNA replication.</li>
-                <li>The relationship between the gut microbiome and mental health is complicated. However, recent advances in research allow us to detect differences in microbial communities.</li>
-                <li>The ideal gas law is the combination of Charles's Law, Boyle's Law, Avogadro's Law, and Gay-Lussac's Law.</li>
-            </ol></td>
-            <td><ol>
-                <li>Select three genomes from GenBank. Query the sequences by using a BLAST analysis. Then, extract your own genome and send it in for sequencing followed by a BLAST analysis.</li>
-                <li>What do you know about the structure of DNA that suggests a mechanism for replication? What information can be gleaned from these x-ray crystallography images taken by Rosalind Franklin?</li>
-                <li>Design an experiment to test the relationship between meditation and gut microbiome. How would you ensure equitable representation of demographic groups within the research subjects?</li>
-                <li>Use 1 mole of baking soda and 1 mole of HCl to produce 1 mole of CO2 ($n$). Assuming it behaves as an ideal gas, devise an experiment to measure volume ($V$) of gas produced. What other info do you need to know to be able to determine the ideal gas constant?</li>
-            </ol></td>
-        </tr>
-        <tr>
-            <th scope="row">Relevance</th>
-            <td><ol>
-                <li>Genetically modified organisms include a piece of another organism’s genome. Usually this means a piece of DNA has been spliced from the donor into the host organism.</li>
-                <li>Sustainability happens at all levels: individual choices and behaviors, local community norms and societal pressures, and regional or national policies and regulations.</li>
-                <li>The soil in this area tends to be clay or loam. North of here, the soils tend to be sandy and therefore well-drained.</li>
-                <li>When we make tea, the volume in the tea kettle stays constant, but the temperature increases. This builds pressure in the kettle. Eventually, the water vapor (a gas) makes the kettle whistle.</li>
-            </ol></td>
-            <td><ol>
-                <li>What are the ethical and ecological considerations for genetically modified organisms?</li>
-                <li>Based on what you learned in class, recommend a set of at-home sustainability techniques that you could present at the regional sustainability expo next month. Include only low- or no-cost methods that anyone could use at home.</li>
-                <li>Collect a soil sample in your neighborhood. Characterize the soil type, pH, and water content using the USDA soil taxonomy. Contribute the data to the MappingWorldSoils.com project.</li>
-                <li>Suppose you're making a cup of tea. How is the ideal gas law represented in this process? What other every-day activities in your life rely on the properties of the ideal gas law?</li>
-            </ol></td>
-        </tr>
+        <colgroup>
+            <col span="1" style="width:10%" />
+            <col span="1" />
+            <col span="1" />
+        </colgroup>
+        <tbody>
+            <tr>
+                <td></td>
+                <th scope="col">Passive class</th>
+                <th scope="col">Active class</th>
+            </tr>
+            <tr>
+                <th scope="row">Scientific practices</th>
+                <td><ol>
+                    <li>Wolves hunt deer, deer eat vegetation, and vegetation holds river banks in place. When wolves are removed from an ecosystem, rivers are more likely to change their course and flood.</li>
+                    <li>The chromatography results showed that the secondary metabolite produced was a biopolymer.</li>
+                    <li>The difference between the bedrock in northern Wisconsin and southwestern Wisconsin is due to glaciation.</li>
+                    <li>In temperate climates, influenza-like illnesses (ILI) tend to increase during the winter months due to people being in close proximity while indoors and less humidity.</li>
+                    <li>The ideal gas law holds that $PV = nRT$.</li>
+                </ol></td>
+                <td><ol>
+                    <li>Generate a hypothesis about the relationship between the presence of wolves, deer, vegetation, and the course of a river.</li>
+                    <li>Design an experiment to determine the molecular structure of a secondary metabolite using LCMS.</li>
+                    <li>Compare and contrast the difference in geological landscapes between northern and southwestern Wisconsin.</li>
+                    <li>Summarize the seasonal county data regarding influenza-like illnesses (ILI) for the past ten years. What trends are evident with respect to race, gender, and socioeconomic status?</li>
+                    <li>Design an experiment in which you test the relationships in the ideal gas law. In each step, what variable(s) do you change? Which do you keep constant? What result do you expect?</li>
+                </ol></td>
+            </tr>
+            <tr>
+                <th scope="row">Iteration</th>
+                <td><ol>
+                    <li>You must do at least three replicates of your experiments.</li>
+                    <li>Scientists must be careful and precise.</li>
+                    <li>A false positive band means the wrong primers were used or the master mix was contaminated.</li>
+                    <li>In each of the following ideal gas law equations, solve for the unknown.</li>
+                </ol></td>
+                <td><ol>
+                    <li>Were the differences in your treatments statistically significant? Were the differences due to lack of iteration or no difference between samples?</li>
+                    <li>What would it take to check if the results are real or due to experimental error?</li>
+                    <li>What factors might have contributed to the false positive band from this PCR and gel electrophoresis?</li>
+                    <li>Here are experimental data about how pressure changes with respect to volume as water heats up. How can you use the standard error to evaluate the precision of the experiments?</li>
+                </ol></td>
+            </tr>
+            <tr>
+                <th scope="row">Discovery</th>
+                <td><ol>
+                    <li>In oligotrphic (nutrient-poor) lakes, the Secchi depth is high and algae content is low. In eutrophic (nutrient-rich) lakes, it is the opposite.</li>
+                    <li>Squirrels are ubiquitous in temperate climates. Nesting and feeding behaviors change seasonally.</li>
+                    <li>Cheek and skin cells have the same organelles, but cheek cells have less rigid membranes and therefore can appear more misshapen and are easier to stain.</li>
+                    <li>The Ho-Chunk people moved around with the seasons to find food and other resources, such as berries, buffalo, and beaver. White settlers from European decent relied on agricultural practices that stay in one location.</li>
+                </ol></td>
+                <td><ol>
+                    <li>Test the pH, Secchi depth, and algae content of lake water at 2 locations. Compare and contrast.</li>
+                    <li>Track squirrels at one location daily for 1 month. Write a report on their nesting and feeding habits.</li>
+                    <li>Stain your own cheek and skin cells. View under the microscope. Compare and contrast the main cell structures.</li>
+                    <li>Examine differences in land uses between the Indigenous people of this area with the current uses.</li>
+                </ol></td>
+            </tr>
+            <tr>
+                <th scope="row">Ownership</th>
+                <td><ol>
+                    <li>Sustainable soil practices include rotating crops, not tilling, and planting strips of native prairie plants with deep roots.</li>
+                    <li>Nutrition information labels provide information about caloric content, serving size, ingredients, and nutrient composition.</li>
+                    <li>The names of more than 400 stars have been formally approved in modern times. However, most of those names have been used for centuries.</li>
+                    <li>The pressure in steam engines used to power trains. However, that mode of transportation generated a lot of pollution, because burning coal was used to generate heat.</li>
+                </ol></td>
+                <td><ol>
+                    <li>Propose three sustainable agricultural practices that would improve the health of the soil in your backyard or a neighborhood park/community garden.</li>
+                    <li>Select a topic for your term paper that proposes how you could improve your own health based on the information you learned in this class. Include metrics to gauge progress.</li>
+                    <li>Select an unnamed star. Give it a name based on its qualities and write a blog post about it. Upload the name to the NameAStar.com database.</li>
+                    <li>Use the ideal gas law to design a power plant. How would you generate pressure sustainably? What sustainably materials could you use to sustain the high pressures you are creating?</li>
+                </ol></td>
+            </tr>
+            <tr>
+                <th scope="row">Authenticity</th>
+                <td><ol>
+                    <li>The BLAST analysis showed a 95% confidence that this organism is a pseudomonad.</li>
+                    <li>Complementary base pairing is the key to the mechanism for DNA replication.</li>
+                    <li>The relationship between the gut microbiome and mental health is complicated. However, recent advances in research allow us to detect differences in microbial communities.</li>
+                    <li>The ideal gas law is the combination of Charles's Law, Boyle's Law, Avogadro's Law, and Gay-Lussac's Law.</li>
+                </ol></td>
+                <td><ol>
+                    <li>Select three genomes from GenBank. Query the sequences by using a BLAST analysis. Then, extract your own genome and send it in for sequencing followed by a BLAST analysis.</li>
+                    <li>What do you know about the structure of DNA that suggests a mechanism for replication? What information can be gleaned from these x-ray crystallography images taken by Rosalind Franklin?</li>
+                    <li>Design an experiment to test the relationship between meditation and gut microbiome. How would you ensure equitable representation of demographic groups within the research subjects?</li>
+                    <li>Use 1 mole of baking soda and 1 mole of HCl to produce 1 mole of CO2 ($n$). Assuming it behaves as an ideal gas, devise an experiment to measure volume ($V$) of gas produced. What other info do you need to know to be able to determine the ideal gas constant?</li>
+                </ol></td>
+            </tr>
+            <tr>
+                <th scope="row">Relevance</th>
+                <td><ol>
+                    <li>Genetically modified organisms include a piece of another organism’s genome. Usually this means a piece of DNA has been spliced from the donor into the host organism.</li>
+                    <li>Sustainability happens at all levels: individual choices and behaviors, local community norms and societal pressures, and regional or national policies and regulations.</li>
+                    <li>The soil in this area tends to be clay or loam. North of here, the soils tend to be sandy and therefore well-drained.</li>
+                    <li>When we make tea, the volume in the tea kettle stays constant, but the temperature increases. This builds pressure in the kettle. Eventually, the water vapor (a gas) makes the kettle whistle.</li>
+                </ol></td>
+                <td><ol>
+                    <li>What are the ethical and ecological considerations for genetically modified organisms?</li>
+                    <li>Based on what you learned in class, recommend a set of at-home sustainability techniques that you could present at the regional sustainability expo next month. Include only low- or no-cost methods that anyone could use at home.</li>
+                    <li>Collect a soil sample in your neighborhood. Characterize the soil type, pH, and water content using the USDA soil taxonomy. Contribute the data to the MappingWorldSoils.com project.</li>
+                    <li>Suppose you're making a cup of tea. How is the ideal gas law represented in this process? What other every-day activities in your life rely on the properties of the ideal gas law?</li>
+                </ol></td>
+            </tr>
+        </tbody>
     </table>
 </figure>
 ```

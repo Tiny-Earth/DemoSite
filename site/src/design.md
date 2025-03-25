@@ -110,21 +110,28 @@ Learning goals and objectives are two key components of instructional design tha
         <p><strong id="table1-label">Table 1. Learning Goals vs. Learning Objectives.</strong></p>
     </figcaption>
     <table aria-labelledby="table1-label">
-        <tr>
-            <td></td>
-            <th scope="col">Learning Goals</th>
-            <th scope="col">Learning Objectives</th>
-        </tr>
-        <tr>
-            <th scope="row">Definition</th>
-            <td>Learning goals are broad descriptions of what students will understand and learn as a result of engaging with the curriculum. They describe the overall purpose of an instructional unit with respect to the facets of science, inclusive learning expectations, or any other aspiration for the curriculum. Learning goals are often linked to the even broader goals of an academic program.</td>
-            <td>Learning objectives are action-oriented, measurable statements that state what knowledge and skills students are expected to demonstrate as a result of engaging with the curriculum. Objectives are more specific than learning goals and are designed to be achievable within a particular time frame and level of instruction.</td>
-        </tr>
-        <tr>
-            <th scope="row">Example</th>
-            <td>Understand the impact of climate change on agriculture and health.</td>
-            <td>Compare and contrast the role of soil vs. air as a carbon sink.</td>
-        </tr>
+        <colgroup>
+            <col span="1" style="width:10%" />
+            <col span="1" />
+            <col span="1" />
+        </colgroup>
+        <tbody>
+            <tr>
+                <td></td>
+                <th scope="col">Learning Goals</th>
+                <th scope="col">Learning Objectives</th>
+            </tr>
+            <tr>
+                <th scope="row">Definition</th>
+                <td>Learning goals are broad descriptions of what students will understand and learn as a result of engaging with the curriculum. They describe the overall purpose of an instructional unit with respect to the facets of science, inclusive learning expectations, or any other aspiration for the curriculum. Learning goals are often linked to the even broader goals of an academic program.</td>
+                <td>Learning objectives are action-oriented, measurable statements that state what knowledge and skills students are expected to demonstrate as a result of engaging with the curriculum. Objectives are more specific than learning goals and are designed to be achievable within a particular time frame and level of instruction.</td>
+            </tr>
+            <tr>
+                <th scope="row">Example</th>
+                <td>Understand the impact of climate change on agriculture and health.</td>
+                <td>Compare and contrast the role of soil vs. air as a carbon sink.</td>
+            </tr>
+        </tbody>
     </table>
 </figure>
 ```
