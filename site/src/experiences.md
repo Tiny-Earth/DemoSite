@@ -315,7 +315,7 @@ To encourage students to think and act like scientists, active learning experien
     </figcaption>
     <table aria-labelledby="table3-label">
         <tr>
-            <th scope="col">Facet of science</th>
+            <td></td>
             <th scope="col">Passive class</th>
             <th scope="col">Active class</th>
         </tr>
