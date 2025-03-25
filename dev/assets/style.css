@@ -29,7 +29,7 @@
 }
 
 .citation :target, .lexicon :target, .lexicon :target + dd {
-  text-shadow: 0 0 30px yellow;
+  text-decoration: underline gold 6px;
 }
 
 /* Hide default features */
