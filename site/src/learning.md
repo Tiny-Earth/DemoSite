@@ -6,98 +6,48 @@
 
 !!! compat "" 
     By the end of this module, you will be able to...
-    - Define learning and the factors that influence it.
-    - Explain the roles of prior knowledge and conceptual frameworks.
+
+    - Explain some of the many factors that influence learning.
+    - Adopt learning activities that help students use prior knowledge to build new conceptual frameworks
+        - Use a learning environment-deficit rather than student-deficit lens to build better learning opportunities 
+    - Set an intention to use the seven principles of learning in designing and delivering course materials.
 
 ## Learning Defined
 
-**Learning** is the acquisition and integration of new information that leads to a change in behavior. It is influenced by each learner’s individual motivations and brain composition; disciplinary content, values, and approaches; and the sociocultural environment [ref].
+**Learning** is the acquisition and integration of new information that we can then apply and use in new circumstances. Referring back to our Framework for Inclusive learning, we find that learning is influenced by five dimensions: instructors, pedagogy, students, curriculum, and climate.
 
-**Learners** come into every learning experience with prior knowledge, mindsets, and beliefs. They have reasons for enrolling in a course and motivations for engaging with the material. Each learner’s brain contains approximately 86 billion neurons. Each neuron connects to many other neurons, creating a vast and unique network of 100 trillion neural connections within each brain [ref].
+Let’s drill down on the student dimension a bit more. At a cellular and molecular level, learning requires adapting existing connections or creating new connections between neurons. Each learner’s brain contains approximately 86 billion neurons. Each neuron connects to many other neurons, creating a vast and unique network of 100 trillion neural connections within each brain [ref]. Reinforcing specific connections between neurons leads to long-lasting synaptic pathways that determine neurotransmitter release, receptor number and binding properties (Basett et al., 2017). These new pathways lead to new behaviors and knowledge use. The storage of this information is what we think of as memory.
 
-Each course brings a unique mixture of course content, skills, and methods. The course **learning objectives** help students understand what is expected of them so they can build on what they already know and emphasize learning new ideas or difficult approaches to learning [wiggins2005understanding, wiggins2011understanding](@cite).
+Learning is also influenced by individual motivations and brain composition; disciplinary content, values, and approaches; and sociocultural environments. In fact, how well students can use what is in their memories depends on the accessibility of that information, which in turn is influenced by its salience, recency, and value. Sometimes easily retrieved information is also easily forgotten, because it has not been consolidated and stored (Bjork and Bjork 2011). 
 
-The **learning environment** affects the extent to which students feel a sense of belonging and agency to engage in learning. It is influenced by the instructor’s actions and statements, the instructional choices about which problems or examples matter, as well as cultural factors in society at large [ref].
+All of these components are important to consider when designing and facilitating a learning experience.
 
 ## Why Learning?
 
-Each of these factors – the learners, objectives, and environment – influence learning. When these factors work together, they create an inclusive learning environment.
-
-Tapping into this alignment requires a shift from thinking about *students* as having deficits toward thinking about the *learning environment* as having deficits. 
-
-How often do we hear things like this? 
-
-- Students don’t know the content.
-- They are only here for the grade because it is a required course in the major.
-- They don’t have enough math background.
-- They didn’t take all the recommended prerequisite courses.
-- They don’t know how to study.
-
-Instead, reframe like this:
-
-- Students come to this course with prior knowledge and are here to learn.
-- The course content is relevant to global or local problems that interest the students.
-- The course will provide tools to support students in gaining the necessary math skills.
-- The first week of class will provide background knowledge and resources for everyone.
-- The formative assessments will give students the tools they need to study in this course.
-
-Many instructors approach learning with a model of student deficit in which students have “deficiencies” and learning is geared toward fixing them [griffin2010developmental](@cite). In contrast, a model of learning-environment deficit strives to change the classroom and use supportive strategies that benefit all students [handelsman_achieving_2022](@cite). Emphasizing what students will learn, rather than what content will be covered, requires instructors to have a growth mindset that focuses on improving the learning environment.
-
-```@raw html
-<figure>
-    <figcaption>
-        <p><strong id="table1-label">Table 1. Comparison between instructional deficit models.</strong></p>
-    </figcaption>
-    <table aria-labelledby="table1-label">
-        <tr>
-            <th scope="col">Student Deficit Model</th>
-            <th scope="col">Learning Environment Deficit Model</th>
-        </tr>
-        <tr>
-            <td>Focuses on perceived deficiencies within students</td>
-            <td>Focuses on removing barriers to learning</td>
-        </tr>
-        <tr>
-            <td>Holds students responsible for their academic struggles</td>
-            <td>Acknowledges challenges stem from systemic or environmental factors</td>
-        </tr>
-        <tr>
-            <td>Perpetuates inequities</td>
-            <td>Creates equitable opportunities for success</td>
-        </tr>
-    </table>
-</figure>
-```
+Learning is the point. By leveraging the five dimensions of inclusive learning, we create opportunities for learning to happen.
 
 ## A Framework for Learning
 
 The theory of **constructivism** explains how people construct their own understanding of the world through experiences and social interactions. It recognizes that learners bring prior knowledge and experiences to learning, and that learning is influenced by sociocultural factors.
 
-**Metacognition** refers to thinking about thinking, when the learner evaluates the extent to which they understand the material and use that information to decide when to move on. Metacognition can happen at any step in the learning process.
+**Metacognition** refers to thinking about thinking, when the learner evaluates the extent to which they understand the material and use that information to decide what to do next. Metacognition has been described as one of three components of cognition: cognition (understanding), epistemic cognition (the nature of how we know), and metacognition (knowledge of and reflection on cognition) (Kitchener 1983). When students reflect on their learning, they learn to plan strategies, monitor their progress, and evaluate their success at achieving a goal (Shraw and Moshman 1995). When students use metacognitive regulatory practices, such as checking their answers or explaining to themselves why they answered something incorrectly, they often improve both understanding and performance (McDonnell and Mullally, 2016; Kalyuga 2010). Although most of us do not naturally engage in metacognitive practices, there is ample evidence that students can learn to do so when encouraged and facilitated by their instructional environment (Stanton et al., 2015; Knight et al., 2022).
 
-![Illustration of a framework for how learning works. Five stages iterate and lead into one another. 1. Activate prior knowledge: Everyone has views about how the world works. This prior knowledge needs to be activated for learning. 2. Recognize dissonance: New information may challenges these views, causing dissonance that needs to be reconciled and explained. 3. Construct new knowledge: During the reconciliation, new neural networks form, leading to new knowledge, skills, and views. 4. Practice and apply knowledge: Application, targeted practice, and assessment with feedback reinforce the new networks and views. 5. Reflect and evaluate: Awareness of one's knowledge gaps and reflection guide future learning.](assets/How-We-Learn.png)
+![Illustration of a framework for how learning works. Five stages iterate and lead into one another. 1. Activate prior knowledge: Everyone has views about how the world works. This prior knowledge needs to be activated for learning. 2. Recognize dissonance: New information may challenge these views, causing dissonance that needs to be reconciled and explained. 3. Construct new knowledge: During the reconciliation, new neural networks form, leading to new knowledge, skills, and views. 4. Practice and apply knowledge: Application, targeted practice, and assessment with feedback reinforce the new networks and views. 5. Reflect and evaluate: Awareness of one's knowledge gaps and reflection guide future learning.](assets/How-We-Learn.png)
 
-
-Many things contribute to learning, including one’s prior experiences, stress, situational factors, and motivation. Each of these can create different conditions that either favor learning in general or favor learning a particular aspect of a situation (for example, a familiar smell from childhood can bring back specific memories) (Gold and Korol, 2017). Significant learning experiences commonly involve an important event or relationship to real events, a level of interest or value in the experience, and an opportunity to apply and integrate new knowledge [fink2006creating](@cite).
-
-Neurons communicate with each other to drive everything we do, including how we learn. Learning requires adapting existing neural processes to orchestrate new pathways and new behaviors. Constructing knowledge involves making new neuronal connections and/or enhancing connections that exist.
-
-At a cellular and molecular level, the changing nature, or plasticity, of neuronal connections can lead to long-lasting changes in synaptic connections, neurotransmitter release, receptor number and binding properties (Basett et al., 2017). The consequences of these changes for humans are new behaviors and an ability to use new knowledge. The formation of long-lasting connections, and the storage of this information are what we think of as memory.
-
-The strength of a memory represents how associated the memory is with related knowledge and skills. A brain region called the hippocampus is involved in creating and storing memories. How well you can retrieve a memory depends on how accessible that information is, which can be influenced by how recently you thought about the information as well as other situational cues. Sometimes easily retrieved information is also easily forgotten, because it has not been consolidated and stored (Bjork and Bjork 2011).
+Many elements contribute to learning, including our prior experiences, stress, situational factors, and motivation. Each of these can create different conditions that either favor learning in general or favor learning a particular aspect of a situation (for example, a familiar smell from childhood can bring back specific and strong associations) (Gold and Korol, 2017). Significant learning experiences commonly involve an important event or relationship to real events, a level of interest or value in the experience, and an opportunity to apply and integrate new knowledge [fink2006creating](@cite).
 
 ### The Difference between Novices and Experts
 
-An expert not only understands many concepts, but can relate them to each other, transfer principles across concepts, and easily add new knowledge to their framework. Novice are still acquiring and connecting information, and as a result, need guidance and practice in constructing their own frameworks. Experts have a conceptual framework that they use to identify concepts or patterns in various contexts so that they can transfer/apply their understanding to solve problems in novel contexts.
+Experts not only understand many concepts, but can relate them to each other, transfer principles across concepts, and easily add new knowledge to their framework. Novices are still acquiring and connecting information, and as a result, need guidance and practice in constructing their own frameworks. Experts have a conceptual framework that they use to identify concepts or patterns in various contexts so that they can transfer/apply their understanding to solve problems in novel contexts.
 
-An important thing for all (instructors and students) to remember is that everyone has been a novice at some point for something (for example, think about the first time you learned how to drive a car). Being a novice is an opportunity to grow, learn, and explore new ideas as part of this process of building a framework for conceptualizing knowledge. The principles in this course will help you think about how to design your course to help your students transition from novice towards expert.
+It is important to remember that everyone, even the most experienced scientist, was a novice at some point (for example, think about the first time you learned how to enter data into a spreadsheet, collect soil samples, or isolate DNA). When we are novice, we are in the middle of learning, growing and exploring new ideas while building our framework for conceptualizing knowledge. We can use the principles of learning to design courses that help our students transition from novice towards expert.
 
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table2-label">Table 2. Cognitive organization of novices and experts.</strong><br><span id="table2-summary">The novice's understanding is characterized by limited or missing concepts, broken or missing connections, and misconceptions. In contrast, experts possess a more robust conceptual framework with well-formed concepts and meaningful interconnections.</span></p>
+        <p><strong id="table1-label">Table 1. Cognitive organization of novices and experts.</strong><br><span id="table1-summary">A novice's understanding is characterized by limited, missing, or misunderstood concepts and broken or missing connections. In contrast, an expert possesses a more robust conceptual framework with deep understanding and meaningful interconnections.</span></p>
     </figcaption>
-    <table aria-labelledby="table2-label" aria-describedby="table2-summary">
+    <table aria-labelledby="table1-label" aria-describedby="table1-summary">
         <colgroup>
             <col span="1" style="width:10%" />
             <col span="1" />
@@ -126,25 +76,79 @@ An important thing for all (instructors and students) to remember is that everyo
 
 ### Seven Principles for Learning
 
-This brings us to a set of research-based principles about learning [ambrose2010learning](@cite):
+This brings us to summarize how people learn into seven main principles [ambrose2010learning](@cite). Keeping these in mind while designing instructional materials and environments supports a research-informed and inclusive approach to learning.
 
-1. Prior knowledge can help or hinder learning.
-2. How students organize knowledge influences how they learn and apply what they know.
+1. Prior knowledge can help or hinder learning. As described above, students bring prior knowledge to everything they do; thus, it is critical to discover whether this knowledge is moving them forward, or preventing them from constructing new knowledge.
+2. How students organize knowledge influences how they learn and apply what they know. Both this principle and the next highlight that students move from novice to more expert by learning how to organize their knowledge, connect principles, and engage in lots of practice!
 3. Expertise requires skills, practice, and application.
-4. Motivation determines, directs, and sustains what students do to learn.
-5. Goal-directed practice and targeted feedback enhances the quality of learning.
-6. Students’ level of development interacts with the social, emotional, and intellectual climate to impact learning.
-7. To become self-directed learners, students must learn to monitor and adjust their approaches to learning
+4. Motivation determines, directs, and sustains what students do to learn. We have not explicitly discussed motivation yet, but few would argue the importance of motivation in learning. We are all motivated by different factors; helping students uncover what most motivates them is critical.
+5. Goal-directed practice and targeted feedback enhances the quality of learning. Related to principles 2 and 3 above, this principle highlights the intersection of goals and motivations with practice, feedback and reflection: all required for a robust learning experience.
+6. Students’ level of development interacts with the social, emotional, and intellectual climate to impact learning. Learning does not occur in a vacuum. It is a social endeavor, impacted by one’s environment. As the designers of curricula, we must be sensitive and responsive to students’ whole experience as learners.
+7. To become self-directed learners, students must learn to monitor and adjust their approaches to learning. This principle ties back to one of the frameworks for learning, metacognition. Metacognition is at the core of self-regulated learning, in which students are aware of their knowledge, able to seek new resources or study strategies when necessary, and ultimately evaluate the depth of their own knowledge.
 
 ## Learning in Practice
 
-The upcoming modules will provide opportunities to effectively scaffold learning through your course design.
+Tapping into these frameworks requires a shift from thinking about *students* as having deficits toward thinking about the *learning environment* as having deficits [griffin2010developmental](@cite). A model of learning-environment deficit strives to change the classroom and use supportive strategies that benefit all students [handelsman_achieving_2022](@cite). Emphasizing what students will learn, rather than what content will be covered, requires instructors to have a growth mindset that focuses on improving the learning environment.
+
+```@raw html
+<figure>
+    <figcaption>
+        <p><strong id="table2-label">Table 2. Common concerns and their possible solutions.</strong></p>
+    </figcaption>
+    <table aria-labelledby="table2-label">
+        <tr>
+            <th scope="col">Common concern</th>
+            <th scope="col">Possible solution</th>
+        </tr>
+        <tr>
+            <td>Students didn’t take all the recommended prerequisite courses and thus don’t have enough background.</td>
+            <td>The course will provide tools to support students in gaining the necessary skills.</td>
+        </tr>
+        <tr>
+            <td>Students are taking this course just because it is required for the major.</td>
+            <td>The course content is relevant to global or local problems that interest the students.</td>
+        </tr>
+        <tr>
+            <td>Students don’t know how to study</td>
+            <td>The in-class work and formative assessments will give students the tools they need to learn how to study in this course.</td>
+        </tr> 
+    </table>
+</figure>
+```
+
+```@raw html
+<figure>
+    <figcaption>
+        <p><strong id="table3-label">Table 3. Comparison between instructional deficit models.</strong></p>
+    </figcaption>
+    <table aria-labelledby="table3-label">
+        <tr>
+            <th scope="col">Student Deficit Model</th>
+            <th scope="col">Learning Environment Deficit Model</th>
+        </tr>
+        <tr>
+            <td>Focuses on perceived deficiencies within students</td>
+            <td>Focuses on removing barriers to learning</td>
+        </tr>
+        <tr>
+            <td>Holds students responsible for their academic struggles</td>
+            <td>Acknowledges challenges stem from systemic or environmental factors</td>
+        </tr>
+        <tr>
+            <td>Perpetuates inequities</td>
+            <td>Creates equitable opportunities for success</td>
+        </tr>
+    </table>
+</figure>
+```
+
+The upcoming modules will provide opportunities to create effective learning experiences through your course design.
 
 ## Summary of Learning
 
-- An inclusive learning environment accounts for the learners’ prior knowledge and motivations, learning objectives, and sociocultural influences.
+- An inclusive learning environment accounts for learners’ prior knowledge and motivations, learning objectives, and sociocultural influences.
 - An effective learning experience challenges existing worldviews, then scaffolds opportunities to practice and reinforce the new knowledge, skills, and beliefs.
-- Metacognition refers to thinking about thinking.
+- Metacognition, or thinking about thinking, helps students become self-directed learners.
 
 !!! tip ""
 
