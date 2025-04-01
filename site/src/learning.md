@@ -18,7 +18,7 @@
 
 Let’s drill down on the student dimension a bit more. At a cellular and molecular level, learning requires adapting existing connections or creating new connections between neurons. Each learner’s brain contains approximately 86 billion neurons. Each neuron connects to many other neurons, creating a vast and unique network of 100 trillion neural connections within each brain [Kuan2020-zl](@cite). Reinforcing specific connections between neurons leads to long-lasting synaptic pathways that determine neurotransmitter release, receptor number and binding properties (Basett et al., 2017). These new pathways lead to new behaviors and knowledge use. The storage of this information is what we think of as memory.
 
-Learning is also influenced by individual motivations and brain composition; disciplinary content, values, and approaches; and sociocultural environments. In fact, how well students can use what is in their memories depends on the accessibility of that information, which in turn is influenced by its salience, recency, and value. Sometimes easily retrieved information is also easily forgotten, because it has not been consolidated and stored (Bjork and Bjork 2011). 
+Learning is also influenced by individual motivations and brain composition; disciplinary content, values, and approaches; and sociocultural environments. In fact, how well students can use what is in their memories depends on the accessibility of that information, which in turn is influenced by its salience, recency, and value. Sometimes easily retrieved information is also easily forgotten, because it has not been consolidated and stored [bjork2011making](@cite). 
 
 All of these components are important to consider when designing and facilitating a learning experience.
 
