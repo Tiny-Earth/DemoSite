@@ -30,13 +30,13 @@ The goals of scientific teaching are to:
 
 Embedded in this undertaking is a challenge to all scientists to bring to teaching the critical thinking, rigor, creativity, and spirit of experimentation that defines research [handelsman_scientific_2004](@cite). This includes drawing on the research about effective teaching and learning to shape our approaches.
 
-Scientific teaching also posits that teaching science should capture the spirit of discovery in the classroom in ways that include  all students. Teaching scientifically can open pathways for all students to engage in science and bring joy to teaching.
+Scientific teaching also posits that teaching science should capture the spirit of discovery in the classroom in ways that are inclusive to all students. Teaching scientifically supports student learning, promotes student persistence, and leads to increased diversity in STEM
 
 ## Why Scientific Teaching?
 
 ### Effective Science Education
 
-Effective science education is equitable science education: Scientific teaching is needed to create a diverse and creative workforce equipped to address emerging global and local problems. Increasing diversity in STEM requires drawing from historically excluded groups. The future workforce should match the demographics of the world’s citizens and take advantage of underutilized talent in all demographic groups.
+Effective science education is equitable science education: Scientific teaching is needed to create a diverse and creative workforce equipped to address emerging global and local problems. Increasing diversity in STEM requires increasing representation of historically excluded groups. The future workforce should match the demographics of the world’s citizens and draw from underutilized talent in all demographic groups.
 
 > __*Effective science education is equitable science education.*__
 
@@ -44,7 +44,7 @@ Yet inequities plague higher education, quelling STEM workforce diversity. Oppor
 
 To achieve an equitable STEM workforce, we must address the structural, individual, intentional, and unintentional biases that:
 - Discourage HEC students from pursuing STEM
-- Limit professors, departments, and institutions from actively working toward challenging systematic inequalities
+- Limit instructors, departments, and institutions from actively working toward challenging systematic inequalities
 - Obscure “opportunities for all faculty and all students to analyze power and privilege in classrooms, in peer groups, in departments, in disciplines, in institutions, and in society” [chikkatur2023rethinking](@cite)
 
 ### What the US Reports Say about Science Education
@@ -60,11 +60,10 @@ For decades, numerous reports have called for science education reform, citing o
 - The Federal Strategic Plan for Advancing STEM Education and Cultivating Talent (CoSTEM, 2024) proposed organizing a plan for coordinating federal agencies across several areas: STEM engagement, teaching and learning, workforce development, research and innovation, and environments. The report called out course-based research experiences as an effective tool for providing students with access and opportunity to STEM research.
 - In Equitable and Effective Teaching in Undergraduate STEM Education: A framework for institutions, educators and disciplines, the National Academies of Sciences, Engineering, and Medicine (NASEM 2025) stated that the lack of widespread adoption of evidence-based teaching perpetuates educational disparities. The report recommended that students actively engage in disciplinary learning by leveraging student interest and identities, accounting for sociocultural influences, and providing transparency in process and intentions.
 
-Despite these findings, 70% of instructors have reported extensive use of lecturing in their courses, rather than evidence-based instructional strategies [american2019levers, stains_anatomy_2018](@cite), citing the absence of formal pedagogical training as one of the main reasons [walczyk2007obstacles](@cite). The good news is that faculty who receive pedagogical training are more likely to seek innovative teaching methods and implement learner-centered practices (Marsh & Hattie, 2002; Walczyk & Ramsey, 2003).
+Despite these recommendations, 70% of STEM instructors have reported extensive use of lecturing in their courses, rather than evidence-based instructional strategies [american2019levers, stains_anatomy_2018](@cite), citing the absence of formal pedagogical training as one of the main reasons [walczyk2007obstacles](@cite). The good news is that faculty who receive pedagogical training are more likely to seek innovative teaching methods and implement learner-centered practices (Marsh & Hattie, 2002; Walczyk & Ramsey, 2003).
 
 ### STEM has an Equity Problem
 
-The problem of not using evidence-based practices is compounded when we ignore the role of systemic inequities in US higher education, where underrepresentation in STEM is prevalent.
 More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields [thiry_talking_2019, handelsman_achieving_2022](@cite).
 
 Although a disheartening 42% of white students leave STEM majors, the problem is much worse for students of color: 58% of Latine students and 66% of Black students leave STEM [riegle2019does](@cite).
@@ -73,7 +72,7 @@ The differential pattern of exclusion from STEM affects students not only accord
 
 Most of those who leave a STEM major have the interest, confidence, and aptitude to be successful in STEM, but early classroom experiences can dampen their interest and actively exclude them from persisting (Thiry et al., 2019; Estrada et al., 2019). Their departures after gateway STEM courses represent a major talent drain from the system. To achieve an equitable educational system, we must address the structural and individual factors—including both intentional and unintentional biases—that discourage HEC students from pursuing and succeeding in STEM.
 
-Therefore, this Scientific Teaching Course focuses on what instructors have agency to change: course design and the classroom environment.
+Systemic inequities in US higher education are compounded when we fail to employ evidence-based practices. Therefore, this Scientific Teaching Course focuses on what instructors have agency to change: course design and the classroom environment.
 
 !!! tip ""
 
@@ -81,31 +80,31 @@ Therefore, this Scientific Teaching Course focuses on what instructors have agen
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    How would you describe your role?
+    Which of the following best describes your role?
 
-    - My role is to cover the course content and skills.
-    - My role is to engage students in learning content and skills.
+    - My role is to cover the course content and teach skills.
+    - My role is to engage students in learning content and developing skills.
 
-    How would you describe your course’s approach to equity?
+    Which of the following best describes your course’s approach to equity?
 
-    - The course climate is fair for everyone because it is the same for everyone.
-    - The course climate meets students where they are and supports them in engaging with the content and skills.
+    - The course climate is fair because it is the same all students.
+    - The course climate meets students where they are and supports them in engaging with the content and developing skills.
 
     What aspects of your course are you most excited to revise or improve through this Scientific Teaching Course?
 
 ### Effective Science
 
-Effective science is inclusive science. To answer the increasingly complex science questions of the future, we need to ensure that students develop a working understanding of how science is done. The rapid expansion of scientific knowledge means students need to be prepared to solve global problems and navigate the difference between evidence-based claims and opinions. Whether they major in biology, art history, math, or elementary education, college-educated students should understand the basic principles of the world around them. When students actively engage in scientific practices, they develop a more robust scientific self-efficacy and identity [estrada_toward_2011](@cite). Equally important, students need to appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them.
+Effective science is inclusive science. To address the increasingly complex science and technology related issues in our world, we need to ensure that students develop a working understanding of how science is done. The rapid expansion of scientific knowledge means students need to be prepared to solve global problems and navigate the difference between evidence-based claims and opinions. Whether they major in biology, art history, math, or elementary education, college-educated students should understand the basic principles of the world around them. When students actively engage in scientific practices, they develop a more robust scientific self-efficacy and identity [estrada_toward_2011](@cite), contribuing to increased persistence in STEM. Equally important, students need to appreciate the origins of scientific information, think critically about new problems and situations, and sustain a lifelong curiosity about the world around them.
 
 > __*Effective science is inclusive science.*__
 
-Diversity within the scientific community supports the broadening of participation in STEM fields.  When students witness diverse scientist identities and engage in solving real-world problems, they connect with and envision themselves as part of the scientific community [ref].
+Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone. Diversity within the scientific community supports the broadening of participation in STEM fields.  When students witness diverse scientist identities and engage in solving real-world problems, they connect with and envision themselves as part of the scientific community [ref].
 
-Three factors—positive self-efficacy, identity, and connection with scientific values—lead to increased persistence in STEM, especially for students from communities that have been historically excluded [estrada_toward_2011](@cite). Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone.
+Three factors—positive self-efficacy, identity, and connection with scientific values—lead to increased persistence in STEM, especially for students from communities that have been historically excluded [estrada_toward_2011](@cite).
 
 ### Effective Teaching
 
-Effective teaching helps students develop science skills. Authentically integrating science into teaching requires moving beyond a mindset of “covering the content” and toward designing experiences where students “uncover the content.” This active engagement with the content helps students develop the essential knowledge, skills, and habits of mind that align with how science is practiced.
+Effective teaching helps students develop science skills. Authentically integrating science into teaching requires moving beyond a mindset of “covering the content” and toward designing experiences where students “uncover the content.” This active engagement with the content helps students develop the essential knowledge, skills, and habits of mind that align with how science is practiced, building their scientific self-efficacy and identity.
 
 > __*Effective teaching helps students develop science skills.*__
 
@@ -117,7 +116,7 @@ Effective teaching is intentional, inclusive, and iterative. Effective teaching 
 
 > __*Scientific teaching is intentional, inclusive, and iterative.*__
 
-Scientific teaching aims to bring a philosophy and framework to teaching that makes the process more rigorous, reflective, and evaluative. Drawing from discovery and evidence-based strategies, scientific teaching provides a model for teaching that parallels scientific research. Rather than allowing a haphazard approach to designing daily lectures, scientific teaching emphasizes intentional course-level planning, using empirical evidence and data to inform instructional decisions. This approach allows courses to evolve over time using student learning as the driving evidence.
+Scientific teaching brings a philosophy and framework to teaching that makes the process more rigorous, reflective, and evaluative. Drawing from discovery and evidence-based strategies, scientific teaching parallels science research. Rather than allowing a haphazard approach to designing daily lectures, scientific teaching emphasizes intentional course-level planning, using empirical evidence and data to inform instructional decisions. This approach allows courses to evolve over time using student learning as the driving evidence.
 
 Like science, these teaching principles take time to practice and implement. Also like science, we advocate that you select from practices that demonstrate positive student outcomes and carefully evaluate which approaches will work best in your context.
 
@@ -139,7 +138,7 @@ Like science, these teaching principles take time to practice and implement. Als
 
 ## A Framework for Scientific Teaching
 
-The main framework for scientific teaching is the process of science itself: how we ask and answer questions and what questions are explored.
+The core framework for scientific teaching is the process of science itself—how we ask and investigate questions, and decide which questions to explore.
 
 Most of us are familiar with the scientific method, which asks us to make an observation, develop a hypothesis, design an experiment, collect and analyze data, and summarize findings. However, anyone who engages in science knows there is more to science than experimentation.
 
@@ -267,7 +266,7 @@ Scientific teaching offers a natural structure for teaching that parallels scien
 - **Ownership:** Instructors gain agency and develop a sense of responsibility for outcomes.
 - **Relevance:** Instructors can share their findings with others and work on education reform that has applications beyond their own classroom.
 
-The Scientific Teaching Course is designed to help you put all these ideas into practice in ways that make sense for you and your context. It provides an overview of the complex and expansive landscape of evidence, approaches, methods, and theories. It also highlights the role of systemic barriers in course climate – or  learning environments – and provides tools to remove them.
+The Scientific Teaching Course is designed to help you put all these ideas into practice in ways that make sense for you and your context. It provides an overview of the complex and expansive landscape of evidence, approaches, methods, and theories related to STEM teaching in higher education. It also highlights the role of systemic barriers in course climate – or  learning environments – and provides tools to remove them.
 
 The aim is to empower you, the instructor, to customize the approaches for your own identities, students, content, and contexts, which in turn, can bring purpose and joy to teaching.
 
