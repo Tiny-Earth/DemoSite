@@ -246,7 +246,7 @@ To write an effective learning objective, we suggest the following:
 
 ### Bloom's Taxonomy (Cognitive Domain)
 
-Bloom’s Taxonomy categorizes several domains of educational goals based on the level of complexity and specificity (Bloom, 1956; Anderson and Krathwohl, 2001) and can be helpful in writing learning objectives. The taxonomy of the cognitive domain consists of six levels ranging from lower-order cognitive skills (LOCS) to higher-order cognitive skills (HOCS):
+Bloom’s Taxonomy categorizes several domains of educational goals based on the level of complexity and specificity [bloom1964taxonomy, anderson2001taxonomy](@cite) and can be helpful in writing learning objectives. The taxonomy of the cognitive domain consists of six levels ranging from lower-order cognitive skills (LOCS) to higher-order cognitive skills (HOCS):
 
 - **Remember:** Can the learner recall or retain the information? *Action verbs: define, duplicate, identify, list, memorize, name, recall, recognize, repeat, state*
 - **Comprehend:** Can the learner explain ideas or concepts? *Action verbs: classify, describe, discuss, explain, locate, paraphrase, report, select, summarize, translate*
@@ -322,7 +322,7 @@ In designing learning objectives, select action verbs that communicate the desir
 
 Once you have learning objectives that are aligned to learning goals, the next step is to determine what evidence will acceptably demonstrate that students are progressing toward—and eventually succeeding in accomplishing—the desired outcomes. This requires that we design assessments that are aligned to the learning objectives.
 
-Why is this such a critical step? Because assessment drives learning. When students have opportunities to practice the material they are learning, they are better able to diagnose their understanding and can change their study strategies, if necessary. These strategies are effective in improving learning gains [hartwig2012study, sebesta2017should](@cite). Misalignment between learning objectives and assessments can negatively impact student performance (O'Neill, et al., 2010). This creates uncertainty for students about where to focus their study efforts, which is the opposite of an inclusive learning environment.
+Why is this such a critical step? Because assessment drives learning. When students have opportunities to practice the material they are learning, they are better able to diagnose their understanding and can change their study strategies, if necessary. These strategies are effective in improving learning gains [hartwig2012study, sebesta2017should](@cite). Misalignment between learning objectives and assessments can negatively impact student performance [o2010report](@cite). This creates uncertainty for students about where to focus their study efforts, which is the opposite of an inclusive learning environment.
 
 Imagine studying for an exam by solving problems and designing potential experiments, only to find that the exam is all memorization. A student may rightfully feel frustrated, thinking they "wasted time" studying the wrong material.
 
@@ -419,9 +419,9 @@ Providing access to resources is fundamental to addressing inequities, because i
 
 Students with disabilities face many challenges when seeking accommodations in higher education [gin_is_2020](@cite). An accessible course design reduces the need for accommodation, alleviates the burden and stigma associated with students seeking accommodations, saves time for educators, and diminishes the cost associated with providing individual accommodations. Importantly, accessibility improves educational outcomes for all learners by making sure that educational materials and resources are available and usable by everyone, regardless of their individual needs.
 
-**Universal Design for Learning (UDL)** guides educators to create accessible course materials and flexible and inclusive learning experiences that meet the needs of all learners, regardless of their abilities or background (CAST, 2018).
+**Universal Design for Learning (UDL)** guides educators to create accessible course materials and flexible and inclusive learning experiences that meet the needs of all learners, regardless of their abilities or background [CAST2018UniversalDesign](@cite).
 
-**UDL aims to change the design of the environment rather than to change the learner.** By adopting the principles of UDL, an instructor can build an inclusive course from the outset. The UDL guidelines (CAST, 2018) encompass three key principles: providing multiple means of engagement, representation, and action and expression. Some examples include:
+**UDL aims to change the design of the environment rather than to change the learner.** By adopting the principles of UDL, an instructor can build an inclusive course from the outset. The UDL guidelines [CAST2018UniversalDesign](@cite) encompass three key principles: providing multiple means of engagement, representation, and action and expression. Some examples include:
 
 - **Physical accessibility:** Make physical spaces and materials accessible, such as by providing wheelchair ramps, captioning videos, and offering alternative formats of textbooks.
 - **Digital accessibility:** Design digital content and technologies that are compatible with assistive technologies, such as screen readers and text-to-speech software.
