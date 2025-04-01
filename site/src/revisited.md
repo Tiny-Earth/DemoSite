@@ -8,8 +8,8 @@
 
     By the end of this module, you will be able to…
 
-    - Propose a plan that will provide you with opportunities to practice the scientific teaching approaches you have learned about in this course.
-    - Propose a plan that will provide you with ongoing evaluation of your course’s learning environment and outcomes.
+    - Propose a plan  to practice the scientific teaching approaches you earned in this course.
+    - Propose a plan to continuously evaluate your course’s learning environment and outcomes. 
 
 ## Bringing it All Together
 
@@ -18,19 +18,19 @@ Remember from the beginning that scientific teaching is both the *teaching of sc
 - Engages students in authentic practices of science
 - Approaches their teaching with the spirit of scientific research
 
-The previous modules provided the foundations of knowledge, skills, tools, and mindsets for teaching scientifically. However, you probably did not finish creating your course or updating your instructional materials. This last module prompts you to leave yourself detailed notes about when and how you plan to finish creating the course materials, when you plan to implement them, and how you will approach iterative revisions over time. 
+The previous modules provided the foundations of knowledge, skills, tools, and mindsets for teaching scientifically. This module invites you to reflect on your progress and identity next steps with your course. Specifically, you'll be prompted to leave yourself detailed notes about when and how you plan to finish creating the course materials, when you plan to implement them, and how you will approach iterative revisions over time. 
 
-The goal is to continue to create a cohesive course that brings science to life and can be accessed equitably by your students. Over time, we also hope that you continue to enlist your scientific mindset to collect information to improve the course, and that your own skills and mindsets continue to evolve.
+The goal is to continue to create a cohesive course that brings science to life and can be accessed equitably by all students. Over time, we also hope that you continue to enlist your scientific mindset to collect information to improve the course, and that your own skills and mindsets continue to evolve.
 
 ## Making a Plan
 
 Below is a summary of the main considerations for scientific teaching to support your ongoing growth and iteration of the course over time. As you review what you've learned from the STC, identify which steps you will take next. This will help you create a plan to guide you on your path to scientific teaching.
 
 ### Designing the Course or Instructional Materials
+
 As you review your course design, reflect on the below concepts and make adjustments as needed. 
 
 - **Alignment:** How do the activities and assessments reinforce each other and help students progress toward the learning goals?
-
 - **Facets of science:** How do the learning goals and active learning experiences represent the six facets of science?
 - **Learning objectives:** How clearly do the objectives define what students will learn and be able to do? 
 - **Active learning:** How do the learning activities leverage evidence-based practices?
@@ -38,6 +38,7 @@ As you review your course design, reflect on the below concepts and make adjustm
 - **Inclusive learning:** How are the learning activities and the content relevant, accessible, and equitable? How are instructor and student identities accounted for?
 
 ### Ongoing Iteration
+
 Consider how you will continue to develop yourself and your course to align with scientific teaching approaches. Think about what you want to know to guide future iterations and ongoing growth.
 
 - **Self reflection:** What worked, what didn’t, and why? How do you know? What would you keep or change next time? How will you continue to grow and learn?
@@ -47,15 +48,16 @@ Consider how you will continue to develop yourself and your course to align with
 - **Reflect on research:** How could you continue learning from new evidence on teaching and learning?
 
 ### Make a Checklist
+
 Map out all the steps remaining to build out your course and note what remains to be done: 
+
 - Finish and align learning objectives, assessments, and activities
-- Create detailed instructional materials to support them
+- Create detailed instructional materials to support your newly defined objectives
 - Work on inclusive learning environment
 - Work on overall course structure
 - Establish a learner-centered syllabus / inclusive welcome materials
 - Identify when and how will you practice teaching with these new tools
 - Other: _____
-
 
 ## Call to Action 
 
