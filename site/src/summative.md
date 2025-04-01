@@ -17,7 +17,7 @@
 
 Summative assessments are evaluations conducted at the end of a learning period to determine a student’s overall understanding and development of expertise. As seen in the backward design process, summative assessments provide evidence about the extent to which students achieved the learning objectives [wiggins2005understanding, wiggins2011understanding](@cite).
 
-Unlike formative assessments, which are ongoing and provide feedback during the learning process, summative assessments are typically administered after a unit has been completed to provide a summary of a student’s learning progress and achievement [kibble2017best](@cite). Summative assessments are comprehensive and assess a broad range of knowledge, skills, and competencies related to the learning objectives. Often, they are high-stakes, meaning formative assessments carry significant weight in determining students’ grades or academic progress.
+Unlike formative assessments, which are ongoing and provide feedback during the learning process, summative assessments are typically administered after a unit has been completed to provide a summary of a student’s learning progress and achievement [kibble2017best](@cite). Summative assessments are comprehensive and assess a broad range of knowledge, skills, and competencies related to the learning objectives. Often, they are high-stakes, meaning summative assessments carry significant weight in determining students’ grades or academic progress.
 
 Examples of summative assessments include:
 
@@ -31,7 +31,7 @@ Examples of summative assessments include:
 
 Summative assessments play a role beyond merely assigning grades to students. They serve as invaluable tools for evaluating student learning and providing feedback to both learners and instructors.
 
-For the learners, summative assessments serve as pivotal milestones in a course’s trajectory, marking significant targets for students to strive toward. Summative assessments also hold students accountable for their learning and represent indicators of their increasing expertise and competence in the subject matter as they move toward understanding. Assessment drives learning; students tend to focus on what will be assessed.
+For learners, summative assessments serve as milestones in a course trajectory, marking significant targets for students to strive toward. Summative assessments also hold students accountable for their learning and represent indicators of their increasing skill development and competence in the subject matter. Assessment drives learning; students tend to focus on what will be assessed.
 
 For instructors, summative assessments provide essential data to gauge the extent to which students have met predefined objectives, as well as identifying areas where additional support may be required. As a scientific instructor, collecting and analyzing this data is crucial in refining your teaching practice [ebert2003disciplinary](@cite) and is aligned with calls to teach science the same way it is practiced (AAAS, 1990; Annenberg/CPB, 1997; NRC, 1997, 1999; Bransford et al., 1999; Pellegrino et al. 2001; Cech, 2003).
 
@@ -45,7 +45,7 @@ You already have the framework! Recall that when we leverage backward design, we
 - Articulate what evidence would indicate progress toward and achievement of understanding.
 - Plan learning experiences to guide students toward understanding.
 
-These pieces of evidence will be used to guide the creation of summative assessments, which will both reinforce key concepts and serve as checkpoints throughout the learning process in your STEM course.
+These pieces of evidence guide the creation of summative assessments, which will both reinforce key concepts and serve as checkpoints throughout the learning process in your STEM course.
 
 ## Summative Assessment in Practice
 
@@ -57,7 +57,7 @@ By using a variety of assessment methods, instructors can gain a more comprehens
 
 ### Summative Assessment Techniques
 
-Reflecting on backward design, your assessments need to be aligned to the learning objectives of the unit. In a STEM course, summative assessments provide a way for students to demonstrate their understanding of the facets of science. Therefore, the summative assessment techniques chosen for your course should be informed by what skills and knowledge students need to exhibit competence according to the STEM learning objectives you set for the course.
+Reflecting on backward design, your assessments need to be aligned to the learning objectives of the unit. In a STEM course, summative assessments provide a way for students to demonstrate their understanding of the facets of science. The summative assessment techniques you select should directly align with your established learning objectives in the scientific discipline. This entails designing evaluations that not only test content knowledge but also measure practical skills and competencies—such as scientific inquiry, data analysis, problem-solving, and effective communication—that are crucial for success in STEM fields.
 
 For example, here are four different approaches to summative assessment:
 
@@ -81,12 +81,11 @@ For example, here are four different approaches to summative assessment:
 
 !!! details "Click for a Performance-Based Example"
 
-    - Daily pre-lab quizzes
     - 3 lab reports
     - 4 lab practicals
     - Independent project: proposal, presentation, report
 
-Notice that all the summative assessment plans utilize more than one kind of summative assessment technique except the Traditional Exam-Based plan, which only uses tests. A well-designed plan incorporates a range of assessment opportunities that combine both low- and high-stakes assessments. For example, all of the plans administer weekly or daily quizzes instead of just a few during the whole semester. This way, lower performance on one assessment doesn’t devastate a student's grade and they have multiple opportunities to demonstrate their knowledge and abilities.
+Notice that all these courses utilize more than one kind of summative assessment technique except the Traditional Exam-Based plan, which only uses tests. A well-designed course incorporates a range of assessment opportunities that combine both low- and high-stakes assessments. For example, all of the plans administer weekly or daily quizzes instead of just a few during the whole semester. This way, lower performance on one assessment doesn’t devastate a student's grade and they have multiple opportunities to demonstrate their knowledge and abilities.
 
 !!! tip ""
 
@@ -145,7 +144,7 @@ Given the significant influence of summative assessment outcomes on students and
 The Standards for Educational and Psychological Testing provide principles to establish fairness in testing (American Educational Research Association, 1999):
 
 - All test takers have access to materials and opportunities to learn
-- All test takers receive fair and equitable treatment during tests
+- All test takers receive equitable treatment during tests
 - Biases are removed from the assessment and in evaluation of the student’s work
 
 Additionally, Kibble (2017) recommends instructors practice these elements to produce high-quality and equitable assessments:
@@ -154,13 +153,13 @@ Additionally, Kibble (2017) recommends instructors practice these elements to pr
 - Include enough, high-quality items that provide a reliable and accurate picture of students’ knowledge, skills, and abilities.
 - Provide clear instructions and practice materials to students.
 
-The principles and elements outlined above are crucial for ensuring that all students have an equal opportunity to showcase their knowledge and understanding on assessments that accurately measure their abilities. While these principles may seem intuitive, it’s essential to delve deeper into the evidence-based strategies instructors can use to design assessments that promote equity and accuracy. By doing so, educators can create a fair and inclusive assessment environment that values the diverse strengths and abilities of all students.
+The principles and elements outlined above are crucial for ensuring that all students have an equal opportunity to showcase their knowledge and understanding on assessments that accurately measure their abilities. While these principles may seem intuitive, it’s essential to delve deeper into the evidence-based strategies instructors can use to design assessments that promote equity and accuracy. By doing so, educators can create an equitable and inclusive assessment environment that values the diverse strengths and abilities of all students.
 
 ### Example of an Inclusive Assessment Tool: Rubrics
 
-To be fair and equitable, assessments need to be evaluated in a way that is standardized and consistent across student work. Rubrics can achieve this goal by providing a detailed description of the criteria and standards used to assess student performance. Rubrics help instructors assess student work systematically and consistently, providing feedback that is aligned with the established criteria. Without rubrics, written assessments can be subjective and biased, leading to unfair grading and lack of clarity for students.
+To be equitable and inclusive, assessments need to be evaluated in a way that is standardized and consistent across student work. Rubrics can achieve this goal by providing a detailed description of the criteria and standards used to assess student performance. Rubrics help instructors assess student work systematically and consistently, providing feedback that is aligned with the established criteria. Without rubrics, grading of written assessments can be subjective and biased, leading to unfair grades and confusion for students.
 
-Rubrics also provide a positive framework for student expectations, outlining clear steps that show progress toward meeting those goals. Conveniently, when shared with students, rubrics support metacognition by giving students the tools they need to self- or peer-assess their learning while developing their ideas and creating early drafts.
+Rubrics also provide a positive framework for student expectations, outlining clear steps that show progress toward meeting those goals. Conveniently, when shared with students, rubrics support metacognition by giving students the tools they need to self- or peer-assess their performance while developing their ideas and creating early drafts.
 
 ### Considerations for creating rubrics
 
@@ -174,7 +173,7 @@ A rubric typically consists of a grid or list that outlines the specific criteri
 
 And to write a rubric, once again we revisit our backward design principles:
 
-- Establish clear and specific expectations for student performance based on the assignment type (e.g., written lab report, oral presentation).
+- Establish clear and specific expectations for student performance based on your learning objectives and assignment type (e.g., written lab report, oral presentation).
 - Use the expectations to fill out the “criteria” column of the rubric, then articulate “rating” levels.
 - Confirm that the rubric is emphasizing knowledge and skills gained in the course, rather than prior knowledge or ability.
 
@@ -200,7 +199,7 @@ And to write a rubric, once again we revisit our backward design principles:
 
     Using [these example rubrics](assets/paper-rubrics.html) as a guide, answer the following questions.
 
-    Imagine a lab report, research paper, group project, or other large assignment for your course or a course similar to yours. What is one criteria that you would assess that student work on?
+    Imagine a lab report, research paper, group project, or other large assignment for your course or a course similar to yours. Based on the assignment type and your learning objective(s), what is one criteria that you would assess that student work on?
 
     Describe what student work looks like that *fully meets* that criteria. How much variety could their be in student work that still meets that criteria? Briefly give a few examples.
 
@@ -216,9 +215,9 @@ And to write a rubric, once again we revisit our backward design principles:
 
 ### Example of an Inclusive Assessment Tool: Exams without Time Limits
 
-Timed tests are a staple in educational settings, but what does the literature have to say about it? Time-limited tests are less valid, reliable, inclusive, and equitable than tests in which there is no time limit or a time limit that’s so generous that all students can complete all items [gernsbacher2020four](@cite).
+Timed tests are common in education, but what does the research say? Studies show that time-limited tests are less valid  reliable, inclusive, and equitable than tests in which there is no time limit or a sufficiently generous limit that allows all students to complete the assessment [gernsbacher2020four](@cite).
 
-Test-taking pace is not a valid measure of student understanding. Students who need additional test-taking times are literally excluded from the test-taking classroom. Timed tests restrict students who have anxiety, are learning English, from underrepresented backgrounds, older than average, and students with disabilities who face barriers obtaining accommodations.
+Test-taking pace is not a valid measure of student understanding. Research has found that timed tests can especially negatively impact students from certain groups, making them less equitable for all learners.
 
 Research shows that most students who do receive additional time on tests do not use all of it [cahalan2006observational, holmes2019extra, spenceley2016use](@cite). Gernsbacher speculates that these students are actually requesting to not experience the anxiety and pressure of running out of time [gernsbacher2020four](@cite). When time limits are removed from exams, numerous studies have shown that student performance improves across student groups including those who are learning English, from underrepresented backgrounds, older than average, and females [de2016performs, foos2008adult, mullane2000effects](@cite). For example, Foos and Boone showed that young adults score higher than older adults under standard timed test conditions, but older adults perform as well as young adults when time limits are removed [foos2008adult](@cite).
 
@@ -245,7 +244,7 @@ As we saw in the Course Design module, incorporating Universal Design for Learni
 - Authentic tasks: use real-world problems that reflect students’ interests and experiences
 - Cultural relevance: incorporate diverse perspectives, cultures, examples, and scenarios
 - Choice and autonomy: allow students to choose topics, formats, or pace
-- Provide regular feedback and progress monitoring
+- Real-time critique: provide regular feedback and progress monitoring
 
 ### Equitable Summative Assessments Reduce Stereotype Threat
 
@@ -294,8 +293,7 @@ Do not apply grading curves (Feldman, 2019):
 
 Check your own biases and assumptions (Feldman, 2019):
 
-- Confirmation bias: don’t let existing beliefs about a student bias your grading.
-- Halo effect: don’t let a first impression of a student bias your grading.
+- Grade without knowing who students are to prevent bias in your grading based on existing beliefs about students.
 - Become aware of common stereotypes and find ways to avoid perpetuating and activating them.
 - Don’t let expectations or assumptions about students affect your grading.
 - Use your grading data to self-check: did you give males higher scores over females on free-response questions? What about students from HECs?
@@ -312,7 +310,7 @@ In recent years, there has been a growing movement to move away from traditional
 
 Common alternative grading methods include standards-based grading, specifications grading, and ungrading. Briefly:
 
-- Standards-based grading assesses students’ competency of specific skills or knowledge: final grades are based on how many standards a student meets, no matter the number of attempts (Clark & Talbert, 2023).
+- Standards-based grading assesses students’ competency of specific skills or knowledge. Final grades are based on how many standards a student meets, no matter the number of attempts (Clark & Talbert, 2023).
 - In specifications or specs grading, the instructor creates a list of attributes of a successful submission for assignments. Students then earn a “Satisfactory” or “Not Yet” on their work and have the opportunity to resubmit for full credit (Clark & Talbert, 2023).
 - Ungrading removes grades in favor of formative and descriptive feedback. It can replace deficit thinking with an approach that values students’ cultural and familial knowledge, recognizing these insights as critical to their education and relationships (Mejia 2018). Instructors meet regularly with students to discuss progress, and students build a portfolio of their work and growth (Clark & Talbert, 2023).
 
@@ -337,7 +335,7 @@ Instructors who are interested in alternative grading but can’t or aren’t re
 ## Summary of Summative Assessment
 
 - Summative assessments evaluate whether students have achieved the intended learning objectives at the end of a learning period.
-- They evaluate achievement of the established learning objectives and provide feedback to both students and instructors.
+- They provide feedback to both students and instructors.
 - Summative assessments are usually (but not always) tied to grading or other performance metrics.
 - Rubrics provide detailed descriptions of the criteria and standards used to assess student performance, reducing subjective and biased grading.
 - Summative assessments provide data about learning that can inform future changes - an important component of scientific teaching.
