@@ -36,7 +36,7 @@ Surprisingly, given its long history, there is not a consistent definition of ac
     How do you define active learning? Write this down before revealing published examples below.
 
     !!! details "Click to show published examples"
-        - “...instructional activities involving students in doing things and thinking about what they are doing.” (Bonwell & Eison, 1991)
+        - “...instructional activities involving students in doing things and thinking about what they are doing.” [bonwell1991active](@cite)
         - “Active learning simply means getting involved with the information presented - really thinking about it (analyzing, synthesizing, evaluating) rather than just passively receiving it and memorizing it.” (King, 1993)
         - “Active learning implies that students are engaged in their own learning. Active teaching strategies have students do something other than take notes or follow directions, placing the responsibility for learning squarely on their shoulders. As they participate in activities that involve group learning, problem solving, or inquiry-based learning, students construct new knowledge and build new scientific skills.” [handelsman_scientific_2007](@cite) 
         - “Active learning engages students in the process of learning through activities and/or discussions in class, as opposed to passively listening to an expert.” [freeman_active_2014](@cite)
@@ -130,7 +130,7 @@ In scientific teaching, we use the term **“active learning experiences”** as
 
 > Assessment is automatically active because the students must do something to assess themselves or be assessed [handelsman_scientific_2007](@cite).
 
-Ongoing feedback is one of the most reliable ways to foster learning gains (Black & Wiliam, 1998). **Formative assessment** is defined as the suite of ongoing activities that enable students and instructors to monitor progress toward learning objectives, providing a mechanism for continuous improvement. For example, formative assessment can take place during discussions of different ideas during a group activity, or when students answer a polling question, discuss their answers, and then explain their reasoning back to the whole class. In contrast, **summative assessment** involves the evaluations done at the end of a learning experience, such as an exam or lab report. We will discuss summative assessments separately in the *Summative Assessment* module.
+Ongoing feedback is one of the most reliable ways to foster learning gains [black1998assessment](@cite). **Formative assessment** is defined as the suite of ongoing activities that enable students and instructors to monitor progress toward learning objectives, providing a mechanism for continuous improvement. For example, formative assessment can take place during discussions of different ideas during a group activity, or when students answer a polling question, discuss their answers, and then explain their reasoning back to the whole class. In contrast, **summative assessment** involves the evaluations done at the end of a learning experience, such as an exam or lab report. We will discuss summative assessments separately in the *Summative Assessment* module.
 
 Formative assessment builds on active learning and connects directly to learning principles: as students apply new knowledge and practice new skills, they have the opportunity to think critically about their progress toward understanding and competency. In other words, formative assessment encourages students to think metacognitively.
 
@@ -251,7 +251,7 @@ A think-pair-share also fosters a growth mindset. It breaks down complicated pro
 
 ### A few tips to make a think-pair-share more just and equitable
 
-- Invite students to share in a way that makes it clear you’re opening up the conversation, rather than looking for a particular answer on the first try (Waugh and Andrews, 2020). For example, ask, “Can you get us started with an answer?”
+- Invite students to share in a way that makes it clear you’re opening up the conversation, rather than looking for a particular answer on the first try [waugh2020diving](@cite). For example, ask, “Can you get us started with an answer?”
 - Survey the class early in the term to find out who is willing to share their thoughts with the class and who prefers not to (Cooper et al. 2021).
 - Randomize the list of students to call on to prevent biasing responses to those who are fast at processing information or confident speaking in large groups—and to whom other students may defer even if they are incorrect (Theobald et al. 2017).
 
