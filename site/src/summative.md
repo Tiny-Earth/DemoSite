@@ -141,7 +141,7 @@ Given the significant influence of summative assessment outcomes on students and
 
 ### Fairness in Testing
 
-The Standards for Educational and Psychological Testing provide principles to establish fairness in testing (American Educational Research Association, 1999):
+The Standards for Educational and Psychological Testing provide principles to establish fairness in testing [american1985standards](@cite):
 
 - All test takers have access to materials and opportunities to learn
 - All test takers receive equitable treatment during tests
