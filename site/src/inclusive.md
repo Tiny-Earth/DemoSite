@@ -51,7 +51,7 @@ Figure adapted from [bell2016design, marchesani1992dynamics](@cite).
 
 ### The Climate Dimension
 
-Course climate encompasses the intellectual, social, emotional, and physical environment in a class (Ambrose et al., 2010). It is shaped by a combination of instructor decisions,  student interactions, and broader influences. As instructors, we play a key role in shaping this climate by designing and sustaining learning experiences to be welcoming and inclusive [dewsbury2019inclusive, bell2016design](@cite). An inclusive course climate ensures that all students, regardless of background or identity, feel valued and supposed in their learning [brame2019science](@cite). As instructors, our role is to examine how we set up and sustain an inclusive course climate [dewsbury2019inclusive, bell2016design](@cite).  
+Course climate encompasses the intellectual, social, emotional, and physical environment in a class (Ambrose et al., 2010). It is shaped by a combination of instructor decisions,  student interactions, and broader influences. As instructors, we play a key role in shaping this climate by designing and sustaining learning experiences to be welcoming and inclusive [dewsbury2019inclusive, bell2016design](@cite). An inclusive course climate ensures that all students, regardless of background or identity, feel valued and supposed in their learning [brame2019science](@cite).
 
 ### The Instructor Dimension
 
