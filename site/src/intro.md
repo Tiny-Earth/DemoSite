@@ -66,7 +66,7 @@ Despite these recommendations, 70% of STEM instructors have reported extensive u
 
 More than half of the approximately 600,000 college students who intend to major in STEM switch to other fields [thiry_talking_2019, handelsman_achieving_2022](@cite).
 
-Although a disheartening 42% of white students leave STEM majors, the problem is much worse for students of color: 58% of Latine students and 66% of Black students leave STEM [riegle2019does](@cite).
+Although a disheartening 42% of white students leave STEM majors, the problem is much worse for students of color: for example, 58% of Latine students and 66% of Black students leave STEM [riegle2019does](@cite).
 
 The differential pattern of exclusion from STEM affects students not only according to race and ethnicity; talented college students from all HECs  leave at higher rates [thiry_talking_2019](@cite).
 

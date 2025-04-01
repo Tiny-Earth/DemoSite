@@ -23,9 +23,11 @@ There is no shortage of inclusive teaching methods. In fact, the number of choic
 
 ## Why Inclusive Learning?
 
-Diversity in STEM requires inclusive learning environments. Recall from the previous module that a prevailing reason students leave science majors is not because they are incapable, but because science is too often taught in a way that doesn’t inspire them or instill a sense of belonging. Consequently, more than half of the 600,000 US students who declare STEM majors change to a different major before graduating [thiry_talking_2019](@cite), with students from underrepresented backgrounds switching out of STEM at disproportionate rates [riegle2019does](@cite).
+Diversity in STEM requires inclusive learning environments.
 
-Reversing STEM attrition requires us to reimagine how the various components of a classroom work together to create inclusive learning environments.
+Recall from the previous module that a prevailing reason students leave science majors is not because they are incapable, but because STEM is often taught in a manner that fails to inspire students or create a sense of belonging. Consequently, more than half of the 600,000 US students who declare STEM majors change to a different major before graduating [thiry_talking_2019](@cite), with students from underrepresented backgrounds switching out of STEM at disproportionate rates [riegle2019does](@cite).
+
+When students feel a sense of belonging in STEM, they are more likely to engage deeply, persevere through challenges, and envision themselves as future scientists, engineers, and innovators. And reversing STEM attrition requires us to reimagine how the various components of a classroom work together to create inclusive learning environments.
 
 ## A Framework for Inclusive Learning
 
@@ -59,7 +61,7 @@ In aggregate, our identities, biases, and assumptions affect the pedagogical cho
 
 ### The Student Dimension
 
-Like instructors, students come to our courses with a composite of many identities and biases. Students interact with their instructors, with each other, and with  content in the context of a course’s climate. Students’ identities and their interactions influence the extent to which they feel a sense of belonging, which affects learning outcomes and persistence in STEM. 
+Like instructors, students come to our courses with a composite of identities, biases, and interests. Students interact with their instructors, with each other, and with  content in the context of a course’s climate. Students’ identities and their interactions influence the extent to which they feel a sense of belonging, which affects learning outcomes and persistence in STEM. 
 
 #### The Connection between Identity and Belonging
 
@@ -71,7 +73,7 @@ The Tripartite Integration Model of Social Influence (TIMSI) explains the psycho
 
 ### The Curriculum Dimension
 
-Curriculum is arguably the most visible component of a course and has an important influence on the course climate. Curriculum can be a lesson plan, the overall plan within a course, across a major. Thus, we should carefully consider our decisions regarding which content is included or excluded. 
+Curriculum is arguably the most visible component of a course and has an important influence on the course climate. It encompasses what we teach, including the learning objectives we set, the content we prioritize, how we demonstrate relevance, and the examples we choose to include.
 
 #### Science Content
 
@@ -87,7 +89,7 @@ Pedagogy involves how a course is designed and taught. It also defines how stude
 
 ## Inclusive Learning in Practice
 
-Let’s examine how the instructor, student, curriculum, and pedagogy dimensions work together to create a course climate that is based on inclusive learning. Below is a summary of several evidence-based practices based on the five dimensions of inclusive teaching.
+Let’s examine how the instructor, student, curriculum, and pedagogy dimensions work together to create a course climate that is welcoming and supportive of all students. Below is a summary of several evidence-based practices based on the five dimensions of inclusive teaching, many of which are expanded upon in subsequent modules.
 
 ### Choose Evidence-based Interventions
 
@@ -98,7 +100,7 @@ Interventions can be incorporated as individual or repeated activities, such as:
 - Increase **instructor presence and connection to students** by making eye contact, engaging in positive body movements such as nods and smiles, communicating goals, setting guidelines for student interactions, and encouraging student participation [shea2006study, baker2010impact, andersen1981three, arbaugh2006does](@cite).
 - Use **active learning experiences**, in which students actively engage with content and sometimes each other [freeman_active_2014](@cite). You’ll find more examples in the Learning Experiences module.
 - Do regular **formative assessments**, in which students have the opportunity to regularly practice and receive feedback (Black and Wiliam, 1998). You’ll find more examples in the Learning Experiences module.
-- Encourage **microaffirmations**, which are statements that affirm a student’s capabilities (Estrada et al., 2019)
+- Encourage **microaffirmations**, which are actions that demonstrate care and can affirm a student's capabilitites (Estrada et al., 2019)
 - Leverage activities that **increase resilience** by reframing social adversity as common and transient [walton_brief_2011](@cite)
 - Incorporate interventions that make explicit the **utility value** of a course or its parts [harackiewicz_closing_2016, asher2023utility](@cite).
 - Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance [Steele2002-pt](@cite).
@@ -124,7 +126,7 @@ Instructors can also modify overall course structure or infuse practices into an
 
 Identity comprises the social, emotional, and professional attributes of an individual (Rus et al., 2013; Peterson et al., 1999). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate.
 
-**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group by society (Tajfel, 1981. p. 255). It can change over time and between contexts (Gee, 2000). Moreover, we are each of us complex persons with multiple social identities that intersect, add up, and produce unique experiences–both for ourselves and how we are viewed by others [crenshaw2013demarginalizing, gordon2008ghostly](@cite). Although social science research has historically highlighted discrimination against protected social groups, it is also important to recognize the full picture of what it means to "belong" in a group, such as its members' unique joys, values, experiences, and means for fighting back against their discrimination [tuck2009suspending](@cite). Otherwise, we risk portraying these groups only ever in terms of their "damage."
+**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group by society (Tajfel, 1981. p. 255). It can change over time and between contexts (Gee, 2000). Moreover, each of us holds multiple social identities that intersect to shape our unique experiences, both in how we see ourselves and how others see us [crenshaw2013demarginalizing, gordon2008ghostly](@cite). Although social science research has historically highlighted discrimination against protected social groups, it is also important to recognize the full picture of what it means to "belong" in a group, such as its members' unique joys, values, experiences, and means for fighting back against their discrimination [tuck2009suspending](@cite). Otherwise, we risk portraying these groups only ever in terms of their "damage."
 
 **Emotional identity** characterizes how a person responds to their own emotions and the emotions of others. It is informed by experiences, power dynamics, and agency.
 
@@ -134,7 +136,7 @@ Identity comprises the social, emotional, and professional attributes of an indi
 
     #### Identity Attributes
 
-    Which of the following are primarily a Social attribute of identity? Which are Emotional? Which are Professional?
+    Sort the following into social, emotional, and professional attributes of identity:
 
     - ability
     - age
