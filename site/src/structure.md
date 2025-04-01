@@ -164,7 +164,7 @@ Increasing a course's structure has many implications for student learning and t
 
 - Student failure rates were lower in a moderately structured course design and were dramatically lower in a highly structured course design [freeman_increased_2011](@cite)
 - A "moderate-structure" intervention increased course performance for all student populations, but worked disproportionately well for black students and first-generation students. Students also consistently reported completing the assigned readings more frequently, spending more time studying for class, and feeling an increased sense of community [eddy_getting_2014](@cite)
-- Implementing a hybrid course format (i.e., that combines virtual and in-person elements) with high structure improved exam performance for students from HECs (Gavassa et al., 2019)
+- Implementing a hybrid course format (i.e., that combines virtual and in-person elements) with high structure improved exam performance for students from HECs [gavassa2019closing](@cite)
 - A highly-structured course design improved the performance of all students in a college-level introductory biology class and reduced the achievement gap between students from HECs and historically included communities (HICs) [haak_increased_2011](@cite)
 
 ### Show Me the Data!
