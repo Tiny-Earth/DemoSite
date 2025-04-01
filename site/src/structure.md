@@ -86,7 +86,7 @@ As we structure our courses, it is also important to consider how we communicate
 
 ### High-structure Course Design
 
-The level of course structure lies on a continuum from low to high. High-structure courses embed multiple opportunities for engagement and frequent assessments, in contrast to low-structure courses that offer fewer [beck2020designing, freeman_increased_2011](@cite). Low-structure courses assume that students know how to effectively learn and practice with course materials on their own outside of class. However, many students have not developed effective study strategies or time management skills [hartwig2012study](@cite). High-structure courses scaffold student learning with increased engagement and practice. Therefore, they decode the learning process through clear and accessible learning goals and expectations which can be especially helpful for students from HECs [eddy_getting_2014, beck2020designing](@cite). Low structure only benefits students who know how to decode the system. High structure benefits all students [beck2020designing](@cite).
+The level of course structure lies on a continuum from low to high. High-structure courses embed multiple opportunities for engagement and frequent assessments, in contrast to low-structure courses that offer fewer [beck2020designing, freeman_increased_2011](@cite). Low-structure courses assume that students know how to effectively learn and practice with course materials on their own outside of class. However, many students have not developed effective study strategies or time management skills [hartwig2012study](@cite). High-structure courses scaffold student learning with increased engagement and practice both in and outside of class. Therefore, they decode the learning process through clear and accessible learning goals and expectations which can be especially helpful for students from HECs [eddy_getting_2014, beck2020designing](@cite). Low structure only benefits students who know how to decode the system. High structure benefits all students [beck2020designing](@cite).
 
 ```@raw html
 <figure>
@@ -150,7 +150,7 @@ The level of course structure lies on a continuum from low to high. High-structu
 
     Examine [these example course maps](assets/course-maps.html) that describe the structure of a week from two different courses, Course 1 and Course 2.
 
-    Which example course map resonates with your experiences as a student? Why?
+    Which example course map is most similar to your experiences as a student? Why?
 
     Which example course map looks more learner-centered (i.e., focused primarily on what students learn and do)? Why?
 
@@ -193,7 +193,7 @@ A learner-centered syllabus focuses on the learner and the learning by:
 - Establishing the responsibilities of the instructor(s) and students for achieving course goals.
 - Explaining how everyone will interact with each other and with the content.
 - Showing a clear schedule of all the course activities.
-- Conveying how learning will be assessed and when.
+- Conveying how and when learning will be assessed.
 - Offering information and tools to promote student learning and intellectual development.
 - Highlighting resources that support students and learning.
 - Signaling whether and how students have input regarding the course material, timing, assignments, etc.
@@ -210,11 +210,11 @@ There are also other course maps published by, for example:
 
 - [University of Wisconsin-Madison](https://idc.ls.wisc.edu/course-design-templates/)
 - [Virginia Tech](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/0f64ad16-ae86-46e7-acd0-b7a77864b093/content)
-- [UC Berkeley](https://dls.berkeley.edu/services/course-design-tools/digital-pedagogy-resources/use-course-map-design-your-course)
+- [UC Berkeley](https://docs.google.com/spreadsheets/d/1h01P3Xp0T-N_gtTqsbPgwXdt_swPX9cGeusOOnj7vBc/edit?gid=1465371374#gid=1465371374)
 
 Some general tips for working with a course map:
 
-- Start, as backward design suggests, by identifying what students will understand (learning objectives).
+- Start, as backward design suggests, by identifying learning objectives to specify what students will gain.
 - Be intentional about where you can incorporate active and inclusive learning practices.
 - Incorporate opportunities for students to practice skills and engage with content before being graded.
 - Iterate and adjust as you go along.
@@ -248,7 +248,7 @@ Some general tips for working with a course map:
 
     And in *Summative Assessment*, we asked you to broaden your understanding of the objective by imagining several ways students could demonstrate it.
 
-    With that in mind, consider the sequence of events around the activity you designed for that objective. What could you have students do before class that would prepare them for the activity and (optionally) provide you information before class so you could adjust the activity as needed? What could you have students do after class that would deepen your assessment of their success toward the objective, while also preparing them for what you imagine might come next in the course?
+    With that in mind, consider the sequence of events around the activity you designed for that objective. What could students do before class that would prepare them for the activity and  provide you information youneeded to adjust the activity? What could students do after class to deepen your assessment of their success toward the objective, while also preparing them for what might come next in the course?
 
     Try using [our course planning tool](https://docs.google.com/document/d/e/2PACX-1vSt1EQJQim8Mgf7HQrq0BLC4ZKDk3N0mFamRnMcb7a2I35Dv-mhceoVYh4ZALbV9wIMNY1KpiLhoLLj/pub) as a guide to building your own course map. 
 
@@ -278,11 +278,9 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
 
 A learner-centered syllabus presents the course structure and other aspects of course design to students in a way that is focused on their learning, sucess, and belonging. It also provides an opportunity to highlight the six facets of science at the start of the learning experience.
 
-Some course planning tools focus on designing a learner-centered syllabus for your courses. For example, [we have provided our own recommended learner-centered syllabus guide that aligns with this course's content](https://docs.google.com/document/d/e/2PACX-1vSSUHVaisNabRd5xHegugbp__iU9KHfBuYezJcb6td0ZOixXMSCtOMu4SNVCWxOeuyt2RKPD7KgdX-F/pub). This tool is structured as a questionnaire to help you start imagining and building out learner-centered syllabi.
+Some course planning tools focus on designing a learner-centered syllabus for your courses. For example, [we have provided our own recommended learner-centered syllabus guide that aligns with this course's content](https://docs.google.com/document/d/e/2PACX-1vSSUHVaisNabRd5xHegugbp__iU9KHfBuYezJcb6td0ZOixXMSCtOMu4SNVCWxOeuyt2RKPD7KgdX-F/pub). This tool is structured as a questionnaire to help you start imagining and building learner-centered syllabi.
 
-Keep in mind, not all teachers are able to modify the course syllabus, which may be standardized across a department, district, or so on. In any case, however, teachers *welcome* their students to their courses.
-
-So, in this course when we refer to a "syllabus," we equally mean *any* of the materials you provide students that introduce them to your course, such as:
+We encourage you to think about your course "syllabus" as a tool that is more broad than a single document. While the content of your formal syllabus may be dictated by your department or district, you can welcome your students to your course using a variety of materials that introduce them to you and your course, such as:
 
 - Syllabus addenda
 - Welcome videos
