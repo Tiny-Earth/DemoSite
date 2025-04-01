@@ -40,7 +40,7 @@ Effective science education is equitable science education: Scientific teaching 
 
 > __*Effective science education is equitable science education.*__
 
-Yet inequities plague higher education, quelling STEM workforce diversity. Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” (Bensimon, 2005, p. 99). The inequities in college science education continue to deny opportunities to historically excluded communities (HECs): groups and individuals who have traditionally been underrepresented and denied full rights, privileges, and participantion in STEM education. HECs include but are not limited to women, people of color, people with disabilities, caregivers, LGBTQIA+ students, first-generation students, and low-income students [Asai2020-bb](@cite).
+Yet inequities plague higher education, quelling STEM workforce diversity. Opportunity gaps between overrepresented and underrepresented students have been called “one of the most urgent and intractable problems in higher education” [bensimon2005closing](@cite). The inequities in college science education continue to deny opportunities to historically excluded communities (HECs): groups and individuals who have traditionally been underrepresented and denied full rights, privileges, and participantion in STEM education. HECs include but are not limited to women, people of color, people with disabilities, caregivers, LGBTQIA+ students, first-generation students, and low-income students [Asai2020-bb](@cite).
 
 To achieve an equitable STEM workforce, we must address the structural, individual, intentional, and unintentional biases that:
 - Discourage HEC students from pursuing STEM

@@ -51,7 +51,7 @@ Figure adapted from [bell2016design, marchesani1992dynamics](@cite).
 
 ### The Climate Dimension
 
-Course climate encompasses the intellectual, social, emotional, and physical environment in a class (Ambrose et al., 2010). It is shaped by a combination of instructor decisions,  student interactions, and broader influences. As instructors, we play a key role in shaping this climate by designing and sustaining learning experiences to be welcoming and inclusive (Dewsbury & Brame, 2019; Bell et al., 2016). An inclusive course climate ensures that all students, regardless of background or identity, feel valued and supposed in their learning (Brame, 2019). As instructors, our role is to examine how we set up and sustain an inclusive course climate (Dewsbury & Brame, 2019; Bell et al., 2016).  
+Course climate encompasses the intellectual, social, emotional, and physical environment in a class (Ambrose et al., 2010). It is shaped by a combination of instructor decisions,  student interactions, and broader influences. As instructors, we play a key role in shaping this climate by designing and sustaining learning experiences to be welcoming and inclusive [dewsbury2019inclusive, bell2016design](@cite). An inclusive course climate ensures that all students, regardless of background or identity, feel valued and supposed in their learning [brame2019science](@cite). As instructors, our role is to examine how we set up and sustain an inclusive course climate [dewsbury2019inclusive, bell2016design](@cite).  
 
 ### The Instructor Dimension
 
@@ -99,8 +99,8 @@ Interventions can be incorporated as individual or repeated activities, such as:
 
 - Increase **instructor presence and connection to students** by making eye contact, engaging in positive body movements such as nods and smiles, communicating goals, setting guidelines for student interactions, and encouraging student participation [shea2006study, baker2010impact, andersen1981three, arbaugh2006does](@cite).
 - Use **active learning experiences**, in which students actively engage with content and sometimes each other [freeman_active_2014](@cite). You’ll find more examples in the Learning Experiences module.
-- Do regular **formative assessments**, in which students have the opportunity to regularly practice and receive feedback (Black and Wiliam, 1998). You’ll find more examples in the Learning Experiences module.
-- Encourage **microaffirmations**, which are actions that demonstrate care and can affirm a student's capabilitites (Estrada et al., 2019)
+- Do regular **formative assessments**, in which students have the opportunity to regularly practice and receive feedback [black1998assessment](@cite). You’ll find more examples in the Learning Experiences module.
+- Encourage **microaffirmations**, which are actions that demonstrate care and can affirm a student's capabilitites [estrada2019influence](@cite)
 - Leverage activities that **increase resilience** by reframing social adversity as common and transient [walton_brief_2011](@cite)
 - Incorporate interventions that make explicit the **utility value** of a course or its parts [harackiewicz_closing_2016, asher2023utility](@cite).
 - Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance [Steele2002-pt](@cite).
@@ -126,11 +126,11 @@ Instructors can also modify overall course structure or infuse practices into an
 
 Identity comprises the social, emotional, and professional attributes of an individual (Rus et al., 2013; Peterson et al., 1999). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate.
 
-**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group by society (Tajfel, 1981. p. 255). It can change over time and between contexts (Gee, 2000). Moreover, each of us holds multiple social identities that intersect to shape our unique experiences, both in how we see ourselves and how others see us [crenshaw2013demarginalizing, gordon2008ghostly](@cite). Although social science research has historically highlighted discrimination against protected social groups, it is also important to recognize the full picture of what it means to "belong" in a group, such as its members' unique joys, values, experiences, and means for fighting back against their discrimination [tuck2009suspending](@cite). Otherwise, we risk portraying these groups only ever in terms of their "damage."
+**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group by society (Tajfel, 1981. p. 255). It can change over time and between contexts [gee2000identity](@cite). Moreover, each of us holds multiple social identities that intersect to shape our unique experiences, both in how we see ourselves and how others see us [crenshaw2013demarginalizing, gordon2008ghostly](@cite). Although social science research has historically highlighted discrimination against protected social groups, it is also important to recognize the full picture of what it means to "belong" in a group, such as its members' unique joys, values, experiences, and means for fighting back against their discrimination [tuck2009suspending](@cite). Otherwise, we risk portraying these groups only ever in terms of their "damage."
 
 **Emotional identity** characterizes how a person responds to their own emotions and the emotions of others. It is informed by experiences, power dynamics, and agency.
 
-**Professional identity** (in our case, teacher identity or STEM instructor identity) encompasses how individuals perceive themselves and construct their professional identities as teachers within educational settings (Yuan & Liu, 2021, p. 2). An instructor’s professional identity is dynamic and influenced by experience and positionality (Sachs, 2005, p.15).
+**Professional identity** (in our case, teacher identity or STEM instructor identity) encompasses how individuals perceive themselves and construct their professional identities as teachers within educational settings (Yuan & Liu, 2021, p. 2). An instructor’s professional identity is dynamic and influenced by experience and positionality [sachs2005teacher](@cite).
 
 !!! note ""
 
