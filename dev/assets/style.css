@@ -30,6 +30,7 @@
 
 .citation :target, .lexicon :target, .lexicon :target + dd {
   text-decoration: underline gold 6px;
+  text-decoration-skip-ink: none;
 }
 
 /* Hide default features */
