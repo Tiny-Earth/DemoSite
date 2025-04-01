@@ -189,7 +189,7 @@ Identity comprises the social, emotional, and professional attributes of an indi
     - Hobbies or interests
     - Financial situation
 
-Do you tell your students these attributes? Why or why not?
+    Do you tell your students these attributes? Why or why not?
 
     What is one way that those attributes could affect your teaching or your interactions with students?
 

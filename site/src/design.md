@@ -429,7 +429,9 @@ Students with disabilities face many challenges when seeking accommodations in h
 
     Future modules will provide several actionable examples to leverage UDL through engagement and expression.  
 
- #### Reflection: Universal Design for Learning
+!!! tip ""
+
+    #### Reflection: Universal Design for Learning
 
     Reflect on what in your course might pose a barrier for students with respect to UDL. What could you do to flatten that barrier?
     
