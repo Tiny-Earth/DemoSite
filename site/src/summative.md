@@ -41,11 +41,11 @@ Like a scientist uses data to evaluate their hypotheses, a scientific instructor
 
 You already have the framework! Recall that when we leverage backward design, we:
 
-- Identify desired results about enduring understanding (learning objectives).
-- Articulate what evidence would indicate progress toward and achievement of understanding.
-- Plan learning experiences to guide students toward understanding.
+- Identify desired results about what students should know, understand, and be able to do (learning objectives).
+- Articulate what evidence would indicate progress toward and achievement of those results.
+- Plan learning experiences to guide and scaffold students toward that progress and achievement.
 
-These pieces of evidence guide the creation of summative assessments, which will both reinforce key concepts and serve as checkpoints throughout the learning process in your STEM course.
+These elements of backward design help guide your creation of summative assessments, which will reinforce key course concepts and serve as checkpoints throughout your students' learning process.
 
 ## Summative Assessment in Practice
 
