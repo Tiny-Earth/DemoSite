@@ -15,7 +15,9 @@
 
 ## Course Structure Defined
 
-Course structure refers to the organizational system of a course, including how course content, learning experiences, and assessments are integrated and sequenced in the overall course schedule. How a course is structured can contribute to making the course inclusive for diverse students.  
+Course structure refers to the organizational system of a course, including how course content, learning experiences, and assessments are integrated and sequenced in the overall course schedule. 
+
+So far we have considered backward design as a way to intentionally include assessments and active learning experiences that align with our objectives. Now we are going to consider how all this fits together within your overall course structure. How a course is structured can contribute to making the course inclusive for all students.
 
 As we structure our courses, it is also important to consider how we communicate this course design and other important elements about our course with students through the syllabus and welcome materials. This ensures our course design is transparent and that all students have access to each component.
 
