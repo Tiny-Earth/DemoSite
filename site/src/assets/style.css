@@ -35,7 +35,7 @@
 
 /* Hide default features */
 #documenter-article-toggle-button, .breadcrumb ul, a[title^="View"], a[title^="Edit source"]{
-  display: none;
+  display: none !important;
 }
 
 .docs-right {
