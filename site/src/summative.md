@@ -8,9 +8,10 @@
 
     By the end of this module, you will be able to…
 
-    - Describe how summative assessments can support positive learning experiences and inform teaching practices.
-    - Explain how rubrics support and evaluate student learning.
-    - Select summative assessments to integrate into your course design.
+    - Define Summative Assessments.
+    - Argue for summative assessments as a strategy to support positive learning experiences and inform teaching practices.
+    - Argue for rubrics as a mechanism to support and evaluate student learning.
+    - Integrate summative assessments into your course design.
     - Align summative assessments with learning objectives and learning experiences.
 
 ## Summative Assessment Defined

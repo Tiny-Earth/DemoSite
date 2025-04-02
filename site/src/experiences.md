@@ -6,10 +6,10 @@
 
     By the end of this module, you will be able to...
 
-    - Explain how active learning experiences can support students in learning the six facets of science.
-    - Explain how active learning experiences can create an inclusive learning environment.
-    - Select several learning experiences to engage students in some or all of the six facets of science in your course.
-    - Practice integrating the learning experiences into your course design by aligning them with the learning objectives and adjusting as needed.
+    - Define Active Learning Experiences.
+    - Argue for the use of active learning experiences to support students in learning the six facets of science and to create an inclusive learning environment.
+    - Engage students in some or all of the six facets of science in your course using a variety of active learning experiences.
+    - Integrate active learning experiences into your course design by aligning them with the learning objectives.
 
 ## Active Learning Experiences Defined
 

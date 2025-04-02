@@ -8,10 +8,9 @@
 
     By the end of this module, you will be able to...
 
-    - Describe the idea of backward design and consider how to apply it to your own course.
-    - Explain how backward design can support an inclusive learning experience.
-    - Practice applying backward design to your course by drafting a course map.
-    - Practice writing learning goals and objectives for your course that incorporate the six facets of science and inclusive learning.
+    - Define Course Design.
+    - Argue for backward design as an approach to support an inclusive learning experience.
+    - Apply backward design to your own course by: a) drafting a course map, and b) writing learning goals and objectives for your course that incorporate the six facets of science and inclusive learning.
     - Evaluate the level of engagement (Bloom’s level) for learning objectives.
     - Evaluate the extent to which learning goals and objectives support inclusive learning.
 

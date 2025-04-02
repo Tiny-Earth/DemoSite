@@ -8,8 +8,10 @@
 
     By the end of this module, you will be able to…
 
+    - Define institutional transformation.
+    - Argue for an institutional rather than individual approach as necessary for meaningful change in science education.
     - Identify whom to enlist in supporting your ongoing growth as a scientific teacher.
-    - Consider how to engage your colleagues, institution, and/or professional community in scientific teaching.
+    - Consult a change theory to guide your efforts to engage your colleagues, institution, and/or professional community in scientific teaching.
 
 ## Institutional Transformation Defined
 

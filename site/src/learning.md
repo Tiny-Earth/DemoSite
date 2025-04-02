@@ -7,10 +7,10 @@
 !!! compat "" 
     By the end of this module, you will be able to...
 
-    - Explain some of the many factors that influence learning.
-    - Adopt learning activities that help students use prior knowledge to build new conceptual frameworks
-        - Use a learning environment-deficit rather than student-deficit lens to build better learning opportunities 
-    - Set an intention to use the seven principles of learning in designing and delivering course materials.
+    - Define learning.
+    - Use the factors that influence learning (the learner, the objectives and the learning environment) to argue against a student deficit model of underperformance.
+    - Explain the roles of prior knowledge and conceptual frameworks in constructing new knowledge.
+    - Apply understanding of how learning works to curricular development or revision.
 
 ## Learning Defined
 

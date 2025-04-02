@@ -8,10 +8,10 @@
 
     By the end of this module, you will be able to…
 
-    - Describe the idea of course structure and consider how to apply it to your own course.
-    - Explain how high-structure course design can support an inclusive learning environment.
-    - Practice creating a course map.
-    - Create welcome materials for course using a learner-centered syllabus.
+    - Define course structure.
+    - Argue for high-structure course design as an approach to support an inclusive learning environment.
+    - Apply structure to your own course using a course map.
+    - Create welcome materials for your course using a learner-centered syllabus.
 
 ## Course Structure Defined
 

@@ -6,10 +6,11 @@
 
 !!! compat ""
     By the end of this module, you will be able to...
-    - Describe the idea of scientific teaching and consider how to apply it to your own teaching.
-    - Explain how scientific teaching approaches can support student learning, lead to increased diversity in STEM, and bring joy to teaching.
-    - Explain how effective science education, science, and teaching are connected.
-    - Explain how scientific teaching can manifest the six facets of science for students and instructors.
+
+    - Define scientific teaching.
+    - Advocate for how scientific teaching approaches can support student learning, lead to increased diversity in STEM, and bring joy to teaching.
+    - Make an argument for the connection between effective science education, science, and teaching.
+    - Use the six facets of science to demonstrate how scientific teaching manifests the scientific process for students and instructors.
     - Evaluate your current course (or a course you took) and propose where to increase the six facets of science.
 
 ## Scientific Teaching Defined
