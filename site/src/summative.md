@@ -239,7 +239,7 @@ As we saw in the Course Design module, incorporating Universal Design for Learni
 - Speaking: oral presentations, debates, and discussions
 - Creating: multimedia projects
 
-**Provide multiple means of engagement** by incorporating features that motivate and engage students:
+**Provide multiple means of engagement** by designing assessments to include features that motivate and engage students:
 
 - Authentic tasks: use real-world problems that reflect students’ interests and experiences
 - Cultural relevance: incorporate diverse perspectives, cultures, examples, and scenarios
