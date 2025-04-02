@@ -365,8 +365,8 @@ To encourage students to think and act like scientists, active learning experien
                     <li>In each of the following ideal gas law equations, solve for the unknown.</li>
                 </ol></td>
                 <td><ol>
-                    <li>Were the differences in your treatments statistically significant? Were the differences due to lack of iteration or no difference between samples?</li>
-                    <li>What would it take to check if the results are real or due to experimental error?</li>
+                    <li>Calculate statistical significance of the results. Are they statistically significant? Were the differences due to lack of iteration or no difference between samples?</li>
+                    <li>Evaluate if the results are real or due to experimental error.</li>
                     <li>What factors might have contributed to the false positive band from this PCR and gel electrophoresis?</li>
                     <li>Here are experimental data about how pressure changes with respect to volume as water heats up. How can you use the standard error to evaluate the precision of the experiments?</li>
                 </ol></td>
