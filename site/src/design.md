@@ -309,7 +309,9 @@ In designing learning objectives, select action verbs that communicate the desir
 
 ### Bloom's Taxonomy (Affective Domain)
 
-    Bloom's Taxonomy also includes an affective domain, which encompasses how we process things emotionally when learning. The domain includes outcomes related to beliefs, attitudes, motivations, feelings, and behaviors.
+Bloom's Taxonomy also includes an affective domain, which encompasses how we process things emotionally when learning. The domain includes outcomes related to beliefs, attitudes, motivations, feelings, and behaviors.
+
+!!! tip ""
 
     #### Affective Domain: Now You Try!
 
