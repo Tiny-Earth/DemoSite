@@ -49,7 +49,7 @@ It is important to remember that everyone, even the most experienced scientist, 
     </figcaption>
     <table aria-labelledby="table1-label" aria-describedby="table1-summary">
         <colgroup>
-            <col span="1" style="width:10%" />
+            <col span="1" style="width:.1%" />
             <col span="1" />
             <col span="1" />
         </colgroup>

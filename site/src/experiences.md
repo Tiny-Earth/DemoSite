@@ -60,7 +60,7 @@ The ICAP model provides categories to understand active learning better. It clas
     </figcaption>
     <table aria-labelledby="table1-label">
         <colgroup>
-            <col span="1" style="width:10%" />
+            <col span="1" style="width:.1%" />
             <col span="1" />
         </colgroup>
         <tbody>
@@ -200,7 +200,7 @@ A think-pair-share engages students in a cognitive task that requires them to ca
     </figcaption>
     <table aria-labelledby="table2-label">
         <colgroup>
-            <col span="1" style="width:10%" />
+            <col span="1" style="width:.1%" />
             <col span="1" />
             <col span="1" />
             <col span="1" />
@@ -329,7 +329,7 @@ To encourage students to think and act like scientists, active learning experien
     </figcaption>
     <table aria-labelledby="table3-label">
         <colgroup>
-            <col span="1" style="width:10%" />
+            <col span="1" style="width:.1%" />
             <col span="1" />
             <col span="1" />
         </colgroup>

@@ -110,7 +110,7 @@ Learning goals and objectives are two key components of instructional design tha
     </figcaption>
     <table aria-labelledby="table1-label">
         <colgroup>
-            <col span="1" style="width:10%" />
+            <col span="1" style="width:.1%" />
             <col span="1" />
             <col span="1" />
         </colgroup>
