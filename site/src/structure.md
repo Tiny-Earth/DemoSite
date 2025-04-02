@@ -93,7 +93,7 @@ The level of course structure lies on a continuum from low to high. High-structu
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table1-label">Table 1. Factors involved in moving from low- to high-structure course design.</strong><br><span id="table1-summary"><!-- TODO: Description here. --></span></p>
+        <p><strong id="table1-label">Table 1. Factors involved in moving from low- to high-structure course design.</strong></p>
     </figcaption>
     <table aria-labelledby="table1-label" aria-describedby="table1-summary">
         <tr>
