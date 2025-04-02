@@ -151,12 +151,12 @@ The six facets of science expand on the scientific method to include other hallm
 
 The six facets of science include:
 
-1. Science practices: Ask questions, generate hypotheses, carry out investigations, analyze and communicate data
-2. Iteration: Identify and resolve problems in multiple cycles; replicate experiments
-3. Discovery: Engage in research tasks that have unknown outcomes
-4. Authenticity: Engage in innovation and collaboration to address original research questions, and do authentic scientific tasks
-5. Ownership: Develop a sense of responsibility for and personal connection to the research
-6. Relevance: Apply the outcomes and applications of scientific discoveries to real world-contexts, or ask questions with scientific relevance.
+1. **Science practices:** Ask questions, generate hypotheses, carry out investigations, analyze and communicate data
+2. **Iteration:** Identify and resolve problems in multiple cycles; replicate experiments
+3. **Discovery:** Engage in research tasks that have unknown outcomes
+4. **Authenticity:** Engage in innovation and collaboration to address original research questions, and do authentic scientific tasks
+5. **Ownership:** Develop a sense of responsibility for and personal connection to the research
+6. **Relevance:** Apply the outcomes and applications of scientific discoveries to real world-contexts, or ask questions with scientific relevance.
 
 !!! tip ""
 
