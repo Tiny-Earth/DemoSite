@@ -280,7 +280,7 @@ How you make these design decisions will depend on your own design context and c
 
 ### Beyond Think-Pair-Share
 
-Review the following list of active learning strategies, which has been compiled from multiple sources [tanner2013structure](@cite), [TODO other refs]. Consider how each technique actively engages students, provides feedback to themselves and others, and could be used in your classroom.
+Review the following list of active learning strategies, which has been compiled from multiple sources [tanner2013structure](@cite), [TODO other refs, https://crlt.umich.edu/active_learning_implementing, https://www.cmu.edu/teaching/designteach/design/instructionalstrategies/index.html, https://kb.wisc.edu/remote-instruction/104664]. Consider how each technique actively engages students, provides feedback to themselves and others, and could be used in your classroom.
 
 - **Case-based learning:** Students solve an open-ended, real-world situation that requires critical thinking and problem-solving. They make decisions based on the case description and their prior knowledge, thinking beyond the context of the case and consider the broader impacts of their decisions.
 - **Concept mapping:** Starting with a central idea or concept, students generate related ideas, words, and phrases. They use arrows with short descriptions to connect concepts and create a visual web of relationships, then explain it to each other or the instructor.
