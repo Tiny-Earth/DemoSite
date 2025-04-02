@@ -160,3 +160,10 @@ blockquote strong em, blockquote em strong {
   font-weight: normal;
   border-bottom: .3rem solid gold;
 }
+
+/* Logo adjustments */
+img[alt^="Scientific Teaching Course"]{
+  border-radius: 1000%;
+  padding: .1rem;
+  background: white;
+}
