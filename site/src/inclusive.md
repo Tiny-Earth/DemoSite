@@ -56,7 +56,7 @@ Course climate encompasses the intellectual, social, emotional, and physical env
 
 ### The Instructor Dimension
 
-Even though we are scientists, we are human and therefore not objective. As instructors, our identities are influenced by our values, principles, families, scientific disciplines, privileges, struggles, and all the factors that we experience during our lives (Rus et al., 2013; Peterson et al., 1999). Those influences also give us biases that lead to assumptions. 
+Even though we are scientists, we are human and therefore not objective. As instructors, our identities are influenced by our values, principles, families, scientific disciplines, privileges, struggles, and all the factors that we experience during our lives [rus2013teachers, peterson1999institutional](@cite). Those influences also give us biases that lead to assumptions. 
 
 In aggregate, our identities, biases, and assumptions affect the pedagogical choices we make regarding the content and examples we highlight, as well as the values and skills we expect our students to learn. As a result, the instructor shapes the course climate and therefore each student's learning experience. 
 
@@ -125,13 +125,13 @@ Instructors can also modify overall course structure or infuse practices into an
 
 ![Illustration of the five dimensions of inclusive teaching, with a focus on dimensions dealing with identities: instructors, climate, and students.](assets/five-dimensions-of-inclusive-teaching-vert.svg)
 
-Identity comprises the social, emotional, and professional attributes of an individual (Rus et al., 2013; Peterson et al., 1999). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate.
+Identity comprises the social, emotional, and professional attributes of an individual [rus2013teachers, peterson1999institutional](@cite). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate.
 
-**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group by society (Tajfel, 1981. p. 255). It can change over time and between contexts [gee2000identity](@cite). Moreover, each of us holds multiple social identities that intersect to shape our unique experiences, both in how we see ourselves and how others see us [crenshaw2013demarginalizing, gordon2008ghostly](@cite). Although social science research has historically highlighted discrimination against protected social groups, it is also important to recognize the full picture of what it means to "belong" in a group, such as its members' unique joys, values, experiences, and means for fighting back against their discrimination [tuck2009suspending](@cite). Otherwise, we risk portraying these groups only ever in terms of their "damage."
+**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group by society [tajfel1979individuals](@cite). It can change over time and between contexts [gee2000identity](@cite). Moreover, each of us holds multiple social identities that intersect to shape our unique experiences, both in how we see ourselves and how others see us [crenshaw2013demarginalizing, gordon2008ghostly](@cite). Although social science research has historically highlighted discrimination against protected social groups, it is also important to recognize the full picture of what it means to "belong" in a group, such as its members' unique joys, values, experiences, and means for fighting back against their discrimination [tuck2009suspending](@cite). Otherwise, we risk portraying these groups only ever in terms of their "damage."
 
 **Emotional identity** characterizes how a person responds to their own emotions and the emotions of others. It is informed by experiences, power dynamics, and agency.
 
-**Professional identity** (in our case, teacher identity or STEM instructor identity) encompasses how individuals perceive themselves and construct their professional identities as teachers within educational settings (Yuan & Liu, 2021, p. 2). An instructor’s professional identity is dynamic and influenced by experience and positionality [sachs2005teacher](@cite).
+**Professional identity** (in our case, teacher identity or STEM instructor identity) encompasses how individuals perceive themselves and construct their professional identities as teachers within educational settings [yuan2019confrontation](@cite). An instructor’s professional identity is dynamic and influenced by experience and positionality [sachs2005teacher](@cite).
 
 !!! note ""
 
