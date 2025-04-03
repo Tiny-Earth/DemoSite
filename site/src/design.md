@@ -22,9 +22,10 @@ Course design is an intentional, reflective process of developing effective lear
 
 The aim of course design is to create directed, scaffolded learning experiences in which students engage repeatedly with the course material, each other, and the instructional team [fink2006creating, freeman_increased_2011, wiggins2005understanding, wiggins2011understanding](@cite). 
 
-Scientific teachers are designers: You select scientific content with purpose, organize it in a way that scaffolds learning, and evaluate how well it worked. You make decisions - before, during, and after the term - that help you achieve your aims and support student learning. As a teacher, scientist, and designer, you hold a number of commitments that inspire and inform how you carry out your course [flanagan2005values, flanagan2014values, belman2009instructional](@cite). 
+Scientific teachers are "designers:" You select scientific content with purpose, organize it in a way that scaffolds learning, and evaluate how well it worked. You make decisions - before, during, and after the term - that help you achieve your aims and support student learning. As a teacher, scientist, and designer, you hold a number of commitments that inspire and inform how you carry out your course [flanagan2005values, flanagan2014values, belman2009instructional](@cite). 
 
-As scientific teachers, you:
+These commitments:
+
 - Shape what you aspire to achieve in your work as a scientific teacher
 - Motivate you to pursue your own degree of quality
 - Guide you to explore and weigh between design alternatives
