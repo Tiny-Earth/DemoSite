@@ -57,7 +57,7 @@ Course climate encompasses the intellectual, social, emotional, and physical env
 
 ### The Instructor Dimension
 
-Even though we are scientists, we are human and therefore not objective. As instructors, our identities are influenced by our values, principles, families, scientific disciplines, privileges, struggles, and all the factors that we experience during our lives [rus2013teachers, peterson1999institutional](@cite). Those influences also give us biases that lead to assumptions. 
+Even though we are scientists, we are human and therefore not objective. As instructors, our identities are influenced by our values, principles, families, scientific disciplines, privileges, struggles, and all the factors that we experience during our lives (Rus et al., 2013; Peterson et al., 1999). Those influences also give us biases that lead to assumptions. 
 
 In aggregate, our identities, biases, and assumptions affect the pedagogical choices we make regarding the content and examples we highlight, as well as the values and skills we expect our students to learn. As a result, the instructor shapes the course climate and therefore each student's learning experience. 
 
@@ -68,14 +68,6 @@ Like instructors, students come to our courses with a composite of identities, b
 ### The Curriculum Dimension
 
 Curriculum is arguably the most visible component of a course and has an important influence on the course climate. It encompasses what we teach, including the learning objectives we set, the content we prioritize, how we demonstrate relevance, and the examples we choose to include. In STEM, this includes establishing which facets of science (described in the previous module) are most relevant for a specific course and working to bring them to life. Creating an inclusive course curriculum also involves considering whose interests and voices are represented.  
-
-#### Science Content
-
-Many studies demonstrate that active participation in science leads to an improved sense of belonging and retention in STEM [estrada2011toward, evans_functional_2021, hanauer_inclusive_2017, jordan_broadly_2014, lopatto_genomics_2008, olson_expression-based_2019, shaffer_course-based_2014, waddell_flying_2021](@cite). This active participation requires that students engage with the six facets of science (described in the previous module). Our role as instructors is to establish which facets are most relevant for a specific course and work to bring them to life. The Scientific Teaching Course provides tools for this purpose in the following modules about course design and learning experiences.
-
-#### Diverse Perspectives and Representations
-
-Part of scientific identity includes seeing one’s self and perspectives represented positively through the research questions asked, the outcomes discovered, and the individuals represented as scientists. Instructors decide whose voices are represented—which are all powerful ways to influence belonging in STEM. Strategies can be relatively simple, such as recognizing scientists from a variety of identities and backgrounds [schinske2014teaching](@cite), or complex, such as decolonizing the curriculum, which involves reimagining content and approaches that have historically prioritized Western, white, male-centric knowledge [gichuru2024enhancing](@cite). 
 
 ### The Pedagogy Dimension
 
@@ -96,13 +88,10 @@ Interventions can be incorporated as individual or repeated activities, such as:
 - Do regular **formative assessments**, in which students have the opportunity to regularly practice and receive feedback [black1998assessment](@cite). You’ll find more examples in the Learning Experiences module.
 - Encourage **microaffirmations**, which are actions that demonstrate care and can affirm a student's capabilities [estrada2019influence](@cite)
 - Leverage activities that **increase resilience** by reframing social adversity as common and transient [walton_brief_2011](@cite)
-- Incorporate interventions that make explicit the **utility value** of a course or its parts [harackiewicz_closing_2016, asher2023utility](@cite).
-- Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance [Steele2002-pt](@cite).
 - Highlight **scientists from a variety of identities** and backgrounds (Schinske and Tanner, 2014), and present a range of research questions and discoveries so students can see themselves and things they care about reflected in the course. 
 
 Instructors can also modify overall course structure or infuse practices into an entire course to accomplish an inclusive learning environment. Some examples:
 
-- Create a culture where **failure is a productive and normal part of science**, rather than a judgement on students' identity [petroski2013success, simpson_failure_2017, lopatto2020facilitating, gin2018students, good2012women, koch2008women, cacciotti2015fear](@cite).
 - Use **high-structure course design** to elucidate what is expected of students and create predictable patterns [freeman_increased_2011, theobald_active_2020](@cite). You’ll find more on this in the Course Structure module.
 - Engage students in the **six facets of science** (described in the previous module). Many studies demonstrate that active participation in science leads to an improved sense of belonging and retention in STEM (Estrada et al., 2011; Evans et al., 2021; Hanauer et al., 2017; Jordan et al., 2014; Lopatto et al., 2008; Olson et al., 2019; Shaffer et al., 2014; Waddell et al., 2021). 
 - Teach a **course-based undergraduate research experience (CURE)**, in which students engage in research while enrolled in a course [aikens_race_2017, dolan_guide_2021, hurtado_diversifying_2009](@cite). 
@@ -122,13 +111,13 @@ Instructors can also modify overall course structure or infuse practices into an
 
 ![Illustration of the five dimensions of inclusive teaching, with a focus on dimensions dealing with identities: instructors, climate, and students.](assets/five-dimensions-of-inclusive-teaching-vert.svg)
 
-Identity comprises the social, emotional, and professional attributes of an individual [rus2013teachers, peterson1999institutional](@cite). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate.
+Identity comprises the social, emotional, and professional attributes of an individual (Rus et al., 2013; Peterson et al., 1999). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate.
 
-**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group by society [tajfel1979individuals](@cite). It can change over time and between contexts [gee2000identity](@cite). Moreover, each of us holds multiple social identities that intersect to shape our unique experiences, both in how we see ourselves and how others see us [crenshaw2013demarginalizing, gordon2008ghostly](@cite). Although social science research has historically highlighted discrimination against protected social groups, it is also important to recognize the full picture of what it means to "belong" in a group, such as its members' unique joys, values, experiences, and means for fighting back against their discrimination [tuck2009suspending](@cite). Otherwise, we risk portraying these groups only ever in terms of their "damage."
+**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group by society (Tajfel, 1981. p. 255). It can change over time and between contexts [gee2000identity](@cite). Moreover, each of us holds multiple social identities that intersect to shape our unique experiences, both in how we see ourselves and how others see us [crenshaw2013demarginalizing, gordon2008ghostly](@cite). Although social science research has historically highlighted discrimination against protected social groups, it is also important to recognize the full picture of what it means to "belong" in a group, such as its members' unique joys, values, experiences, and means for fighting back against their discrimination [tuck2009suspending](@cite). Otherwise, we risk portraying these groups only ever in terms of their "damage."
 
 **Emotional identity** characterizes how a person responds to their own emotions and the emotions of others. It is informed by experiences, power dynamics, and agency.
 
-**Professional identity** (in our case, teacher identity or STEM instructor identity) encompasses how individuals perceive themselves and construct their professional identities as teachers within educational settings [yuan2019confrontation](@cite). An instructor’s professional identity is dynamic and influenced by experience and positionality [sachs2005teacher](@cite).
+**Professional identity** (in our case, teacher identity or STEM instructor identity) encompasses how individuals perceive themselves and construct their professional identities as teachers within educational settings (Yuan & Liu, 2021, p. 2). An instructor’s professional identity is dynamic and influenced by experience and positionality [sachs2005teacher](@cite).
 
 #### The Connection between Identity and Belonging
 
