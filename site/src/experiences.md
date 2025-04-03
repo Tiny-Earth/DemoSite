@@ -23,7 +23,7 @@ Active learning experiences manifest curricular intentions while bringing the fa
 
 Active learning experiences include any in-class interactions (such as questions, groupwork, quizzes, exams, experiments for field work) and out-of-class assignments (such as pre-class readings or post-class homework).
 
-Active learning experiences leverage what we know about how learning works to appropriately scaffold learning. We use the term “active learning experiences” to convey an emphasis on the student and the active engagement required for learning, rather than the more instructor-centered alternative, which focuses on covering the content. A learner- and learning-centered mindset also considers how inclusive an experience is. In the next section, we will explore what we mean by active learning in our active learning experiences. 
+Active learning experiences leverage what we know about how learning works to appropriately scaffold learning. In this course, we use the term 'learning experiences' to emphasize the student’s active engagement in the learning process, rather than an instructor-centered approach focused solely on content delivery. A learner- and learning-centered mindset also considers how inclusive an experience is. In the next section, we will explore what we mean by active learning in our active learning experiences. 
 
 ### Active Learning
 
@@ -47,11 +47,11 @@ Surprisingly, given its long history, there is not a consistent definition of ac
 
     Rethink your working definition of active learning to include any new insights or nuances that you have gained.
 
-While active learning is a broad concept that encompasses a variety of techniques, a common feature of any definition is that students are cognitively engaged in something. The key is to actively involve students in the learning process so they can construct their own knowledge.
+While active learning is a broad concept that encompasses a variety of techniques, the common feature of any definition is that students are cognitively engaged.
 
 ### Multiple Ways to Be Active: The ICAP Model
 
-The ICAP model provides categories to understand active learning better. It classifies student engagement into four modes: **interactive, constructive, active, and passive** [chi2014icap](@cite):
+The ICAP model provides categories to better understand active learning. It classifies student engagement into four modes: **interactive, constructive, active, and passive** [chi2014icap](@cite):
 
 ```@raw html
 <figure>
@@ -85,9 +85,9 @@ The ICAP model provides categories to understand active learning better. It clas
 </figure>
 ```
 
-Each of the four modes is defined by the level of cognitive demand and type of learning activity. Additionally, the ICAP framework suggests that higher levels of engagement (constructive and interactive) lead to better learning outcomes than lower levels (passive and active) because they involve more complex cognitive processing.
+Each mode is defined by the level of cognitive demand and type of learning activity. Additionally, the ICAP framework suggests that higher levels of engagement (constructive and interactive) lead to better learning outcomes than lower levels (passive and active) because they involve more complex cognitive processing.
 
-In scientific teaching, we use the term **“active learning experiences”** as an umbrella term that encompasses active, interactive, and constructive modes of engagement, in contrasts to passive modes of engagement.
+In scientific teaching, we use **active learning experiences** to encompasses active, interactive, and constructive modes of engagement, in contrast to passive engagement.
 
 !!! note ""
 
@@ -152,7 +152,7 @@ For example, when asked to interpret a graph as part of a learning activity, stu
 
 **Active learning experiences lead to better learning outcomes.** Two decades of studies have shown that active-learning environments lead to better outcomes for STEM students, with additional positive benefits for students from historically excluded communities (HEC). For example, a meta-analysis of 200 published papers comparing student outcomes in matched courses found that students in active courses consistently performed half a standard deviation higher than those in passive classes [freeman_active_2014](@cite). Likewise, a survey of nearly 1,000 students who experienced active learning more often reported higher learning gains and improvements in collaborative skills. (Reeves et al., 2024). Another study found that polling questions that challenged students to think critically and solve problems collaboratively led to improved learning gains—and more questions correlated with higher gains [smith2009peer, smith2011combining](@cite).
 
-Failure rates also illuminate a stark contrast between courses taught with an active vs. traditional  (passive) approach. Students in active STEM courses can see a 10% lower failure rate than those in passive courses [freeman_active_2014](@cite).
+Failure rates also illuminate a stark contrast between courses taught with an active vs. traditional (passive) approach. Students in active STEM courses can see a 10% lower failure rate than those in passive courses [freeman_active_2014](@cite).
 
 **Active learning is an equitable practice.** The positive benefits of active learning disproportionately affect STEM students from historically excluded groups, closing the gap between majority and minority students. A meta-analysis of 41 published papers showed that active courses led to a 33% reduction in exam score gaps between majority and minority students, and a 45% reduction in the gap for failure rates [theobald_active_2020](@cite).
 
@@ -286,7 +286,7 @@ Review the following list of active learning strategies, which has been compiled
 - **Concept mapping:** Starting with a central idea or concept, students generate related ideas, words, and phrases. They use arrows with short descriptions to connect concepts and create a visual web of relationships, then explain it to each other or the instructor.
 - **Decision making:** Students take on the role as policy-makers and are presented with a scenario or problem. They must gather information, think critically about their options, and develop a creative solution.
 - **Discussion forums:** Students participate in an online discussion forum/board on their learning management platform. Students take turns posing questions and responding to posts.
-- **Electronic audience response systems:** Students respond to questions or polls using a “clicker” or their personal devices. Results are displayed in real-time, which allows students to see their peers’ answers, discuss, or reflect.
+- **Polling:** Students respond to questions or polls using a “clicker” or their personal devices. Results are displayed in real-time, which allows students to see their peers’ answers, discuss, or reflect.
 - **Exit tickets:** Students submit something before leaving class, such as work from an in-class activity like drawings, concept maps, or written responses from a think-pair-share.
 - **Group problem solving:** In pairs or small groups, students solve a problem or scenario. Each group then shares their findings with the class.
 - **Jigsaw:** Each group of students works on a particular topic (a “puzzle piece”) that is different from all the other groups. Each group member becomes an “expert” on their topic. Students are then re-distributed into new groups in which each expert shares their knowledge with other group members, completing a “jigsaw puzzle.”
@@ -294,7 +294,7 @@ Review the following list of active learning strategies, which has been compiled
 - **One-minute writes:** With one minute to respond, students reflect, think critically, or brainstorm in response to a question or prompt. These can be collected as “exit tickets.”
 - **Problem-based learning:** Students address a complex and real-life question that has a specific goal. They work in teams to assess the problem, research more information, and devise a solution.
 - **Quizzes:** Students complete short, frequent assessments that can gauge prior knowledge, preparedness for class, or understanding of the week’s lessons.
-- **Random call:** Students are randomly selected to participate in activities, answer questions, or share their thoughts. This can be done in various ways: create a roster that lists students’ names in a random order, pick names from a bucket, distribute tokens such as playing cards and randomly draw cards. Note: Pairing this with a think-pair-share can make this activity more equitable and just.
+- **Equitable call:** Students are randomly selected to participate in activities, answer questions, or share their thoughts. This can be done in various ways: create a roster that lists students’ names in a random order, pick names from a bucket, distribute tokens such as playing cards and randomly draw cards. Note: Pairing this with a think-pair-share can make this activity more equitable and just.
 - **Self-reflection/journaling:** Students keep a journal of their learning to reflect on their progress, noting what they’ve understood and what they need to improve.
 - **Strip sequence:** Students receive the steps (written, pictorially, or both) to a process on strips of paper that are jumbled. Then have students put the strips in chronological order.
 
