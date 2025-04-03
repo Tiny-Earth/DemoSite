@@ -352,9 +352,9 @@ In both cases, the students’ study strategies are misaligned with the objectiv
 
 ### Step 3. Plan learning experiences and instruction.
 
-Now that learning goals, learning objectives, and assessments have been addressed, it's time to design the activities that will bring the facets of science to life. We will explore developing activities in more detail in the *Learning Experiences* module. For now, we'll highlight a few key ideas.
+Now that learning goals, learning objectives, and assessments have been addressed, it's time to design the activities that will bring the facets of science to life. We will introduce key ideas related to developing activities here and then explore them in more detail in the *Learning Experiences* module.
 
-What students practice in class and in homework should align with assessment questions to ensure that they have an opportunity to practice and eventually demonstrate proficiency with the intended learning objectives. For example, it would be unfair to ask students to analyze graphs on an exam if students had never practiced analyzing figures during class or on homework assignments. An instructor cannot conclude how well their curriculum advanced students' abilities to analyze graphs based on exam performance. Since the students did not have any opportunities to practice, their exam performance is based on prior knowledge, skills, and experiences, not on *this* curriculum.
+What students practice in class and in homework should align with how they are assessed to ensure that they have an opportunity to practice and eventually demonstrate proficiency with the intended learning objectives. For example, if students had never practiced analyzing figures during class or on homework assignments, they would not be prepared to analzye graphs on an exam and the instructor could not conclude how well their curriculum advanced students' ability to analyze graphs based on exam performance. In this case, their exam performance would not fairly measure what they learned in the course, instead measuring their prior knowledge and skills. 
 
 Let's look at an example of a learning objective and assessment question:
 
@@ -373,7 +373,7 @@ We will practice creating learning experiences, writing assessments, and scaffol
 
 ### Step 4. Check alignment within curriculum and values.
 
-**Curriculum alignment is an inclusive learning practice.** Learning objectives, assessments, and learning experiences each communicate what is important and valued. When these three areas work together, they:
+Backward design is an iterative and reflective process. As you plan your course, keep checking how the learning objectives, assessments, and learning experiences relate to one another and make adjustments to better align them. Curriculum alignment is an inclusive learning practice that results in courses that support successful learning for all students. learning objectives, assessemtns, and learning experiencs aach communicate what is important and valued. When these areas work together they:
 
 - Elucidate expectations
 - Show a pathway to get there
