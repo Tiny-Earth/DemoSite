@@ -171,7 +171,7 @@ Increasing a course's structure has many implications for student learning and t
 
 ### Show Me the Data!
 
-Freeman and colleagues measured failure rates in introductory biology across varying degrees of course structure. One instructor taught the course in six iterations using a low-structure, moderate-structure, or high-structure course design (2011). The difference between the proportion of students predicted to fail and the actual proportion failing decreased with increasing structure.
+Freeman and colleagues measured failure rates in introductory biology across varying degrees of course structure, in six iterations using a low-structure, moderate-structure, or high-structure course design [freeman_active_2014](@cite). The difference between the proportion of students predicted to fail and the actual proportion failing decreased with increasing structure [freeman_active_2014](@cite).
 
 ![The change in the proportion of students failing decreases as course structure increases (n=2267, ∗p=0.06, ∗∗p=0.0004)](assets/increasing_structure_graphs.png)
 
@@ -256,29 +256,24 @@ Some general tips for working with a course map:
 
 ### Learner-Centered Syllabus
 
-In his book, "What the Best College Teachers Do," Ken Bain (2004) describes three parts of what he calls "the promising syllabus":
+There are three parts to a "promising syllabus" [bain2004best](@cite):
 
 1. **Highlight the promises or opportunities.**
-
     - What kinds of questions will the course help students answer?
     - What kind of intellectual, physical, emotional, or social abilities will it help them develop?
     - Why is the course relevant?
     - How does the course connect with the facets of science?
-
 2. **Explain what students will do to meet those promises.**
-
     - What learning activities (e.g., activities, assignments, readings) will be used in the course?
     - How will students learn from the course resources, the instructional team, and each other?
     - Where will students have agency and choice in their education?
-
 3. **Discuss how students will engage in the learning process.**
-
     - How will students be welcomed to the course?
     - How will students gauge progress toward understanding the facets? How will the instructor?
     - How will learning be evaluated?
     - How will all students feel included in the learning process and welcome as scientists?
 
-A learner-centered syllabus presents the course structure and other aspects of course design to students in a way that is focused on their learning, sucess, and belonging. It also provides an opportunity to highlight the six facets of science at the start of the learning experience.
+Such learner-centered syllabi present the course structure and other aspects of course design to students in a way that is focused on their learning, sucess, and belonging. It also provides an opportunity to highlight the six facets of science at the start of the learning experience.
 
 Some course planning tools focus on designing a learner-centered syllabus for your courses. For example, [we have provided our own recommended learner-centered syllabus guide that aligns with this course's content](https://docs.google.com/document/d/e/2PACX-1vSSUHVaisNabRd5xHegugbp__iU9KHfBuYezJcb6td0ZOixXMSCtOMu4SNVCWxOeuyt2RKPD7KgdX-F/pub). This tool is structured as a questionnaire to help you start imagining and building learner-centered syllabi.
 
