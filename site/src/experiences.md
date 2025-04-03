@@ -37,7 +37,7 @@ Surprisingly, given its long history, there is not a consistent definition of ac
 
     !!! details "Click to show published examples"
         - “...instructional activities involving students in doing things and thinking about what they are doing.” [bonwell1991active](@cite)
-        - “Active learning simply means getting involved with the information presented - really thinking about it (analyzing, synthesizing, evaluating) rather than just passively receiving it and memorizing it.” (King, 1993)
+        - “Active learning simply means getting involved with the information presented - really thinking about it (analyzing, synthesizing, evaluating) rather than just passively receiving it and memorizing it.” [king1993sage](@cite)
         - “Active learning implies that students are engaged in their own learning. Active teaching strategies have students do something other than take notes or follow directions, placing the responsibility for learning squarely on their shoulders. As they participate in activities that involve group learning, problem solving, or inquiry-based learning, students construct new knowledge and build new scientific skills.” [handelsman_scientific_2007](@cite) 
         - “Active learning engages students in the process of learning through activities and/or discussions in class, as opposed to passively listening to an expert.” [freeman_active_2014](@cite)
 
@@ -150,7 +150,7 @@ For example, when asked to interpret a graph as part of a learning activity, stu
 
 ## Why Active Learning Experiences?
 
-**Active learning experiences lead to better learning outcomes.** Two decades of studies have shown that active-learning environments lead to better outcomes for STEM students, with additional positive benefits for students from historically excluded communities (HEC). For example, a meta-analysis of 200 published papers comparing student outcomes in matched courses found that students in active courses consistently performed half a standard deviation higher than those in passive classes [freeman_active_2014](@cite). Likewise, a survey of nearly 1,000 students who experienced active learning more often reported higher learning gains and improvements in collaborative skills. (Reeves et al., 2024). Another study found that polling questions that challenged students to think critically and solve problems collaboratively led to improved learning gains—and more questions correlated with higher gains [smith2009peer, smith2011combining](@cite).
+**Active learning experiences lead to better learning outcomes.** Two decades of studies have shown that active-learning environments lead to better outcomes for STEM students, with additional positive benefits for students from historically excluded communities (HEC). For example, a meta-analysis of 200 published papers comparing student outcomes in matched courses found that students in active courses consistently performed half a standard deviation higher than those in passive classes [freeman_active_2014](@cite). Likewise, a survey of nearly 1,000 students who experienced active learning more often reported higher learning gains and improvements in collaborative skills. [reilly2024refining](@cite). Another study found that polling questions that challenged students to think critically and solve problems collaboratively led to improved learning gains—and more questions correlated with higher gains [smith2009peer, smith2011combining](@cite).
 
 Failure rates also illuminate a stark contrast between courses taught with an active vs. traditional (passive) approach. Students in active STEM courses can see a 10% lower failure rate than those in passive courses [freeman_active_2014](@cite).
 
@@ -252,8 +252,8 @@ A think-pair-share also fosters a growth mindset. It breaks down complicated pro
 ### A few tips to make a think-pair-share more just and equitable
 
 - Invite students to share in a way that makes it clear you’re opening up the conversation, rather than looking for a particular answer on the first try [waugh2020diving](@cite). For example, ask, “Can you get us started with an answer?”
-- Survey the class early in the term to find out who is willing to share their thoughts with the class and who prefers not to (Cooper et al. 2021).
-- Randomize the list of students to call on to prevent biasing responses to those who are fast at processing information or confident speaking in large groups—and to whom other students may defer even if they are incorrect (Theobald et al. 2017).
+- Survey the class early in the term to find out who is willing to share their thoughts with the class and who prefers not to [cooper2021reconsidering](@cite).
+- Randomize the list of students to call on to prevent biasing responses to those who are fast at processing information or confident speaking in large groups—and to whom other students may defer even if they are incorrect [theobald2017student](@cite).
 
 ### How does a think-pair-share encourage scientific thinking?
 

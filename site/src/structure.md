@@ -200,7 +200,7 @@ A learner-centered syllabus focuses on the learner and the learning by:
 - Highlighting resources that support students and learning.
 - Signaling whether and how students have input regarding the course material, timing, assignments, etc.
 
-In short, the learner-centered syllabus "becomes an invitation to share responsibility for successful learning" (O'Brien et al., 2008, p. 22). In contrast, a conventional syllabus focuses on covering the content and perhaps includes a weekly schedule of topics, assignment due dates, exams, and grading policies.
+In short, the learner-centered syllabus "becomes an invitation to share responsibility for successful learning" [o2009course](@cite). In contrast, a conventional syllabus focuses on covering the content and perhaps includes a weekly schedule of topics, assignment due dates, exams, and grading policies.
 
 ## Course Structure in Practice
 
