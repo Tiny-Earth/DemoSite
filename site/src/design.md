@@ -1,6 +1,6 @@
 # Course Design
 
-**Estimated time to complete:** 60 minutes
+**Estimated time to complete:** 90 minutes
 
 ## Module Learning Objectives
 
@@ -79,9 +79,9 @@ Effective design principles incorporate balance and alignment, while focusing on
 
 **Understanding by design®** is a long-standing, intentional design framework that focuses on student learning and understanding [wiggins2005understanding, wiggins2011understanding](@cite). It asks instructors to define what learning and understanding mean for their course context (e.g, student preparation, course level, and content) and then design curriculum “backward” from there.
 
-A three-step process known as **backward design** supports Understanding by Design. It is called “backward” because it starts with the end goals in mind and then designs learning experiences that guide students toward those goals. In contrast, a “forward” approach focuses on covering content, delivering instruction, and then developing assessments based on what has been taught. Because learning outcomes come last, the “forward” approach may lead to weak alignment between learning goals and assessments, leaving students to guess what is important and where to focus their study efforts.
+A three-step process known as **backward design** supports Understanding by Design.  It is called “backward” because it starts with the end goals in mind and then designs learning experiences that guide students toward those goals. As such, it shifts the teacher's focus from what they will do, to what they intend the students to learn. In contrast, a “forward” approach focuses on covering content, delivering instruction, and then developing assessments based on what has been taught. Because evaluating what was learned comes last, the “forward” approach may lead to weak alignment between learning goals and assessments, leaving students to guess what is important and where to focus their study efforts.
 
-The process of backward design is meant to be flexible and iterative, not prescriptive. Framed within the context of STEM, the process of backward design typically involves three stages:
+The process of backward design is meant to be flexible rather than prescriptive. During the course desgin process, you move through the steps iteratively, making sure that the learning objecties are aligned with assessments and learning experiences so that students are supporeed in achiveing the desired outcomes as you plan each course component. Framed within the context of STEM, the process of backward design typically involves three stages:
 
 - **Identify desired results.** What should students know, understand, and be able to do? Which facets of science should students understand, and to what level of competency? What enduring understandings or transfer of knowledge are desired?
 
@@ -184,7 +184,7 @@ Learning goals and objectives are two key components of instructional design tha
 
 Learning goals describe broad outcomes at the course-level. An instructor may have only a few learning goals for an entire course. Think about the main ideas listed on your course website or the top of your syllabus—they are probably goals.
 
-Because a goal is not directly measured by a single assessment question, it can use terms such as understand and appreciate, which should be avoided for learning objectives.
+Because a goal is not directly measured by a single assessment question, it can use vague, difficult to measure terms such as understand and appreciate, which should be avoided for learning objectives.
 
 To write an effective learning goal, we suggest the following:
 
@@ -232,12 +232,12 @@ For example:
 
 Learning objectives are more measurable than learning goals and describe specific outcomes at the topic level.
 
-A general suggestion is to have two to five learning objectives per topic, depending on its complexity. Although learning objectives are often content-focused, they can also include gaining competence in a new skill, or shifting beliefs, attitudes, or perspectives. Learning objectives should be designed to be achievable and realistic, but also challenging enough to promote growth and progress.
+A general suggestion is to have two to five learning objectives per topic, depending on its complexity. Although learning objectives are often content-focused, they can also include gaining competence in a new skill, or shifting beliefs, attitudes, or perspectives. Learning objectives should be designed to be achievable and realistic within a given time frame, but also challenging enough to promote growth and progress.
 
 To write an effective learning objective, we suggest the following:
 
 - **Start with an action verb.** An effective learning objective should begin with a strong verb that describes the specific competency that students are expected to demonstrate. Examples of commonly used verbs include "identify," "analyze," "describe," "compare," "explain," and "design."
-- **Be specific.** The objective should clearly state what the student is expected to learn or achieve. Avoid vague or overly general language that could be open to interpretation.
+- **Be specific.** TThe objective should clearly state what the student should be able to do after achieving teh desired learning. Avoid vague or overly general language that could be open to interpretation.
 - **Be concrete.** The objective should be written in a way that allows the student's progress or achievement to be measured directly. Use language that makes clear how knowledge is being assessed.
 - **Be realistic.** The objective should be achievable within the context of the course unit and based on a reasonable level of prior knowledge or skill.
 - **Align with learning goals.** The objective should align with a larger learning goal.
@@ -353,7 +353,7 @@ In both cases, the students’ study strategies are misaligned with the objectiv
 
 Now that learning goals, learning objectives, and assessments have been addressed, it's time to design the activities that will bring the facets of science to life. We will explore developing activities in more detail in the *Learning Experiences* module. For now, we'll highlight a few key ideas.
 
-What students practice (in-class activities) should align with assessment questions to ensure students have an opportunity to practice and eventually demonstrate proficiency with the intended learning objectives. For example, it would be unfair to ask students to analyze graphs on an exam if students had never practiced analyzing figures during class or on homework assignments. An instructor cannot conclude how well their curriculum advanced students' abilities to analyze graphs based on exam performance. Since the students did not have any opportunities to practice, their exam performance is based on prior knowledge, skills, and experiences, not from *this* curriculum.
+What students practice in class and in homework should align with assessment questions to ensure that they have an opportunity to practice and eventually demonstrate proficiency with the intended learning objectives. For example, it would be unfair to ask students to analyze graphs on an exam if students had never practiced analyzing figures during class or on homework assignments. An instructor cannot conclude how well their curriculum advanced students' abilities to analyze graphs based on exam performance. Since the students did not have any opportunities to practice, their exam performance is based on prior knowledge, skills, and experiences, not from *this* curriculum.
 
 Let's look at an example of a learning objective and assessment question:
 
