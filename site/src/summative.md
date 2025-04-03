@@ -58,7 +58,7 @@ By using a variety of assessment methods, instructors can gain a more comprehens
 
 ### Summative Assessment Techniques
 
-Reflecting on backward design, your assessments need to be aligned to the learning objectives of the unit. In a STEM course, summative assessments provide a way for students to demonstrate their understanding of the facets of science. The summative assessment techniques you select should directly align with your established learning objectives in the scientific discipline. This entails designing evaluations that not only test content knowledge but also measure practical skills and competencies—such as scientific inquiry, data analysis, problem-solving, and effective communication—that are crucial for success in STEM fields.
+Reflecting on backward design, your assessments need to be aligned to the learning objectives of the unit. In a STEM course, summative assessments provide a way for students to demonstrate their understanding of the facets of science. The summative assessment techniques you select should directly align with your established learning objectives in the scientific discipline. This entails designing evaluations that not only test content knowledge but also measure practical skills and competencies—such as scientific inquiry, data analysis, problem-solving, and effective communication—that are crucial for success in STEM fields. Authentic assessment is an approach where students demonstrate their knowledge and skills through tasks that reflect how science is done in the workforce (Wiggins, 1990; Schultz et al., 2022).
 
 For example, here are four different approaches to summative assessment:
 
@@ -87,6 +87,8 @@ For example, here are four different approaches to summative assessment:
     - Independent project: proposal, presentation, report
 
 Notice that all these courses utilize more than one kind of summative assessment technique except the Traditional Exam-Based plan, which only uses tests. A well-designed course incorporates a range of assessment opportunities that combine both low- and high-stakes assessments. For example, all of the plans administer weekly or daily quizzes instead of just a few during the whole semester. This way, lower performance on one assessment doesn’t devastate a student's grade and they have multiple opportunities to demonstrate their knowledge and abilities.
+
+In addition, each of these approaches to summative assessment could be designed to authentically reflect disciplinary practice, allowing students to apply their knowledge and skills in meaningful contexts. This approach helps students see the relevance of what they are learning and strengthens their scientific self-efficacy (Estrada et al. 2011). For example, exam questions could present real-world problems that require students to apply knowledge in context (Villarroel et al., 2019), or projects could mirror tasks that scientists perform in professional settings (Villarroel et al., 2018).  
 
 !!! tip ""
 
