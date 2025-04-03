@@ -140,12 +140,6 @@ Notice that all these courses utilize more than one kind of summative assessment
 
 Given the significant influence of summative assessment outcomes on students and their grades—which can have a direct impact on scholarship, university admissions, and career opportunities—it is essential to design summative assessments that are equitable, accurate, and fair in their evaluation of student knowledge. 
 
-### Transparent Assessment Design
-
-Summative assessments can be made more inclusive by clearly communicating the purposes, tasks, and criteria of an assignment [winkelmes2023transparent](@cite). Providing this transparency before students begin their work allows all students, regardless of their background or prior educational experiences, to understand what success looks like and how the assignment supports their learning [winkelmes2023transparent](@cite). This clarity reduces uncertainty but also helps students see the relevance of the assessment beyond the course, supporting student motivation and metacognition [winkelmes2023transparent](@cite).
-
-A transparent assignment design template and other resources are available online from the Transparency in Learning and Teaching project (tilthighered.com).
-
 ### Fairness in Testing
 
 The Standards for Educational and Psychological Testing provide principles to establish fairness in testing [american1985standards](@cite):
@@ -161,6 +155,12 @@ Additionally, instructors can practice these elements to produce high-quality an
 - Provide clear instructions and practice materials to students.
 
 The principles and elements outlined above are crucial for ensuring that all students have an equal opportunity to showcase their knowledge and understanding on assessments that accurately measure their abilities. While these principles may seem intuitive, it’s essential to delve deeper into the evidence-based strategies instructors can use to design assessments that promote equity and accuracy. By doing so, educators can create an equitable and inclusive assessment environment that values the diverse strengths and abilities of all students.
+
+### Transparent Assessment Design
+
+Summative assessments can be made more inclusive by clearly communicating the purposes, tasks, and criteria of an assignment [winkelmes2023transparent](@cite). Providing this transparency before students begin their work allows all students, regardless of their background or prior educational experiences, to understand what success looks like and how the assignment supports their learning [winkelmes2023transparent](@cite). This clarity reduces uncertainty but also helps students see the relevance of the assessment beyond the course, supporting student motivation and metacognition [winkelmes2023transparent](@cite).
+
+A transparent assignment design template and other resources are available online from the Transparency in Learning and Teaching project (tilthighered.com).
 
 ### Example of an Inclusive Assessment Tool: Rubrics
 
