@@ -1,6 +1,7 @@
 using Documenter
 using DocumenterCitations
 using YAML
+using Glob
 
 # Helper to get the YAML return type coverted for makedocs correctly
 process(x) = [x]
@@ -28,6 +29,19 @@ makedocs(
         )
     ]
 )
+
+# Adjust the themes to be more accessible
+for theme_filename in glob("site/build/assets/themes/*.css")
+    theme_css = read(theme_filename, String)
+    theme_css = replace(theme_css,
+        # make all px values user-scalable by converting them to rem
+        r"\d+px" => (s) -> string(parse(Float64, replace(s, "px" => "")) / 16, "rem")
+    )
+
+    open(theme_filename, "w") do f
+        write(f, theme_css)
+    end
+end
 
 # Deploy the website
 deploydocs(repo="github.com/Tiny-Earth/DemoSite.git")

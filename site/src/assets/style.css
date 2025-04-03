@@ -57,14 +57,6 @@ h2 {
   padding-top: .5rem;
 }
 
-h3 {
-  font-size: 1.2rem !important;
-}
-
-h4 {
-  font-size: 1rem !important;
-}
-
 summary {
   cursor: pointer;
 }
@@ -117,11 +109,6 @@ figure, .content figure {
 
 .admonition.is-success > .admonition-header:empty::before {content: "\f02d"}
 .admonition.is-success > .admonition-header:empty::after {content: "Put it into Practice!"}
-
-.admonition {
-  border-width: .1rem;
-  border-radius: .3rem;
-}
 
 /* Custom tables */
 table{
