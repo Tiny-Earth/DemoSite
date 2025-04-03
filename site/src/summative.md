@@ -278,7 +278,7 @@ Students deserve the opportunity to engage with an assessment to the best of the
 
 ### Equitable Grading
 
-Traditional grading is the practice of assigning numerical points to one-time assessments and aggregating those points into a single letter grade for the course (Clark & Talbert, 2023). Often, there are no opportunities to reattempt the assessment, so students are unable to apply feedback (Clark & Talbert, 2023). Overall, traditional grading penalizes students who have received unequal opportunities and discourages growth and learning (Clark & Talbert, 2023).
+Traditional grading is the practice of assigning numerical points to one-time assessments and aggregating those points into a single letter grade for the course [nilson2023grading](@cite). Often, there are no opportunities to reattempt the assessment, so students are unable to apply feedback [nilson2023grading](@cite). Overall, traditional grading penalizes students who have received unequal opportunities and discourages growth and learning [nilson2023grading](@cite).
 
 Incorporating more equitable grading practices promotes a more just and inclusive educational environment that supports the success of all students. Below are some equitable grading practices you can implement in your course.
 
@@ -294,20 +294,20 @@ Ensure your grading policy is transparent [garcia2023equitable](@cite):
 - Communicate how grades are assigned
 - Provide rubrics, standards, or expectations
 
-Do not apply grading curves (Feldman, 2019):
+Do not apply grading curves [feldman2023grading](@cite):
 
 - Curves are not transparent and make it difficult for students to determine grades
 - They are inconsistent and unfair
 - Curving grades is the result of misalignment in the course design: instructors need to ask themselves why students are failing exams rather than applying a curve (which “fixes” the symptom but not the underlying issue)
 
-Check your own biases and assumptions (Feldman, 2019):
+Check your own biases and assumptions [feldman2023grading](@cite):
 
 - Grade without knowing who students are to prevent bias in your grading based on existing beliefs about students.
 - Become aware of common stereotypes and find ways to avoid perpetuating and activating them.
 - Don’t let expectations or assumptions about students affect your grading.
 - Use your grading data to self-check: did you give males higher scores over females on free-response questions? What about students from HECs?
 
-Provide opportunities for practice, retakes, and redos (Feldman, 2019):
+Provide opportunities for practice, retakes, and redos [feldman2023grading](@cite):
 
 - Allow students to apply what they learned from the assessment feedback to retest for partial or full credit.
 - Assessment drives learning: give students another opportunity to grow and showcase their knowledge.
@@ -319,9 +319,9 @@ In recent years, there has been a growing movement to move away from traditional
 
 Common alternative grading methods include standards-based grading, specifications grading, and ungrading. Briefly:
 
-- Standards-based grading assesses students’ competency of specific skills or knowledge. Final grades are based on how many standards a student meets, no matter the number of attempts (Clark & Talbert, 2023).
-- In specifications or specs grading, the instructor creates a list of attributes of a successful submission for assignments. Students then earn a “Satisfactory” or “Not Yet” on their work and have the opportunity to resubmit for full credit (Clark & Talbert, 2023).
-- Ungrading removes grades in favor of formative and descriptive feedback. It can replace deficit thinking with an approach that values students’ cultural and familial knowledge, recognizing these insights as critical to their education and relationships (Mejia 2018). Instructors meet regularly with students to discuss progress, and students build a portfolio of their work and growth (Clark & Talbert, 2023).
+- Standards-based grading assesses students’ competency of specific skills or knowledge. Final grades are based on how many standards a student meets, no matter the number of attempts [nilson2023grading](@cite).
+- In specifications or specs grading, the instructor creates a list of attributes of a successful submission for assignments. Students then earn a “Satisfactory” or “Not Yet” on their work and have the opportunity to resubmit for full credit [nilson2023grading](@cite).
+- Ungrading removes grades in favor of formative and descriptive feedback. It can replace deficit thinking with an approach that values students’ cultural and familial knowledge, recognizing these insights as critical to their education and relationships (Mejia 2018). Instructors meet regularly with students to discuss progress, and students build a portfolio of their work and growth [nilson2023grading](@cite).
 
 Instructors who are interested in alternative grading but can’t or aren’t ready to overhaul their course can try partial conversions, such as standards-based testing (i.e., only tests are graded using standards).
 
