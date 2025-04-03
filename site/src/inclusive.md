@@ -13,6 +13,7 @@
     - Apply the five dimensions of inclusive teaching to your course.
 
 ## Inclusive Learning Defined
+
 Inclusive learning refers to all the factors that contribute to a classroom environment where:
 
 - Students feel a sense of belonging, value, and respect.
@@ -62,19 +63,11 @@ In aggregate, our identities, biases, and assumptions affect the pedagogical cho
 
 ### The Student Dimension
 
-Like instructors, students come to our courses with a composite of identities, biases, and interests. Students interact with their instructors, with each other, and with  content in the context of a course’s climate. Students’ identities and their interactions influence the extent to which they feel a sense of belonging, which affects learning outcomes and persistence in STEM. 
-
-#### The Connection between Identity and Belonging
-
-The Tripartite Integration Model of Social Influence (TIMSI) explains the psychological mechanisms underlying belonging in STEM [estrada2011toward](@cite). The TIMSI describes three orientations that contribute to student persistence in STEM:
-
-- **Scientific self-efficacy:** Students feel capable of performing the actions needed to be successful in science.
-- **Scientific identity:** Students perceive science as part of who they are and feel a sense of belonging within a scientific community.
-- **Scientific values:** Students authentically agree with the values of the scientific community, such as the importance of rigor and discourse in evaluating evidence.
+Like instructors, students come to our courses with a composite of identities, biases, and interests. Students interact with their instructors, with each other, and with  content in the context of a course’s climate. Students’ identities and their interactions influence the extent to which they feel a sense of belonging, which affects learning outcomes and persistence in STEM.
 
 ### The Curriculum Dimension
 
-Curriculum is arguably the most visible component of a course and has an important influence on the course climate. It encompasses what we teach, including the learning objectives we set, the content we prioritize, how we demonstrate relevance, and the examples we choose to include.
+Curriculum is arguably the most visible component of a course and has an important influence on the course climate. It encompasses what we teach, including the learning objectives we set, the content we prioritize, how we demonstrate relevance, and the examples we choose to include. In STEM, this includes establishing which facets of science (described in the previous module) are most relevant for a specific course and working to bring them to life. Creating an inclusive course curriculum also involves considering whose interests and voices are represented.  
 
 #### Science Content
 
@@ -86,7 +79,7 @@ Part of scientific identity includes seeing one’s self and perspectives repres
 
 ### The Pedagogy Dimension
 
-Pedagogy involves how a course is designed and taught. It also defines how students interact with the content and each other. Once again, the choices we make determine how inclusive the course feels. In the Scientific Teaching module, we demonstrated how poor instruction leads to a pattern of exclusion from STEM that differentially affects students. In contrast, pedagogies that promote a sense of belonging lead to increased persistence in STEM [estrada2011toward](@cite), especially for HEC students [evans_functional_2021, hurtado_diversifying_2009, olson_expression-based_2019, rodenbusch_early_2016, shuster_implementing_2019, waddell_flying_2021](@cite).
+Pedagogy involves the teaching approaches that are used, including how students interact with the content and each other. Once again, the choices we make determine how inclusive the course feels. In the Scientific Teaching module, we demonstrated how poor instruction leads to a pattern of exclusion from STEM that differentially affects students. In contrast, pedagogies that promote a sense of belonging lead to increased persistence in STEM [estrada2011toward](@cite), especially for HEC students [evans_functional_2021, hurtado_diversifying_2009, olson_expression-based_2019, rodenbusch_early_2016, shuster_implementing_2019, waddell_flying_2021](@cite).
 
 ## Inclusive Learning in Practice
 
@@ -101,17 +94,21 @@ Interventions can be incorporated as individual or repeated activities, such as:
 - Increase **instructor presence and connection to students** by making eye contact, engaging in positive body movements such as nods and smiles, communicating goals, setting guidelines for student interactions, and encouraging student participation [shea2006study, baker2010impact, andersen1981three, arbaugh2006does](@cite).
 - Use **active learning experiences**, in which students actively engage with content and sometimes each other [freeman_active_2014](@cite). You’ll find more examples in the Learning Experiences module.
 - Do regular **formative assessments**, in which students have the opportunity to regularly practice and receive feedback [black1998assessment](@cite). You’ll find more examples in the Learning Experiences module.
-- Encourage **microaffirmations**, which are actions that demonstrate care and can affirm a student's capabilitites [estrada2019influence](@cite)
+- Encourage **microaffirmations**, which are actions that demonstrate care and can affirm a student's capabilities [estrada2019influence](@cite)
 - Leverage activities that **increase resilience** by reframing social adversity as common and transient [walton_brief_2011](@cite)
 - Incorporate interventions that make explicit the **utility value** of a course or its parts [harackiewicz_closing_2016, asher2023utility](@cite).
 - Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance [Steele2002-pt](@cite).
+- Highlight **scientists from a variety of identities** and backgrounds (Schinske and Tanner, 2014), and present a range of research questions and discoveries so students can see themselves and things they care about reflected in the course. 
 
 Instructors can also modify overall course structure or infuse practices into an entire course to accomplish an inclusive learning environment. Some examples:
 
 - Create a culture where **failure is a productive and normal part of science**, rather than a judgement on students' identity [petroski2013success, simpson_failure_2017, lopatto2020facilitating, gin2018students, good2012women, koch2008women, cacciotti2015fear](@cite).
 - Use **high-structure course design** to elucidate what is expected of students and create predictable patterns [freeman_increased_2011, theobald_active_2020](@cite). You’ll find more on this in the Course Structure module.
+- Engage students in the **six facets of science** (described in the previous module). Many studies demonstrate that active participation in science leads to an improved sense of belonging and retention in STEM (Estrada et al., 2011; Evans et al., 2021; Hanauer et al., 2017; Jordan et al., 2014; Lopatto et al., 2008; Olson et al., 2019; Shaffer et al., 2014; Waddell et al., 2021). 
 - Teach a **course-based undergraduate research experience (CURE)**, in which students engage in research while enrolled in a course [aikens_race_2017, dolan_guide_2021, hurtado_diversifying_2009](@cite). 
 - Leverage **universal design for learning** principles, which incorporate accessibility considerations into course design that provide equal access and opportunities for everyone, regardless of their abilities [burgstahler2013universal](@cite).
+- Design **authentic assessments** that engage students in tasks that reflect how science is done in the workforce and in real-world contexts (Wiggins, 1990; Schultz et al., 2022; Villarroel et al., 2018). 
+- **Decolonize the curriculum**, which involves reimagining content and approaches that have historically prioritized Western, white, male-centric knowledge (Gichuru, 2024).
 
 !!! tip ""
 
@@ -132,6 +129,16 @@ Identity comprises the social, emotional, and professional attributes of an indi
 **Emotional identity** characterizes how a person responds to their own emotions and the emotions of others. It is informed by experiences, power dynamics, and agency.
 
 **Professional identity** (in our case, teacher identity or STEM instructor identity) encompasses how individuals perceive themselves and construct their professional identities as teachers within educational settings (Yuan & Liu, 2021, p. 2). An instructor’s professional identity is dynamic and influenced by experience and positionality [sachs2005teacher](@cite).
+
+#### The Connection between Identity and Belonging
+
+Students’ identities influence the extent to which they feel a sense of belonging. The Tripartite Integration Model of Social Influence (TIMSI) explains the psychological mechanisms underlying belonging in STEM [estrada2011toward](@cite). The TIMSI describes three orientations that contribute to student persistence in STEM:
+
+- **Scientific self-efficacy:** Students feel capable of performing the actions needed to be successful in science.
+- **Scientific identity:** Students perceive science as part of who they are and feel a sense of belonging within a scientific community.
+- **Scientific values:** Students authentically agree with the values of the scientific community, such as the importance of rigor and discourse in evaluating evidence.
+
+Considering students' needs and backgrounds can help instructors to design learning experiences that build students' confidence in scientific skills, affirm their identities as scientists, and highlight the relevance/importance of scientific values.
 
 !!! note ""
 
@@ -205,6 +212,7 @@ Identity comprises the social, emotional, and professional attributes of an indi
      How do their identities shape how they decide what is relevant or important?
 
 ### Mitigate Biases and Assumptions
+
 Identities aren’t the only thing that influence outcomes in STEM. Biases and assumptions matter, too. For example, biases and assumptions affect how we rate people, which can have consequences for hiring decisions and advancement.
 
 Let’s examine hiring studies as one example of bias affecting outcomes. In one study [Moss-Racusin2012-cm](@cite) 127 biology, chemistry, and physics faculty at six top US research universities received a student resume for a lab manager position. Each resume was randomly assigned a gendered name: “Jennifer” (female) or “John” (male). Otherwise, the applications were identical, and each evaluator saw only one version. Faculty then evaluated the student’s competence and hireability and proposed a salary.
@@ -226,6 +234,15 @@ Bias is not inherently bad and is part of human nature. But when bias leads to r
     #### Reflection: Bias in STEM
 
     What biases have you seen or experienced in STEM or STEM higher education?
+
+Some examples of strategies that consider the instructor and student dimensions include: 
+
+- **Learn about your students** interests, goals and needs through short surveys and polls throughout the semester (Tanner, 2011; Tanner 2013).   
+- Create a culture where **failure is a productive and normal part of science**, rather than a judgement on students' identity [petroski2013success,simpson_failure_2017,lopatto2020facilitating,gin2018students,good2012women,koch2008women,cacciotti2015fear](@cite).  
+- Incorporate interventions that make explicit the **utility value** of a course or its parts, such as asking students to reflect on how course topics are relevant to their own goals, values and interests. Research has found that such interventions can increase persistence in STEM, especially for students from marginalized groups (Asher et al., 2023,  Harackiewicz et al.,2016).  
+- Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance [Steele2002-pt](@cite). For instance, communicate that you believe all students can be successful as you share constructive feedback (Killpack and Melon, 2016).
+- Build your **self-awareness** of what you bring to the classroom in terms of your identities, educational experiences, and biases, and consider how this impacts your interactions with students (Dewsbury, 2020).   
+- Use strategies to **mitigate biases** such as grading anonymously, using rubrics, and structuring participation to hear from a range of students rather than those who readily share ideas (Killpack and Melon, 2016; Tanner 2013). 
 
 ## Summary of Inclusive Learning
 
