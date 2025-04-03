@@ -154,7 +154,7 @@ For example, when asked to interpret a graph as part of a learning activity, stu
 
 Failure rates also illuminate a stark contrast between courses taught with an active vs. traditional (passive) approach. Students in active STEM courses can see a 10% lower failure rate than those in passive courses [freeman_active_2014](@cite).
 
-**Active learning is an equitable practice.** The positive benefits of active learning disproportionately affect STEM students from historically excluded groups, closing the gap between majority and minority students. A meta-analysis of 41 published papers showed that active courses led to a 33% reduction in exam score gaps between majority and minority students, and a 45% reduction in the gap for failure rates [theobald_active_2020](@cite).
+**Active learning is an equitable practice.** The positive benefits of active learning disproportionately affect STEM students from HECs, closing the gap between majority and minority students. A meta-analysis of 41 published papers showed that active courses led to a 33% reduction in exam score gaps between majority and minority students, and a 45% reduction in the gap for failure rates [theobald_active_2020](@cite).
 
 **Active learning leverages how learning works.** Active learning taps into metacognition, which engages students in reflecting on their learning and encouraging them to adjust their approach if needed. Active learning helps students connect new information to their existing knowledge and experiences, making it more meaningful and memorable. It fosters a growth mindset and makes space to evaluate options and make informed decisions [ambrose2010learning,bonwell1991active,chi2014icap](@cite).
 
@@ -180,13 +180,13 @@ To summarize, above we identified that effective active learning experiences are
 
 ## Active Learning Experiences in Practice
 
-Let’s look at a detailed example of how a common instructional strategy can leverage the learning experiences framework: think-pair-share. Then, you will think through a different instructional strategy in a similar way on your own.
+Let’s look at a common instructional strategy as an example of how to leverage the learning experiences framework: think-pair-share. Then, you will think through a different instructional strategy in a similar way on your own.
 
 Think-pair-share is a flexible activity that can be adapted to almost any teaching situation. It has three steps:
 
 1. Students think (or write) individually in response to a problem or question,
 2. discuss their ideas and answers in pairs, and then
-3. share (or write) their answers with the rest of the class or the instructor.
+3. share their answers with the rest of the class or the instructor.
 
 ### How does a think-pair-share encompass active learning?
 
@@ -245,7 +245,7 @@ From the instructor perspective, consider how think-pair-share acts as a window 
 
 ### How does a think-pair-share foster inclusive learning?
 
-The structure of a think-pair-share ticks several inclusive learning boxes. Because everyone processes information at different speeds, posing a problem as a think-pair-share allows students the necessary time to reflect, formulate their thoughts, and even write out their answers. Moreover, sharing with the whole class can be overwhelming for some students. With a partner, they practice explaining their thinking, which prepares them for sharing responses with the class. And the best part? Everyone’s voice gets heard (even if only in a pair), and everyone hears different perspectives.
+The structure of a think-pair-share supports inclusive learning in several ways. Because everyone processes information at different speeds, posing a problem as a think-pair-share allows students the necessary time to reflect, formulate their thoughts, and even write out their answers. Moreover, sharing with the whole class can be overwhelming for some students. With a partner, they practice explaining their thinking, which prepares them for sharing responses with the class. And the best part? Everyone’s voice gets heard (even if only in a pair), and everyone hears different perspectives.
 
 A think-pair-share also fosters a growth mindset. It breaks down complicated processes into bite-sized, achievable steps, providing time to practice new skills and work with new information. It allows for mistakes and misconceptions to emerge, with time to safely deliberate and decide whether to adjust ideas or tactics.
 
@@ -257,7 +257,7 @@ A think-pair-share also fosters a growth mindset. It breaks down complicated pro
 
 ### How does a think-pair-share encourage scientific thinking?
 
-A think-pair-share activity can break down the facets of science into smaller parts, giving students the opportunity to practice various important skills in their STEM discipline. For example, in a math or computer science class, students might practice summarizing data, debug a few lines of data, or apply mathematical formulas. In a chemistry course, they might examine the limitations of data, select appropriate reagents for an experiment, or troubleshoot experimental hurdles. In an engineering course, students could determine what information is relevant and propose which computer program or device could solve the problem. In a biology class, they might critique experimental designs, identify appropriate controls and treatments, draw conclusions based on evidence, or ask questions about the natural world, public health, or whatever content is relevant to that course.
+A think-pair-share activity can break down the facets of science into smaller parts, giving students the opportunity to practice various important skills in their STEM discipline. A think-pair-share activity is also an opportunity to show relevance to the discipline and connect the content to an authentic scientific context. For example, in a math or computer science class, students might practice summarizing data, debug a few lines of data, or apply mathematical formulas. In a chemistry course, they might examine the limitations of data, select appropriate reagents for an experiment, or troubleshoot experimental hurdles. In an engineering course, students could determine what information is relevant and propose which computer program or device could solve the problem. In a biology class, they might critique experimental designs, identify appropriate controls and treatments, draw conclusions based on evidence, or ask questions about the natural world, public health, or whatever content is relevant to that course.
 
 ### What are considerations for designing a think-pair-share?
 
@@ -276,11 +276,11 @@ Then, move on to design considerations related to activity structure, inclusion,
 - Will they be graded? If so, on participation, content, creativity, or something else?
 - If students express misconceptions or inaccurate information, how will that be addressed?
 
-How you make these design decisions will depend on your own design context and commitments. However, pausing to consider the design decisions that will accompany all your learning experiences will help you to more intentionally design active learning experiences.
+Your design decisions will depend on your specific context amd commitments. However, intentionally considering these decisions for all activities will help you to create more effective and inclusive active learning experiences.
 
 ### Beyond Think-Pair-Share
 
-Review the following list of active learning strategies, which has been compiled from multiple sources [tanner2013structure](@cite), [TODO other refs, https://crlt.umich.edu/active_learning_implementing, https://www.cmu.edu/teaching/designteach/design/instructionalstrategies/index.html, https://kb.wisc.edu/remote-instruction/104664]. Consider how each technique actively engages students, provides feedback to themselves and others, and could be used in your classroom.
+Review the following list of active learning strategies, which has been compiled from multiple sources [tanner2013structure](@cite), [TODO other refs, https://crlt.umich.edu/active_learning_implementing, https://www.cmu.edu/teaching/designteach/design/instructionalstrategies/index.html, https://kb.wisc.edu/remote-instruction/104664]. Consider how each technique actively engages students, provides feedback for both learners and instructors.
 
 - **Case-based learning:** Students solve an open-ended, real-world situation that requires critical thinking and problem-solving. They make decisions based on the case description and their prior knowledge, thinking beyond the context of the case and consider the broader impacts of their decisions.
 - **Concept mapping:** Starting with a central idea or concept, students generate related ideas, words, and phrases. They use arrows with short descriptions to connect concepts and create a visual web of relationships, then explain it to each other or the instructor.
@@ -298,7 +298,7 @@ Review the following list of active learning strategies, which has been compiled
 - **Self-reflection/journaling:** Students keep a journal of their learning to reflect on their progress, noting what they’ve understood and what they need to improve.
 - **Strip sequence:** Students receive the steps (written, pictorially, or both) to a process on strips of paper that are jumbled. Then have students put the strips in chronological order.
 
-Any active learning technique can serve as a formative assessment for students, even ones that do not explicitly involve sharing with an instructor. Techniques that involve self-reflection, self-testing, or problem-solving with peers have value to student learning even if their products are not seen by an instructor or graded.
+Any active learning technique can serve as a formative assessment for students, even without direct instructor involvement. Techniques that involve self-reflection, self-testing, or problem-solving with peers support student learning, regardless of whether their work is graded or reviewed by an instructor.
 
 !!! tip ""
 
@@ -312,11 +312,11 @@ Any active learning technique can serve as a formative assessment for students, 
 
     How could the chosen strategy provide formative assessments in your course, from both the student and instructor perspectives?
 
-    What limitations might the chosen strategy have for inclusivity and equity in your course? How could you address these limitations by, for example, tweaking the chosen strategy or pairing it with others?
+    What inclusivity and equity challenges might arise with this strategy? How could you modify or combine it with others to address these challenges? 
 
     How could the chosen strategy advance one or more of the facets of science in your course?
 
-    And what other considerations come to mind for how to make the chosen strategy effective for your course, or different versions of the strategy you might try?
+    What additional considerations are relevant for your unique course context? are there modifications that might make the strategy more effective?
 
 ### STEM Examples of Active Learning Experiences
 
