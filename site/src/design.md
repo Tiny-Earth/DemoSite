@@ -80,7 +80,7 @@ Effective design principles incorporate balance and alignment, while focusing on
 
 **Understanding by design®** is a long-standing, intentional design framework that focuses on student learning and understanding [wiggins2005understanding, wiggins2011understanding](@cite). It asks instructors to define what learning and understanding mean for their course context (e.g, student preparation, course level, and content) and then design curriculum “backward” from there.
 
-A three-step process known as **backward design** supports Understanding by Design.  It is called “backward” because it starts with the end goals in mind and then designs learning experiences that guide students toward those goals. As such, it shifts the teacher's focus from what they will do, to what they intend the students to learn. In contrast, a “forward” approach focuses on covering content, delivering instruction, and then developing assessments based on what has been taught. Because evaluating what was learned comes last, the “forward” approach may lead to weak alignment between learning goals and assessments, leaving students to guess what is important and where to focus their study efforts.
+A three-step process known as **backward design** supports Understanding by Design. It is called “backward” because it starts with the end goals in mind and then designs learning experiences that guide students toward those goals. As such, it shifts the teacher's focus from what they will do, to what they intend the students to learn. In contrast, a “forward” approach focuses on covering content, delivering instruction, and then developing assessments based on what has been taught. Because evaluating what was learned comes last, the “forward” approach may lead to weak alignment between learning goals and assessments, leaving students to guess what is important and where to focus their study efforts.
 
 The process of backward design is meant to be flexible rather than prescriptive. During the course desgin process, you move through the steps iteratively, making sure that the learning objecties are aligned with assessments and learning experiences so that students are supporeed in achiveing the desired outcomes as you plan each course component. Framed within the context of STEM, the process of backward design typically involves three stages:
 
@@ -225,7 +225,7 @@ For example:
 
     *Call to mind a course you are teaching, have taught, or are planning to teach.*
 
-    Above, we asked you to imagine the third week/day for your course and some learning objectives for that moment in time.
+    Above, we asked you to imagine the third week/day for your course and refine your learning objectives for that moment in time.
     
     Select one of those objectives. Does it communicate enduring understanding and the facets of science? How would you update it, if needed?
 
@@ -354,7 +354,7 @@ In both cases, the students’ study strategies are misaligned with the objectiv
 
 Now that learning goals, learning objectives, and assessments have been addressed, it's time to design the activities that will bring the facets of science to life. We will explore developing activities in more detail in the *Learning Experiences* module. For now, we'll highlight a few key ideas.
 
-What students practice in class and in homework should align with assessment questions to ensure that they have an opportunity to practice and eventually demonstrate proficiency with the intended learning objectives. For example, it would be unfair to ask students to analyze graphs on an exam if students had never practiced analyzing figures during class or on homework assignments. An instructor cannot conclude how well their curriculum advanced students' abilities to analyze graphs based on exam performance. Since the students did not have any opportunities to practice, their exam performance is based on prior knowledge, skills, and experiences, not from *this* curriculum.
+What students practice in class and in homework should align with assessment questions to ensure that they have an opportunity to practice and eventually demonstrate proficiency with the intended learning objectives. For example, it would be unfair to ask students to analyze graphs on an exam if students had never practiced analyzing figures during class or on homework assignments. An instructor cannot conclude how well their curriculum advanced students' abilities to analyze graphs based on exam performance. Since the students did not have any opportunities to practice, their exam performance is based on prior knowledge, skills, and experiences, not on *this* curriculum.
 
 Let's look at an example of a learning objective and assessment question:
 
