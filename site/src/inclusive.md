@@ -57,9 +57,9 @@ Course climate encompasses the intellectual, social, emotional, and physical env
 
 ### The Instructor Dimension
 
-Even though we are scientists, we are human and therefore not objective. As instructors, our identities are influenced by our values, principles, families, scientific disciplines, privileges, struggles, and all the factors that we experience during our lives [rus2013teachers, peterson1999institutional](@cite). Those influences also give us biases that lead to assumptions. 
+As instructors, our identities are influenced by our values, principles, families, scientific disciplines, privileges, struggles, and all the factors that we experience during our lives [rus2013teachers, peterson1999institutional](@cite). While we strive for objectivity as scientists, we are also human, and therefore hold biases that inform our assumptions.
 
-In aggregate, our identities, biases, and assumptions affect the pedagogical choices we make regarding the content and examples we highlight, as well as the values and skills we expect our students to learn. As a result, the instructor shapes the course climate and therefore each student's learning experience. 
+Acknowledging this is essential in teaching, as our identities, biases, and assumptions impact pedagogical and curricular choices. They influence how we structure activities, the examples we highlight, and the skills we expect students to develop. As a result, instructors shape the course climate and each student’s learning experience.
 
 ### The Student Dimension
 
