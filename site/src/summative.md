@@ -140,6 +140,12 @@ Notice that all these courses utilize more than one kind of summative assessment
 
 Given the significant influence of summative assessment outcomes on students and their grades—which can have a direct impact on scholarship, university admissions, and career opportunities—it is essential to design summative assessments that are equitable, accurate, and fair in their evaluation of student knowledge. 
 
+### Transparent Assessment Design
+
+Summative assessments can be made more inclusive by clearly communicating the purposes, tasks, and criteria of an assignment [winkelmes2023transparent](@cite). Providing this transparency before students begin their work allows all students, regardless of their background or prior educational experiences, to understand what success looks like and how the assignment supports their learning [winkelmes2023transparent](@cite). This clarity reduces uncertainty but also helps students see the relevance of the assessment beyond the course, supporting student motivation and metacognition [winkelmes2023transparent](@cite).
+
+A transparent assignment design template and other resources are available online from the Transparency in Learning and Teaching project (tilthighered.com).
+
 ### Fairness in Testing
 
 The Standards for Educational and Psychological Testing provide principles to establish fairness in testing [american1985standards](@cite):
@@ -148,7 +154,7 @@ The Standards for Educational and Psychological Testing provide principles to es
 - All test takers receive equitable treatment during tests
 - Biases are removed from the assessment and in evaluation of the student’s work
 
-Additionally, Kibble (2017) recommends instructors practice these elements to produce high-quality and equitable assessments:
+Additionally, instructors can practice these elements to produce high-quality and equitable assessments [kibble2017best](@cite):
 
 - Ask instructional staff and colleagues to review assessments for construct underrepresentation (e.g., too few items on a construct, inclusion of trivial items) and construct irrelevant variance (e.g., items that are too hard/ easy, contain trivial details, are culturally insensitive).
 - Include enough, high-quality items that provide a reliable and accurate picture of students’ knowledge, skills, and abilities.
