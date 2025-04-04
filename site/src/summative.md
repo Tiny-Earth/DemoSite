@@ -160,7 +160,7 @@ The principles and elements outlined above are crucial for ensuring that all stu
 
 ### Transparent Assessment Design
 
-Summative assessments can be made more inclusive by clearly communicating the purposes, tasks, and criteria of an assignment [winkelmes2023transparent](@cite). Providing this transparency before students begin their work allows all students, regardless of their background or prior educational experiences, to understand what success looks like and how the assignment supports their learning [winkelmes2023transparent](@cite). This clarity reduces uncertainty but also helps students see the relevance of the assessment beyond the course, supporting student motivation and metacognition [winkelmes2023transparent](@cite).
+Summative assessments can be made more inclusive by applying the principles of transparent assignment design. Clearly communicating the purposes, tasks, and criteria of an assignment helps all students, regardless of their background or prior educational experiences, understand what success looks like and how an assignment supports their learning [winkelmes2023transparent](@cite). This transparency reduces uncertainty and also helps students see the relevance of the assessment beyond the course, supporting student motivation and metacognition.
 
 A transparent assignment design template and other resources are available online from the [Transparency in Learning and Teaching project](https://tilthighered.com).
 
