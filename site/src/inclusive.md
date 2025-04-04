@@ -53,7 +53,7 @@ Figure adapted from [bell2016design, marchesani1992dynamics](@cite).
 
 ### The Climate Dimension
 
-Course climate encompasses the intellectual, social, emotional, and physical environment in a class (Ambrose et al., 2010). It is shaped by a combination of instructor decisions,  student interactions, and broader influences. As instructors, we play a key role in shaping this climate by designing and sustaining learning experiences to be welcoming and inclusive [dewsbury2019inclusive, bell2016design](@cite). An inclusive course climate ensures that all students, regardless of background or identity, feel valued and supposed in their learning [brame2019science](@cite).
+Course climate encompasses the intellectual, social, emotional, and physical environment in a class [ambrose2010learning](@cite). It is shaped by a combination of instructor decisions,  student interactions, and broader influences. As instructors, we play a key role in shaping this climate by designing and sustaining learning experiences to be welcoming and inclusive [dewsbury2019inclusive, bell2016design](@cite). An inclusive course climate ensures that all students, regardless of background or identity, feel valued and supposed in their learning [brame2019science](@cite).
 
 ### The Instructor Dimension
 
@@ -88,16 +88,16 @@ Interventions can be incorporated as individual or repeated activities, such as:
 - Do regular **formative assessments**, in which students have the opportunity to regularly practice and receive feedback [black1998assessment](@cite). You’ll find more examples in the Learning Experiences module.
 - Encourage **microaffirmations**, which are actions that demonstrate care and can affirm a student's capabilities [estrada2019influence](@cite)
 - Leverage activities that **increase resilience** by reframing social adversity as common and transient [walton_brief_2011](@cite)
-- Highlight **scientists from a variety of identities** and backgrounds (Schinske and Tanner, 2014), and present a range of research questions and discoveries so students can see themselves and things they care about reflected in the course. 
+- Highlight **scientists from a variety of identities** and backgrounds [schinske2014teaching](@cite), and present a range of research questions and discoveries so students can see themselves and things they care about reflected in the course. 
 
 Instructors can also modify overall course structure or infuse practices into an entire course to accomplish an inclusive learning environment. Some examples:
 
 - Use **high-structure course design** to elucidate what is expected of students and create predictable patterns [freeman_increased_2011, theobald_active_2020](@cite). You’ll find more on this in the Course Structure module.
-- Engage students in the **six facets of science** (described in the previous module). Many studies demonstrate that active participation in science leads to an improved sense of belonging and retention in STEM (Estrada et al., 2011; Evans et al., 2021; Hanauer et al., 2017; Jordan et al., 2014; Lopatto et al., 2008; Olson et al., 2019; Shaffer et al., 2014; Waddell et al., 2021). 
+- Engage students in the **six facets of science** (described in the previous module). Many studies demonstrate that active participation in science leads to an improved sense of belonging and retention in STEM [estrada_toward_2011, evans_functional_2021, hanauer_inclusive_2017, jordan_broadly_2014, lopatto_genomics_2008, olson_expression-based_2019, shaffer_course-based_2014, waddell_flying_2021](@cite). 
 - Teach a **course-based undergraduate research experience (CURE)**, in which students engage in research while enrolled in a course [aikens_race_2017, dolan_guide_2021, hurtado_diversifying_2009](@cite). 
 - Leverage **universal design for learning** principles, which incorporate accessibility considerations into course design that provide equal access and opportunities for everyone, regardless of their abilities [burgstahler2013universal](@cite).
-- Design **authentic assessments** that engage students in tasks that reflect how science is done in the workforce and in real-world contexts (Wiggins, 1990; Schultz et al., 2022; Villarroel et al., 2018). 
-- **Decolonize the curriculum**, which involves reimagining content and approaches that have historically prioritized Western, white, male-centric knowledge (Gichuru, 2024).
+- Design **authentic assessments** that engage students in tasks that reflect how science is done in the workforce and in real-world contexts [Wiggins1990-km, schultz2022defining, villarroel2018authentic](@cite). 
+- **Decolonize the curriculum**, which involves reimagining content and approaches that have historically prioritized Western, white, male-centric knowledge [gichuru2024enhancing](@cite).
 
 !!! tip ""
 
@@ -226,12 +226,12 @@ Bias is not inherently bad and is part of human nature. But when bias leads to r
 
 Some examples of strategies that consider the instructor and student dimensions include: 
 
-- **Learn about your students** interests, goals and needs through short surveys and polls throughout the semester (Tanner, 2011; Tanner 2013).   
+- **Learn about your students** interests, goals and needs through short surveys and polls throughout the semester [tanner2011moving, tanner2013structure](@cite).   
 - Create a culture where **failure is a productive and normal part of science**, rather than a judgement on students' identity [petroski2013success,simpson_failure_2017,lopatto2020facilitating,gin2018students,good2012women,koch2008women,cacciotti2015fear](@cite).  
-- Incorporate interventions that make explicit the **utility value** of a course or its parts, such as asking students to reflect on how course topics are relevant to their own goals, values and interests. Research has found that such interventions can increase persistence in STEM, especially for students from marginalized groups (Asher et al., 2023,  Harackiewicz et al.,2016).  
-- Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance [Steele2002-pt](@cite). For instance, communicate that you believe all students can be successful as you share constructive feedback (Killpack and Melon, 2016).
-- Build your **self-awareness** of what you bring to the classroom in terms of your identities, educational experiences, and biases, and consider how this impacts your interactions with students (Dewsbury, 2020).   
-- Use strategies to **mitigate biases** such as grading anonymously, using rubrics, and structuring participation to hear from a range of students rather than those who readily share ideas (Killpack and Melon, 2016; Tanner 2013). 
+- Incorporate interventions that make explicit the **utility value** of a course or its parts, such as asking students to reflect on how course topics are relevant to their own goals, values and interests. Research has found that such interventions can increase persistence in STEM, especially for students from marginalized groups [asher2023utility, harackiewicz_closing_2016](@cite).  
+- Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance [Steele2002-pt](@cite). For instance, communicate that you believe all students can be successful as you share constructive feedback [killpack2016toward](@cite).
+- Build your **self-awareness** of what you bring to the classroom in terms of your identities, educational experiences, and biases, and consider how this impacts your interactions with students [dewsbury2020deep](@cite).   
+- Use strategies to **mitigate biases** such as grading anonymously, using rubrics, and structuring participation to hear from a range of students rather than those who readily share ideas [killpack2016toward, tanner2013structure](@cite). 
 
 ## Summary of Inclusive Learning
 
