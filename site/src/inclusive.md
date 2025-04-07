@@ -190,6 +190,8 @@ Considering students' needs and backgrounds can help instructors to design learn
 
     What is one way that those attributes could affect your teaching or your interactions with students?
 
+!!! tip ""
+
     #### Reflection: Your Students’ Identities 
 
     We considered our own identities, but it is also important to be aware of who is in our classes. 
