@@ -2,7 +2,7 @@
 
 **Estimated time to complete:** 15 minutes
 
-## Module Goals
+## Module Learning Objectives
 
 !!! compat "" 
     By the end of this module, you will be able to...
