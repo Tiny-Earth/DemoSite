@@ -44,4 +44,4 @@ for theme_filename in glob("site/build/assets/themes/*.css")
 end
 
 # Deploy the website
-deploydocs(repo="github.com/Tiny-Earth/DemoSite.git")
+deploydocs(repo="github.com/Tiny-Earth/ScientificTeachingCourse.git")
